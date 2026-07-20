@@ -1,0 +1,9 @@
+[
+  { "symbol": "CL=F", "name": "Crude Oil (WTI)", "unit": "per barrel", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "NG=F", "name": "Natural Gas", "unit": "per MMBtu", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "ZC=F", "name": "Corn", "unit": "per bushel", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "ZS=F", "name": "Soybeans", "unit": "per bushel", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "ZW=F", "name": "Wheat", "unit": "per bushel", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "HG=F", "name": "Copper", "unit": "per pound", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false },
+  { "symbol": "SB=F", "name": "Sugar", "unit": "per pound", "date": "2026-07-17", "price": null, "currency": null, "change_pct": null, "live": false }
+]
