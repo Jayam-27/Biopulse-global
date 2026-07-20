@@ -1,13 +1,57 @@
 [
   {
-    "id": "cce9ee45c9c9",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing\" hreflang=\"en\">Building a workforce engine for biomanufacturing</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing",
+    "id": "7d1c62f0b6d9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer\" hreflang=\"en\">BMS expands AI footprint with Nvidia, aiming for \u2018most powerful AI factory in life sciences\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer",
     "source": "Fierce Biotech",
     "date": "2026-07-20",
     "country": "Global",
     "category": "Company News",
-    "summary": "Ohio\u2019s $30M training initiative aims to scale talent pipelines and power life sciences growth statewide.",
+    "summary": "Bristol Myers Squibb has entered into an expanded collaboration with Nvidia to create the biggest supercomputer for drug R&amp;D, according to the announcement.",
+    "pinned": false
+  },
+  {
+    "id": "55cd91d2984e",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/tempus-buys-out-cancer-genomics-specialist-personalis-15-billion-deal\" hreflang=\"en\">Tempus buys out cancer genomics partner Personalis in $1.5 billion deal</a>",
+    "url": "https://www.fiercebiotech.com/medtech/tempus-buys-out-cancer-genomics-specialist-personalis-15-billion-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Tempus is boosting its cancer offerings with a deal to buy out Personalis three years after the pair first teamed up in oncology.",
+    "pinned": false
+  },
+  {
+    "id": "ae5a091cb995",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/scribe-aims-96m-ipo-fund-clinical-push-lipid-lowering-genetic-meds\" hreflang=\"en\">Scribe aims for $96M IPO to fund clinical push for lipid-lowering genetic meds</a>",
+    "url": "https://www.fiercebiotech.com/biotech/scribe-aims-96m-ipo-fund-clinical-push-lipid-lowering-genetic-meds",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Scribe Therapeutics has put its IPO plans down on paper, showing the genetic medicine company hopes to raise $96 million through its public listing.",
+    "pinned": false
+  },
+  {
+    "id": "246b151a0ec4",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kolons-cell-based-gene-therapy-fails-phase-3-osteoarthritis-trial\" hreflang=\"en\">Kolon\u2019s cell-based gene therapy fails phase 3 osteoarthritis trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/kolons-cell-based-gene-therapy-fails-phase-3-osteoarthritis-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 3 trial of Kolon TissueGene\u2019s cell-based gene therapy has missed its co-primary endpoints. With a second late-stage study scheduled to report data in October, the biotech is holding off on determining the next steps for the osteoarthritis candidate.",
+    "pinned": false
+  },
+  {
+    "id": "1e0ad7e14437",
+    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/de-risking-rare-disease-launch-starts-precision\" hreflang=\"en\">De-Risking a Rare Disease Launch Starts with Precision</a>",
+    "url": "https://www.fiercebiotech.com/sponsored/de-risking-rare-disease-launch-starts-precision",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Why traditional models fall short in rare disease commercialization\u2014and what works instead.",
     "pinned": false
   },
   {
@@ -30,6 +74,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Every year, the BIO International Convention brings together more than 20,000 leaders from across the global life sciences ecosystem.",
+    "pinned": false
+  },
+  {
+    "id": "cce9ee45c9c9",
+    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing\" hreflang=\"en\">Building a workforce engine for biomanufacturing</a>",
+    "url": "https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Ohio\u2019s $30M training initiative aims to scale talent pipelines and power life sciences growth statewide.",
     "pinned": false
   },
   {
@@ -77,6 +132,17 @@
     "pinned": false
   },
   {
+    "id": "9410bf0e0562",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-hit-cyberattack-cancer-diagnostics-labcentral-portal-businesses\" hreflang=\"en\">Abbott hit by cyberattack on cancer diagnostics, LabCentral portal businesses</a>",
+    "url": "https://www.fiercebiotech.com/medtech/abbott-hit-cyberattack-cancer-diagnostics-labcentral-portal-businesses",
+    "source": "Fierce Biotech",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Abbott has been struck by several cyberattacks which targeted the medtech giant\u2019s cancer diagnostics and LabCentral businesses. <br />",
+    "pinned": false
+  },
+  {
     "id": "c415d0a63bda",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/blossomhill-eyes-ipo-fertilizer-grow-taller-crowded-cancer-fields\" hreflang=\"en\">BlossomHill eyes IPO as fertilizer to grow taller in crowded cancer fields</a>",
     "url": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-ipo-fertilizer-grow-taller-crowded-cancer-fields",
@@ -99,80 +165,69 @@
     "pinned": false
   },
   {
-    "id": "a6aa876686b7",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs\" hreflang=\"en\">5 emerging biotech hubs</a>",
-    "url": "https://www.fiercebiotech.com/biotech/5-emerging-biotech-hubs",
-    "source": "Fierce Biotech",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Boston. San Francisco. Beijing? The global biotech industry has long been concentrated in a handful of cities. But which emerging hubs could become dominant forces in biotech in the decades ahead?",
-    "pinned": false
-  },
-  {
-    "id": "711e369846af",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-cue-lines-new-cmo-and-research-head\" hreflang=\"en\">Chutes &amp; Ladders\u2014Cue lines up new CMO and research head</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-cue-lines-new-cmo-and-research-head",
-    "source": "Fierce Biotech",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Cue Biopharma is tapping in a new chief medical officer and head of R&amp;D in Dominic Borie, M.D., Ph.D., a physician-scientist with over two decades of industry experience.",
-    "pinned": false
-  },
-  {
-    "id": "df06f0b309f4",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-2q-led-strong-devicedx-sales-boosts-26-profit-forecast\" hreflang=\"en\">Abbott Q2 led by strong device, diagnostic sales as it boosts profit forecast</a>",
-    "url": "https://www.fiercebiotech.com/medtech/abbott-2q-led-strong-devicedx-sales-boosts-26-profit-forecast",
-    "source": "Fierce Biotech",
+    "id": "4f9fe4cd7f95",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/sanofi-survey-uncovers-type-1-diabetes-misconceptions-and-screening-gaps\" hreflang=\"en\">Sanofi survey uncovers Type 1 diabetes misconceptions and screening gaps</a>",
+    "url": "https://www.fiercepharma.com/marketing/sanofi-survey-uncovers-type-1-diabetes-misconceptions-and-screening-gaps",
+    "source": "Fierce Pharma",
     "date": "2026-07-20",
     "country": "Global",
     "category": "Policy",
-    "summary": "Abbott turned in a stronger-than-expected second quarter, allaying market concerns that subsidy cuts to the Affordable Care Act by the Trump administration would hurt medtech firms.",
+    "summary": "Widespread misconceptions about Type 1 diabetes could be contributing to a reluctance to get screened for the autoimmune disease, according to a survey Sanofi commissioned.",
     "pinned": false
   },
   {
-    "id": "89a0b6bfbb12",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint\" hreflang=\"en\">GSK axes key cough drug candidate after phase 3 data end blockbuster hopes</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gsk-axes-key-cough-drug-candidate-after-phase-3-data-disappoint",
-    "source": "Fierce Biotech",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "GSK has ended development of camlipixant in chronic cough after delivering mixed phase 3 data, dealing a major blow to a potential blockbuster that analysts saw as the key 2026 catalyst for the drugmaker.",
-    "pinned": false
-  },
-  {
-    "id": "3abc05dcad7d",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront\" hreflang=\"en\">Dimerix snaps up Mission\u2019s stalled, phase 2-ready kidney disease candidate in $292M deal</a>",
-    "url": "https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront",
-    "source": "Fierce Biotech",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Dimerix has bought an acute kidney injury drug from Mission Therapeutics, paying $5 million upfront and committing up to $287 million in milestones for the phase 2-ready asset.",
-    "pinned": false
-  },
-  {
-    "id": "141c00fbb80e",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/biotronik-neuro-snaps-spinal-cord-stimulation-portfolio-soin-neuroscience-next-gen-pain\" hreflang=\"en\">Biotronik Neuro snaps up spinal cord stimulation portfolio from Soin Neuroscience for next-gen pain project </a>",
-    "url": "https://www.fiercebiotech.com/medtech/biotronik-neuro-snaps-spinal-cord-stimulation-portfolio-soin-neuroscience-next-gen-pain",
-    "source": "Fierce Biotech",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Biotronik Neuro has acquired a portfolio of spinal cord stimulation patents from the Ohio-based medical device company Soin Neuroscience as the pair look to create \u201ca next-generation spinal cord stimulation program.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "43b169aa998d",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/operating-speed-science-new-medical-affairs-playbook\" hreflang=\"en\">Operating at the speed of science: The new medical affairs playbook</a>",
-    "url": "https://www.fiercepharma.com/sponsored/operating-speed-science-new-medical-affairs-playbook",
+    "id": "e90a8b315eac",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/jj-time-spotlight-healthcare-workers-newly-launched-healthcare-champion-year-award\" hreflang=\"en\">J&amp;J, Time link up to spotlight healthcare leadership with Healthcare Champion of the Year award </a>",
+    "url": "https://www.fiercepharma.com/marketing/jj-time-spotlight-healthcare-workers-newly-launched-healthcare-champion-year-award",
     "source": "Fierce Pharma",
     "date": "2026-07-20",
     "country": "Global",
     "category": "Company News",
-    "summary": "As AI, data and rising HCP expectations redefine medical affairs, leaders need a more connected model for turning insight into action.",
+    "summary": "The Healthcare Champion of the Year, to be selected by J&amp;J and a panel of industry experts, will be recognized at Time\u2019s \u201cA Year in TIME\u201d celebration in December.",
+    "pinned": false
+  },
+  {
+    "id": "8f48e6446901",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/samsung-biologics-spreads-wings-proposed-18b-acquisition-swiss-cdmo-polypeptide\" hreflang=\"en\">Samsung Biologics spreads wings with proposed $1.8B acquisition of Swiss CDMO PolyPeptide</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/samsung-biologics-spreads-wings-proposed-18b-acquisition-swiss-cdmo-polypeptide",
+    "source": "Fierce Pharma",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "South Korean contract manufacturer Samsung Biologics has tapped into the booming peptide production and weight loss market with plans to buy out Switzerland-based CDMO PolyPeptide for 1.46 billion Swiss francs ($1.8 billion).",
+    "pinned": false
+  },
+  {
+    "id": "155e2e8209c8",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/why-legend-biotech-stock-fell-10-despite-record-carvykti-sales\" hreflang=\"en\">Why Legend Biotech stock fell 10% despite record Carvykti sales</a>",
+    "url": "https://www.fiercepharma.com/pharma/why-legend-biotech-stock-fell-10-despite-record-carvykti-sales",
+    "source": "Fierce Pharma",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "On paper, it was another strong quarter for Carvykti. Johnson &amp; Johnson reported record sales for the CAR-T therapy, signaling robust demand in multiple myeloma. Yet record revenue wasn\u2019t enough to spare its partner, Legend Biotech, from a 10% stock drop, thanks in part to co",
+    "pinned": false
+  },
+  {
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Takeda's Qdenga becomes 1st dengue vaccine cleared in India</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "2e9bcbda1dd9",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign\" hreflang=\"en\">Actress Rebel Wilson pairs GLP-1s and healthy habits to lose weight 'for keeps' in new Noom campaign</a>",
+    "url": "https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign",
+    "source": "Fierce Pharma",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The campaign is one of weight loss app Noom's largest brand investments to date and features two TV spots and new in-app features with its chief wellness officer, Rebel Wilson.",
     "pinned": false
   },
   {
@@ -187,14 +242,14 @@
     "pinned": false
   },
   {
-    "id": "2e9bcbda1dd9",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign\" hreflang=\"en\">Actress Rebel Wilson pairs GLP-1s and healthy habits to lose weight 'for keeps' in new Noom campaign</a>",
-    "url": "https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign",
+    "id": "cda07d429eef",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/cdmo-trends-reshaping-biopharma-manufacturing\" hreflang=\"en\">CDMO trends reshaping biopharma manufacturing</a>",
+    "url": "https://www.fiercepharma.com/sponsored/cdmo-trends-reshaping-biopharma-manufacturing",
     "source": "Fierce Pharma",
     "date": "2026-07-20",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The campaign is one of weight loss app Noom's largest brand investment to date and features two TV spots and new in-app features with its chief wellness officer Rebel Wilson.",
+    "category": "Company News",
+    "summary": "From resilient supply chains to evolving modalities and AI-driven manufacturing, Samsung Biologics shares the forces transforming the CDMO landscape.",
     "pinned": false
   },
   {
@@ -209,14 +264,14 @@
     "pinned": false
   },
   {
-    "id": "14f88e0aacf5",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption\" hreflang=\"en\">Access: A key driver of non-opioid pain management adoption</a>",
-    "url": "https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption",
+    "id": "43b169aa998d",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/operating-speed-science-new-medical-affairs-playbook\" hreflang=\"en\">Operating at the speed of science: The new medical affairs playbook</a>",
+    "url": "https://www.fiercepharma.com/sponsored/operating-speed-science-new-medical-affairs-playbook",
     "source": "Fierce Pharma",
     "date": "2026-07-20",
     "country": "Global",
     "category": "Company News",
-    "summary": "In an era of continued addiction risk, non-opioid pain therapies are gaining traction, but access barriers persist. Here\u2019s what\u2019s standing in the way.",
+    "summary": "As AI, data and rising HCP expectations redefine medical affairs, leaders need a more connected model for turning insight into action.",
     "pinned": false
   },
   {
@@ -231,6 +286,17 @@
     "pinned": false
   },
   {
+    "id": "14f88e0aacf5",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption\" hreflang=\"en\">Access: A key driver of non-opioid pain management adoption</a>",
+    "url": "https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption",
+    "source": "Fierce Pharma",
+    "date": "2026-07-20",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "In an era of continued addiction risk, non-opioid pain therapies are gaining traction, but access barriers persist. Here\u2019s what\u2019s standing in the way.",
+    "pinned": false
+  },
+  {
     "id": "1b0fe607e262",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-gains-full-fda-nod-fabhalta-kidney-disorder-igan\" hreflang=\"en\">Novartis gains full FDA nod for Fabhalta in kidney disorder IgAN</a>",
     "url": "https://www.fiercepharma.com/pharma/novartis-gains-full-fda-nod-fabhalta-kidney-disorder-igan",
@@ -239,17 +305,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "The FDA has converted its accelerated approval for Novartis' Fabhalta into a full blessing to treat patients with immunoglobulin A nephropathy (IgAN). The drug is endorsed to slow kidney function decline in adults at risk of disease progression.",
-    "pinned": false
-  },
-  {
-    "id": "31ea1caa5157",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: BI's Jascayd nod in Europe; Novo's India MASH green light</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-    "source": "Fierce Pharma",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
     "pinned": false
   },
   {
@@ -275,58 +330,80 @@
     "pinned": false
   },
   {
-    "id": "10d25f182bb8",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/gsk-merck-adcs-trial-wins-az-15b-egfr-buy-biotechs-new-patent-tricks\" hreflang=\"en\">Fierce Pharma Asia\u2014GSK, Merck ADCs\u2019 trial wins; AZ\u2019s $1.5B EGFR buy; Biotechs\u2019 new patent tricks</a>",
-    "url": "https://www.fiercepharma.com/pharma/gsk-merck-adcs-trial-wins-az-15b-egfr-buy-biotechs-new-patent-tricks",
-    "source": "Fierce Pharma",
+    "id": "cd75f6f4ce83",
+    "title": "Tempus to buy cancer test-maker Personalis for $1.5B",
+    "url": "https://www.biopharmadive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825698/",
+    "source": "BioPharma Dive",
     "date": "2026-07-20",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_RbdDztrnLOoumxY2iZaJMnVrx0w3LSgoNSRO_aqxDg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjE4Nzk4MTY3LmpwZw==.webp\" /></div></figure><p>Tempus AI&rsquo;s planned acquisition follows recent ",
+    "pinned": false
+  },
+  {
+    "id": "b78178773659",
+    "title": "Pain drugmaker Latigo outlines plans to go public",
+    "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-20",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The Westlake-founded company specializes in non-opioi",
+    "pinned": false
+  },
+  {
+    "id": "63b747efca66",
+    "title": "Bristol Myers to build \u2018powerful\u2019 AI factory; Samsung Biologics bids for peptide maker",
+    "url": "https://www.biopharmadive.com/news/bristol-myers-nvidia-samsung-polypeptide-apitegromab-fabhalta-dimerix/825619/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-20",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Bristol Myers is the third pharmaceu",
+    "pinned": false
+  },
+  {
+    "id": "91c870210a0c",
+    "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
+    "url": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-20",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<p>This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time.</p>",
+    "pinned": false
+  },
+  {
+    "id": "aa41ced11a6c",
+    "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
+    "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-20",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "ADCs from Kelun-Biotech and Hansoh Pharma, respectively partnered with Merck and GSK, delivered positive phase 3 readouts. AstraZeneca reached out to its spinout Dizal for an EGFR lung cancer med. Biotechs are growing protective of their intellectual property and business intelli",
+    "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms\u00a0as the source of a multistate outbreak of a\u00a0diarrhea-causing parasite, despite a faulty test result.",
     "pinned": false
   },
   {
-    "id": "3e328926e0db",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/foundation-medicine-launches-quality-first-initiative-stand-out-cancer-testing-market\" hreflang=\"en\">Foundation Medicine launches 'Quality First' initiative to stand out in cancer testing market</a>",
-    "url": "https://www.fiercepharma.com/marketing/foundation-medicine-launches-quality-first-initiative-stand-out-cancer-testing-market",
-    "source": "Fierce Pharma",
+    "id": "5aa358dd825f",
+    "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
+    "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-07-20",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Foundation Medicine has started the \u201cQuality First\u201d initiative to create awareness of how \u201cnot all cancer biomarker tests are created equal.\u201d",
+    "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
     "pinned": false
   },
   {
-    "id": "21a619d5baaf",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/lights-camera-action-cg-life-spotlight-rare-disease-dedicated-film-festival\" hreflang=\"en\">Lights, camera, action: CG Life to spotlight rare disease in dedicated film festival </a>",
-    "url": "https://www.fiercepharma.com/marketing/lights-camera-action-cg-life-spotlight-rare-disease-dedicated-film-festival",
-    "source": "Fierce Pharma",
+    "id": "5d5c73361027",
+    "title": "STAT+: A most-wanted fugitive appears to have been secretly working as a biotech executive",
+    "url": "https://www.statnews.com/2026/07/20/ronald-fischer-rhode-island-fugitive-richard-graydon-biotech/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-07-20",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "CG Life and its rare disease awareness platform 24/364 will host a first-of-its-kind rare disease film festival in San Diego next March featuring documentaries exploring the lived experience of patients with rare diseases.",
-    "pinned": false
-  },
-  {
-    "id": "e2271b4cb081",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/huahai-poaches-quality-chief-hengrui-amid-fda-manufacturing-citations\" hreflang=\"en\">Huahai poaches quality chief from Hengrui amid FDA manufacturing citations</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/huahai-poaches-quality-chief-hengrui-amid-fda-manufacturing-citations",
-    "source": "Fierce Pharma",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Zhejiang Huahai Pharmaceutical has hired a former FDA staffer as its new chief quality officer, as the company struggles to resolve compliance issues with the FDA at a key manufacturing facility.",
-    "pinned": false
-  },
-  {
-    "id": "45a2b89f705c",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/vanda-shifts-nereus-marketing-high-gear-schumacher-indycar-sponsorship\" hreflang=\"en\">Vanda shifts Nereus marketing into high gear with Schumacher IndyCar sponsorship</a>",
-    "url": "https://www.fiercepharma.com/marketing/vanda-shifts-nereus-marketing-high-gear-schumacher-indycar-sponsorship",
-    "source": "Fierce Pharma",
-    "date": "2026-07-20",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Vanda Pharmaceuticals is sponsoring an IndyCar to fuel awareness of its motion sickness pill, Nereus. The biotech backed the No. 47 car to represent its end of the multi-decade wait for a prescription therapy.",
+    "summary": "A former doctor accused of sexual assault but on the run for 20 years appears to have been living a secret life as a biotech executive.",
     "pinned": false
   },
   {
@@ -462,6 +539,17 @@
     "pinned": false
   },
   {
+    "id": "8646adc9727c",
+    "title": "Compounders maintain a firm grip on the GLP-1 market",
+    "url": "https://www.biopharmadive.com/news/compounders-glp1-issues-for-big-pharma-gallup/825627/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-17",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lCVH-hvKf5LWLXT4PQ6NchaxlwaNHmtv86eTe3TlyQU/g:nowe:0:107/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2OTEzNjU5LmpwZw==.webp\" /></div></figure><p>Despite an FDA crackdown, numerou",
+    "pinned": false
+  },
+  {
     "id": "9794edc06aee",
     "title": "GSK shelves cough drug acquired in $2B deal",
     "url": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
@@ -517,39 +605,6 @@
     "pinned": false
   },
   {
-    "id": "93eba92d7f7a",
-    "title": "STAT+: The end for\u00a0GSK\u2019s chronic cough treatment",
-    "url": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Sonothera's ultrasound gene therapy delivery, a new Alzheimer's drug controversy, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
-    "id": "7d54eeaa79fb",
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "8e1210f961af",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about rising drug shortages, GSK coughing up a trial loss, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/07/17/rising-drug-shortages-gsk-abandons-chronic-cough-medication/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The number of active medication shortages in the U.S. rose to 227 in the second quarter of 2026",
-    "pinned": false
-  },
-  {
     "id": "a848a25a41b2",
     "title": "Seven companies leading the mRNA revolution in biotechnology",
     "url": "https://www.labiotech.eu/best-biotech/mrna-companies/",
@@ -580,61 +635,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/tzaRDX3CbhReY4UgPVj2iCgN5MzQ9V_AQf0Jo1lvCvY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05OTEzMjk1ODQuanBn.webp\" /></div></figure><p>The latest in a prolific streak of buyouts by Lilly is th",
-    "pinned": false
-  },
-  {
-    "id": "61f858e212fe",
-    "title": "Veradermics keeps \u2018momentum going\u2019 as baldness drug helps women with hair loss",
-    "url": "https://www.biopharmadive.com/news/veradermics-oral-minoxidil-female-pattern-hair-loss-results/825389/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-16",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1t2735bLf2pFiAc5XoslOwKIkl5O8g-p7viDbIw1C94/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA2NDE3NzE0LmpwZw==.webp\" /></div></figure><p>The Phase 2 data exceeded expectations, lifting compa",
-    "pinned": false
-  },
-  {
-    "id": "5457ac296e6c",
-    "title": "Merck wins first approval of a PCSK9 cholesterol pill",
-    "url": "https://www.biopharmadive.com/news/merck-lipfrendra-enlicitide-fda-approve-voucher-pcsk9/825377/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-16",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fBH5yVoS6G-IUV5sTGP2zy7wuLAX60VYZCXs0QOEVRo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjItMDctMjRfMS40Mi4zN19QTS5wbmc=.webp\" /></div></figure><p>The speedy clearance of Lipfendra is an i",
-    "pinned": false
-  },
-  {
-    "id": "57fe92dfe7a4",
-    "title": "Celcuity gains FDA approval for closely watched breast cancer drug",
-    "url": "https://www.biopharmadive.com/news/celcuity-fda-approve-revtorpyk-breast-cancer/825280/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-15",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp\" /></div></figure><p>Still, shares fell by nearly 20% after the co",
-    "pinned": false
-  },
-  {
-    "id": "b7b313f5330d",
-    "title": "Merck ADC, in China study, shows potential to replace chemo in lung cancer",
-    "url": "https://www.biopharmadive.com/news/merck-sac-tmt-lung-cancer-optitrop-lung06-results/825277/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lM3CYabLlmazQYt-COfrxYzxdsO20VnU3PS1vfCq2lE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjEwOTMxMjkxXzEuanBn.webp\" /></div></figure><p>The results were seen by Wall Street analysts as &ldq",
-    "pinned": false
-  },
-  {
-    "id": "17fbb26c9832",
-    "title": "Braveheart, Attovia join next wave of biotech IPOs",
-    "url": "https://www.biopharmadive.com/news/attovia-braveheart-biotech-ipo-filings-2026/825293/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-15",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Z8dYUynyAGfRpaERds4uqJPo8FGtQPXgqxIr2sImOmo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDUxMTE2NzE0LmpwZw==.webp\" /></div></figure><p>The two startups are the third and fourth, respective",
     "pinned": false
   },
   {
