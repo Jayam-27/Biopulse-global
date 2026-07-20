@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sources — BioPulse Global</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">◆</span>
+    <span class="brand-name">BIOPULSE<span class="brand-accent">GLOBAL</span></span>
+  </div>
+  <div class="topbar-actions">
+    <a class="icon-btn" href="index.html" style="text-decoration:none;">← Back to feed</a>
+  </div>
+</header>
+<main class="layout" style="grid-template-columns: 1fr;">
+  <section class="feed-section">
+    <div class="feed-header"><h1>Curated Sources</h1></div>
+    <div class="feed-list" id="sourceList"><div class="loading">Loading…</div></div>
+  </section>
+</main>
+<script>
+fetch("sources.json").then(r => r.json()).then(sources => {
+  document.getElementById("sourceList").innerHTML = sources.map(s => `
+    <article class="news-card">
+      <div class="card-tags"><span class="tag country">${s.region}</span></div>
+      <h3 class="card-title">${s.name}</h3>
+      <p class="card-summary">${s.notes}</p>
+      <div class="card-bottom"><a href="${s.rss}" target="_blank" style="color:var(--accent);">${s.rss}</a></div>
+    </article>
+  `).join("");
+});
+</script>
+</body>
+</html>

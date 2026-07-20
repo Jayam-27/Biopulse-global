@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BioPulse Global — Biotech Sector Tracker</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">◆</span>
+    <span class="brand-name">BIOPULSE<span class="brand-accent">GLOBAL</span></span>
+  </div>
+
+  <nav class="country-tabs" id="countryTabs">
+    <button class="tab active" data-country="Global">🌐 Global</button>
+    <button class="tab" data-country="US">🇺🇸 US</button>
+    <button class="tab" data-country="Europe">🇪🇺 Europe</button>
+    <button class="tab" data-country="China">🇨🇳 China</button>
+    <button class="tab" data-country="India">🇮🇳 India</button>
+    <button class="tab" data-country="Japan">🇯🇵 Japan</button>
+  </nav>
+
+  <div class="topbar-actions">
+    <button id="pinnedToggle" class="icon-btn" title="My Picks">★ My Picks</button>
+    <button id="refreshBtn" class="icon-btn" title="Refresh data">↻ Refresh</button>
+    <button id="themeToggle" class="icon-btn" title="Toggle theme">🌙</button>
+  </div>
+</header>
+
+<nav class="view-tabs" id="viewTabs">
+  <button class="view-tab active" data-view="news">📰 News</button>
+  <button class="view-tab" data-view="markets">📈 Markets</button>
+</nav>
+
+<main class="layout">
+  <aside class="sidebar">
+    <div id="newsSidebar">
+      <div class="sidebar-title">Categories</div>
+      <div class="category-list" id="categoryList">
+        <button class="chip active" data-category="All">All</button>
+        <button class="chip" data-category="Funding & M&A">Funding & M&A</button>
+        <button class="chip" data-category="Clinical Trials & Regulatory">Clinical Trials & Regulatory</button>
+        <button class="chip" data-category="Company News">Company News</button>
+        <button class="chip" data-category="Policy">Policy</button>
+      </div>
+
+      <div class="sidebar-title" style="margin-top:28px;">Sources</div>
+      <div class="source-note">Curated from Endpoints News, Fierce Biotech/Pharma, BioPharma Dive, STAT News, Labiotech.eu, BioSpectrum Asia, Nikkei Asia and more. <a href="sources.html">See full list →</a></div>
+    </div>
+
+    <div id="marketsSidebar" style="display:none;">
+      <div class="sidebar-title">View</div>
+      <div class="category-list" id="marketTypeList">
+        <button class="chip active" data-markettype="stocks">Stocks & ETFs</button>
+        <button class="chip" data-markettype="commodities">Raw Materials</button>
+      </div>
+
+      <div class="sidebar-title" style="margin-top:28px;">Add a ticker</div>
+      <form id="addTickerForm" class="add-ticker-form">
+        <input type="text" id="tickerInput" placeholder="e.g. AAPL, ROG.SW, 4502.T" autocomplete="off">
+        <button type="submit" class="icon-btn">Track</button>
+      </form>
+      <div class="source-note" id="addTickerNote">Tickers use Yahoo Finance symbol format. New tickers get added to <code>watchlist.json</code> for the next data refresh — send me the symbol in chat and I'll add it right away.</div>
+    </div>
+  </aside>
+
+  <section class="feed-section">
+    <div class="feed-header">
+      <h1 id="feedTitle">Global Biotech Feed</h1>
+      <span class="feed-meta" id="feedMeta">Loading…</span>
+    </div>
+    <div class="market-banner" id="marketBanner" style="display:none;">
+      ⚠ Sample layout — prices are not live yet. Run <code>scripts/fetch_markets.py</code> from a machine with normal internet access to pull real quotes.
+    </div>
+    <div class="feed-list" id="feedList">
+      <div class="loading">Loading news…</div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <span>BioPulse Global — tracking biotech happenings worldwide. Data refreshed periodically from curated sources; ★ items are hand-picked.</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

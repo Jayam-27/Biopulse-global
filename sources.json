@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Endpoints News",
+    "region": "Global",
+    "rss": "https://endpts.com/feed",
+    "notes": "Biotech/pharma R&D, deals, and business exclusives. Has a dedicated China channel."
+  },
+  {
+    "name": "Endpoints News — China",
+    "region": "China",
+    "rss": "https://endpoints.news/channel/china/feed",
+    "notes": "China-focused biotech/pharma coverage from Endpoints."
+  },
+  {
+    "name": "Fierce Biotech",
+    "region": "Global",
+    "rss": "https://www.fiercebiotech.com/rss/xml",
+    "notes": "Biotech R&D, VC, deals, medtech."
+  },
+  {
+    "name": "Fierce Pharma",
+    "region": "Global",
+    "rss": "https://www.fiercepharma.com/rss/xml",
+    "notes": "Pharma industry news, manufacturing, marketing, FDA."
+  },
+  {
+    "name": "Fierce Pharma — Asia",
+    "region": "China/Japan/India",
+    "rss": "https://www.fiercepharma.com/rss/pharma-asia/xml",
+    "notes": "Asia-focused pharma coverage."
+  },
+  {
+    "name": "BioPharma Dive",
+    "region": "US",
+    "rss": "https://www.biopharmadive.com/feeds/news",
+    "notes": "Clinical trials, drug development, FDA approvals, biopharma business."
+  },
+  {
+    "name": "STAT News",
+    "region": "US",
+    "rss": "https://www.statnews.com/feed",
+    "notes": "Investigative and market-moving biotech/pharma coverage; filter for biotech category."
+  },
+  {
+    "name": "BioSpace",
+    "region": "US",
+    "rss": "https://www.biospace.com/rss",
+    "notes": "Biotech, pharma, clinical research news and industry trends."
+  },
+  {
+    "name": "Labiotech.eu",
+    "region": "Europe",
+    "rss": "https://www.labiotech.eu/feed",
+    "notes": "Europe's leading biotech news site — funding rounds, R&D, policy."
+  },
+  {
+    "name": "BioSpectrum Asia",
+    "region": "China/India/Japan",
+    "rss": "https://www.biospectrumasia.com/rss",
+    "notes": "Pan-Asia biopharma, medtech, diagnostics coverage with country category pages."
+  },
+  {
+    "name": "BioSpectrum India",
+    "region": "India",
+    "rss": "https://www.biospectrumindia.com/rss",
+    "notes": "India-specific biopharma, biotech and healthcare news."
+  },
+  {
+    "name": "Nikkei Asia — Biotechnology",
+    "region": "Japan",
+    "rss": "https://asia.nikkei.com/rss/feed/biotechnology",
+    "notes": "Japan/Asia biotech business and policy coverage (verify feed availability, may require scraping)."
+  },
+  {
+    "name": "Nature Biotechnology — News",
+    "region": "Global",
+    "rss": "https://www.nature.com/nbt/news-and-comment/rss",
+    "notes": "Research-adjacent news and comment, high credibility scientific source."
+  },
+  {
+    "name": "BioWorld",
+    "region": "Global",
+    "rss": "https://www.bioworld.com/rss",
+    "notes": "Biopharma news, deals, regulatory."
+  }
+]

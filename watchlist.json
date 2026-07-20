@@ -1,0 +1,38 @@
+{
+  "stocks": [
+    { "symbol": "MRNA", "name": "Moderna, Inc.", "country": "US", "type": "stock" },
+    { "symbol": "REGN", "name": "Regeneron Pharmaceuticals", "country": "US", "type": "stock" },
+    { "symbol": "VRTX", "name": "Vertex Pharmaceuticals", "country": "US", "type": "stock" },
+    { "symbol": "GILD", "name": "Gilead Sciences", "country": "US", "type": "stock" },
+    { "symbol": "LLY", "name": "Eli Lilly and Company", "country": "US", "type": "stock" },
+    { "symbol": "PFE", "name": "Pfizer Inc.", "country": "US", "type": "stock" },
+    { "symbol": "JNJ", "name": "Johnson & Johnson", "country": "US", "type": "stock" },
+    { "symbol": "BIIB", "name": "Biogen Inc.", "country": "US", "type": "stock" },
+    { "symbol": "NVS", "name": "Novartis AG", "country": "Europe", "type": "stock" },
+    { "symbol": "AZN", "name": "AstraZeneca plc", "country": "Europe", "type": "stock" },
+    { "symbol": "ROG.SW", "name": "Roche Holding AG", "country": "Europe", "type": "stock" },
+    { "symbol": "GSK", "name": "GSK plc", "country": "Europe", "type": "stock" },
+    { "symbol": "SNY", "name": "Sanofi", "country": "Europe", "type": "stock" },
+    { "symbol": "SUNPHARMA.NS", "name": "Sun Pharmaceutical Industries", "country": "India", "type": "stock" },
+    { "symbol": "DRREDDY.NS", "name": "Dr. Reddy's Laboratories", "country": "India", "type": "stock" },
+    { "symbol": "CIPLA.NS", "name": "Cipla Ltd.", "country": "India", "type": "stock" },
+    { "symbol": "4523.T", "name": "Eisai Co., Ltd.", "country": "Japan", "type": "stock" },
+    { "symbol": "4502.T", "name": "Takeda Pharmaceutical Co.", "country": "Japan", "type": "stock" },
+    { "symbol": "4519.T", "name": "Chugai Pharmaceutical Co.", "country": "Japan", "type": "stock" },
+    { "symbol": "1093.HK", "name": "CSPC Pharmaceutical Group", "country": "China", "type": "stock" },
+    { "symbol": "1177.HK", "name": "Sino Biopharmaceutical Ltd.", "country": "China", "type": "stock" },
+    { "symbol": "2196.HK", "name": "Fosun Pharma", "country": "China", "type": "stock" },
+    { "symbol": "XBI", "name": "SPDR S&P Biotech ETF", "country": "Global", "type": "etf" },
+    { "symbol": "IBB", "name": "iShares Biotechnology ETF", "country": "Global", "type": "etf" },
+    { "symbol": "ARKG", "name": "ARK Genomic Revolution ETF", "country": "Global", "type": "etf" }
+  ],
+  "commodities": [
+    { "symbol": "CL=F", "name": "Crude Oil (WTI)", "unit": "per barrel" },
+    { "symbol": "NG=F", "name": "Natural Gas", "unit": "per MMBtu" },
+    { "symbol": "ZC=F", "name": "Corn", "unit": "per bushel" },
+    { "symbol": "ZS=F", "name": "Soybeans", "unit": "per bushel" },
+    { "symbol": "ZW=F", "name": "Wheat", "unit": "per bushel" },
+    { "symbol": "HG=F", "name": "Copper", "unit": "per pound" },
+    { "symbol": "SB=F", "name": "Sugar", "unit": "per pound" }
+  ]
+}
