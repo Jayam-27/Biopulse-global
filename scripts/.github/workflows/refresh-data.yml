@@ -1,0 +1,35 @@
+name: Refresh biotech news and market data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run refresh (news + markets)
+        run: python3 scripts/refresh_all.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "biopulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json data/stocks.json data/commodities.json
+          git diff --cached --quiet || git commit -m "Auto-refresh news and market data"
+          git push
