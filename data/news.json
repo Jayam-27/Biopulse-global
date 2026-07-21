@@ -1,5 +1,16 @@
 [
   {
+    "id": "3c84115e56e2",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal\" hreflang=\"en\">Why Novartis CEO ended his ADC holdout for $1.5B Myricx deal</a>",
+    "url": "https://www.fiercebiotech.com/biotech/why-novartis-ceo-ended-his-adc-holdout-15b-myricx-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-07-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "For years, as Big Pharma poured billions into ADCs, Novartis CEO Vas Narasimhan notably stayed on the sidelines. Asked by Fierce during Novartis\u2019 Q2 earnings call, Narasimhan explained why he is ending that holdout with the proposed $1.5 billion deal for Myricx.",
+    "pinned": false
+  },
+  {
     "id": "7d369043a55b",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/jupiter-neurosciences-enter-psychedelic-space-100-million-mdma-deal\" hreflang=\"en\">Jupiter enters psychedelics space with $100M deal for PharmAla's MDMA drug</a>",
     "url": "https://www.fiercebiotech.com/biotech/jupiter-neurosciences-enter-psychedelic-space-100-million-mdma-deal",
@@ -143,17 +154,6 @@
     "pinned": false
   },
   {
-    "id": "cce9ee45c9c9",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing\" hreflang=\"en\">Building a workforce engine for biomanufacturing</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/building-workforce-engine-biomanufacturing",
-    "source": "Fierce Biotech",
-    "date": "2026-07-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Ohio\u2019s $30M training initiative aims to scale talent pipelines and power life sciences growth statewide.",
-    "pinned": false
-  },
-  {
     "id": "1d584da44723",
     "title": "<a href=\"https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development\" hreflang=\"en\">Understanding Agentic AI in Clinical Development</a>",
     "url": "https://www.fiercebiotech.com/sponsored/understanding-agentic-ai-clinical-development",
@@ -162,6 +162,28 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Earlier this year, my colleague Matt Harrington suggested that clinical leaders should stop asking whether their organizations have an \u201cAI strategy\u201d, not because strategy doesn\u2019t matter, but because the question often produces the wrong conversation.",
+    "pinned": false
+  },
+  {
+    "id": "9784805914a4",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/amgen-agrees-74m-settlement-resolve-investor-lawsuit-over-107b-tax-bill\" hreflang=\"en\">Amgen agrees to $74M settlement to resolve investor lawsuit over potential $10.7B tax bill</a>",
+    "url": "https://www.fiercepharma.com/pharma/amgen-agrees-74m-settlement-resolve-investor-lawsuit-over-107b-tax-bill",
+    "source": "Fierce Pharma",
+    "date": "2026-07-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Amgen has agreed to a $74 million settlement with investors to resolve a lawsuit that alleged the company hid a $10.7 billion tax bill from the public and kept the company's share price artificially high from July of 2020 to April of 2022.",
+    "pinned": false
+  },
+  {
+    "id": "0b948347a484",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/sanofi-continues-tweaks-executive-roster-new-ceo-garijo-settles\" hreflang=\"en\">Sanofi continues tweaks to executive roster as new CEO Garijo settles in</a>",
+    "url": "https://www.fiercepharma.com/pharma/sanofi-continues-tweaks-executive-roster-new-ceo-garijo-settles",
+    "source": "Fierce Pharma",
+    "date": "2026-07-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "With former Merck KGaA CEO Bel\u00e9n Garijo, M.D., Ph.D., now calling the shots at Sanofi, the French drugmaker continues to refine its executive roster, albeit with fewer high-profile C-suite departures now than earlier in the year.",
     "pinned": false
   },
   {
@@ -286,6 +308,17 @@
     "pinned": false
   },
   {
+    "id": "bb98de48628c",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-modern-clinical-trials-need-finance-first-strategy\" hreflang=\"en\">Why modern clinical trials need a finance-first strategy</a>",
+    "url": "https://www.fiercepharma.com/sponsored/why-modern-clinical-trials-need-finance-first-strategy",
+    "source": "Fierce Pharma",
+    "date": "2026-07-21",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As trial complexity rises, finance modernization is becoming a strategic imperative for speed, site trust and operational resilience.",
+    "pinned": false
+  },
+  {
     "id": "1ed0e2522208",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-commercial-evidence-next-breakthrough-pharma-intelligence\" hreflang=\"en\">Why Commercial Evidence Is the Next Breakthrough in Pharma Intelligence</a>",
     "url": "https://www.fiercepharma.com/sponsored/why-commercial-evidence-next-breakthrough-pharma-intelligence",
@@ -294,39 +327,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Clinical teams have long used real world evidence to understand how a drug works. Now commercial teams can mine evidence from unstructured data to drive action.",
-    "pinned": false
-  },
-  {
-    "id": "2e9bcbda1dd9",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign\" hreflang=\"en\">Actress Rebel Wilson pairs GLP-1s and healthy habits to lose weight 'for keeps' in new Noom campaign</a>",
-    "url": "https://www.fiercepharma.com/marketing/actress-rebel-wilson-pairs-glp-1s-and-healthy-habits-lose-weight-keeps-new-noom-campaign",
-    "source": "Fierce Pharma",
-    "date": "2026-07-21",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The campaign is one of weight loss app Noom's largest brand investments to date and features two TV spots and new in-app features with its chief wellness officer, Rebel Wilson.",
-    "pinned": false
-  },
-  {
-    "id": "1e996cccff6d",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/big-pharmas-big-brand-novartis-reconnects-its-past-it-moves-forward\" hreflang=\"en\">Big Pharma\u2019s Big Brand: Novartis reconnects to its past as it moves forward </a>",
-    "url": "https://www.fiercepharma.com/marketing/big-pharmas-big-brand-novartis-reconnects-its-past-it-moves-forward",
-    "source": "Fierce Pharma",
-    "date": "2026-07-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "In the past six years, the pharmaceutical industry has sought to show itself to the world more than ever before. The COVID-19 pandemic brought these companies into the spotlight and, rather than shy away, many Big Pharmas decided to grab the mic and talk up their companies.",
-    "pinned": false
-  },
-  {
-    "id": "14f88e0aacf5",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption\" hreflang=\"en\">Access: A key driver of non-opioid pain management adoption</a>",
-    "url": "https://www.fiercepharma.com/sponsored/access-key-driver-non-opioid-pain-management-adoption",
-    "source": "Fierce Pharma",
-    "date": "2026-07-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "In an era of continued addiction risk, non-opioid pain therapies are gaining traction, but access barriers persist. Here\u2019s what\u2019s standing in the way.",
     "pinned": false
   },
   {
@@ -360,6 +360,28 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\" /></div></figure><p>A return to quarterly sales growth boosted shares hig",
+    "pinned": false
+  },
+  {
+    "id": "8b08ddb56966",
+    "title": "Trump administration says it\u2019s deferring $1B in Medicaid payments to California and Minnesota",
+    "url": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of \u201csuspected fraud and noncompliance.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "b26a045aa90b",
+    "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
+    "url": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-21",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws.",
     "pinned": false
   },
   {
@@ -569,28 +591,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time.</p>",
-    "pinned": false
-  },
-  {
-    "id": "aa41ced11a6c",
-    "title": "FDA still focused on lettuce supplier as source of parasite, despite faulty test result",
-    "url": "https://www.statnews.com/2026/07/20/cyclospora-lettuce-tests-continue-restaurant-visits-decline/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-20",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms\u00a0as the source of a multistate outbreak of a\u00a0diarrhea-causing parasite, despite a faulty test result.",
-    "pinned": false
-  },
-  {
-    "id": "5aa358dd825f",
-    "title": "STAT+: The next step of site-neutral, and a fiery PBM hearing",
-    "url": "https://www.statnews.com/2026/07/20/site-neutral-payments-hospitals-health-insurance-earnings-season/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Medicare proposes to reduce payments to hospitals for certain drugs and imaging services.",
     "pinned": false
   },
   {
