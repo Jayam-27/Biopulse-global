@@ -154,7 +154,7 @@ function renderMarkets() {
       ? `${m.change_pct >= 0 ? "▲" : "▼"} ${Math.abs(m.change_pct)}%`
       : "—";
     return `
-      <div class="market-card">
+      <button class="market-card" data-symbol="${m.symbol}">
         <div class="market-card-top">
           <span class="market-symbol">${m.symbol}</span>
           ${m.country ? `<span class="tag country">${m.country}</span>` : ""}
@@ -168,9 +168,24 @@ function renderMarkets() {
           <span>${m.live ? "live" : "sample layout"}</span>
           <span>${m.date}</span>
         </div>
-      </div>
+      </button>
     `;
   }).join("")}</div>`;
+
+  feedList.querySelectorAll(".market-card").forEach(card => {
+    card.addEventListener("click", () => {
+      window.location.href = `stock.html?symbol=${encodeURIComponent(card.dataset.symbol)}`;
+    });
+  });
+
+  const banner = document.getElementById("marketBanner");
+  if (list.length) {
+    const latestDate = list.reduce((max, m) => (m.date > max ? m.date : max), list[0].date);
+    const anyLive = list.some(m => m.live);
+    banner.textContent = anyLive
+      ? `Live prices via Yahoo Finance, auto-refreshed every 6 hours. Last updated: ${latestDate}.`
+      : `Sample layout — prices haven't been fetched yet.`;
+  }
 }
 
 function render() {
@@ -248,22 +263,28 @@ function setupNav() {
     loadData();
   });
 
+  setupThemeToggle();
+}
+
+function setupThemeToggle() {
   const themeToggle = document.getElementById("themeToggle");
-  const savedTheme = localStorage.getItem("biopulse_theme") || "dark";
-  if (savedTheme === "light") {
-    document.documentElement.setAttribute("data-theme", "light");
+  const savedTheme = localStorage.getItem("biopulse_theme") || "light";
+  if (savedTheme === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+    themeToggle.textContent = "🌙";
+  } else {
     themeToggle.textContent = "☀️";
   }
   themeToggle.addEventListener("click", () => {
-    const isLight = document.documentElement.getAttribute("data-theme") === "light";
-    if (isLight) {
+    const isDark = document.documentElement.getAttribute("data-theme") === "dark";
+    if (isDark) {
       document.documentElement.removeAttribute("data-theme");
-      localStorage.setItem("biopulse_theme", "dark");
-      themeToggle.textContent = "🌙";
-    } else {
-      document.documentElement.setAttribute("data-theme", "light");
       localStorage.setItem("biopulse_theme", "light");
       themeToggle.textContent = "☀️";
+    } else {
+      document.documentElement.setAttribute("data-theme", "dark");
+      localStorage.setItem("biopulse_theme", "dark");
+      themeToggle.textContent = "🌙";
     }
   });
 }

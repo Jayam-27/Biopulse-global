@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stock detail — BioPulse Global</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <a href="index.html" style="display:flex;align-items:center;gap:8px;text-decoration:none;color:inherit;">
+      <span class="brand-mark">◆</span>
+      <span class="brand-name">BIOPULSE<span class="brand-accent">GLOBAL</span></span>
+    </a>
+  </div>
+  <div class="topbar-actions" style="margin-left:auto;">
+    <a href="index.html" class="icon-btn back-link">← Back to feed</a>
+    <button id="themeToggle" class="icon-btn" title="Toggle theme">☀️</button>
+  </div>
+</header>
+
+<main class="stock-detail-layout">
+  <div class="stock-header" id="stockHeader">Loading…</div>
+
+  <div class="tradingview-widget-container" id="tvWidgetContainer">
+    <div id="tvChart"></div>
+  </div>
+
+  <div class="stock-meta-grid" id="stockMeta"></div>
+
+  <div class="external-links" id="externalLinks"></div>
+</main>
+
+<footer class="footer">
+  <span>BioPulse Global — price data via Yahoo Finance, chart via TradingView.</span>
+</footer>
+
+<script src="stock.js"></script>
+</body>
+</html>
