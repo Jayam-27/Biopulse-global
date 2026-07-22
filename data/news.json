@@ -1,5 +1,16 @@
 [
   {
+    "id": "c380cc934bf6",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission\" hreflang=\"en\">NIH joins Trump\u2019s $5B AI mission with biomedical research push</a>",
+    "url": "https://www.fiercebiotech.com/research/hhs-joins-trumps-artificial-intelligence-genesis-mission",
+    "source": "Fierce Biotech",
+    "date": "2026-07-22",
+    "country": "Global",
+    "category": "Policy",
+    "summary": "The U.S. Department of Health and Human Services announced new efforts Wednesday aligned with President Donald Trump\u2019s artificial intelligence-driven Genesis Mission. The centerpiece of HHS\u2019 participation is the NIH-led Bio Genesis Mission",
+    "pinned": false
+  },
+  {
     "id": "1cb8496ef889",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing\" hreflang=\"en\">House passes bill directing FDA to update animal testing rules</a>",
     "url": "https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "7d1c62f0b6d9",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer\" hreflang=\"en\">BMS expands AI footprint with Nvidia, aiming for \u2018most powerful AI factory in life sciences\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/bms-expands-ai-footprint-nvidia-create-largest-drug-rd-supercomputer",
-    "source": "Fierce Biotech",
+    "id": "223b64ad53e1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/gsk-secures-first-ever-lung-cancer-fda-approval-jideytro-nuvalent-deal\" hreflang=\"en\">GSK secures first lung cancer approval as FDA clears Jideytro in quick payoff from Nuvalent deal</a>",
+    "url": "https://www.fiercepharma.com/pharma/gsk-secures-first-ever-lung-cancer-fda-approval-jideytro-nuvalent-deal",
+    "source": "Fierce Pharma",
+    "date": "2026-07-22",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "In a landmark moment for its oncology ambitions, GSK has secured FDA approval for Jideytro as the first commercial lung cancer drug in the company\u2019s history. The milestone was made possible by GSK\u2019s recent acquisition of Nuvalent for $10.6 billion.",
+    "pinned": false
+  },
+  {
+    "id": "218fa2047e7f",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/fda-untitled-letter-calls-out-sanofi-emails-misleading-impression-beyfortus-indication\" hreflang=\"en\">FDA calls out Sanofi emails for giving 'misleading impression' of Beyfortus use in RSV</a>",
+    "url": "https://www.fiercepharma.com/marketing/fda-untitled-letter-calls-out-sanofi-emails-misleading-impression-beyfortus-indication",
+    "source": "Fierce Pharma",
+    "date": "2026-07-22",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA's Office of Prescription Drug Promotion took issue with Sanofi's characterization of antibody Beyfortus as an RSV preventative, as the med is specifically indicated for RSV lower respiratory tract disease.",
+    "pinned": false
+  },
+  {
+    "id": "d5078353ddb8",
+    "title": "<a href=\"https://www.fiercepharma.com/partner-content/what-expect-podd-2026-1\" hreflang=\"en\">What to Expect at PODD 2026</a>",
+    "url": "https://www.fiercepharma.com/partner-content/what-expect-podd-2026-1",
+    "source": "Fierce Pharma",
     "date": "2026-07-22",
     "country": "Global",
     "category": "Company News",
-    "summary": "Bristol Myers Squibb has entered into an expanded collaboration with Nvidia to create the biggest supercomputer for drug R&amp;D, according to the announcement.",
+    "summary": "Directors Andrew Goldstein and Valerie Bowling discuss what to expect at the 2026 PODD: Partnership Opportunities in Drug Delivery conference.",
     "pinned": false
   },
   {
@@ -297,36 +330,25 @@
     "pinned": false
   },
   {
-    "id": "730cff640dae",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/jjs-tremfya-remains-top-q2-pharma-ad-spending-league-overall-spend-drops\" hreflang=\"en\">J&amp;J\u2019s Tremfya remains on top in Q2 pharma ad spending league as overall outlay drops </a>",
-    "url": "https://www.fiercepharma.com/marketing/jjs-tremfya-remains-top-q2-pharma-ad-spending-league-overall-spend-drops",
-    "source": "Fierce Pharma",
+    "id": "f3cdfea8da07",
+    "title": "Vertex was sole bidder in high-premium Crinetics acquisition",
+    "url": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
+    "source": "BioPharma Dive",
     "date": "2026-07-22",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<p>Analysts expect new details on the lead-up to the deal &ldquo;are likely to reignite&rdquo; investor scrutiny that Vertex overpaid in what&rsquo;s poised to be its largest-ever transaction.</p>",
+    "pinned": false
+  },
+  {
+    "id": "d7e6874face3",
+    "title": "GSK lung cancer drug gets speedy approval following $10.6B deal",
+    "url": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-22",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Johnson &amp; Johnson and AbbVie look set for a continued pharma ad spending battle for the second half of 2026 as the U.S. Big Pharma\u2019s immunology drug Tremfya took the top spot for a second quarter in a row, according to data from iSpot.tv.",
-    "pinned": false
-  },
-  {
-    "id": "4f9fe4cd7f95",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/sanofi-survey-uncovers-type-1-diabetes-misconceptions-and-screening-gaps\" hreflang=\"en\">Sanofi survey uncovers Type 1 diabetes misconceptions and screening gaps</a>",
-    "url": "https://www.fiercepharma.com/marketing/sanofi-survey-uncovers-type-1-diabetes-misconceptions-and-screening-gaps",
-    "source": "Fierce Pharma",
-    "date": "2026-07-22",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "Widespread misconceptions about Type 1 diabetes could be contributing to a reluctance to get screened for the autoimmune disease, according to a survey Sanofi commissioned.",
-    "pinned": false
-  },
-  {
-    "id": "e90a8b315eac",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/jj-time-spotlight-healthcare-workers-newly-launched-healthcare-champion-year-award\" hreflang=\"en\">J&amp;J, Time link up to spotlight healthcare leadership with Healthcare Champion of the Year award </a>",
-    "url": "https://www.fiercepharma.com/marketing/jj-time-spotlight-healthcare-workers-newly-launched-healthcare-champion-year-award",
-    "source": "Fierce Pharma",
-    "date": "2026-07-22",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "The Healthcare Champion of the Year, to be selected by J&amp;J and a panel of industry experts, will be recognized at Time\u2019s \u201cA Year in TIME\u201d celebration in December.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/c0irKiK7j9tqBFXMPegw7r6KQcBI9zHl6OgHMT-b53A/g:nowe:0:353/c:4765:2692/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OZXdfR1NLSC5qcGVn.webp\" /></div></figure><p>The clearance is GSK&rsquo;s first for a lung cancer ",
     "pinned": false
   },
   {
@@ -374,6 +396,28 @@
     "pinned": false
   },
   {
+    "id": "28991fb5e6bf",
+    "title": "STAT+: What is a \u2018world model\u2019? Nabla\u2019s Alex LeBrun explains",
+    "url": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs",
+    "pinned": false
+  },
+  {
+    "id": "83e6a7b411ab",
+    "title": "New study supports testing of Merck\u2019s Ebola vaccine in DRC outbreak",
+    "url": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New data supports the idea that Merck\u2019s Ebola vaccine Ervebo, licensed to target the Zaire species of ebolaviruses, could also offer some protection against another.",
+    "pinned": false
+  },
+  {
     "id": "47b0bb3e6a97",
     "title": "Opinion: What Argentina\u2019s World Cup loss should teach American hospitals",
     "url": "https://www.statnews.com/2026/07/22/world-cup-argentina-loss-hospitals-lessons/?utm_campaign=rss",
@@ -386,7 +430,7 @@
   },
   {
     "id": "bde7f5cc9f99",
-    "title": "Congo\u2019s Ebola outbreak has killed nearly 1,000 people",
+    "title": "Congo\u2019s Ebola outbreak has killed over 1,000 people",
     "url": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths/?utm_campaign=rss",
     "source": "STAT News",
     "date": "2026-07-22",
@@ -572,28 +616,6 @@
     "pinned": false
   },
   {
-    "id": "5eb8e879406b",
-    "title": "Opinion: Pete Hegseth, \u2018The Odyssey,\u2019 and the testosterone myth",
-    "url": "https://www.statnews.com/2026/07/21/connection-between-odyssey-military-tesosterone-screening/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The poet didn\u2019t say \u201csing to me, Muse, of a man with optimized endocrine panels,\" writes urologist Elizabeth Dray.",
-    "pinned": false
-  },
-  {
-    "id": "4a9853ae4b3b",
-    "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
-    "url": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-21",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The administration is shifting some funding to states, but community groups are set to lose out.",
-    "pinned": false
-  },
-  {
     "id": "962aabf9257e",
     "title": "Roche\u2019s new gene sequencer on the market: where do\u00a0current\u00a0players stand?",
     "url": "https://www.labiotech.eu/in-depth/next-generation-dna-sequencing-market/",
@@ -613,28 +635,6 @@
     "country": "Europe",
     "category": "Company News",
     "summary": "<p>Discover M600 in Marburg: a 40,000 m\u00b2 biotech campus bringing research, pilot-plant, and GMP together in one European innovation ecosystem. </p>\n<p>The post <a href=\"https://www.labiotech.eu/partner/m600-marburg-biotech-innovation-europe/\">Inside one of Europe&#8217;s most adv",
-    "pinned": false
-  },
-  {
-    "id": "67cf71b7b181",
-    "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
-    "url": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-20",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_RbdDztrnLOoumxY2iZaJMnVrx0w3LSgoNSRO_aqxDg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjE4Nzk4MTY3LmpwZw==.webp\" /></div></figure><p>Tempus AI&rsquo;s planned acquisition follows recent ",
-    "pinned": false
-  },
-  {
-    "id": "b78178773659",
-    "title": "Pain drugmaker Latigo outlines plans to go public",
-    "url": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The Westlake-founded company specializes in non-opioi",
     "pinned": false
   },
   {
