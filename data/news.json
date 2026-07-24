@@ -1,5 +1,38 @@
 [
   {
+    "id": "e46e4d3b0a14",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-sheds-around-40-staffers-struggles-pile-tavneos-pipeline\" hreflang=\"en\">Amgen sheds around 40 staffers amid continuing struggles</a>",
+    "url": "https://www.fiercebiotech.com/biotech/amgen-sheds-around-40-staffers-struggles-pile-tavneos-pipeline",
+    "source": "Fierce Biotech",
+    "date": "2026-07-24",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Amgen has laid off around 40 employees as part of \u201corganizational changes\u201d meant to better align operations with the company\u2019s strategic objectives, Fierce has learned.",
+    "pinned": false
+  },
+  {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Amgen sheds staff; Clinuvel cuts fifth of workforce</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-07-24",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "pinned": false
+  },
+  {
+    "id": "870c70036cf4",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/study-yescarta-patients-reveals-genetic-red-flags-car-t-therapy-side-effects\" hreflang=\"en\">Study of Yescarta patients reveals genetic red flags for CAR-T therapy side effects</a>",
+    "url": "https://www.fiercebiotech.com/research/study-yescarta-patients-reveals-genetic-red-flags-car-t-therapy-side-effects",
+    "source": "Fierce Biotech",
+    "date": "2026-07-24",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A new analysis of patients who took part in clinical trials for Kite Pharma\u2019s CAR-T cell therapy Yescarta has revealed genetic signatures of toxicity risk, potentially providing a path forward for future CAR-Ts to be engineered to be safer.",
+    "pinned": false
+  },
+  {
     "id": "2cb0987d156f",
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/merck-prepares-expanded-access-alimatravir-monthly-hiv-prep-pill-ahead-approval\" hreflang=\"en\">Merck stages expanded access to monthly HIV PrEP pill ahead of approval</a>",
     "url": "https://www.fiercebiotech.com/pharma/merck-prepares-expanded-access-alimatravir-monthly-hiv-prep-pill-ahead-approval",
@@ -63,17 +96,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Eli Lilly\u2019s triple-G drug retatrutide has hit the primary endpoints of a pair of phase 3 obesity trials, although the peak weight loss fell short of previous trials while failing to prove the drug reduces cardiovascular risk.",
-    "pinned": false
-  },
-  {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Clinuvel cuts fifth of staff; Novartis loses 322 workers</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
-    "date": "2026-07-24",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
     "pinned": false
   },
   {
@@ -143,25 +165,25 @@
     "pinned": false
   },
   {
-    "id": "1cb8496ef889",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing\" hreflang=\"en\">House passes bill directing FDA to update animal testing rules</a>",
-    "url": "https://www.fiercebiotech.com/cro/us-house-passes-bill-direct-fda-update-clinical-trial-regulations-and-allow-non-animal-testing",
-    "source": "Fierce Biotech",
+    "id": "96f1fa0fed21",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/gastroenterologists-spot-treatment-gaps-clinical-remission-rates-durability-among-ibd\" hreflang=\"en\">Gastroenterologists flag clinical remission and its durability as unmet needs in IBD care: survey</a>",
+    "url": "https://www.fiercepharma.com/marketing/gastroenterologists-spot-treatment-gaps-clinical-remission-rates-durability-among-ibd",
+    "source": "Fierce Pharma",
     "date": "2026-07-24",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The U.S. House of Representatives passed the FDA Modernization Act 3.0 this week, and lawmakers and animal welfare advocates are celebrating the bill as a step toward a new era in preclinical testing and drug development.",
+    "summary": "A survey of 36 U.S. gastroenterologists found that significant treatment gaps remain in the growing IBD drug market despite an expanding range of therapies.",
     "pinned": false
   },
   {
-    "id": "cefbc91aeb5e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug\" hreflang=\"en\">Royalty Pharma pens $425M deal for slice of sales on AstraZeneca\u2019s ATTR drug</a>",
-    "url": "https://www.fiercebiotech.com/biotech/royalty-pharma-pens-425m-deal-slice-sales-astrazenecas-attr-drug",
-    "source": "Fierce Biotech",
+    "id": "431f67a847ac",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/peptide-adcomm-day-2-emideltide-voted-down-panels-1st-peptide-pushback\" hreflang=\"en\">Peptide adcomm Day 2: Emideltide voted down in panel's 1st pushback</a>",
+    "url": "https://www.fiercepharma.com/pharma/peptide-adcomm-day-2-emideltide-voted-down-panels-1st-peptide-pushback",
+    "source": "Fierce Pharma",
     "date": "2026-07-24",
     "country": "Global",
     "category": "Company News",
-    "summary": "Royalty Pharma has secured a stake in another transthyretin-mediated amyloidosis drug, this time paying $125 million upfront to Neurimmune for a cut of the sales of its AstraZeneca-partnered med.",
+    "summary": "As outside experts gathered for a second day to discuss adding certain popular-yet-unapproved peptides to the U.S.\u2019 bulk compounding list, the first to go up against a vote did not fare as well as those assessed Thursday.",
     "pinned": false
   },
   {
@@ -308,28 +330,6 @@
     "pinned": false
   },
   {
-    "id": "174e007a0bd0",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us\" hreflang=\"en\">Australian biopharma Clinuvel to shed up to 20% of workforce in move to US</a>",
-    "url": "https://www.fiercepharma.com/biotech/australian-biopharma-clinuvel-shed-20-workforce-move-us",
-    "source": "Fierce Pharma",
-    "date": "2026-07-24",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Australian biopharma Clinuvel Pharmaceuticals is moving its headquarters to the U.S.\u2014 but up to a fifth of the company\u2019s workforce won\u2019t be staying for the trans-Pacific pivot.",
-    "pinned": false
-  },
-  {
-    "id": "638ecc95418e",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent\" hreflang=\"en\">\u2018Substantially better than before\u2019: Why India has golden opportunity to build on innovative R&amp;D wins</a>",
-    "url": "https://www.fiercepharma.com/biotech/substantially-better-new-report-highlights-indias-opportunity-seize-string-recent",
-    "source": "Fierce Pharma",
-    "date": "2026-07-24",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "A string of recent wins on the frontiers of novel drug development could mean that a homegrown innovation industry is within reach.",
-    "pinned": false
-  },
-  {
     "id": "168b56f96890",
     "title": "Sanofi halts development of troubled immune drug in eczema",
     "url": "https://www.biopharmadive.com/news/sanofi-amlitelimab-atopic-dermatitis-eczema-shelved/826132/",
@@ -371,6 +371,28 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp\" /></div></figure><p>In a victory for Robert F. Kennedy Jr.&rsquo;",
+    "pinned": false
+  },
+  {
+    "id": "3e048a4419de",
+    "title": "Opinion: I led the FDA\u2019s food safety and nutrition center. Here\u2019s what people are missing about the cyclospora outbreak",
+    "url": "https://www.statnews.com/2026/07/24/cyclospora-outbreak-contradiction-eat-real-food-less-safety-monitoring/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-24",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "\u201cConsumers should not be faced with a trade-off between nutrition and food safety,\u201d writes Susan Mayne, former director of the FDA Center for Food Safety and Applied Nutrition.",
+    "pinned": false
+  },
+  {
+    "id": "51a968679262",
+    "title": "FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
+    "url": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-24",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Robert F. Kennedy Jr. has lauded peptides and said he takes them himself.",
     "pinned": false
   },
   {
@@ -547,28 +569,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "The European Medicines Agency is taking what advocacy groups are calling unexpectedly \u201crapid action\u201d to ensure that clinical trial results are made public as required by law.",
-    "pinned": false
-  },
-  {
-    "id": "520cdf0dda94",
-    "title": "STAT+: Popular insulin product enters shortage as other pens leave market",
-    "url": "https://www.statnews.com/2026/07/23/sanofi-insulin-lantus-solostar-pen-reported-short-supply/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-23",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The Lantus Solostar insulin pen isn't in official FDA shortage, but patients are having a tough time finding it.",
-    "pinned": false
-  },
-  {
-    "id": "69dab267d3cb",
-    "title": "Senate health panel delays vote on CDC nominee",
-    "url": "https://www.statnews.com/2026/07/23/erica-schwartz-cdc-director-vote-delayed/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Too few senators were in attendance to proceed with a vote on the CDC director nominee.",
     "pinned": false
   },
   {
