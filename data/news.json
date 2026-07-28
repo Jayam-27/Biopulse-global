@@ -1,5 +1,16 @@
 [
   {
+    "id": "716d1d4f4434",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most\" hreflang=\"en\">Eli Lilly tops new biopharma ranking on launch success, development speed</a>",
+    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-rides-launch-success-and-development-timelines-top-new-ranking-worlds-most",
+    "source": "Fierce Biotech",
+    "date": "2026-07-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Flush with GLP-1 cash and pipeline success, Eli Lilly rose from 16th to first over five years in Norstella\u2019s inaugural Pipeline-to-Patient Productivity Index, which evaluated 25 large, global biopharma companies on R&amp;D productivity, market access and commercial performance.",
+    "pinned": false
+  },
+  {
     "id": "176235bb2264",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline\" hreflang=\"en\">Incyte ditches phase 1-stage JAK inhibitor to pursue next-gen options</a>",
     "url": "https://www.fiercebiotech.com/biotech/incyte-ditches-development-jak-inhibitor-pursue-next-generation-pipeline",
@@ -88,6 +99,17 @@
     "pinned": false
   },
   {
+    "id": "5b18ec422257",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro\" hreflang=\"en\">Acrosian debuts as AI-focused biometrics CRO </a>",
+    "url": "https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro",
+    "source": "Fierce Biotech",
+    "date": "2026-07-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The founders of contract research organization Quartesian have reunited to form Acrosian, a CRO designed to be purpose-built for the AI era.",
+    "pinned": false
+  },
+  {
     "id": "b87078ef7514",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/ra-capital-launches-rare-disease-company-oak-hill-bio-nasdaq-spac\" hreflang=\"en\">RA Capital launches rare disease company Oak Hill Bio onto Nasdaq via SPAC </a>",
     "url": "https://www.fiercebiotech.com/biotech/ra-capital-launches-rare-disease-company-oak-hill-bio-nasdaq-spac",
@@ -143,25 +165,14 @@
     "pinned": false
   },
   {
-    "id": "40fde248448c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/after-missed-endpoint-gossamer-and-chiesi-pull-plug-pah-drug-collaboration\" hreflang=\"en\">After missed endpoint, Gossamer and Chiesi pull the plug on PAH drug collaboration</a>",
-    "url": "https://www.fiercebiotech.com/biotech/after-missed-endpoint-gossamer-and-chiesi-pull-plug-pah-drug-collaboration",
-    "source": "Fierce Biotech",
+    "id": "7c17441ddf94",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/how-2-fda-citations-complicate-hengrui-elevar-push-liver-cancer-combo-approval\" hreflang=\"en\">How 2 FDA citations complicate Hengrui, Elevar\u2019s push for liver cancer combo approval</a>",
+    "url": "https://www.fiercepharma.com/pharma/how-2-fda-citations-complicate-hengrui-elevar-push-liver-cancer-combo-approval",
+    "source": "Fierce Pharma",
     "date": "2026-07-28",
     "country": "Global",
-    "category": "Company News",
-    "summary": "After signing a deal worth up to $486 million with Italian biopharma Chiesi to develop its pulmonary arterial hypertension (PAH) candidate seralutinib in 2024, Gossamer Bio has ended the collaboration and licensing agreement.",
-    "pinned": false
-  },
-  {
-    "id": "9139f3c8af70",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/legend-biotech-ceo-abruptly-steps-down-without-permanent-replacement\" hreflang=\"en\">Legend Biotech CEO abruptly steps down without permanent replacement</a>",
-    "url": "https://www.fiercebiotech.com/pharma/legend-biotech-ceo-abruptly-steps-down-without-permanent-replacement",
-    "source": "Fierce Biotech",
-    "date": "2026-07-28",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "In a sudden leadership shift, Legend Biotech announced that its CEO, Ying Huang, Ph.D., resigned on Friday, with no permanent replacement yet named.",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Even though Hengrui Pharma has resolved the manufacturing problems cited in a recent FDA complete response letter, a second citation stands in the way of the company and its partner Elevar Therapeutics\u2019 fourth attempt at an approval for their liver cancer combination.",
     "pinned": false
   },
   {
@@ -209,17 +220,6 @@
     "pinned": false
   },
   {
-    "id": "876ca0e6e325",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/havas-lynx-revamps-new-york-c-suite-16-months-after-last-shakeup\" hreflang=\"en\">Havas Lynx revamps New York C-suite 16 months after last shakeup</a>",
-    "url": "https://www.fiercepharma.com/marketing/havas-lynx-revamps-new-york-c-suite-16-months-after-last-shakeup",
-    "source": "Fierce Pharma",
-    "date": "2026-07-28",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Havas Lynx has shaken up the leadership of its New York team, expanding Claire Knapp\u2019s role to cover the office and hiring Bruno Rebelo to head up its creative division.",
-    "pinned": false
-  },
-  {
     "id": "ceb0ce2c0559",
     "title": "<a href=\"https://www.fiercepharma.com/marketing/gilead-brings-late-night-convos-destigmatization-speed-date-hiv-prevention-campaign\" hreflang=\"en\">Gilead uses humor, relatability in \u2018Up to Date\u2019 HIV prevention push</a>",
     "url": "https://www.fiercepharma.com/marketing/gilead-brings-late-night-convos-destigmatization-speed-date-hiv-prevention-campaign",
@@ -228,6 +228,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Gilead's \"Up to Date\" campaign features comedians Nicole Byer and Devon Walker and looks to destigmatize HIV conversations in the Black community, which has historically been disproportionately impacted by HIV.",
+    "pinned": false
+  },
+  {
+    "id": "876ca0e6e325",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/havas-lynx-revamps-new-york-c-suite-16-months-after-last-shakeup\" hreflang=\"en\">Havas Lynx revamps New York C-suite 16 months after last shakeup</a>",
+    "url": "https://www.fiercepharma.com/marketing/havas-lynx-revamps-new-york-c-suite-16-months-after-last-shakeup",
+    "source": "Fierce Pharma",
+    "date": "2026-07-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Havas Lynx has shaken up the leadership of its New York team, expanding Claire Knapp\u2019s role to cover the office and hiring Bruno Rebelo to head up its creative division.",
     "pinned": false
   },
   {
@@ -319,17 +330,6 @@
     "pinned": false
   },
   {
-    "id": "acebe034226c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/another-setback-ipsens-albireo-portfolio-bylvay-flunks-phase-3-trial\" hreflang=\"en\">Another setback for Ipsen's Albireo portfolio as Bylvay flunks phase 3 trial</a>",
-    "url": "https://www.fiercepharma.com/pharma/another-setback-ipsens-albireo-portfolio-bylvay-flunks-phase-3-trial",
-    "source": "Fierce Pharma",
-    "date": "2026-07-28",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Three years after gaining three liver disease assets in its $952 million buyout of Albireo, Ipsen is struggling to develop the trio. The company has reported the failure of liver disease drug Bylvay in a phase 3 study in biliary atresia.",
-    "pinned": false
-  },
-  {
     "id": "2ea46542cb1a",
     "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
     "url": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
@@ -360,6 +360,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cIH1PfJposjsKezbbrmwTwtzNlhqTiIaZ_OaEGGTHE8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjE5NzI0MTUxLmpwZw==.webp\" /></div></figure><p>Claris Bio has appointed veteran CEO Stephen Brady to",
+    "pinned": false
+  },
+  {
+    "id": "c9d426e34f4a",
+    "title": "Six key issues we\u2019re watching at Fauci\u2019s hearing",
+    "url": "https://www.statnews.com/2026/07/28/anthony-fauci-senate-testimony-what-to-expect-covid-origin-perjury/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-28",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Sen. Rand Paul is forcing Fauci to appear before his Senate panel.",
     "pinned": false
   },
   {
@@ -602,17 +613,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Job lock, surging prescription drug costs, No Surprises Act update, and more from STAT's Health Care Inc.",
-    "pinned": false
-  },
-  {
-    "id": "a520087e6e60",
-    "title": "STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive",
-    "url": "https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-27",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The beleaguered Sarepta Therapeutics named Michael Severino, who previously led Tessera Therapeutics, as its new CEO.",
     "pinned": false
   },
   {
