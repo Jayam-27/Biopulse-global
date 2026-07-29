@@ -1,5 +1,27 @@
 [
   {
+    "id": "d944e92f1d85",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination\" hreflang=\"en\">Merck posts\u2014then pulls\u2014trial plan for PD-1xVEGF and TROP2 ADC combination</a>",
+    "url": "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination",
+    "source": "Fierce Biotech",
+    "date": "2026-07-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "After keeping tight-lipped for nearly two years, Merck &amp; Co. briefly dropped the first concrete hint as to where it intends to take its PD-1xVEGF bispecific antibody\u2014before quietly scrubbing the evidence.",
+    "pinned": false
+  },
+  {
+    "id": "f87d8d6b1fc1",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence\" hreflang=\"en\">\u2018Low tech\u2019 chemotherapy nanoparticles show promise for deadly brain tumor recurrence</a>",
+    "url": "https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence",
+    "source": "Fierce Biotech",
+    "date": "2026-07-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "A standard chemotherapy drug loaded in nanoparticles has been able to penetrate the blood-brain barrier when administered shortly after resection of the tumor, new research has suggested.",
+    "pinned": false
+  },
+  {
     "id": "619cb647279d",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow\" hreflang=\"en\">\u2018We have what we need to grow:\u2019 Biogen CEO happy to ease off the M&amp;A for a while</a>",
     "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow",
@@ -143,25 +165,14 @@
     "pinned": false
   },
   {
-    "id": "b5c8246d5d78",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-backed-claris-bio-emerges-118m-and-eye-rare-corneal-disease\" hreflang=\"en\">\u2018This could be a large market\u2019: Novo Holdings-backed Claris secures $118M for corneal disease drug</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novo-backed-claris-bio-emerges-118m-and-eye-rare-corneal-disease",
-    "source": "Fierce Biotech",
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: AbbVie scores 1st Rinvoq alopecia nod in EU</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
     "date": "2026-07-29",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "A new biotech has come into view with a $118 million series B and a vision for making the front of the eye front-of-mind.",
-    "pinned": false
-  },
-  {
-    "id": "5b18ec422257",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro\" hreflang=\"en\">Acrosian debuts as AI-focused biometrics CRO </a>",
-    "url": "https://www.fiercebiotech.com/cro/acrosian-debuts-ai-focused-biometrics-cro",
-    "source": "Fierce Biotech",
-    "date": "2026-07-29",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "The founders of contract research organization Quartesian have reunited to form Acrosian, a CRO designed to be purpose-built for the AI era.",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
     "pinned": false
   },
   {
@@ -250,17 +261,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Baxter issued a voluntary recall of one lot of cefazolin in dextrose injection after a report that cardboard was found in an IV infusion bag.",
-    "pinned": false
-  },
-  {
-    "id": "31ea1caa5157",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: MannKind gets FDA nod for speedy edema autoinjector</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-    "source": "Fierce Pharma",
-    "date": "2026-07-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
     "pinned": false
   },
   {
@@ -371,6 +371,17 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Replimune shares plummeted 40% on co",
+    "pinned": false
+  },
+  {
+    "id": "750341b7b481",
+    "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
+    "url": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-29",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The U.S. Federal Trade Commission sued telehealth company Hims &#038; Hers alleging business practices that agency says misled consumers.",
     "pinned": false
   },
   {
@@ -569,17 +580,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "Plus: Democrats take on Trump over IVF, and Trump's White House releases a new science funding blueprint.",
-    "pinned": false
-  },
-  {
-    "id": "6a9aab969097",
-    "title": "STAT+: GSK lays out plans to cut costs, pursue more late-stage drug trials",
-    "url": "https://www.statnews.com/2026/07/28/gsk-earnings-report-luke-miels-strategy-late-stage-clinical-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "New GSK CEO Luke Miels outlined his strategy to help the company navigate a patent cliff and get on a path toward long-term growth.",
     "pinned": false
   },
   {
