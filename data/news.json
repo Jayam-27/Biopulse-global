@@ -1,5 +1,38 @@
 [
   {
+    "id": "c7538214f650",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops\" hreflang=\"en\">Novo Nordisk left praying to Artemis and Hermes to salvage CKD program after phase 3 fail</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-left-praying-artemis-and-hermes-salvage-program-after-key-phase-3-trial-flops",
+    "source": "Fierce Biotech",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 3 trial of Novo Nordisk\u2019s ziltivekimab has missed its primary endpoint, denting the prospects of a molecule analysts tipped to generate blockbuster sales and diversify the company\u2019s portfolio. Novo has chances to rescue the program with its ongoing Artemis and Hermes tria",
+    "pinned": false
+  },
+  {
+    "id": "b5d318dcdc1b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place\" hreflang=\"en\">Chutes &amp; Ladders\u2014Legend CEO departs without successor in place</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-biotech-ceo-departs-without-successor-place",
+    "source": "Fierce Biotech",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Legend Biotech CEO Ying Huang, Ph.D., has left the company suddenly, without a predecessor in place. Huang was elevated from CFO to CEO in 2020 after a Chinese customs investigation was opened on founding CEO  Fangliang Zhang, Ph.D.",
+    "pinned": false
+  },
+  {
+    "id": "6c2740d7e5fe",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech\" hreflang=\"en\">From Abu Dhabi to Brazil, every region is vying for the \u2018new emerging economy\u2019 of biotech</a>",
+    "url": "https://www.fiercebiotech.com/biotech/three-regions-fighting-their-place-future-biotech",
+    "source": "Fierce Biotech",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Policy",
+    "summary": "Whether it's looming tariff threats or the rise of China, you need a truly global view to navigate today's biopharma industry.",
+    "pinned": false
+  },
+  {
     "id": "155c0b0d6730",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill\" hreflang=\"en\">Apnimed\u2019s IPO dream comes true with upsized $192M IPO to fund sleep apnea pill launch</a>",
     "url": "https://www.fiercebiotech.com/biotech/apnimeds-ipo-dream-comes-true-upsized-192m-ipo-fund-sleep-apnea-pill",
@@ -132,36 +165,69 @@
     "pinned": false
   },
   {
-    "id": "d944e92f1d85",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination\" hreflang=\"en\">Merck posts\u2014then pulls\u2014trial plan for PD-1xVEGF and TROP2 ADC combination</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-posts-then-pulls-trial-plan-pd-1xvegf-and-trop2-adc-combination",
-    "source": "Fierce Biotech",
+    "id": "f5f9a0c5d826",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/daiichi-sankyo-flags-accounting-error-shares-tank-despite-revenue-beat\" hreflang=\"en\">Daiichi Sankyo flags accounting error, as shares tank despite revenue beat </a>",
+    "url": "https://www.fiercepharma.com/pharma/daiichi-sankyo-flags-accounting-error-shares-tank-despite-revenue-beat",
+    "source": "Fierce Pharma",
     "date": "2026-07-31",
     "country": "Global",
     "category": "Company News",
-    "summary": "After keeping tight-lipped for nearly two years, Merck &amp; Co. briefly dropped the first concrete hint as to where it intends to take its PD-1xVEGF bispecific antibody\u2014before quietly scrubbing the evidence.",
+    "summary": "A Daiichi Sankyo quarterly report that should have celebrated strong commercial execution was instead derailed by an accounting error and manufacturing losses.",
     "pinned": false
   },
   {
-    "id": "f87d8d6b1fc1",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence\" hreflang=\"en\">\u2018Low tech\u2019 chemotherapy nanoparticles show promise for deadly brain tumor recurrence</a>",
-    "url": "https://www.fiercebiotech.com/biotech/low-tech-chemotherapy-nanoparticles-show-promise-deadly-brain-tumor-recurrence",
-    "source": "Fierce Biotech",
+    "id": "2e2d385e00e1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/abbvies-skyrizi-reaches-new-heights-it-continues-thrive-growing-psoriasis-market\" hreflang=\"en\">AbbVie's Skyrizi shrugs off new competition as it thrives in growing psoriasis market</a>",
+    "url": "https://www.fiercepharma.com/pharma/abbvies-skyrizi-reaches-new-heights-it-continues-thrive-growing-psoriasis-market",
+    "source": "Fierce Pharma",
     "date": "2026-07-31",
     "country": "Global",
     "category": "Company News",
-    "summary": "A standard chemotherapy drug loaded in nanoparticles has been able to penetrate the blood-brain barrier when administered shortly after resection of the tumor, new research has suggested.",
+    "summary": "Seven years after it was approved, AbbVie's Skyrizi has proven to be a more-than-adequate replacement for Humira, which was formerly the world's top-selling drug. In the second quarter, the IL-23 inhibitor generated sales of $5.55 billion, a virtual match for the most ever achiev",
     "pinned": false
   },
   {
-    "id": "619cb647279d",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow\" hreflang=\"en\">\u2018We have what we need to grow:\u2019 Biogen CEO happy to ease off the M&amp;A for a while</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-near-term-ma-we-have-what-we-need-grow",
-    "source": "Fierce Biotech",
+    "id": "127ac5635961",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/xpovio-mulligan-endometrial-cancer-comes-short-karyopharm-presses-myelofibrosis\" hreflang=\"en\">Xpovio mulligan in endometrial cancer comes up short as Karyopharm presses on in myelofibrosis</a>",
+    "url": "https://www.fiercepharma.com/pharma/xpovio-mulligan-endometrial-cancer-comes-short-karyopharm-presses-myelofibrosis",
+    "source": "Fierce Pharma",
     "date": "2026-07-31",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Biogen's business development team may have been busy in recent years, but CEO Christopher Viehbacher is easing off the acquisitions for a while.",
+    "summary": "Reporting a new miss in one indication, Karyopharm is plowing ahead with plans to advance its XPO1 inhibitor Xpovio in another, despite investors blanching at that dataset back in March.",
+    "pinned": false
+  },
+  {
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Foundayo, Wegovy pill reach new heights</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
+    "pinned": false
+  },
+  {
+    "id": "9aeb1bff7963",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/psychedelics-peptides-and-glp-1s\" hreflang=\"en\">Psychedelics, peptides and GLP-1s\u00a0 </a>",
+    "url": "https://www.fiercepharma.com/pharma/psychedelics-peptides-and-glp-1s",
+    "source": "Fierce Pharma",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "This week on \u201cThe Top Line,\u201d Fierce\u2019s Zoey Becker, Will Maddox and Kevin Dunleavy break down a major psychedelics acquisition, a politically charged peptide adcomm and the latest legal clash between the obesity drug giants.",
+    "pinned": false
+  },
+  {
+    "id": "c9ee12225c03",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/legend-ceo-exits-merck-hush-hush-pd-1-vegf-plan-otsuka-novel-adhd-nod\" hreflang=\"en\">Fierce Pharma Asia\u2014Legend CEO exits; Merck\u2019s hush-hush PD-1xVEGF plan; Otsuka\u2019s novel ADHD nod</a>",
+    "url": "https://www.fiercepharma.com/pharma/legend-ceo-exits-merck-hush-hush-pd-1-vegf-plan-otsuka-novel-adhd-nod",
+    "source": "Fierce Pharma",
+    "date": "2026-07-31",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Legend Biotech's Ying Huang, Ph.D., resigned after a six-year stint as CEO. Merck briefly posted\u2014and then quickly deleted\u2014a clinical trial plan to test its PD-1xVEGF bispecific in combination with its TROP2 ADC. The FDA approved a new class of ADHD therapy in Otsuka's Simtriyo. A",
     "pinned": false
   },
   {
@@ -264,69 +330,80 @@
     "pinned": false
   },
   {
-    "id": "27925be0fa47",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/lilly-resilience-plot-750m-outlay-increase-production-injectables-ohio\" hreflang=\"en\">Lilly, Resilience commit $750M to boost US diabetes, obesity med production</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/lilly-resilience-plot-750m-outlay-increase-production-injectables-ohio",
-    "source": "Fierce Pharma",
+    "id": "df48ba576b9d",
+    "title": "Novo setback casts doubt on a new way to treat heart disease",
+    "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
+    "source": "BioPharma Dive",
     "date": "2026-07-31",
-    "country": "Global",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp\" /></div></figure><p>Ziltivekimab's failure in a key t",
+    "pinned": false
+  },
+  {
+    "id": "4a64ce3a2130",
+    "title": "Sanofi to \u2018rebuild trust\u2019 with Regeneron; Apnimed adds to string of \u2018upsized\u2019 biotech IPOs",
+    "url": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
+    "source": "BioPharma Dive",
+    "date": "2026-07-31",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "Eli Lilly has doubled down on its partnership with CDMO Resilience as the companies plan to invest $750 million to increase production of Lilly\u2019s KwikPen injectable device for its diabetes and obesity medicines.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Sanofi wants to broaden the company&",
     "pinned": false
   },
   {
-    "id": "dce6018988b5",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/viatris-runs-fda-roadblocks-after-advertising-go-use-cystic-fibrosis-inhaler\" hreflang=\"en\">Viatris runs into FDA roadblock after advertising on-the-go use of cystic fibrosis inhaler</a>",
-    "url": "https://www.fiercepharma.com/marketing/viatris-runs-fda-roadblocks-after-advertising-go-use-cystic-fibrosis-inhaler",
-    "source": "Fierce Pharma",
+    "id": "38a9a090f73e",
+    "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
+    "url": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-07-31",
-    "country": "Global",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals.",
+    "pinned": false
+  },
+  {
+    "id": "ffb59523f85c",
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/07/31/up-and-down-the-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-31",
+    "country": "US",
+    "category": "Company News",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "pinned": false
+  },
+  {
+    "id": "4da603b05962",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a Novo setback, support for Replimune\u2019s melanoma drug, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/07/31/novo-setback-fda-panel-endorses-replimune-melanoma-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-07-31",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has rebuked Viatris for a direct-to-consumer video that allegedly misled viewers about a cystic fibrosis inhaler.",
+    "summary": "An FDA advisory panel recommended use of an experimental Replimune treatment for advanced melanoma that the agency has rejected twice",
     "pinned": false
   },
   {
-    "id": "16dd11671257",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/sanofis-new-ceo-looking-deeply-late-stage-pipeline-clinical-clearout-continues\" hreflang=\"en\">Sanofi\u2019s new CEO \u2018looking deeply\u2019 at late-stage pipeline as clinical clearout continues</a>",
-    "url": "https://www.fiercepharma.com/biotech/sanofis-new-ceo-looking-deeply-late-stage-pipeline-clinical-clearout-continues",
-    "source": "Fierce Pharma",
+    "id": "9137f91972df",
+    "title": "STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study",
+    "url": "https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-07-31",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Sanofi's new CEO Bel\u00e9n Garijo opened up for the first time about her strategy to reverse a trend of clinical setbacks, including dumping Regeneron-partnered IL-33 candidate itepekimab.",
+    "summary": "A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications.",
     "pinned": false
   },
   {
-    "id": "269055f65d1b",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/biogen-flips-its-26-guidance-expected-decline-increase\" hreflang=\"en\">Biogen flips '26 guidance from expected decline to sales increase</a>",
-    "url": "https://www.fiercepharma.com/pharma/biogen-flips-its-26-guidance-expected-decline-increase",
-    "source": "Fierce Pharma",
+    "id": "3b38a42e54b4",
+    "title": "Federal government could improve infectious disease monitoring, says federal government",
+    "url": "https://www.statnews.com/2026/07/31/health-news-federal-government-infectious-disease-monitoring-issues/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-07-31",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "With increased sales of its newer drugs compensating for declining revenues from its multiple sclerosis portfolio, Biogen finally is positioned once again for a \u201cgrowth story,\u201d CEO Chris Viehbacher said Wednesday during the company\u2019s second quarter earnings call. The company has ",
-    "pinned": false
-  },
-  {
-    "id": "00e012ac4de0",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/boosted-cms-settlement-incyte-expects-opzelura-cross-1b-2026\" hreflang=\"en\">Boosted by CMS settlement, Incyte expects Opzelura to cross $1B in 2026</a>",
-    "url": "https://www.fiercepharma.com/pharma/boosted-cms-settlement-incyte-expects-opzelura-cross-1b-2026",
-    "source": "Fierce Pharma",
-    "date": "2026-07-31",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A favorable regulatory resolution with federal health authorities is clearing the way for Incyte\u2019s Opzelura cream to reach blockbuster land ahead of schedule.",
-    "pinned": false
-  },
-  {
-    "id": "0108cf2435b5",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/tevas-budding-innovation-engine-offsets-generics-slump-one-analyst-shocked-ajovy-success\" hreflang=\"en\">Teva\u2019s innovation engine offsets generics slump, leaving one analyst \u2018shocked\u2019 by Ajovy\u2019s surge</a>",
-    "url": "https://www.fiercepharma.com/pharma/tevas-budding-innovation-engine-offsets-generics-slump-one-analyst-shocked-ajovy-success",
-    "source": "Fierce Pharma",
-    "date": "2026-07-31",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As Teva proceeds down the more muted growth path that it telegraphed early this year, the generics and innovative medicines hybrid isn\u2019t letting a little sales slump affect its confidence in a budding portfolio of branded drugs.",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The new CDC director nominee moves to the full Senate vote, Medicaid work requirements will not be delayed, and more health news",
     "pinned": false
   },
   {
@@ -371,6 +448,28 @@
     "country": "US",
     "category": "Company News",
     "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage.",
+    "pinned": false
+  },
+  {
+    "id": "2ed621388693",
+    "title": "Merck after Keytruda: what the pipeline looks like",
+    "url": "https://www.labiotech.eu/top-pharma-strategy/merck-pipeline/",
+    "source": "Labiotech.eu",
+    "date": "2026-07-31",
+    "country": "Europe",
+    "category": "Company News",
+    "summary": "<p>Delve into what Merck has planned for the future of its pipeline as Keytruda's patent is getting closer to expiry.</p>\n<p>The post <a href=\"https://www.labiotech.eu/top-pharma-strategy/merck-pipeline/\">Merck after Keytruda: what the pipeline looks like\u00a0</a> appeared first on <",
+    "pinned": false
+  },
+  {
+    "id": "2f3573ce13d9",
+    "title": "Gain Therapeutics: a first-in-class, disease-modifying therapy for Parkinson\u2019s",
+    "url": "https://www.labiotech.eu/podcast/gain-therapeutics-a-first-in-class-disease-modifying-therapy-for-parkinsons/",
+    "source": "Labiotech.eu",
+    "date": "2026-07-31",
+    "country": "Europe",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<p>Today we welcome Gene Mack, President and CEO of Gain Therapeutics. Their lead candidate is advancing toward Phase 2 as a potential first-in-class disease-modifying therapy for Parkinson\u2019s disease</p>\n<p>The post <a href=\"https://www.labiotech.eu/podcast/gain-therapeutics-a-fi",
     "pinned": false
   },
   {
@@ -484,61 +583,6 @@
     "pinned": false
   },
   {
-    "id": "1a37379aed4f",
-    "title": "STAT+: FDA expert committee votes in favor of Replimune\u2019s melanoma treatment",
-    "url": "https://www.statnews.com/2026/07/30/replimune-melanoma-drug-rp1-fda-expert-meeting-live-blog/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "STAT is live-blogging a meeting of FDA experts to review Replimune\u2019s experimental melanoma drug, RP1.",
-    "pinned": false
-  },
-  {
-    "id": "0f43c25cd628",
-    "title": "Chronically ill people face confusion over new Medicaid work rules and \u2018medically frail\u2019 exemption",
-    "url": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-medical-frailty-exemption-coverage-loss/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Patients, advocates, and experts fear the difficulty in documenting a frailty exemption to Medicaid work requirements will lead to millions losing coverage.",
-    "pinned": false
-  },
-  {
-    "id": "e01cfa057e20",
-    "title": "Opinion: U.S. dependence on China is a national security risk",
-    "url": "https://www.statnews.com/2026/07/30/china-us-pharmaceutical-supply-chain-national-security-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cChina is overtly seeking to displace U.S. leadership across the innovative biopharmaceutical value chain,\u201d write authors of a Council on Foreign Relations report.",
-    "pinned": false
-  },
-  {
-    "id": "126127191ace",
-    "title": "Opinion: Ten years after WHO recognition, mycetoma remains one of the world\u2019s most neglected diseases",
-    "url": "https://www.statnews.com/2026/07/30/mycetoma-who-neglected-disease-research-sudan/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "\u201cThe next 10 years of mycetoma care will determine whether it remains a story of neglect or becomes one of collective action,\u201d writes Borna Nyaoke-Anoke.",
-    "pinned": false
-  },
-  {
-    "id": "af081721333d",
-    "title": "Is it safe to drink Red Bull and alcohol? Questionable research tied to energy drink giant has shaped policy",
-    "url": "https://www.statnews.com/2026/07/30/red-bull-funded-studies-energy-drinks-alcohol-shape-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two.",
-    "pinned": false
-  },
-  {
     "id": "aedff18c5312",
     "title": "Capricor Duchenne cell therapy voted down by FDA panel",
     "url": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
@@ -580,28 +624,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>The deal adds to a growing streak of partnerships involving new types of T cell engagers and gives Vertex another chance to broaden a business still reliant on cystic fibrosis medicines.</p>",
-    "pinned": false
-  },
-  {
-    "id": "971ca18a2ff7",
-    "title": "Earnings roundup: Biogen\u2019s \u2018resiliency,\u2019 AstraZeneca\u2019s growth pitch and GSK\u2019s oncology push",
-    "url": "https://www.biopharmadive.com/news/biogen-astrazeneca-gsk-2q26-earnings-analysis/826386/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-29",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bCvdB3RlwpaRkc128TgqglBZXPpus08ByIP9sT3eHKQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NDcxNjc0NTAuanBn.webp\" /></div></figure><p>Better-than-expected sales helped Biogen regain the suppo",
-    "pinned": false
-  },
-  {
-    "id": "dee19d22b1b5",
-    "title": "FDA reviewers criticize Replimune drug; ProMIS climbs on Alzheimer\u2019s data",
-    "url": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-drug-promis-climbs-on-alzheimers-data/826349/",
-    "source": "BioPharma Dive",
-    "date": "2026-07-29",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Replimune shares plummeted 40% on co",
     "pinned": false
   },
   {
@@ -712,28 +734,6 @@
     "country": "Europe",
     "category": "Clinical Trials & Regulatory",
     "summary": "<p>Here are seven mRNA biotechs that have raised funds in recent years to push their candidates ahead through preclinical and clinical trials.</p>\n<p>The post <a href=\"https://www.labiotech.eu/best-biotech/mrna-companies/\">Seven companies leading the mRNA revolution in biotechnol",
-    "pinned": false
-  },
-  {
-    "id": "0c5e092279b2",
-    "title": "How BIO-Europe is expanding beyond dealmaking in 2026",
-    "url": "https://www.labiotech.eu/podcast/how-bio-europe-is-expanding-beyond-dealmaking-in-2026/",
-    "source": "Labiotech.eu",
-    "date": "2026-07-17",
-    "country": "Europe",
-    "category": "Company News",
-    "summary": "<p>BIO-Europe has always been the destination for BD professionals and dealmakers. In 2026, it's broadening its scope to become what the organizers are calling the epicenter of biotech</p>\n<p>The post <a href=\"https://www.labiotech.eu/podcast/how-bio-europe-is-expanding-beyond-de",
-    "pinned": false
-  },
-  {
-    "id": "67cbafbf0d51",
-    "title": "Race for approval:\u00a0biotechs\u00a0accelerate bipolar disorder therapies",
-    "url": "https://www.labiotech.eu/trends-news/bipolar-disorder-therapies-biotechs/",
-    "source": "Labiotech.eu",
-    "date": "2026-07-15",
-    "country": "Europe",
-    "category": "Funding & M&A",
-    "summary": "<p>New therapies in the clinic for bipolar disorder hope to meet unmet needs of efficacy and minimal side effects.</p>\n<p>The post <a href=\"https://www.labiotech.eu/trends-news/bipolar-disorder-therapies-biotechs/\">Race for approval:\u00a0biotechs\u00a0accelerate bipolar disorder therapies",
     "pinned": false
   }
 ]
