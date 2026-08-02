@@ -330,6 +330,17 @@
     "pinned": false
   },
   {
+    "id": "c5c514edb775",
+    "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
+    "url": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-02",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Lilly was accused of charging \u201cgrossly\u201d excessive prices for different insulin products that forced some patients to ration or forego the drug.",
+    "pinned": false
+  },
+  {
     "id": "df48ba576b9d",
     "title": "Novo setback casts doubt on a new way to treat heart disease",
     "url": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
@@ -569,17 +580,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "An FDA advisory panel concluded clinical data for a Capricor treatment for Duchenne muscular dystrophy did not provide \u201csubstantial evidence\u201d of efficacy",
-    "pinned": false
-  },
-  {
-    "id": "606c0844a19a",
-    "title": "Ebola outbreak nears milestone, while a vaccine remains months away",
-    "url": "https://www.statnews.com/2026/07/30/health-news-ebola-outbreak-nears-milestone-but-vaccine-close/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-07-30",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds",
     "pinned": false
   },
   {
