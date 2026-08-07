@@ -165,6 +165,17 @@
     "pinned": false
   },
   {
+    "id": "a4e4b83a9fb1",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration\" hreflang=\"en\">VerilyMe, Bausch + Lomb visualize dry eye education in new collaboration</a>",
+    "url": "https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The partnership marks Basuch + Lomb's foray into the digital and AI healthcare space.",
+    "pinned": false
+  },
+  {
     "id": "f81960ca58a5",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle\" hreflang=\"en\">Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle</a>",
     "url": "https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle",
@@ -319,14 +330,47 @@
     "pinned": false
   },
   {
-    "id": "ab38597f09df",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/womens-new-health-ecosystem-takes-shape-reddit-report\" hreflang=\"en\">Women\u2019s \u2018new health ecosystem\u2019 takes shape on Reddit: report </a>",
-    "url": "https://www.fiercepharma.com/marketing/womens-new-health-ecosystem-takes-shape-reddit-report",
-    "source": "Fierce Pharma",
+    "id": "8a58ac02df1a",
+    "title": "Opinion: AI won\u2019t enhance physician autonomy. It will further diminish it",
+    "url": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-07",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Weber Shandwick and Reddit partnered up in a July report that aims to decode the \u201cnew health ecosystem\u201d and the modern women\u2019s health content discovery journey, which, as it turns out, takes place on Reddit.",
+    "summary": "\u201cAI is not the villain here; it is a mirror,\u201d reflecting the diminishment of physician judgment, writes former surgeon Frances Mei Hardin.",
+    "pinned": false
+  },
+  {
+    "id": "57060f032f2f",
+    "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
+    "url": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-07",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "\u201cIt was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,\u201d writes Daniel Jernigan.",
+    "pinned": false
+  },
+  {
+    "id": "516debecb6b8",
+    "title": "STAT+: He grew up near Boston, went to Harvard, and worked at MIT. Why did he found his startup in California?",
+    "url": "https://www.statnews.com/2026/08/07/why-did-this-boston-entrepreneur-found-his-biotech-startup-in-california/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-07",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech.",
+    "pinned": false
+  },
+  {
+    "id": "f53042bda60f",
+    "title": "Why Western pharma is sleeping on China\u2019s circular RNA revolution",
+    "url": "https://www.labiotech.eu/podcast/why-western-pharma-is-sleeping-on-chinas-circular-rna-revolution/",
+    "source": "Labiotech.eu",
+    "date": "2026-08-07",
+    "country": "Europe",
+    "category": "Company News",
+    "summary": "<p>The CEO of Therorna discusses the science of behind circular RNA and why Western pharma hasn't paid enough attention to what's being built in China.</p>\n<p>The post <a href=\"https://www.labiotech.eu/podcast/why-western-pharma-is-sleeping-on-chinas-circular-rna-revolution/\">Why",
     "pinned": false
   },
   {
@@ -539,39 +583,6 @@
     "pinned": false
   },
   {
-    "id": "9e2f9a0f3870",
-    "title": "STAT+: Biotech\u2019s next big bet: A Tenax study of a heart failure treatment",
-    "url": "https://www.statnews.com/2026/08/06/tenax-study-heart-failure-preview/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Tenax Therapeutics will soon report results from a Phase 3 study that is one of the biggest binary biotech stock events remaining in the sector this year.",
-    "pinned": false
-  },
-  {
-    "id": "0fa662709db9",
-    "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
-    "url": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here\u2019s what they\u2019re looking at.",
-    "pinned": false
-  },
-  {
-    "id": "5524418aff09",
-    "title": "Opinion: STAT+: Stop asking if AI is good for medicine",
-    "url": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Overgeneralizations about AI can slow down the adoption of tools that work.",
-    "pinned": false
-  },
-  {
     "id": "e9af579b5f49",
     "title": "Attovia adds to biotech IPO momentum with $289M offering",
     "url": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
@@ -723,17 +734,6 @@
     "country": "Europe",
     "category": "Policy",
     "summary": "<p>Our guest today is Martin Steiner, Managing Director of DEBRA Research, a non-profit organization with a mission: to make epidermolysis bullosa curable</p>\n<p>The post <a href=\"https://www.labiotech.eu/podcast/this-nonprofit-is-building-the-ecosystem-to-cure-epidermolysis-bull",
-    "pinned": false
-  },
-  {
-    "id": "00b03d23991c",
-    "title": "Is an HIV cure possible? The future of HIV therapy",
-    "url": "https://www.labiotech.eu/in-depth/hiv-cure-research/",
-    "source": "Labiotech.eu",
-    "date": "2026-07-22",
-    "country": "Europe",
-    "category": "Company News",
-    "summary": "<p>Delve into the field of HIV treatment development. Since the virus was discovered, treatments have improved, but are we close to a cure?</p>\n<p>The post <a href=\"https://www.labiotech.eu/in-depth/hiv-cure-research/\">Is an HIV cure possible? The future of HIV therapy</a> appear",
     "pinned": false
   }
 ]
