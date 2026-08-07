@@ -1,5 +1,60 @@
 [
   {
+    "id": "407f386c4eb8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint\" hreflang=\"en\">BioMarin axes $270M rare disease asset after missing phase 3 endpoint</a>",
+    "url": "https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint",
+    "source": "Fierce Biotech",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "BioMarin Pharmaceutical has ended development of BMN 401 in all indications months after reporting mixed phase 3 data on the rare disease prospect.",
+    "pinned": false
+  },
+  {
+    "id": "17b29c343827",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth\" hreflang=\"en\">\u2018It\u2019s been a roller coaster\u2019: Novo Nordisk\u2019s CFO reflects on \u2018pressure\u2019 to drive growth</a>",
+    "url": "https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth",
+    "source": "Fierce Biotech",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo\u2019s \u201croller coaster\u201d financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.",
+    "pinned": false
+  },
+  {
+    "id": "2c51c782d5fc",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond\" hreflang=\"en\">Novo Nordisk\u2019s CFO on the oral Wegovy rollout and beyond</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond",
+    "source": "Fierce Biotech",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novo Nordisk CFO Karsten Munk Knudsen joins \u201cThe Top Line\u201d to discuss oral Wegovy\u2019s rollout, the company\u2019s raised outlook, why he\u2019s still optimistic about CagriSema and more.",
+    "pinned": false
+  },
+  {
+    "id": "1e362d66077e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo\" hreflang=\"en\">Chutes &amp; Ladders\u2014BioNTech brings in Sobi CEO</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo",
+    "source": "Fierce Biotech",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "After a six-month wait, BioNTech has finally filled its vacant CEO spot with Guido Oelkers, Ph.D. Oelkers hails from his tenure as CEO of Swedish pharma Sobi, where he oversaw the licensing of the respiratory syncytial virus therapy Synagis from AstraZeneca, the $915 million acqu",
+    "pinned": false
+  },
+  {
+    "id": "3302f0dc93d2",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us\" hreflang=\"en\">Roche adds cyclospora PCR tests as outbreak widens</a>",
+    "url": "https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us",
+    "source": "Fierce Biotech",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Roche is launching new tests for cyclospora as an outbreak linked to iceberg lettuce from Mexico continues to spread across U.S. states.",
+    "pinned": false
+  },
+  {
     "id": "fa2b47c62555",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens\" hreflang=\"en\">PacBio CEO steps down as Q2 loss widens</a>",
     "url": "https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens",
@@ -110,58 +165,80 @@
     "pinned": false
   },
   {
-    "id": "74af5118dabb",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons\" hreflang=\"en\">Sanofi suspends chronic lung disease phase 2 study, tied to \u2018strategic business reasons\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/sanofi-suspends-chronic-lung-disease-phase-2-study-tied-strategic-business-reasons",
-    "source": "Fierce Biotech",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Sanofi halted a phase 2 trial testing a monoclonal antibody, SAR445399, in non-cystic fibrosis bronchiectasis, Fierce has learned.",
-    "pinned": false
-  },
-  {
-    "id": "c830a1fd883c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial\" hreflang=\"en\">Fecal transplant increases tolerance to peanuts sixfold in small food allergy trial</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fecal-transplant-increases-peanut-sensitivity-six-times-small-phase-1-trial",
-    "source": "Fierce Biotech",
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Lilly's Foundayo builds scripts after disappointing Q2</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
     "date": "2026-08-07",
     "country": "Global",
     "category": "Company News",
-    "summary": "Fecal transplants can increase tolerance to peanuts sixfold in people with food allergies, new research out of Boston Children\u2019s Hospital has suggested.",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
     "pinned": false
   },
   {
-    "id": "5b00e5fef1a5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-drops-another-gene-therapy-trial-1b-prevail-buyout\" hreflang=\"en\">Lilly drops another gene therapy trial from $1B Prevail buyout </a>",
-    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-drops-another-gene-therapy-trial-1b-prevail-buyout",
-    "source": "Fierce Biotech",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Eli Lilly has axed another trial of a gene therapy acquired in its $1 billion Prevail Therapeutics buyout, further denting the drugmaker\u2019s chances of delivering a return on its investment.",
-    "pinned": false
-  },
-  {
-    "id": "172e78827316",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/expedition-lands-115m-series-b-advance-phase-2-copd-trial\" hreflang=\"en\">Sanofi-backed Expedition uses $115M series B to advance COPD drug on phase 2 journey</a>",
-    "url": "https://www.fiercebiotech.com/biotech/expedition-lands-115m-series-b-advance-phase-2-copd-trial",
-    "source": "Fierce Biotech",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Expedition Therapeutics has secured an oversubscribed $115 million series B financing from a line-up of big-name investors to propel its lead DPP1 inhibitor through phase 2.",
-    "pinned": false
-  },
-  {
-    "id": "be35094dc7db",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-ceo-accepts-couple-setbacks-rd-cagrisema-posts-more-mixed-data\" hreflang=\"en\">Novo CEO accepts \u2018couple of setbacks\u2019 in R&amp;D as CagriSema posts more mixed data</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novo-ceo-accepts-couple-setbacks-rd-cagrisema-posts-more-mixed-data",
-    "source": "Fierce Biotech",
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: TransThera's homegrown asset wins China bile duct cancer nod</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
     "date": "2026-08-07",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Novo Nordisk\u2019s CEO admitted the Danish pharma has had \u201ca couple of setbacks\u201d in the wake of mixed data for CagriSema and its cardiovascular hopeful ziltivekimab, while stressing that the company is already on the hunt for bolt-on deals.",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "6d2bd694c8b4",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbvies-skyrizi-back-leading-drug-pharmas-ad-spending-league-july\" hreflang=\"en\">AbbVie\u2019s Skyrizi retakes edge in pharma\u2019s July ad spending league</a>",
+    "url": "https://www.fiercepharma.com/marketing/abbvies-skyrizi-back-leading-drug-pharmas-ad-spending-league-july",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "AbbVie retook the top spot from rival J&amp;J and its immunology drug Tremfya in July\u2019s top TV drug ad spending rankings.",
+    "pinned": false
+  },
+  {
+    "id": "629ac6954f43",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/novo-nordisk-makes-omnicom-agency-record-us-media-buying\" hreflang=\"en\">Novo Nordisk makes Omnicom agency of record for US media buying</a>",
+    "url": "https://www.fiercepharma.com/marketing/novo-nordisk-makes-omnicom-agency-record-us-media-buying",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novo Nordisk has made Omnicom the agency of record for U.S. media buying, ending the drugmaker\u2019s six-year partnership with WPP\u2019s Wavemaker.",
+    "pinned": false
+  },
+  {
+    "id": "24422cfa66c5",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/fresenius-kabi-recalls-mislabeled-morphine-lot-could-cause-overdose-death\" hreflang=\"en\">Fresenius Kabi recalls mislabeled morphine lot that could cause overdose death</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/fresenius-kabi-recalls-mislabeled-morphine-lot-could-cause-overdose-death",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fresenius Kabi voluntary recalled one lot of morphine sulfate injection due to a labelling mix-up with prefilled syringes of dilaudid that could trigger an overdose resulting in severe respiratory distress or death.",
+    "pinned": false
+  },
+  {
+    "id": "0b9f22897ec3",
+    "title": "<a href=\"https://www.fiercepharma.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth\" hreflang=\"en\">\u2018It\u2019s been a roller coaster\u2019: Novo Nordisk\u2019s CFO reflects on \u2018pressure\u2019 to drive growth</a>",
+    "url": "https://www.fiercepharma.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo\u2019s \u201croller coaster\u201d financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.",
+    "pinned": false
+  },
+  {
+    "id": "ceb505541f80",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/takeda-historic-narcolepsy-nod-daiichi-accounting-error-astellas-revenue-beat\" hreflang=\"en\">Fierce Pharma Asia\u2014Takeda\u2019s historic narcolepsy nod; Daiichi\u2019s accounting error; Astellas\u2019 revenue beat</a>",
+    "url": "https://www.fiercepharma.com/pharma/takeda-historic-narcolepsy-nod-daiichi-accounting-error-astellas-revenue-beat",
+    "source": "Fierce Pharma",
+    "date": "2026-08-07",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Takeda's first-in-class orexin treatment won an FDA nod for narcolepsy. Daiichi Sankyo faced investor pushback after admitting to an accounting error. Astellas booked a new quarterly revenue record. And more.",
     "pinned": false
   },
   {
@@ -177,7 +254,7 @@
   },
   {
     "id": "f81960ca58a5",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle\" hreflang=\"en\">Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle</a>",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle\" hreflang=\"en\">UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle</a>",
     "url": "https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle",
     "source": "Fierce Pharma",
     "date": "2026-08-07",
@@ -253,80 +330,58 @@
     "pinned": false
   },
   {
-    "id": "9d3ad55a0be4",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring\" hreflang=\"en\">Narcan maker Emergent BioSolutions eliminates top R&amp;D role in sweeping restructuring</a>",
-    "url": "https://www.fiercepharma.com/pharma/narcan-maker-emergent-biosolutions-eliminates-top-rd-role-sweeping-restructuring",
-    "source": "Fierce Pharma",
+    "id": "f8afa2ab3734",
+    "title": "\u2018Significant\u2019 demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
+    "url": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
+    "source": "BioPharma Dive",
     "date": "2026-08-07",
-    "country": "Global",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Early indicators from a compassionat",
+    "pinned": false
+  },
+  {
+    "id": "4fbadc63875f",
+    "title": "Latigo IPO raises nearly $350M for pain drug development",
+    "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-07",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "Two and a half years into his tenure as Emergent BioSolutions CEO, Joseph Papa is executing another round of restructuring to align the business with \u201ccurrent business realities.\u201d",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sBtYKKH5sscDVuLjDSQCOXakDVLL95AbneXd6jzxisM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA2NlhKLmpwZw==.webp\" /></div></figure><p>The company could rival Vertex and Lilly in the burgeoning market for non",
     "pinned": false
   },
   {
-    "id": "b5b1073431cf",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/astrazeneca-cspc-form-joint-venture-biologics-manufacturing\" hreflang=\"en\">AstraZeneca, CSPC to form joint venture for biologics manufacturing</a>",
-    "url": "https://www.fiercepharma.com/pharma/astrazeneca-cspc-form-joint-venture-biologics-manufacturing",
-    "source": "Fierce Pharma",
+    "id": "3260112ce1ef",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about Replimune\u2019s melanoma drug, a Medicare policy change, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/07/replimune-melanoma-drug-medicare-policy-change/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-07",
-    "country": "Global",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Eli Lilly and\u00a0Novo Nordisk convinced a federal judge to toss an antitrust lawsuit by a compound pharmacy",
+    "pinned": false
+  },
+  {
+    "id": "bdae6a5cb6a5",
+    "title": "Is the biotech capital of the world moving?",
+    "url": "https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-07",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Replimune finally wins FDA approval, the role of tau in Alzheimer's, and more biotech news from The Readout",
+    "pinned": false
+  },
+  {
+    "id": "3172f0ec56d6",
+    "title": "A third clinic settles with DOJ over trans care",
+    "url": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-07",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "AstraZeneca and CSPC Pharmaceutical are strengthening their partnership by establishing a new biologics manufacturing joint venture in China.",
-    "pinned": false
-  },
-  {
-    "id": "1126fbd977fc",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/alcon-survey-spots-gaps-teen-eye-care-ahead-back-school-season\" hreflang=\"en\">Alcon survey spots gaps in teen eye care ahead of back-to-school season</a>",
-    "url": "https://www.fiercepharma.com/marketing/alcon-survey-spots-gaps-teen-eye-care-ahead-back-school-season",
-    "source": "Fierce Pharma",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Alcon's back-to-school campaign for its Precision contact lenses looks to help eye doctors better reach their Gen Z patients.",
-    "pinned": false
-  },
-  {
-    "id": "550d5c069287",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/while-sales-lillys-obesity-pill-disappointed-q2-injectables-continue-boom\" hreflang=\"en\">Lilly\u2019s obesity pill Foundayo \u2018disappointed\u2019 in Q2, as injectables continue to boom</a>",
-    "url": "https://www.fiercepharma.com/pharma/while-sales-lillys-obesity-pill-disappointed-q2-injectables-continue-boom",
-    "source": "Fierce Pharma",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Eli Lilly reported $98 million in second-quarter sales for Foundayo, its newly launched oral GLP-1 treatment, lagging far behind rival Novo Nordisk's Wegovy pill.",
-    "pinned": false
-  },
-  {
-    "id": "2af7c001edee",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/novo-ceo-has-no-doubt-eventual-share-price-correction-wegovy-pill-continues-wow\" hreflang=\"en\">Novo CEO has 'no doubt' on eventual share price recovery as Wegovy pill continues to wow</a>",
-    "url": "https://www.fiercepharma.com/pharma/novo-ceo-has-no-doubt-eventual-share-price-correction-wegovy-pill-continues-wow",
-    "source": "Fierce Pharma",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Novo\u2019s Wegovy pill thesis continues to bear out in 2026, as the oral obesity med keeps impressive sales apace while sparing pre-existing prescriptions tied to the company\u2019s injectable GLP-1.",
-    "pinned": false
-  },
-  {
-    "id": "bed60bc271be",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/gilead-hiv-prep-franchise-hits-1b-quarterly-sales-analyst-questions-yeztugo-durability\" hreflang=\"en\">Gilead\u2019s HIV PrEP franchise hits $1B quarterly sales, but analysts question Yeztugo durability</a>",
-    "url": "https://www.fiercepharma.com/pharma/gilead-hiv-prep-franchise-hits-1b-quarterly-sales-analyst-questions-yeztugo-durability",
-    "source": "Fierce Pharma",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Gilead\u2019s HIV prevention business reached a milestone, exceeding $1 billion in quarterly sales for the first time, as highlighted by CEO Daniel O\u2019Day. But one group of analysts is raising doubts about the long-term growth of Yeztugo, the company\u2019s much-touted long-acting PrEP opti",
-    "pinned": false
-  },
-  {
-    "id": "1d39051e514a",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/no-discussions-ongoing-astrazeneca-bristol-myers-merger-reuters\" hreflang=\"en\">\u2018No discussions\u2019 ongoing for AstraZeneca-Bristol Myers merger: Reuters</a>",
-    "url": "https://www.fiercepharma.com/pharma/no-discussions-ongoing-astrazeneca-bristol-myers-merger-reuters",
-    "source": "Fierce Pharma",
-    "date": "2026-08-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "AstraZeneca and Bristol Myers Squibb do not have any ongoing discussions about a potential deal, Reuters reported Wednesday, citing a senior source close to the matter.",
+    "summary": "Anthony Fauci held in contempt, crackdowns on the organ donor network, and more health news from Morning Rounds",
     "pinned": false
   },
   {
@@ -550,39 +605,6 @@
     "pinned": false
   },
   {
-    "id": "6bef0c27957a",
-    "title": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
-    "url": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThe United States invented this platform and is the only country walking away from it,\u201d Jeff Coller writes of mRNA vaccines.",
-    "pinned": false
-  },
-  {
-    "id": "a9b63de25f5a",
-    "title": "Covid can reactivate dormant viruses, according to study",
-    "url": "https://www.statnews.com/2026/08/06/health-news-covid-can-reactivate-dormant-viruses-study-finds/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A CDC director officially confirmed, Moderna's mRNA flu shot approved, and other health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "9e35181fd654",
-    "title": "STAT+: A scientist-turned-biotech executive is notching some wins, and enjoying it",
-    "url": "https://www.statnews.com/2026/08/06/greg-verdine-lifemine-parabilis-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Scientist-turned-biotech executive Greg Verdine is having a very good year.",
-    "pinned": false
-  },
-  {
     "id": "e9af579b5f49",
     "title": "Attovia adds to biotech IPO momentum with $289M offering",
     "url": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
@@ -591,28 +613,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The startup is the 12th drug company to bank at least",
-    "pinned": false
-  },
-  {
-    "id": "87c53c7a301e",
-    "title": "Lilly climbs, Novo falls as obesity drug battle intensifies",
-    "url": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sHvIDEWnHWODDKUtbWbg7nZxoWKQNqB4C54nc9z4iH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc4ODI5MzYyLmpwZw==.webp\" /></div></figure><p>A research disappointment and a miss on Wegovy pill s",
-    "pinned": false
-  },
-  {
-    "id": "49cf4b0167f5",
-    "title": "Earnings roundup: Gilead\u2019s \u2018uncertain\u2019 future, Pfizer\u2019s crossroads and Merck\u2019s PCSK9 launch",
-    "url": "https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-05",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mI8215DypfiYE1l4g8hCyrzHmt9_JeZz4qT2ldYuSpI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDcyMTMyNTIuanBn.webp\" /></div></figure><p>Some analysts see warning signs in crucial drug launches ",
     "pinned": false
   },
   {
