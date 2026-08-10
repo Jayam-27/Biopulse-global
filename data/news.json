@@ -1,5 +1,27 @@
 [
   {
+    "id": "76b4a3d1c437",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program\" hreflang=\"en\">Arpeggio plays final chord as biotech disbands on poor prospects for Nrf2 program</a>",
+    "url": "https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Arpeggio Biosciences\u2019 eight-year song has come to an end as the transcriptome biotech\u2019s CEO admitted the company\u2019s Nrf2 program had started to \u201cunravel.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "2d33a6478091",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/atyr-lays-60-workforce-fund-2nd-attempt-phase-3-success-lung-disease-drug\" hreflang=\"en\">aTyr lays off 60% of workforce to fund 2nd attempt at phase 3 success for lung disease drug</a>",
+    "url": "https://www.fiercebiotech.com/biotech/atyr-lays-60-workforce-fund-2nd-attempt-phase-3-success-lung-disease-drug",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Sixty per cent of aTyr Pharma\u2019s workforce are heading for the exits as the biotech conserves resources for a second shot at phase 3 success in a type of lung disease.",
+    "pinned": false
+  },
+  {
     "id": "555831b65f3b",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy\" hreflang=\"en\">Ensoma sheds more staff, pauses preclinical programs to home in on lead gene therapy</a>",
     "url": "https://www.fiercebiotech.com/biotech/ensoma-sheds-more-staff-pauses-preclinical-programs-home-lead-gene-therapy",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "pinned": false
-  },
-  {
-    "id": "aa747c7950f4",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/braveheart-charges-past-expectations-3825m-ipo-fund-cardio-drug-hengrui\" hreflang=\"en\">Braveheart charges past expectations with $382.5M IPO to fund cardio drug from Hengrui</a>",
-    "url": "https://www.fiercebiotech.com/biotech/braveheart-charges-past-expectations-3825m-ipo-fund-cardio-drug-hengrui",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Braveheart Bio has overcome its own IPO expectations, rallying $382.5 million in an upsized listing to fund its cardiovascular ambitions.",
-    "pinned": false
-  },
-  {
-    "id": "cdff40ae2426",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/actimed-gets-back-rights-wasting-disease-drug-ending-126m-deal-faraday\" hreflang=\"en\">Actimed gets back rights to wasting disease drug, ending $126M deal with Faraday</a>",
-    "url": "https://www.fiercebiotech.com/biotech/actimed-gets-back-rights-wasting-disease-drug-ending-126m-deal-faraday",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Actimed Therapeutics has brought the full rights to its wasting disease drug back in-house, securing \u201cstrategic control\u201d over the asset but losing out on a shot at over $120 million in biobucks.",
     "pinned": false
   },
   {
@@ -327,6 +327,61 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Fujifilm Biotechnologies passed the leadership reins to Maja Pedersen, adding president to her current role as COO while former Chief Executive Lars Petersen transitions to a strategic advisor position.<br />",
+    "pinned": false
+  },
+  {
+    "id": "e78a73482b6f",
+    "title": "Regulatory operations: The overlooked half of submission readiness",
+    "url": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<p>Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application.</p>",
+    "pinned": false
+  },
+  {
+    "id": "34fe5ee135a3",
+    "title": "STAT+: China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival\u2019s speed",
+    "url": "https://www.statnews.com/2026/08/10/china-biotech-new-scrutiny-investigator-initiated-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "China has tightened regulations on investigator-initiated trials, with consequences not just for Chinese researchers but some Americans, too.",
+    "pinned": false
+  },
+  {
+    "id": "431599c61957",
+    "title": "Opinion: We prepared for Ebola \u2014 but not this Ebola",
+    "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundiugyo-diagnostics-therapeutics/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "\u201cPreparedness cannot mean optimizing every investment for yesterday's epidemic,\u201d write Krutika Kuppalli and Placide Mbala.",
+    "pinned": false
+  },
+  {
+    "id": "610aa4952cb4",
+    "title": "STAT+: The promise of radiopharmaceuticals smacks into safety concerns",
+    "url": "https://www.statnews.com/2026/08/10/radiopharmaceuticals-clinical-trials-progress-setbacks/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Despite excitement over the potential of radiopharmaceuticals as cancer treatments, drug developers are hitting new hurdles.",
+    "pinned": false
+  },
+  {
+    "id": "93585cbe87b0",
+    "title": "Opinion: How should states reach out to Medicaid enrollees affected by changes? Our research gives a hint",
+    "url": "https://www.statnews.com/2026/08/10/medicaid-work-requirement-changes-states-contact/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?",
     "pinned": false
   },
   {
@@ -569,61 +624,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "The FDA approved Replimune\u2019s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga.",
-    "pinned": false
-  },
-  {
-    "id": "f8dc44fb16ef",
-    "title": "STAT+: Medicare quietly gave blockbuster AbbVie drug seven extra years before price negotiations, advocacy group asserts",
-    "url": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Policy",
-    "summary": "A little-noticed government policy shift caused a seven-year delay in choosing a costly medicine for Medicare price negotiations, an advocacy group says.",
-    "pinned": false
-  },
-  {
-    "id": "e259b4ef397c",
-    "title": "STAT+: Study reveals new role for tau, a top target for Alzheimer\u2019s drug development",
-    "url": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The protein tau is top target for Alzheimer\u2019s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration.",
-    "pinned": false
-  },
-  {
-    "id": "73fd4208fe5f",
-    "title": "STAT+: Two FDA approvals \u2014 a new drug and a new vaccine",
-    "url": "https://www.statnews.com/2026/08/06/biotech-news-two-fda-approvals-a-new-drug-and-a-new-vaccine/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Takeda's narcolepsy drug approved, the first mRNA flu shot approved, and more biotech updates from The Readout",
-    "pinned": false
-  },
-  {
-    "id": "263c11280d5e",
-    "title": "U.S. moves to shut a Kentucky organ donation group, citing safety failures",
-    "url": "https://www.statnews.com/2026/08/06/us-to-shut-kentucky-organ-donation-group-safety-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The U.S. moves to shut a Kentucky organ donation group that's been accused of continuing plans for organ retrieval from some patients who unexpectedly\u00a0showed signs of life.",
-    "pinned": false
-  },
-  {
-    "id": "e9af579b5f49",
-    "title": "Attovia adds to biotech IPO momentum with $289M offering",
-    "url": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-05",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The startup is the 12th drug company to bank at least",
     "pinned": false
   },
   {
