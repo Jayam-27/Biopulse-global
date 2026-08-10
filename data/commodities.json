@@ -5,9 +5,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per barrel",
-    "price": 80.96,
+    "price": 82.14,
     "currency": "USD",
-    "change_pct": 2.73
+    "change_pct": 4.23
   },
   {
     "symbol": "NG=F",
@@ -15,9 +15,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per MMBtu",
-    "price": 2.79,
+    "price": 2.78,
     "currency": "USD",
-    "change_pct": 2.2
+    "change_pct": 1.76
   },
   {
     "symbol": "ZC=F",
@@ -25,9 +25,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per bushel",
-    "price": 460.25,
+    "price": 462.0,
     "currency": "USX",
-    "change_pct": -1.07
+    "change_pct": -0.7
   },
   {
     "symbol": "ZS=F",
@@ -35,9 +35,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per bushel",
-    "price": 1178.75,
+    "price": 1180.25,
     "currency": "USX",
-    "change_pct": -0.38
+    "change_pct": -0.25
   },
   {
     "symbol": "ZW=F",
@@ -45,9 +45,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per bushel",
-    "price": 644.5,
+    "price": 639.5,
     "currency": "USX",
-    "change_pct": -1.23
+    "change_pct": -1.99
   },
   {
     "symbol": "HG=F",
@@ -55,9 +55,9 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per pound",
-    "price": 6.64,
+    "price": 6.63,
     "currency": "USD",
-    "change_pct": 0.67
+    "change_pct": 0.57
   },
   {
     "symbol": "SB=F",
@@ -65,8 +65,8 @@
     "date": "2026-08-10",
     "live": true,
     "unit": "per pound",
-    "price": 16.47,
+    "price": 16.46,
     "currency": "USX",
-    "change_pct": -0.12
+    "change_pct": -0.18
   }
 ]

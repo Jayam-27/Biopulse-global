@@ -78,13 +78,13 @@
   },
   {
     "id": "cc5ca4c42911",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths\" hreflang=\"en\">FDA issues alert in wake of BD recall of faulty needle sets that caused four deaths</a>",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths\" hreflang=\"en\">FDA issues alert in wake of BD recall of faulty needle sets that caused 4 deaths</a>",
     "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths",
     "source": "Fierce Biotech",
     "date": "2026-08-10",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA\u2019s Center for Devices and Radiological Health issued an early alert for Becton Dickson\u2019s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.<br />",
+    "summary": "The FDA\u2019s Center for Devices and Radiological Health issued an early alert for Becton Dickinson\u2019s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.<br />",
     "pinned": false
   },
   {
@@ -95,7 +95,7 @@
     "date": "2026-08-10",
     "country": "Global",
     "category": "Company News",
-    "summary": "Novo Nordisk and Amazon Web Services  will partner to leverage AI and accelerate drug discovery.",
+    "summary": "Novo Nordisk and Amazon Web Services will partner to leverage AI and accelerate drug discovery.",
     "pinned": false
   },
   {
@@ -128,7 +128,7 @@
     "date": "2026-08-10",
     "country": "Global",
     "category": "Company News",
-    "summary": "Arpeggio Biosciences\u2019 eight-year song has come to an end as the transcriptome biotech\u2019s CEO admitted the company\u2019s Nrf2 program had started to \u201cunravel.\u201d",
+    "summary": "Arpeggio Biosciences\u2019 eight-year song has come to an end, as the transcriptome biotech\u2019s CEO admitted the that company\u2019s Nrf2 program had begun to \u201cunravel.\u201d",
     "pinned": false
   },
   {
@@ -162,6 +162,17 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Two growing biotechs blasted through their IPO expectations Friday, with Blossom Hill Therapeutics and Latigo Biotherapeutics each raising at least 30% more than expected in their stock market debuts.",
+    "pinned": false
+  },
+  {
+    "id": "72dc5759f952",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
+    "source": "Fierce Pharma",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has denied ITM Isotopes Technologies\u2019 lead pipeline candidate for a rare group of tumors due to qualms over the drug\u2019s manufacturing.",
     "pinned": false
   },
   {
@@ -206,6 +217,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Life sciences leaders are rethinking patient support as AI, connected data and trust reshape engagement.",
+    "pinned": false
+  },
+  {
+    "id": "2a1fca0c15c7",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/inizio-engage-expands-medical-information-digs-connected-insights-platform\" hreflang=\"en\">Inizio Engage expands medical information digs with Connected Insights platform</a>",
+    "url": "https://www.fiercepharma.com/marketing/inizio-engage-expands-medical-information-digs-connected-insights-platform",
+    "source": "Fierce Pharma",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The new platform bolsters Inizio Engage's medical information capabilities with expanded global infrastructure and AI-enabled innovation.",
     "pinned": false
   },
   {
@@ -298,7 +320,7 @@
   },
   {
     "id": "a4e4b83a9fb1",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration\" hreflang=\"en\">VerilyMe, Bausch + Lomb visualize dry eye education in new collaboration</a>",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration\" hreflang=\"en\">Verily Me, Bausch + Lomb visualize dry eye education in new collaboration</a>",
     "url": "https://www.fiercepharma.com/marketing/verilyme-bausch-lomb-visualize-dry-eye-education-new-collaboration",
     "source": "Fierce Pharma",
     "date": "2026-08-10",
@@ -308,25 +330,36 @@
     "pinned": false
   },
   {
-    "id": "f81960ca58a5",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle\" hreflang=\"en\">UPDATED: Replimune secures FDA approval for melanoma therapy Tudriqev after long regulatory battle</a>",
-    "url": "https://www.fiercepharma.com/pharma/replimune-secures-fda-approval-melanoma-therapy-tudriqev-after-long-regulatory-battle",
-    "source": "Fierce Pharma",
+    "id": "0c826f5df7df",
+    "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
+    "url": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
+    "source": "BioPharma Dive",
     "date": "2026-08-10",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "In a remarkable turnaround, Replimune has reversed the fortune of its melanoma therapy, winning FDA approval after two prior rejections and agency leadership shakeups.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Sionna&rsquo;s medicine didn&rsquo;t have a meaningful additive impact when combined with Vertex&rsquo;s top-selling Trikafta, surprising analysts and collapsing company shares.</p>",
     "pinned": false
   },
   {
-    "id": "d7f5b64325dd",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/sarepta-new-ceo-michael-severino-faces-critical-tests-prove-growth\" hreflang=\"en\">Sarepta\u2019s new CEO Michael Severino faces critical milestones to prove growth</a>",
-    "url": "https://www.fiercepharma.com/pharma/sarepta-new-ceo-michael-severino-faces-critical-tests-prove-growth",
-    "source": "Fierce Pharma",
+    "id": "b33d4445885c",
+    "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
+    "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
+    "source": "BioPharma Dive",
     "date": "2026-08-10",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "In his first earnings call just days after becoming Sarepta Therapeutics' CEO, Michael Severino recognized that the rare disease drugmaker faces multiple upcoming milestones that will clarify its growth trajectory.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/T7hnewE95PevFk5x8i1t_MZ8d2oPmhYt1SHLJiP9taU/g:nowe:0:1189/c:4032:2278/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNjMyOF9pOUFFbXNBLmpwZw==.webp\" /></div></figure><p>Actio Biosciences, which will receive $8",
+    "pinned": false
+  },
+  {
+    "id": "27225eaf4c4d",
+    "title": "Scribe\u2019s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
+    "url": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/910G0clhEim3sSvLKwB1mnOSyGDvDZ1j0rrpwWJbMh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg1Njc0ODg3X1lpcDh0VUcuanBn.webp\" /></div></figure><p>The CEO spoke with BioPharma Dive about convi",
     "pinned": false
   },
   {
@@ -341,6 +374,17 @@
     "pinned": false
   },
   {
+    "id": "0fc90a61c957",
+    "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
+    "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
+    "pinned": false
+  },
+  {
     "id": "e7e91f0be87e",
     "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
     "url": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
@@ -348,7 +392,7 @@
     "date": "2026-08-10",
     "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has rejected a radiopharmaceutical therapy due to manufacturing issues, halting what would have been a competitor for Novartis.",
+    "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis.",
     "pinned": false
   },
   {
@@ -506,6 +550,17 @@
     "pinned": false
   },
   {
+    "id": "88c40f110608",
+    "title": "Why Big Pharma is chasing the industry\u2019s most-powerful supercomputer",
+    "url": "https://www.biopharmadive.com/news/big-pharma-nvidia-ai-supercomputer-drug-research/827406/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HJxAxkjAmEQpoPkrIs4BZBKDuQMoLwSGjSNQi1fZyjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaGFybWEtQUktc3VwZXJjb21wdXRlcnMuanBn.webp\" /></div></figure><p>Bristol Myers Squibb is the latest major drugmaker to",
+    "pinned": false
+  },
+  {
     "id": "4fbadc63875f",
     "title": "Latigo IPO raises nearly $350M for pain drug development",
     "url": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
@@ -525,17 +580,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "\u201cTo blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,\u201d writes David&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "352afc00fba7",
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/08/07/up-and-down-ladder-latest-comings-and-goings-jobs-pharma-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
     "pinned": false
   },
   {
@@ -591,50 +635,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp\" /></div></figure><p>An FDA nod mostly clears the way for Orzeyful",
-    "pinned": false
-  },
-  {
-    "id": "e4fc12510f19",
-    "title": "Erica Schwartz confirmed as next CDC director",
-    "url": "https://www.biopharmadive.com/news/erica-schwartz-cdc-director-senate-confirm-vaccines-rfk/827188/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FRz0hyYJzq_VHxY6_TSGoyLVdgQDdCWNnIGL8LEUd4I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg2MjMwODM0LmpwZw==.webp\" /></div></figure><p>Schwartz will step into an agency that has been witho",
-    "pinned": false
-  },
-  {
-    "id": "e28d5b34f707",
-    "title": "With $263M, LifeMine unearths a new drug for organ transplants",
-    "url": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WMyehG1wCK4NxcTNs0cAYR2MqWTRxl3jfAMj5fulo0Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTI4OTQ0MzVfMS5qcGc=.webp\" /></div></figure><p>Led by serial biotech entrepreneur Greg Verdine, the ",
-    "pinned": false
-  },
-  {
-    "id": "ed79783fcdcf",
-    "title": "FDA approves Moderna\u2019s mRNA flu vaccine",
-    "url": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CkUxnyfQm3Zx49okGV82WTc-N-bBWUdwiWdUqsJeI50/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Nb2Rlcm5hX1Bob3RvXzEuSlBH.webp\" /></div></figure><p>The clearance paves the way for the first preventive flu shot bas",
-    "pinned": false
-  },
-  {
-    "id": "a24237a58c20",
-    "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
-    "url": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<p>Braveheart is one of five biotechnology firms that made plans to price an IPO this week. They could collectively raise more than $1 billion from public investors.</p>",
     "pinned": false
   },
   {
