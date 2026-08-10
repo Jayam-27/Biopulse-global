@@ -1,5 +1,126 @@
 [
   {
+    "id": "9577ad521a0a",
+    "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
+    "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has denied ITM Isotopes Technologies\u2019 lead pipeline candidate for a rare group of tumors due to qualms over the drug\u2019s manufacturing.",
+    "pinned": false
+  },
+  {
+    "id": "fadb0871ecc5",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis\" hreflang=\"en\">MoonLake\u2019s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "MoonLake Immunotherapeutics announced positive phase 3 data of patients with psoriatic arthritis treated with its lead nanobody candidate, sonelokimab.",
+    "pinned": false
+  },
+  {
+    "id": "b193b5e10201",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences\" hreflang=\"en\">Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies</a>",
+    "url": "https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Jazz Pharmaceuticals is adding to its orchestra of epilepsy treatments with the acquisition of Actio Biosciences for $820 million upfront.",
+    "pinned": false
+  },
+  {
+    "id": "0cc14b38e9e3",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug\" hreflang=\"en\">Scholar Rock ditches Novo\u2019s legacy Catalent plant in FDA refiling of SMA drug</a>",
+    "url": "https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Scholar Rock has dropped Novo Nordisk\u2019s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as \u201cOfficial Action Indicated.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "e79fd12f5677",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex\" hreflang=\"en\">Sionna\u2019s cystic fibrosis flop sends stock down 90%, but a \u2018significant positive\u2019 for Vertex</a>",
+    "url": "https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Sionna Therapeutics has axed a cystic fibrosis add-on program after flunking a phase 2 trial, eliminating a would-be challenger to Vertex Pharmaceuticals\u2019 empire. The biotech plans to \u201ctake actions to preserve capital while evaluating next steps.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "8f655df480bc",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic\" hreflang=\"en\">Labcorp nabs FDA green light for BRAF melanoma diagnostic </a>",
+    "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has signed off on Labcorp\u2019s companion diagnostic for patients with advanced melanoma carrying certain BRAF variants.",
+    "pinned": false
+  },
+  {
+    "id": "5d1cc4e60f17",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice\" hreflang=\"en\">AbCellera women\u2019s health data top \u2018most aggressive upside scenario,\u2019 putting Astellas and Bayer on notice</a>",
+    "url": "https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "AbCellera has reported phase 2 results \u201cbeyond even the most aggressive upside scenario\u201d that its CEO dared to consider, boosting the biotech\u2019s chances of challenging Astellas and Bayer for a women\u2019s health market.",
+    "pinned": false
+  },
+  {
+    "id": "cc5ca4c42911",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths\" hreflang=\"en\">FDA issues alert in wake of BD recall of faulty needle sets that caused four deaths</a>",
+    "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA\u2019s Center for Devices and Radiological Health issued an early alert for Becton Dickson\u2019s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.<br />",
+    "pinned": false
+  },
+  {
+    "id": "5b4141d6af7a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub\" hreflang=\"en\">Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Novo Nordisk and Amazon Web Services  will partner to leverage AI and accelerate drug discovery.",
+    "pinned": false
+  },
+  {
+    "id": "129a02457874",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win\" hreflang=\"en\">Silence brings the noise to Takeda with phase 2 blood cancer win</a>",
+    "url": "https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2 trial of Silence Therapeutics\u2019 divesiran has hit its primary endpoint, emboldening the biotech to gear up for late-phase development of a potential challenger to Takeda and Protagonist Therapeutics\u2019 rusfertide.",
+    "pinned": false
+  },
+  {
+    "id": "6dd42f8d7d8b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sobi-pens-580m-deal-innates-skin-cancer-drug-ahead-phase-3-push\" hreflang=\"en\">Sobi pens $580M deal for Innate\u2019s skin cancer drug ahead of phase 3 push</a>",
+    "url": "https://www.fiercebiotech.com/biotech/sobi-pens-580m-deal-innates-skin-cancer-drug-ahead-phase-3-push",
+    "source": "Fierce Biotech",
+    "date": "2026-08-10",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Sobi has bought into Innate Pharma\u2019s vision for lacutamab, handing the French biotech $75 million upfront for the rights to market the anti-KIR3DL2 antibody for an aggressive skin cancer.",
+    "pinned": false
+  },
+  {
     "id": "76b4a3d1c437",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program\" hreflang=\"en\">Arpeggio plays final chord as biotech disbands on poor prospects for Nrf2 program</a>",
     "url": "https://www.fiercebiotech.com/biotech/arpeggio-plays-final-chord-biotech-disbands-poor-prospects-nrf2-program",
@@ -44,124 +165,36 @@
     "pinned": false
   },
   {
-    "id": "407f386c4eb8",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint\" hreflang=\"en\">BioMarin axes $270M rare disease asset after missing phase 3 endpoint</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biomarin-axes-270m-rare-disease-asset-after-missing-phase-3-endpoint",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "BioMarin Pharmaceutical has ended development of BMN 401 in all indications months after reporting mixed phase 3 data on the rare disease prospect.",
-    "pinned": false
-  },
-  {
-    "id": "17b29c343827",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth\" hreflang=\"en\">\u2018It\u2019s been a roller coaster\u2019: Novo Nordisk\u2019s CFO reflects on \u2018pressure\u2019 to drive growth</a>",
-    "url": "https://www.fiercebiotech.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo\u2019s \u201croller coaster\u201d financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.",
-    "pinned": false
-  },
-  {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Ensoma sheds more staff; Emergent lays off 93 employees</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
+    "id": "2f6465616d7e",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/bristol-myers-squibb-lays-out-plan-23b-manufacturing-facility-houston\" hreflang=\"en\">Bristol Myers Squibb lays out plan for $2.3B manufacturing facility in Houston</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/bristol-myers-squibb-lays-out-plan-23b-manufacturing-facility-houston",
+    "source": "Fierce Pharma",
     "date": "2026-08-10",
     "country": "Global",
     "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "summary": "Bristol Myers Squibb has laid out plans for a $2.3 billion manufacturing facility in Houston, set for completion in 2030. The plant will cover 600,000 square feet and employ nearly 500 people.",
     "pinned": false
   },
   {
-    "id": "2c51c782d5fc",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond\" hreflang=\"en\">Novo Nordisk\u2019s CFO on the oral Wegovy rollout and beyond</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novo-nordisks-cfo-oral-wegovy-rollout-and-beyond",
-    "source": "Fierce Biotech",
+    "id": "bb74d8c888a4",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug\" hreflang=\"en\">Scholar Rock ditches Novo\u2019s legacy Catalent plant in FDA refiling of SMA drug</a>",
+    "url": "https://www.fiercepharma.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
+    "source": "Fierce Pharma",
     "date": "2026-08-10",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Novo Nordisk CFO Karsten Munk Knudsen joins \u201cThe Top Line\u201d to discuss oral Wegovy\u2019s rollout, the company\u2019s raised outlook, why he\u2019s still optimistic about CagriSema and more.",
+    "summary": "Scholar Rock has dropped Novo Nordisk\u2019s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as \u201cOfficial Action Indicated.\u201d",
     "pinned": false
   },
   {
-    "id": "1e362d66077e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo\" hreflang=\"en\">Chutes &amp; Ladders\u2014BioNTech brings in Sobi CEO</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-biontech-brings-sobi-ceo",
-    "source": "Fierce Biotech",
+    "id": "f871d75b1874",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer\" hreflang=\"en\">Quanterix hires GE Healthcare, Exact Sciences alum as chief commercial officer</a>",
+    "url": "https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer",
+    "source": "Fierce Pharma",
     "date": "2026-08-10",
     "country": "Global",
     "category": "Company News",
-    "summary": "After a six-month wait, BioNTech has finally filled its vacant CEO spot with Guido Oelkers, Ph.D. Oelkers hails from his tenure as CEO of Swedish pharma Sobi, where he oversaw the licensing of the respiratory syncytial virus therapy Synagis from AstraZeneca, the $915 million acqu",
-    "pinned": false
-  },
-  {
-    "id": "3302f0dc93d2",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us\" hreflang=\"en\">Roche adds cyclospora PCR tests as outbreak widens</a>",
-    "url": "https://www.fiercebiotech.com/medtech/roche-boosts-cyclospora-testing-offerings-outbreak-widens-across-us",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Roche is launching new tests for cyclospora as an outbreak linked to iceberg lettuce from Mexico continues to spread across U.S. states.",
-    "pinned": false
-  },
-  {
-    "id": "fa2b47c62555",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens\" hreflang=\"en\">PacBio CEO steps down amid layoffs, widening Q2 loss</a>",
-    "url": "https://www.fiercebiotech.com/medtech/pacbio-ceo-steps-down-q2-loss-widens",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "PacBio has promoted an internal veteran to CEO after Christian Henry stepped down, tasking the new leader with improving sales, expanding the DNA sequencing company\u2019s clinical reach and cutting costs.",
-    "pinned": false
-  },
-  {
-    "id": "fe60f43873ae",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial\" hreflang=\"en\">Double shot of Vistagen\u2019s anxiety nasal spray can\u2019t beat placebo in ph. 2 trial</a>",
-    "url": "https://www.fiercebiotech.com/biotech/double-shot-vistagens-anxiety-nasal-spray-cant-beat-placebo-ph-2-trial",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Following a string of clinical setbacks, Vistagen\u2019s nasal spray for social anxiety has now failed to top placebo even when given as a double dose. But just like with prior disappointing readouts, the biotech has set its sights on a subpopulation it says may provide a path to FDA ",
-    "pinned": false
-  },
-  {
-    "id": "0aa44457943b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug\" hreflang=\"en\">Tarsus pays $450M for Alkeus and its phase 3-stage retinal disease drug</a>",
-    "url": "https://www.fiercebiotech.com/biotech/tarsus-stakes-450m-alkeus-phase-3-retinal-disease-drug",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Tarsus Pharmaceuticals is fronting $450 million to acquire Alkeus Pharmaceuticals for its phase 3-stage retinal disease therapy that's being touted as a potential blockbuster.",
-    "pinned": false
-  },
-  {
-    "id": "b26a59c171e6",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program\" hreflang=\"en\">BioVie\u2019s stock sinks 50% as company uses composite endpoint to make case for Parkinson\u2019s program</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biovie-uses-composite-endpoint-make-case-parkinsons-program",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "BioVie has hailed phase 2 data as evidence that bezisterim could represent a \u201cmeaningful advance\u201d in the treatment of Parkinson\u2019s disease. But the biotech focused on a new composite measure, rather than its stated primary endpoint, and emphasized outcomes in a subpopulation of pa",
-    "pinned": false
-  },
-  {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: LifeMine raises $188M; Expedition encounters $115M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "summary": "Quanterix has hired medtech veteran Jim Gute as chief commercial officer, bringing him over from Exact Sciences after an earlier 18-year career at GE Healthcare.",
     "pinned": false
   },
   {
@@ -297,39 +330,6 @@
     "pinned": false
   },
   {
-    "id": "51516fefd92e",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/takeda-gains-fda-nod-first-class-narcolepsy-treatment-orzeyful\" hreflang=\"en\">Takeda gains FDA nod for first-in-class narcolepsy treatment Orzeyful</a>",
-    "url": "https://www.fiercepharma.com/pharma/takeda-gains-fda-nod-first-class-narcolepsy-treatment-orzeyful",
-    "source": "Fierce Pharma",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "After coming up short with two OX2R agonists, Takeda has scored with oveporexton, gaining FDA approval for the first-in-class drug as a treatment for adults with narcolepsy type 1. Orzeyful, as it will be known commercially, becomes the first medicine to address the root cause of",
-    "pinned": false
-  },
-  {
-    "id": "b21cf20fe841",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/viiv-rolls-out-long-acting-hiv-campaign-targeting-future-you\" hreflang=\"en\">ViiV rolls out long-acting HIV campaign targeting \u2018future you\u2019 </a>",
-    "url": "https://www.fiercepharma.com/marketing/viiv-rolls-out-long-acting-hiv-campaign-targeting-future-you",
-    "source": "Fierce Pharma",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "ViiV Healthcare is urging people to think about how today\u2019s HIV prevention and treatment choices could shape their future. Its new \u201cDo It For Future You\u201d campaign spotlights long-acting options through a digital push that will expand to out-of-home advertising later this summer.",
-    "pinned": false
-  },
-  {
-    "id": "8cb7c78ccc8e",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/pedersen-named-president-takes-reins-fujifilm-ceo-role-retired\" hreflang=\"en\">Maja Pedersen named president, taking reins of Fujifilm's CDMO as CEO role is retired</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/pedersen-named-president-takes-reins-fujifilm-ceo-role-retired",
-    "source": "Fierce Pharma",
-    "date": "2026-08-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Fujifilm Biotechnologies passed the leadership reins to Maja Pedersen, adding president to her current role as COO while former Chief Executive Lars Petersen transitions to a strategic advisor position.<br />",
-    "pinned": false
-  },
-  {
     "id": "e78a73482b6f",
     "title": "Regulatory operations: The overlooked half of submission readiness",
     "url": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
@@ -338,6 +338,94 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<p>Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application.</p>",
+    "pinned": false
+  },
+  {
+    "id": "e7e91f0be87e",
+    "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+    "url": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has rejected a radiopharmaceutical therapy due to manufacturing issues, halting what would have been a competitor for Novartis.",
+    "pinned": false
+  },
+  {
+    "id": "4257a48d498b",
+    "title": "FDA to require notice of additives in food supply for the first time",
+    "url": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews.",
+    "pinned": false
+  },
+  {
+    "id": "85e2fe9632b8",
+    "title": "STAT+: Ban prior auth? And hospitals cut jobs",
+    "url": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
+    "pinned": false
+  },
+  {
+    "id": "060a80dc4c46",
+    "title": "STAT+: FDA panel to weigh Grail\u2019s Galleri test",
+    "url": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout",
+    "pinned": false
+  },
+  {
+    "id": "46fa55da0b00",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a Sanofi drug shortage, a Jazz Pharma deal, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues",
+    "pinned": false
+  },
+  {
+    "id": "a23391d5fab0",
+    "title": "STAT+: Sionna\u2019s experimental cystic fibrosis pill falls flat in mid-stage trial",
+    "url": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A pill from Sionna Therapeutics provided no added benefit when combined with Vertex's cystic fibrosis blockbuster Trikafta, a blow to the biotech.",
+    "pinned": false
+  },
+  {
+    "id": "8e55be389c5a",
+    "title": "STAT+: Heart failure drug from Tenax Therapeutics fails in pivotal study",
+    "url": "https://www.statnews.com/2026/08/10/tenax-heart-failure-drug-trail-failure-levosimendan-ph-hfpef/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A Tenax Therapeutics drug designed to treat a type of heart failure associated with high blood pressure in the lungs failed in a closely watched study.",
+    "pinned": false
+  },
+  {
+    "id": "4e3fa914842b",
+    "title": "STAT+: Silence Therapeutics aims at Takeda with new data in rare blood cancer",
+    "url": "https://www.statnews.com/2026/08/10/silence-polycythemia-vera-trial-results-divesiran-takeda-rusfertide/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A rare blood cancer drug from Silence Therapeutics showed strong results in a trial, potentially setting it up to compete with a Takeda medicine.",
     "pinned": false
   },
   {
@@ -352,9 +440,9 @@
     "pinned": false
   },
   {
-    "id": "431599c61957",
+    "id": "aa09d676b3a5",
     "title": "Opinion: We prepared for Ebola \u2014 but not this Ebola",
-    "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundiugyo-diagnostics-therapeutics/?utm_campaign=rss",
+    "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
     "source": "STAT News",
     "date": "2026-08-10",
     "country": "US",
@@ -382,6 +470,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?",
+    "pinned": false
+  },
+  {
+    "id": "60230e8cd92e",
+    "title": "We asked 19 biotech leaders what breaks their deals. It wasn\u2019t the science.",
+    "url": "https://www.labiotech.eu/expert-advice/cbo-ceo-relationship-biotech/",
+    "source": "Labiotech.eu",
+    "date": "2026-08-10",
+    "country": "Europe",
+    "category": "Company News",
+    "summary": "<p>The CBO CEO relationship shapes biotech deal success. Discover insights from 19 industry leaders on board alignment and partnering.</p>\n<p>The post <a href=\"https://www.labiotech.eu/expert-advice/cbo-ceo-relationship-biotech/\">We asked 19 biotech leaders what breaks their deal",
     "pinned": false
   },
   {
@@ -437,83 +536,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "7d17b6b5cff1",
-    "title": "STAT+: NIH plans to block international researchers on visas from accessing key funding avenue",
-    "url": "https://www.statnews.com/2026/08/07/nih-k99-pathways-independence-awards-scientists-on-visas-barred/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The NIH plans to close the door on one of the few pathways available to international students on visas to forge a career in biomedical research in the U.S.",
-    "pinned": false
-  },
-  {
-    "id": "3260112ce1ef",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about Replimune\u2019s melanoma drug, a Medicare policy change, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/07/replimune-melanoma-drug-medicare-policy-change/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Eli Lilly and\u00a0Novo Nordisk convinced a federal judge to toss an antitrust lawsuit by a compound pharmacy",
-    "pinned": false
-  },
-  {
-    "id": "bdae6a5cb6a5",
-    "title": "Is the biotech capital of the world moving?",
-    "url": "https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Replimune finally wins FDA approval, the role of tau in Alzheimer's, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
-    "id": "3172f0ec56d6",
-    "title": "A third clinic settles with DOJ over trans care",
-    "url": "https://www.statnews.com/2026/08/07/health-news-a-third-clinic-settles-with-doj-over-trans-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Anthony Fauci held in contempt, crackdowns on the organ donor network, and more health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "8a58ac02df1a",
-    "title": "Opinion: AI won\u2019t enhance physician autonomy. It will further diminish it",
-    "url": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cAI is not the villain here; it is a mirror,\u201d reflecting the diminishment of physician judgment, writes former surgeon Frances Mei Hardin.",
-    "pinned": false
-  },
-  {
-    "id": "57060f032f2f",
-    "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
-    "url": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "\u201cIt was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,\u201d writes Daniel Jernigan.",
-    "pinned": false
-  },
-  {
-    "id": "516debecb6b8",
-    "title": "STAT+: He grew up near Boston, went to Harvard, and worked at MIT. Why did he found his startup in California?",
-    "url": "https://www.statnews.com/2026/08/07/why-did-this-boston-entrepreneur-found-his-biotech-startup-in-california/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech.",
     "pinned": false
   },
   {
@@ -616,17 +638,6 @@
     "pinned": false
   },
   {
-    "id": "b7c0bd906ef8",
-    "title": "STAT+: FDA approves Replimune melanoma drug previously rejected twice",
-    "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA approved Replimune\u2019s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga.",
-    "pinned": false
-  },
-  {
     "id": "089e86dfe801",
     "title": "The biggest biotech funding rounds in July 2026",
     "url": "https://www.labiotech.eu/in-depth/biotech-funding-rounds-july-2026/",
@@ -723,17 +734,6 @@
     "country": "Europe",
     "category": "Company News",
     "summary": "<p>The only TIL therapy approved so far is Amtagvi for melanoma. Here are six companies with promising TIL therapies in the clinic.</p>\n<p>The post <a href=\"https://www.labiotech.eu/best-biotech/six-til-therapy-companies-to-watch-out-for/\">Six\u00a0TIL therapy\u00a0companies\u00a0to\u00a0watch\u00a0out f",
-    "pinned": false
-  },
-  {
-    "id": "df0463eff940",
-    "title": "Munich\u2019s biotech hub: Inside one of Europe\u2019s leading life sciences ecosystems",
-    "url": "https://www.labiotech.eu/in-depth/munich-biotech-hub/",
-    "source": "Labiotech.eu",
-    "date": "2026-07-24",
-    "country": "Europe",
-    "category": "Company News",
-    "summary": "<p>Discover the factors driving the success of Munich's biotech hub, which is now one of the leading clusters in Europe. </p>\n<p>The post <a href=\"https://www.labiotech.eu/in-depth/munich-biotech-hub/\">Munich&#8217;s biotech hub: Inside one of Europe&#8217;s leading life sciences",
     "pinned": false
   }
 ]
