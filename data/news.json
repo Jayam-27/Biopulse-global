@@ -1,5 +1,16 @@
 [
   {
+    "id": "a517d2645f35",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad\" hreflang=\"en\">Amgen lays groundwork for new R&amp;D center in Hyderabad</a>",
+    "url": "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad",
+    "source": "Fierce Biotech",
+    "date": "2026-08-11",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Amgen is expanding its footprint in India with an R&amp;D center in Hyderabad, the latest effort from the California company to boost its research facilities.",
+    "pinned": false
+  },
+  {
     "id": "df0235edca99",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease\" hreflang=\"en\">Epicrispr raises $90M to rewrite treatment of rare muscle disease</a>",
     "url": "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "5d1cc4e60f17",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice\" hreflang=\"en\">AbCellera women\u2019s health data top \u2018most aggressive upside scenario,\u2019 putting Astellas and Bayer on notice</a>",
-    "url": "https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice",
-    "source": "Fierce Biotech",
+    "id": "da77eda3b55b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/wuxi-apptec-scores-temporary-win-amid-fight-over-dods-chinese-military-company-brand\" hreflang=\"en\">WuXi AppTec scores temporary win amid fight over DOD's Chinese military company brand</a>",
+    "url": "https://www.fiercepharma.com/pharma/wuxi-apptec-scores-temporary-win-amid-fight-over-dods-chinese-military-company-brand",
+    "source": "Fierce Pharma",
     "date": "2026-08-11",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "AbCellera has reported phase 2 results \u201cbeyond even the most aggressive upside scenario\u201d that its CEO dared to consider, boosting the biotech\u2019s chances of challenging Astellas and Bayer for a women\u2019s health market.",
+    "category": "Policy",
+    "summary": "Arguing that the Defense Department might have misread the evidence and inflicted harm on the company, a federal judge has thrown WuXi AppTec a lifeline as the research and manufacturing services juggernaut fights its recent classification by the U.S. government as a Chinese mili",
     "pinned": false
   },
   {
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "629ac6954f43",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/novo-nordisk-makes-omnicom-agency-record-us-media-buying\" hreflang=\"en\">Novo Nordisk makes Omnicom agency of record for US media buying</a>",
-    "url": "https://www.fiercepharma.com/marketing/novo-nordisk-makes-omnicom-agency-record-us-media-buying",
-    "source": "Fierce Pharma",
+    "id": "6ad38d99a73f",
+    "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
+    "url": "https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/",
+    "source": "BioPharma Dive",
     "date": "2026-08-11",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novo Nordisk has made Omnicom the agency of record for U.S. media buying, ending the drugmaker\u2019s six-year partnership with WPP\u2019s Wavemaker.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\" /></div></figure><p>Ying Huang is now running K2 Therapeutics, wh",
     "pinned": false
   },
   {
@@ -371,6 +382,28 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp\" /></div></figure><p>The startup is one of at least a few young companies ",
+    "pinned": false
+  },
+  {
+    "id": "087898309bd1",
+    "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It\u2019s pushing back instead",
+    "url": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board.",
+    "pinned": false
+  },
+  {
+    "id": "4e7b22b7442e",
+    "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
+    "url": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The White House says Trump\u2019s recent executive order is aimed at restoring trust in vaccines. It will do the opposite, writes an epidemiologist.",
     "pinned": false
   },
   {
@@ -572,28 +605,6 @@
     "pinned": false
   },
   {
-    "id": "85e2fe9632b8",
-    "title": "STAT+: Ban prior auth? And hospitals cut jobs",
-    "url": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions.",
-    "pinned": false
-  },
-  {
-    "id": "060a80dc4c46",
-    "title": "STAT+: FDA panel to weigh Grail\u2019s Galleri test",
-    "url": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout",
-    "pinned": false
-  },
-  {
     "id": "60230e8cd92e",
     "title": "We asked 19 biotech leaders what breaks their deals. It wasn\u2019t the science.",
     "url": "https://www.labiotech.eu/expert-advice/cbo-ceo-relationship-biotech/",
@@ -613,17 +624,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Early indicators from a compassionat",
-    "pinned": false
-  },
-  {
-    "id": "88c40f110608",
-    "title": "Why Big Pharma is chasing the industry\u2019s most-powerful supercomputer",
-    "url": "https://www.biopharmadive.com/news/big-pharma-nvidia-ai-supercomputer-drug-research/827406/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HJxAxkjAmEQpoPkrIs4BZBKDuQMoLwSGjSNQi1fZyjc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaGFybWEtQUktc3VwZXJjb21wdXRlcnMuanBn.webp\" /></div></figure><p>Bristol Myers Squibb is the latest major drugmaker to",
     "pinned": false
   },
   {
