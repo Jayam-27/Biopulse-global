@@ -330,6 +330,61 @@
     "pinned": false
   },
   {
+    "id": "b227fc9de1c2",
+    "title": "STAT+: Why is MoonLake Immunotherapeutics scared of releasing data on its drug candidate?",
+    "url": "https://www.statnews.com/2026/08/11/why-is-moonlake-immunotherapeutics-scared-of-releasing-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Biotech companies don\u2019t hide or obfuscate strong data.",
+    "pinned": false
+  },
+  {
+    "id": "ab033c726d19",
+    "title": "STAT+: Nurses seek a seat at the table as they fight expanding clinical AI",
+    "url": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Nurses, who make up the largest part of the health care workforce, say clinical artificial intelligence poses a threat to their jobs, and patients.",
+    "pinned": false
+  },
+  {
+    "id": "046739a982d1",
+    "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
+    "url": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Medicare\u2019s new weight loss drug program \u201crisks creating barriers at precisely the moment when confidence in broader GLP\u20111 coverage is most needed,\u201d writes Jeffrey Millstein.",
+    "pinned": false
+  },
+  {
+    "id": "f8fb76dc8e98",
+    "title": "Opinion: The new geography of abortion care",
+    "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Even before Dobbs, patients had \u201cbegun reorganizing abortion care outside traditional health care settings,\u201d writes Jennifer Karlin.",
+    "pinned": false
+  },
+  {
+    "id": "dea7cabb8ecd",
+    "title": "IRBs have a problem. Can North Star\u2019s nonprofit model save it?",
+    "url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent.",
+    "pinned": false
+  },
+  {
     "id": "0c826f5df7df",
     "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
     "url": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
@@ -484,39 +539,6 @@
     "pinned": false
   },
   {
-    "id": "aa09d676b3a5",
-    "title": "Opinion: We prepared for Ebola \u2014 but not this Ebola",
-    "url": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "\u201cPreparedness cannot mean optimizing every investment for yesterday's epidemic,\u201d write Krutika Kuppalli and Placide Mbala.",
-    "pinned": false
-  },
-  {
-    "id": "610aa4952cb4",
-    "title": "STAT+: The promise of radiopharmaceuticals smacks into safety concerns",
-    "url": "https://www.statnews.com/2026/08/10/radiopharmaceuticals-clinical-trials-progress-setbacks/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Despite excitement over the potential of radiopharmaceuticals as cancer treatments, drug developers are hitting new hurdles.",
-    "pinned": false
-  },
-  {
-    "id": "93585cbe87b0",
-    "title": "Opinion: How should states reach out to Medicaid enrollees affected by changes? Our research gives a hint",
-    "url": "https://www.statnews.com/2026/08/10/medicaid-work-requirement-changes-states-contact/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?",
-    "pinned": false
-  },
-  {
     "id": "60230e8cd92e",
     "title": "We asked 19 biotech leaders what breaks their deals. It wasn\u2019t the science.",
     "url": "https://www.labiotech.eu/expert-advice/cbo-ceo-relationship-biotech/",
@@ -525,17 +547,6 @@
     "country": "Europe",
     "category": "Company News",
     "summary": "<p>The CBO CEO relationship shapes biotech deal success. Discover insights from 19 industry leaders on board alignment and partnering.</p>\n<p>The post <a href=\"https://www.labiotech.eu/expert-advice/cbo-ceo-relationship-biotech/\">We asked 19 biotech leaders what breaks their deal",
-    "pinned": false
-  },
-  {
-    "id": "dcb0674dae50",
-    "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
-    "url": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups.",
     "pinned": false
   },
   {
@@ -569,17 +580,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sBtYKKH5sscDVuLjDSQCOXakDVLL95AbneXd6jzxisM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA2NlhKLmpwZw==.webp\" /></div></figure><p>The company could rival Vertex and Lilly in the burgeoning market for non",
-    "pinned": false
-  },
-  {
-    "id": "9165d5800e2c",
-    "title": "Opinion: Fauci doesn\u2019t have the answers on Covid\u2019s origins. China does",
-    "url": "https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cTo blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,\u201d writes David&#8230;",
     "pinned": false
   },
   {
