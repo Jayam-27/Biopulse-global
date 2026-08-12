@@ -1,5 +1,27 @@
 [
   {
+    "id": "8ef0503cbe54",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
+    "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+    "source": "Fierce Biotech",
+    "date": "2026-08-12",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials.",
+    "pinned": false
+  },
+  {
+    "id": "a55dbc0fea09",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: InduPro assembles $77M; Vaderis nets $152M series B</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+    "source": "Fierce Biotech",
+    "date": "2026-08-12",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "pinned": false
+  },
+  {
     "id": "656b0a457e99",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags\" hreflang=\"en\">After slimming down workforce, Aardvark scraps phase 3 trials as wait for next steps drags on</a>",
     "url": "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags",
@@ -99,17 +121,6 @@
     "pinned": false
   },
   {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Vaderis nets $152M series B; Epicrispr adds $90M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
-    "date": "2026-08-12",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "pinned": false
-  },
-  {
     "id": "84ff26f92680",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app\" hreflang=\"en\">Abbott teams with Google Health on AI-powered health insights app</a>",
     "url": "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app",
@@ -154,14 +165,25 @@
     "pinned": false
   },
   {
-    "id": "9577ad521a0a",
-    "title": "<a href=\"https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms\" hreflang=\"en\">ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms</a>",
-    "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
-    "source": "Fierce Biotech",
+    "id": "cffafc515ea6",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/legend-interim-ceo-stays-course-carvykti-maker-posts-first-profit-amid-rising-competition\" hreflang=\"en\">Legend interim CEO talks rising competition as Carvykti maker posts first profit</a>",
+    "url": "https://www.fiercepharma.com/pharma/legend-interim-ceo-stays-course-carvykti-maker-posts-first-profit-amid-rising-competition",
+    "source": "Fierce Pharma",
     "date": "2026-08-12",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has denied ITM Isotopes Technologies\u2019 lead pipeline candidate for a rare group of tumors due to qualms over the drug\u2019s manufacturing.",
+    "category": "Company News",
+    "summary": "Legend Biotech's interim CEO Alan Bash discusses competition from T-cell engagers and Gilead's new autologous CAR-T, as the Carvykti maker posted its first profitable quarter.",
+    "pinned": false
+  },
+  {
+    "id": "cbc3de11a54b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/biopharma-saw-q2-sales-boom-led-lilly-sanofi-regeneron-and-astellas\" hreflang=\"en\">Biopharma saw a Q2 sales boom led by Lilly, Sanofi, Regeneron and Astellas</a>",
+    "url": "https://www.fiercepharma.com/pharma/biopharma-saw-q2-sales-boom-led-lilly-sanofi-regeneron-and-astellas",
+    "source": "Fierce Pharma",
+    "date": "2026-08-12",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "In the second quarter, nine of the world's top 25 drugmakers accomplished double-digit revenue increases, led again by Eli Lilly, which charted a 48% sales gain. The revenue boom was even more pronounced when comparing figures between the first and second quarters. Of the top 25 ",
     "pinned": false
   },
   {
@@ -308,25 +330,14 @@
     "pinned": false
   },
   {
-    "id": "f871d75b1874",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer\" hreflang=\"en\">Quanterix hires GE Healthcare, Exact Sciences alum as chief commercial officer</a>",
-    "url": "https://www.fiercepharma.com/marketing/quanterix-hires-ge-healthcare-exact-sciences-alum-new-chief-commercial-officer",
-    "source": "Fierce Pharma",
+    "id": "427841456edd",
+    "title": "Lilly files six lawsuits in bid to shut down \u2018black market\u2019 for retatrutide",
+    "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
+    "source": "BioPharma Dive",
     "date": "2026-08-12",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Quanterix has hired medtech veteran Jim Gute as chief commercial officer, bringing him over from Exact Sciences after an earlier 18-year career at GE Healthcare.",
-    "pinned": false
-  },
-  {
-    "id": "be1a2c6dc32e",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/next-frontier-patient-support-connected-data-ai-and-personalized-engagement\" hreflang=\"en\">The Next Frontier in Patient Support: Connected Data, AI and Personalized Engagement</a>",
-    "url": "https://www.fiercepharma.com/sponsored/next-frontier-patient-support-connected-data-ai-and-personalized-engagement",
-    "source": "Fierce Pharma",
-    "date": "2026-08-12",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Life sciences leaders are rethinking patient support as AI, connected data and trust reshape engagement.",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/X7DgF8XHrG_MI3bhvzEYolMGhzhwM6NirOEKG8Pfs7c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc5NTI1NjM3LmpwZw==.webp\" /></div></figure><p>Ahead of an approval filing, the drugmaker is amping ",
     "pinned": false
   },
   {
@@ -360,6 +371,28 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Hnh1jrlLIHR3bfdeqaxMAELwGbp4qjrJ6ilikxCSU3c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYxMTAxOTY4LmpwZw==.webp\" /></div></figure><p>Co-founded by pioneering researcher Georg Schett and ",
+    "pinned": false
+  },
+  {
+    "id": "1313e3e6ce2a",
+    "title": "Trump administration\u2019s new \u2018treatment-first\u2019 addiction toolkit emphasizes faith, abstinence",
+    "url": "https://www.statnews.com/2026/08/12/addiction-homelessness-hhs-toolkit-harm-reduction/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-12",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The White House nods to use of addiction medications but moves away from other harm reduction strategies.",
+    "pinned": false
+  },
+  {
+    "id": "0444c53a3a0c",
+    "title": "WHO says Trump\u2019s latest vaccine policy order is misguided",
+    "url": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-12",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say.",
     "pinned": false
   },
   {
@@ -572,28 +605,6 @@
     "pinned": false
   },
   {
-    "id": "788ad9cb58e9",
-    "title": "How we know that splitting up the MMR vaccine could be dangerous",
-    "url": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "It's no mystery. History tells us that President Trump\u2019s executive order calling for the MMR to be split into separate shots could do real harm.",
-    "pinned": false
-  },
-  {
-    "id": "852550d4acfc",
-    "title": "STAT+: Trump\u2019s vaccine pivot overshadows food rule",
-    "url": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives.",
-    "pinned": false
-  },
-  {
     "id": "0049a63b4a41",
     "title": "Seven biotechs driving progress in Duchenne muscular dystrophy",
     "url": "https://www.labiotech.eu/best-biotech/biotechs-driving-progress-duchenne-muscular-dystrophy/",
@@ -613,17 +624,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>Sionna&rsquo;s medicine didn&rsquo;t have a meaningful additive impact when combined with Vertex&rsquo;s top-selling Trikafta, surprising analysts and collapsing company shares.</p>",
-    "pinned": false
-  },
-  {
-    "id": "b33d4445885c",
-    "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-    "url": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/T7hnewE95PevFk5x8i1t_MZ8d2oPmhYt1SHLJiP9taU/g:nowe:0:1189/c:4032:2278/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfNjMyOF9pOUFFbXNBLmpwZw==.webp\" /></div></figure><p>Actio Biosciences, which will receive $8",
     "pinned": false
   },
   {
