@@ -1,5 +1,16 @@
 [
   {
+    "id": "37e5f79c4bce",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv\" hreflang=\"en\">CytoDyn\u2019s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques</a>",
+    "url": "https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv",
+    "source": "Fierce Biotech",
+    "date": "2026-08-12",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "CytoDyn's leronlimab may have struggled to secure approval as an HIV treatment, but research in infant primates has offered fresh hope for the CCR5-targeting antibody's ability to treat the virus.",
+    "pinned": false
+  },
+  {
     "id": "a517d2645f35",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad\" hreflang=\"en\">Amgen lays groundwork for new R&amp;D center in Hyderabad</a>",
     "url": "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "8f655df480bc",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic\" hreflang=\"en\">Labcorp nabs FDA green light for BRAF melanoma diagnostic </a>",
-    "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic",
-    "source": "Fierce Biotech",
+    "id": "31f8edd6721a",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/snapchat-creates-ad-format-support-pharma-disclosure-needs\" hreflang=\"en\">Snapchat creates ad format to support pharma disclosure needs</a>",
+    "url": "https://www.fiercepharma.com/marketing/snapchat-creates-ad-format-support-pharma-disclosure-needs",
+    "source": "Fierce Pharma",
     "date": "2026-08-12",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has signed off on Labcorp\u2019s companion diagnostic for patients with advanced melanoma carrying certain BRAF variants.",
+    "category": "Company News",
+    "summary": "Snapchat is courting pharma marketers with a new ad format designed to support the disclosure needs of branded prescription drug campaigns.<br />",
     "pinned": false
   },
   {
@@ -319,14 +330,36 @@
     "pinned": false
   },
   {
-    "id": "6d2bd694c8b4",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbvies-skyrizi-back-leading-drug-pharmas-ad-spending-league-july\" hreflang=\"en\">AbbVie\u2019s Skyrizi retakes edge in pharma\u2019s July ad spending league</a>",
-    "url": "https://www.fiercepharma.com/marketing/abbvies-skyrizi-back-leading-drug-pharmas-ad-spending-league-july",
-    "source": "Fierce Pharma",
+    "id": "69e4167b853c",
+    "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
+    "url": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-12",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "AbbVie retook the top spot from rival J&amp;J and its immunology drug Tremfya in July\u2019s top TV drug ad spending rankings.",
+    "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say.",
+    "pinned": false
+  },
+  {
+    "id": "f6507047ac9d",
+    "title": "Opinion: Climate change is making people with chronic illness even sicker",
+    "url": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-12",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cWhat research can definitively tell us is that climate change is here, and it\u2019s already making people sick,\u201d writes Lorraine Boissoneault.",
+    "pinned": false
+  },
+  {
+    "id": "8a9a01bede85",
+    "title": "STAT+: Inside a $7 billion Silicon Valley startup\u2019s mad dash to automate the business of health care",
+    "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-12",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest.",
     "pinned": false
   },
   {
@@ -517,28 +550,6 @@
     "pinned": false
   },
   {
-    "id": "f8fb76dc8e98",
-    "title": "Opinion: The new geography of abortion care",
-    "url": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Even before Dobbs, patients had \u201cbegun reorganizing abortion care outside traditional health care settings,\u201d writes Jennifer Karlin.",
-    "pinned": false
-  },
-  {
-    "id": "dea7cabb8ecd",
-    "title": "IRBs have a problem. Can North Star\u2019s nonprofit model save it?",
-    "url": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent.",
-    "pinned": false
-  },
-  {
     "id": "0049a63b4a41",
     "title": "Seven biotechs driving progress in Duchenne muscular dystrophy",
     "url": "https://www.labiotech.eu/best-biotech/biotechs-driving-progress-duchenne-muscular-dystrophy/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<p>Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application.</p>",
-    "pinned": false
-  },
-  {
-    "id": "0fc90a61c957",
-    "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
-    "url": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-10",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course.",
     "pinned": false
   },
   {
