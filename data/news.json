@@ -62,7 +62,7 @@
     "date": "2026-08-13",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Taiho Pharmaceutical and Cullinan Therapeutics have celebrated a second phase 3 victory for their small-molecule EGFR inhibitor, teeing the partners up to challenge Johnson &amp; Johnson for a lung cancer niche.",
+    "summary": "Taiho Pharmaceutical and Cullinan Therapeutics have celebrated a second phase 3 victory for their small-molecule EGFR inhibitor, teeing up the partners to challenge Johnson &amp; Johnson in a lung cancer niche.",
     "pinned": false
   },
   {
@@ -165,6 +165,39 @@
     "pinned": false
   },
   {
+    "id": "632577cec6cf",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/its-crunch-time-karyopharm-it-faces-potential-default-next-month\" hreflang=\"en\">It's crunch time for Karyopharm as company faces potential default next month </a>",
+    "url": "https://www.fiercepharma.com/pharma/its-crunch-time-karyopharm-it-faces-potential-default-next-month",
+    "source": "Fierce Pharma",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "With its reserves depleted, a debt payment due in four weeks and its cash runway stretching only into next month, the question for Karyopharm Therapeutics is what\u2019s next and how soon can it happen? The company sustained a $67 million loss in the second quarter, which is greater t",
+    "pinned": false
+  },
+  {
+    "id": "c1861b4b0ae1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/azs-baxfendy-not-worth-its-price-tag-icer-says\" hreflang=\"en\">AZ's blood pressure newcomer Baxfendy fails to meet cost-effectiveness bar, ICER says</a>",
+    "url": "https://www.fiercepharma.com/pharma/azs-baxfendy-not-worth-its-price-tag-icer-says",
+    "source": "Fierce Pharma",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "AstraZeneca\u2019s newly approved blood pressure drug Baxfendy does not clear the bar for effectiveness relative to its price, according to U.S. drug price watchdog ICER.",
+    "pinned": false
+  },
+  {
+    "id": "8365f13930fb",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/obesity-not-zero-sum-game-patients-crave-optionality-novo-ceo-says-reuters\" hreflang=\"en\">Obesity not a 'zero-sum game' as patients crave optionality, Novo CEO says: Reuters</a>",
+    "url": "https://www.fiercepharma.com/pharma/obesity-not-zero-sum-game-patients-crave-optionality-novo-ceo-says-reuters",
+    "source": "Fierce Pharma",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As the massive market for GLP-1 weight-loss drugs continues to come into its own, patients are just now discovering their preferences, and the appetite for differentiation will likely increase as more drugs are approved in the indication, Novo Nordisk's CEO told Reuters.",
+    "pinned": false
+  },
+  {
     "id": "631cb33e0299",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/neurocrines-blockbuster-hopeful-vykat-xr-tied-possible-safety-risks-prader-willi-clinicians\" hreflang=\"en\">Neurocrine stands by blockbuster hopeful Vykat XR as Prader-Willi docs raise potential safety flags</a>",
     "url": "https://www.fiercepharma.com/pharma/neurocrines-blockbuster-hopeful-vykat-xr-tied-possible-safety-risks-prader-willi-clinicians",
@@ -172,7 +205,7 @@
     "date": "2026-08-13",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Roughly a year and a half after the approval of Vykat XR, a group of clinicians with deep ties to the Prader-Willi syndrome (PWS) community is flagging potential concerns about the safety of the rare disease med, acquired in Neurocrine\u2019s $2.9 billion buyout of Soleno Therapeutics",
+    "summary": "Roughly a year and a half after the approval of Vykat XR, a group of clinicians with deep ties to the Prader-Willi syndrome (PWS) community is flagging potential safety concerns about the rare-disease med, acquired in Neurocrine\u2019s $2.9 billion buyout of Soleno Therapeutics last s",
     "pinned": false
   },
   {
@@ -297,36 +330,14 @@
     "pinned": false
   },
   {
-    "id": "84a0586fa7c8",
-    "title": "<a href=\"https://www.fiercepharma.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations\" hreflang=\"en\">Trump signs executive order to overhaul pediatric vaccine recommendations</a>",
-    "url": "https://www.fiercepharma.com/providers/trump-signs-executive-order-overhaul-pediatric-vaccine-recommendations",
-    "source": "Fierce Pharma",
+    "id": "7a7670516a74",
+    "title": "New Taiho, Cullian data heats up lung cancer drug battle",
+    "url": "https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/",
+    "source": "BioPharma Dive",
     "date": "2026-08-13",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "President Donald Trump signed an executive order Monday that calls for reducing the number of required vaccinations for children in a move that backs a revised immunization schedule pushed by the Department of Health and Human Services.",
-    "pinned": false
-  },
-  {
-    "id": "a834d833f6ac",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/unapproved-us-decades-levosimendan-stumbles-phase-3-tenax-eyes-narrow-fda-path\" hreflang=\"en\">Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path</a>",
-    "url": "https://www.fiercepharma.com/pharma/unapproved-us-decades-levosimendan-stumbles-phase-3-tenax-eyes-narrow-fda-path",
-    "source": "Fierce Pharma",
-    "date": "2026-08-13",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Nearly three decades after its failed bid for FDA approval, the cardiovascular drug levosimendan is still struggling to secure a decisive clinical win to enter the U.S. market.",
-    "pinned": false
-  },
-  {
-    "id": "ffb70a6d97e6",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbott-casts-telenovela-star-gabriela-spanic-take-drama-out-colon-cancer-screening\" hreflang=\"en\">Abbott casts telenovela star Gabriela Spanic to take the drama out of colon cancer screening</a>",
-    "url": "https://www.fiercepharma.com/marketing/abbott-casts-telenovela-star-gabriela-spanic-take-drama-out-colon-cancer-screening",
-    "source": "Fierce Pharma",
-    "date": "2026-08-13",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Abbott has enlisted telenovela star Gabriela Spanic to push the message that getting screened for colon cancer doesn\u2019t have to be dramatic.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LOS_28-DMajSa8O6Kljhq6j2s2eQ9vRkHn46DVb8jQ4/g:nowe:0:1261/c:8000:4520/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDM5OTA3NDhfb1VYZnlvYi5qcGc=.webp\" /></div></figure><p>The findings position th",
     "pinned": false
   },
   {
@@ -602,17 +613,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/e5hIA-Hiprl5UY3oaP3-AtC6qQcq5UNFKsXjebwncaY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5OTA0MzY2LmpwZw==.webp\" /></div></figure><p>The executive order &mdash; which wasn&rsquo;t accomp",
-    "pinned": false
-  },
-  {
-    "id": "333ebdcecae9",
-    "title": "Vaderis hauls in $152M to test an AKT-targeting drug",
-    "url": "https://www.biopharmadive.com/news/vaderis-series-b-engasertib-hht-akt-inhibitor/827466/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp\" /></div></figure><p>The startup is one of at least a few young companies ",
     "pinned": false
   },
   {
