@@ -1,5 +1,16 @@
 [
   {
+    "id": "3b9da0c848d8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision\" hreflang=\"en\">Zealand sells its rights to Takeda\u2019s blood cancer drug for $100M ahead of FDA approval decision</a>",
+    "url": "https://www.fiercebiotech.com/biotech/zealand-sells-its-rights-takedas-blood-cancer-drug-100m-ahead-fda-decision",
+    "source": "Fierce Biotech",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As the FDA mulls whether to approve Takeda and Protagonist Therapeutics\u2019 rusfertide, Zealand Pharma has sold its own rights to the blood cancer drug in return for $100 million.",
+    "pinned": false
+  },
+  {
     "id": "8ef0503cbe54",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report\" hreflang=\"en\">AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report</a>",
     "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
@@ -110,17 +121,6 @@
     "pinned": false
   },
   {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Aura loses 20% of staffers; aTyr shrinks by 60%</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
-    "date": "2026-08-13",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-    "pinned": false
-  },
-  {
     "id": "84ff26f92680",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app\" hreflang=\"en\">Abbott teams with Google Health on AI-powered health insights app</a>",
     "url": "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app",
@@ -129,6 +129,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Two giants of their respective fields, Abbott and Google, are joining forces for a first-of-its-kind team-up that aims to build out a digital picture of people\u2019s health.",
+    "pinned": false
+  },
+  {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Aura loses 20% of staffers; aTyr shrinks by 60%</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
     "pinned": false
   },
   {
@@ -154,14 +165,25 @@
     "pinned": false
   },
   {
-    "id": "4f1441f33de7",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/vaderis-lands-152m-squeeze-akt-inhibitor-through-phase-3-and-regulatory-approval\" hreflang=\"en\">\u2018We are proud to be in the lead\u2019: Vaderis lands $152M for phase 3 study in rare blood vessel disorder</a>",
-    "url": "https://www.fiercebiotech.com/biotech/vaderis-lands-152m-squeeze-akt-inhibitor-through-phase-3-and-regulatory-approval",
-    "source": "Fierce Biotech",
+    "id": "7fc1f12bec2c",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbott-pump-blood-supply-1m-college-sports-prize-amid-us-crisis\" hreflang=\"en\">Abbott to pump up blood supply with $1M college sports prize amid US crisis</a>",
+    "url": "https://www.fiercepharma.com/marketing/abbott-pump-blood-supply-1m-college-sports-prize-amid-us-crisis",
+    "source": "Fierce Pharma",
     "date": "2026-08-13",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Vaderis Therapeutics has secured an oversubscribed $152 million series B financing to propel the Swiss biotech's AKT inhibitor through phase 3 with the aim of bringing the first treatment for a rare blood vessel disorder to market.",
+    "category": "Company News",
+    "summary": "Abbott is again tapping into the competitive spirit of Big Ten universities to drive blood donations, pitting the schools against each other in pursuit of a $1 million prize amid a national supply crisis.",
+    "pinned": false
+  },
+  {
+    "id": "0266d727eafd",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/leo-pharma-readies-rare-disease-education-push-2nd-annual-gpp-awareness-day\" hreflang=\"en\">Leo Pharma readies rare disease education push for 2nd annual GPP awareness day </a>",
+    "url": "https://www.fiercepharma.com/marketing/leo-pharma-readies-rare-disease-education-push-2nd-annual-gpp-awareness-day",
+    "source": "Fierce Pharma",
+    "date": "2026-08-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The company and the National Psoriasis Foundation will celebrate the second annual Generalized Pustular Psoriasis Awareness day on August 13.",
     "pinned": false
   },
   {
@@ -308,25 +330,69 @@
     "pinned": false
   },
   {
-    "id": "2f6465616d7e",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/bristol-myers-squibb-lays-out-plan-23b-manufacturing-facility-houston\" hreflang=\"en\">Bristol Myers Squibb lays out plan for $2.3B manufacturing facility in Houston</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/bristol-myers-squibb-lays-out-plan-23b-manufacturing-facility-houston",
-    "source": "Fierce Pharma",
+    "id": "f5fe8fb06b00",
+    "title": "STAT+: What patients actually think about \u2018minimally invasive\u2019 brain implants",
+    "url": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-13",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Bristol Myers Squibb has laid out plans for a $2.3 billion manufacturing facility in Houston, set for completion in 2030. The plant will cover 600,000 square feet and employ nearly 500 people.",
+    "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health.",
     "pinned": false
   },
   {
-    "id": "bb74d8c888a4",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug\" hreflang=\"en\">Scholar Rock ditches Novo\u2019s legacy Catalent plant in FDA refiling of SMA drug</a>",
-    "url": "https://www.fiercepharma.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
-    "source": "Fierce Pharma",
+    "id": "b844b06d13c1",
+    "title": "STAT+: What Medicare incentives for AI-based devices mean for tech companies \u2014 and hospitals",
+    "url": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-13",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Scholar Rock has dropped Novo Nordisk\u2019s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as \u201cOfficial Action Indicated.\u201d",
+    "country": "US",
+    "category": "Policy",
+    "summary": "As Medicare pays hospitals when they use newly-authorized AI devices, researchers say those payments could incentivize overuse.",
+    "pinned": false
+  },
+  {
+    "id": "052505202295",
+    "title": "Opinion: I\u2019ve seen what life is like without vaccines. Americans need to understand what they save us from",
+    "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe ability to prevent a deadly infectious disease is an extraordinary privilege,\u201d writes infectious disease physician Krutika Kuppalli.",
+    "pinned": false
+  },
+  {
+    "id": "58588389211b",
+    "title": "Opinion: How to disrupt the health misinformation business model",
+    "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "One way to fight medical misinformation: make it easier for people to understand when they are being manipulated, write Paul Martin Jensen and Avi Tuschman.",
+    "pinned": false
+  },
+  {
+    "id": "7e1dbb81be29",
+    "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+    "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
+    "pinned": false
+  },
+  {
+    "id": "808cd1ca8ede",
+    "title": "STAT+: Newsom promotes affordable insulin, but California\u2019s generic label is off to a slow start",
+    "url": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients.",
     "pinned": false
   },
   {
@@ -473,61 +539,6 @@
     "pinned": false
   },
   {
-    "id": "b6a0e6a0b180",
-    "title": "STAT+: Definium Therapeutics says its LSD therapy eased anxiety in late-stage trial",
-    "url": "https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-12",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials.",
-    "pinned": false
-  },
-  {
-    "id": "6565be331899",
-    "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
-    "url": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-12",
-    "country": "US",
-    "category": "Company News",
-    "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company.",
-    "pinned": false
-  },
-  {
-    "id": "69e4167b853c",
-    "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
-    "url": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-12",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say.",
-    "pinned": false
-  },
-  {
-    "id": "f6507047ac9d",
-    "title": "Opinion: Climate change is making people with chronic illness even sicker",
-    "url": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-12",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWhat research can definitively tell us is that climate change is here, and it\u2019s already making people sick,\u201d writes Lorraine Boissoneault.",
-    "pinned": false
-  },
-  {
-    "id": "8a9a01bede85",
-    "title": "STAT+: Inside a $7 billion Silicon Valley startup\u2019s mad dash to automate the business of health care",
-    "url": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-12",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest.",
-    "pinned": false
-  },
-  {
     "id": "70ed8cd7c3ec",
     "title": "UCB\u2019s pipeline strategy in 2026: Doubling down on immunology and neurology",
     "url": "https://www.labiotech.eu/top-pharma-strategy/ucb-pipeline-strategy/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp\" /></div></figure><p>The startup is one of at least a few young companies ",
-    "pinned": false
-  },
-  {
-    "id": "c9761d5262a7",
-    "title": "Stopping statins in people over 75 at low risk for heart disease didn\u2019t increase deaths",
-    "url": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Stopping statins in people over 75 at low risk for heart disease didn\u2019t increase deaths, a new study finds.",
     "pinned": false
   },
   {
