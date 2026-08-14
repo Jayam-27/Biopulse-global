@@ -1,5 +1,38 @@
 [
   {
+    "id": "7aa53e43a576",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback\" hreflang=\"en\">Capricor soars on plan to amend DMD filing after adcomm setback</a>",
+    "url": "https://www.fiercebiotech.com/biotech/capricor-soars-plan-amend-dmd-filing-after-adcomm-setback",
+    "source": "Fierce Biotech",
+    "date": "2026-08-14",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Capricor Therapeutics has bounced back from a bruising FDA advisory committee meeting by securing a green light to file an amendment to its approval application, raising hopes that the biotech can rescue its Duchenne muscular dystrophy cell therapy. The biotech\u2019s stock soared fol",
+    "pinned": false
+  },
+  {
+    "id": "0d63c313586d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal\" hreflang=\"en\">\u2018We\u2019re not afraid of competition\u2019: BioCryst CEO sets out strategy after scrapping internal discovery </a>",
+    "url": "https://www.fiercebiotech.com/biotech/were-not-afraid-competition-biocryst-ceo-sets-out-strategy-after-scrapping-internal",
+    "source": "Fierce Biotech",
+    "date": "2026-08-14",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "BioCryst CEO Charlie Gayer told Fierce the company is \u201cnot getting away from science and R&amp;D\u201d despite shutting down its internal discovery efforts.",
+    "pinned": false
+  },
+  {
+    "id": "1688749d952f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-former-legend-ceo-lands-role-k2-therapeutics\" hreflang=\"en\">Chutes &amp; Ladders\u2014Former Legend CEO lands at K2</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-former-legend-ceo-lands-role-k2-therapeutics",
+    "source": "Fierce Biotech",
+    "date": "2026-08-14",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Just weeks after Legend Biotech announced the departure of its CEO, Ying Huang, K2 Therapeutics has announced that Wang will now lead the startup, which was founded in 2024 with a $50 million seed round from MPM BioImpact.",
+    "pinned": false
+  },
+  {
     "id": "8e6ecbc25a7d",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug\" hreflang=\"en\">MapLight dims preclinical programs to make phase 3-ready schizophrenia drug shine brighter </a>",
     "url": "https://www.fiercebiotech.com/biotech/maplight-turns-preclinical-tap-channel-resources-phase-3-ready-schizophrenia-drug",
@@ -132,36 +165,58 @@
     "pinned": false
   },
   {
-    "id": "2296554e5718",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety\" hreflang=\"en\">Definium hits another phase 3 homerun with psychedelic \u2018sea change\u2019 for anxiety</a>",
-    "url": "https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety",
-    "source": "Fierce Biotech",
+    "id": "5bea9e085fc7",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/tavneos-pivotal-trial-flagged-serious-breaches-protocol-eu-regulators-dissect-market\" hreflang=\"en\">Tavneos trial flagged for 'serious breaches' of protocol as EU regulators dissect market withdrawal decision</a>",
+    "url": "https://www.fiercepharma.com/pharma/tavneos-pivotal-trial-flagged-serious-breaches-protocol-eu-regulators-dissect-market",
+    "source": "Fierce Pharma",
     "date": "2026-08-14",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Definium Therapeutics\u2019 LSD formula has gone two for two in its phase 3 program, notching a win in generalized anxiety disorder months after knocking a depression study out of the park.",
+    "summary": "With the European Union formally reversing its marketing authorization for rare disease med Tavneos last week, regulators from the bloc are laying out their concerns on the data backing the complement inhibitor in greater detail.",
     "pinned": false
   },
   {
-    "id": "1c577003ad37",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates\" hreflang=\"en\">Deerfield-backed Boulevard Bio embarks on \u2018beautiful path to a cure\u2019 with trio of immunology drugs</a>",
-    "url": "https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates",
-    "source": "Fierce Biotech",
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Novo's Wegovy pill struggles to break through market share ceiling</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
     "date": "2026-08-14",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Boulevard Bio has strolled out of stealth with $65 million in funding from Deerfield Management and three autoimmune disease candidates.",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
     "pinned": false
   },
   {
-    "id": "37e5f79c4bce",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv\" hreflang=\"en\">CytoDyn\u2019s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques</a>",
-    "url": "https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv",
-    "source": "Fierce Biotech",
+    "id": "b8304dfc6b6a",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bms-bags-first-fda-approval-celmod-franchise-zenbexus-multiple-myeloma-nod\" hreflang=\"en\">BMS bags first FDA approval for CELMoD franchise with Zenbexus multiple myeloma nod</a>",
+    "url": "https://www.fiercepharma.com/pharma/bms-bags-first-fda-approval-celmod-franchise-zenbexus-multiple-myeloma-nod",
+    "source": "Fierce Pharma",
     "date": "2026-08-14",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "CytoDyn's leronlimab may have struggled to secure approval as an HIV treatment, but research in infant primates has offered fresh hope for the CCR5-targeting antibody's ability to treat the virus.",
+    "summary": "In a historic breakthrough for targeted protein degradation, BMS has secured the first FDA approval for a CELMoD therapy with the clearance of Zenbexus (iberdomide), marking the first multiple myeloma approval driven directly by minimal residual disease as a surrogate endpoint.",
+    "pinned": false
+  },
+  {
+    "id": "99ef88776307",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/genomics-library-ai-era\" hreflang=\"en\"> A genomics library for the AI era</a>",
+    "url": "https://www.fiercepharma.com/pharma/genomics-library-ai-era",
+    "source": "Fierce Pharma",
+    "date": "2026-08-14",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "This week on \"The Top Line,\" Fierce\u2019s Fraiser Kansteiner sits down with Andy Deubler, chief business and administrative officer at Regeneron Genetics Center, to discuss the role RGC plays in the larger Regeneron model, as well as where the center could be headed as drug developme",
+    "pinned": false
+  },
+  {
+    "id": "9bafa20c9c30",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/legend-first-profit-taiho-cullinan-egfr-win-wuxi-apptec-reprieve\" hreflang=\"en\">Fierce Pharma Asia\u2014Legend\u2019s first profit; Taiho, Cullinan\u2019s EGFR win; WuXi AppTec\u2019s reprieve</a>",
+    "url": "https://www.fiercepharma.com/pharma/legend-first-profit-taiho-cullinan-egfr-win-wuxi-apptec-reprieve",
+    "source": "Fierce Pharma",
+    "date": "2026-08-14",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As Legend Biotech became profitable, the company is navigating Carvykti's next phase of growth. Taiho and Cullinan's EGFR candidate delivered a phase 3 win. WuXi AppTec won a preliminary injunction against the Defense Department's black list designation. And more.",
     "pinned": false
   },
   {
@@ -275,58 +330,47 @@
     "pinned": false
   },
   {
-    "id": "5e1298581d69",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fresenius-pulls-one-batch-actemra-biosim-over-glass-particle-concerns\" hreflang=\"en\">Fresenius pulls one batch of Actemra biosim over glass particle concerns</a>",
-    "url": "https://www.fiercepharma.com/pharma/fresenius-pulls-one-batch-actemra-biosim-over-glass-particle-concerns",
-    "source": "Fierce Pharma",
+    "id": "12a01ab54aad",
+    "title": "Biotech initiatives pick up as more regions race to become hubs",
+    "url": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
+    "source": "BioPharma Dive",
     "date": "2026-08-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Shortly after initiating a separate recall tied to mislabeled pain medicine, Fresenius Kabi is yanking a batch of another product in the U.S.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mUV9V_sqGxh789beVUaTsjBn-F8LIo4SR-EBbu7T06g/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iaW90ZWNoLWh1Yi1yYWNlLmpwZw==.webp\" /></div></figure><p>New government funding from Pennsylvania to Kansas City is st",
     "pinned": false
   },
   {
-    "id": "31ea1caa5157",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Akeso's ivonescimab wins landmark first-line NSCLC nod in China</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-    "source": "Fierce Pharma",
+    "id": "4fe6919e8cef",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a lawsuit over lab tests for meds, a Bristol myeloma drug, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/14/lab-tests-lawsuit-bristol-multiple-myeloma-drug-approved/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-14",
-    "country": "Global",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "summary": "The FDA approved a Bristol oral treatment for advanced multiple myeloma, marking the debut of a new class of medicine for the blood cancer",
     "pinned": false
   },
   {
-    "id": "31f8edd6721a",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/snapchat-creates-ad-format-support-pharma-disclosure-needs\" hreflang=\"en\">Snapchat creates ad format to support pharma disclosure needs</a>",
-    "url": "https://www.fiercepharma.com/marketing/snapchat-creates-ad-format-support-pharma-disclosure-needs",
-    "source": "Fierce Pharma",
+    "id": "610eda849eae",
+    "title": "STAT+: Drug-testing lab that has sparked controversy sues group that develops drug standards over criticism",
+    "url": "https://www.statnews.com/pharmalot/2026/08/14/controversial-lab-sues-usp-for-disparaging-its-testing-methods/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Snapchat is courting pharma marketers with a new ad format designed to support the disclosure needs of branded prescription drug campaigns.<br />",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A lab that tussled with regulators over impurities found in widely used medicines has accused U.S. Pharmacopeia of making false and misleading remarks about its methods.",
     "pinned": false
   },
   {
-    "id": "da77eda3b55b",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/wuxi-apptec-scores-temporary-win-amid-fight-over-dods-chinese-military-company-brand\" hreflang=\"en\">WuXi AppTec scores temporary win amid fight over DOD's Chinese military company brand</a>",
-    "url": "https://www.fiercepharma.com/pharma/wuxi-apptec-scores-temporary-win-amid-fight-over-dods-chinese-military-company-brand",
-    "source": "Fierce Pharma",
+    "id": "0d95d0e6b6e3",
+    "title": "STAT+: FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class",
+    "url": "https://www.statnews.com/2026/08/14/fda-approves-bristol-multiple-myeloma-drug-zenbexus/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-14",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "Arguing that the Defense Department might have misread the evidence and inflicted harm on the company, a federal judge has thrown WuXi AppTec a lifeline as the research and manufacturing services juggernaut fights its recent classification by the U.S. government as a Chinese mili",
-    "pinned": false
-  },
-  {
-    "id": "65731e7e0e63",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/attruby-cruises-toward-blockbuster-land-bridgebio-ceo-spots-stabilizer-first-attr-market\" hreflang=\"en\">Attruby cruises toward blockbuster land as BridgeBio CEO spots \u2018stabilizer-first\u2019 ATTR market</a>",
-    "url": "https://www.fiercepharma.com/pharma/attruby-cruises-toward-blockbuster-land-bridgebio-ceo-spots-stabilizer-first-attr-market",
-    "source": "Fierce Pharma",
-    "date": "2026-08-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Despite their divergent second-quarter performance against consensus estimates, BridgeBio and Alnylam are now targeting the same population\u2014first-line ATTR-CM patients\u2014as the silencer-vs-stabilizer debate drags on.",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer.",
     "pinned": false
   },
   {
@@ -371,6 +415,17 @@
     "country": "US",
     "category": "Policy",
     "summary": "\u201cThe default to biomedical responses means that clinics and hospitals are increasingly absorbing the costs of social problems,\u201d writes Kyle Vanelli.",
+    "pinned": false
+  },
+  {
+    "id": "e0c82b740f70",
+    "title": "We asked, you answered: Labiotech\u2019s 2026 reader survey results",
+    "url": "https://www.labiotech.eu/inside-labiotech/labiotech-2026-reader-survey-results/",
+    "source": "Labiotech.eu",
+    "date": "2026-08-14",
+    "country": "Europe",
+    "category": "Company News",
+    "summary": "<p>Labiotech's reader survey reveals what our audience wants, needs, and is interested in for 2026.</p>\n<p>The post <a href=\"https://www.labiotech.eu/inside-labiotech/labiotech-2026-reader-survey-results/\">We asked, you answered: Labiotech&#8217;s 2026 reader survey results</a> a",
     "pinned": false
   },
   {
@@ -495,39 +550,6 @@
     "pinned": false
   },
   {
-    "id": "052505202295",
-    "title": "Opinion: I\u2019ve seen what life is like without vaccines. Americans need to understand what they save us from",
-    "url": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThe ability to prevent a deadly infectious disease is an extraordinary privilege,\u201d writes infectious disease physician Krutika Kuppalli.",
-    "pinned": false
-  },
-  {
-    "id": "58588389211b",
-    "title": "Opinion: How to disrupt the health misinformation business model",
-    "url": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "One way to fight medical misinformation: make it easier for people to understand when they are being manipulated, write Paul Martin Jensen and Avi Tuschman.",
-    "pinned": false
-  },
-  {
-    "id": "7e1dbb81be29",
-    "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
-    "url": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment.",
-    "pinned": false
-  },
-  {
     "id": "427841456edd",
     "title": "Lilly files six lawsuits in bid to shut down \u2018black market\u2019 for retatrutide",
     "url": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
@@ -613,17 +635,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>The startup has completed enrollment of an early-stage study testing a first-of-its-kind treatment for&nbsp;facioscapulohumeral muscular dystrophy, a disease targeted by many other drugmakers.</p>",
-    "pinned": false
-  },
-  {
-    "id": "fc323416f571",
-    "title": "Trump signs order seeking to upend childhood vaccine schedule",
-    "url": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/e5hIA-Hiprl5UY3oaP3-AtC6qQcq5UNFKsXjebwncaY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5OTA0MzY2LmpwZw==.webp\" /></div></figure><p>The executive order &mdash; which wasn&rsquo;t accomp",
     "pinned": false
   },
   {
@@ -723,17 +734,6 @@
     "country": "Europe",
     "category": "Company News",
     "summary": "<p>Delve into what Merck has planned for the future of its pipeline as Keytruda's patent is getting closer to expiry.</p>\n<p>The post <a href=\"https://www.labiotech.eu/top-pharma-strategy/merck-pipeline/\">Merck after Keytruda: what the pipeline looks like\u00a0</a> appeared first on <",
-    "pinned": false
-  },
-  {
-    "id": "2f3573ce13d9",
-    "title": "Gain Therapeutics: a first-in-class, disease-modifying therapy for Parkinson\u2019s",
-    "url": "https://www.labiotech.eu/podcast/gain-therapeutics-a-first-in-class-disease-modifying-therapy-for-parkinsons/",
-    "source": "Labiotech.eu",
-    "date": "2026-07-31",
-    "country": "Europe",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<p>Today we welcome Gene Mack, President and CEO of Gain Therapeutics. Their lead candidate is advancing toward Phase 2 as a potential first-in-class disease-modifying therapy for Parkinson\u2019s disease</p>\n<p>The post <a href=\"https://www.labiotech.eu/podcast/gain-therapeutics-a-fi",
     "pinned": false
   }
 ]
