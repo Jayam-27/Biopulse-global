@@ -1,5 +1,16 @@
 [
   {
+    "id": "e8f0a4e63c6d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial\" hreflang=\"en\">Merck, Moderna\u2019s personalized cancer vaccine slows recurrence in phase 3, setting up approval push</a>",
+    "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-08-19",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval.",
+    "pinned": false
+  },
+  {
     "id": "640e794b7468",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency\" hreflang=\"en\">Merck and Sarah Cannon team up to boost oncology trial efficiency</a>",
     "url": "https://www.fiercebiotech.com/biotech/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "4aa36f9de6a1",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/building-resilience-future-biopharma-innovation\" hreflang=\"en\">Building Resilience for the Future of Biopharma Innovation</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/building-resilience-future-biopharma-innovation",
-    "source": "Fierce Biotech",
+    "id": "cba9b5fd4fd0",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/teva-scores-rare-partial-court-win-vs-cms-price-negotiations\" hreflang=\"en\">Teva scores rare partial win in CMS price negotiation appeal</a>",
+    "url": "https://www.fiercepharma.com/pharma/teva-scores-rare-partial-court-win-vs-cms-price-negotiations",
+    "source": "Fierce Pharma",
     "date": "2026-08-19",
     "country": "Global",
-    "category": "Company News",
-    "summary": "How can industry build resilience as science advances? WuXi AppTec Co-CEO Dr. Steve Yang shares his perspective on the future of biopharma innovation.",
+    "category": "Funding & M&A",
+    "summary": "In challenging IRA price negotiations, Teva Pharmaceuticals has gained a partial win as the U.S. Court of Appeals for Washington, D.C., sent a previous ruling back to a lower court for further review. The challenge surrounds the way the CMS determines \u201cbona fide marketing\u201d for a ",
     "pinned": false
   },
   {
@@ -319,14 +330,91 @@
     "pinned": false
   },
   {
-    "id": "cd1a50ef925a",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-consumerization-reshaping-pharma-marketing\" hreflang=\"en\">How consumerization is reshaping pharma marketing</a>",
-    "url": "https://www.fiercepharma.com/sponsored/how-consumerization-reshaping-pharma-marketing",
-    "source": "Fierce Pharma",
+    "id": "31ce461ce5ff",
+    "title": "Dissecting Chinese trial strategy in wake of deaths",
+    "url": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-08-19",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds",
+    "pinned": false
+  },
+  {
+    "id": "792479fe30bc",
+    "title": "STAT+: What Epic did \u2014 and didn\u2019t \u2014 say about AI at its annual meeting",
+    "url": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
     "category": "Company News",
-    "summary": "GLP-1s, AI and telemedicine are changing patient behavior. Learn what it means for diagnosis, engagement and commercialization.",
+    "summary": "At Epic's annual meeting, the prevailing question behind closed doors is \u201cWhat the heck is going on with Epic?\u201d",
+    "pinned": false
+  },
+  {
+    "id": "0314a7e6df5b",
+    "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+    "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A personalized mRNA cancer vaccine succeeded in a late-stage melanoma study, results that could herald a new, powerful approach in oncology.",
+    "pinned": false
+  },
+  {
+    "id": "cb95c10f141a",
+    "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
+    "url": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism.",
+    "pinned": false
+  },
+  {
+    "id": "fb877a69acac",
+    "title": "STAT+: In wake of boy\u2019s death, gene editing experts dissect Huidagene\u2019s decisions",
+    "url": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies.",
+    "pinned": false
+  },
+  {
+    "id": "30d1221285f0",
+    "title": "Opinion: I\u2019m a pediatrician. AI chatbots are grooming my patients",
+    "url": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Policy",
+    "summary": "\u201cAt present, the law does not recognize that child abuse is child abuse when it\u2019s perpetrated by an algorithm operated by a corporation,\u201d writes a pediatrician.",
+    "pinned": false
+  },
+  {
+    "id": "d3eb9e62eb0c",
+    "title": "She grew up unvaccinated. Now she\u2019s a leading voice for science \u2014 and empathy",
+    "url": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance.",
+    "pinned": false
+  },
+  {
+    "id": "7ebcbe7079a1",
+    "title": "Opinion: AI has created a shadow medical system",
+    "url": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Financial incentives \u2013 health care makes up nearly one-fifth of the American economy \u2013 have driven every major AI company into health care.",
     "pinned": false
   },
   {
@@ -448,94 +536,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "Amylyx reports success in a pivotal trial, biopharma A-listers join a pain-blocking device company board, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
-    "id": "71a3dbb428b2",
-    "title": "STAT+: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
-    "url": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Top executives of major health systems got substantial raises, even as their hospitals grappled with plenty of challenges.",
-    "pinned": false
-  },
-  {
-    "id": "a4fa1ed51e44",
-    "title": "STAT+: Government workers feel the squeeze on health care",
-    "url": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage.",
-    "pinned": false
-  },
-  {
-    "id": "9b80e24f3d9a",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a setback for Eyepoint, a win for Amylyx, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Eyepoint disclosed that a Phase 3 trial of its experimental treatment for a common cause of age-related blindness fell short of its primary goal",
-    "pinned": false
-  },
-  {
-    "id": "4e57c6529844",
-    "title": "Kindergarten vaccine exemptions are climbing",
-    "url": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Doritos as \"real\" \"food,\" public-sector health care in trouble, and more health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "7fe33bee970c",
-    "title": "STAT+: Prominent AI startup rolls out virtual cell model in race to speed up science",
-    "url": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A prominent AI startup has rolled out a virtual cell model, advancing the race to speed up science.",
-    "pinned": false
-  },
-  {
-    "id": "658fcff60960",
-    "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
-    "url": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In a Phase 3 trial of people with post-bariatric hypoglycemia, those taking the drug, avexitide, experienced a 55% reduction in the rate of serious low blood sugar events compared with&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "77103459fd77",
-    "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
-    "url": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill.",
-    "pinned": false
-  },
-  {
-    "id": "874f20d58e53",
-    "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
-    "url": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives.",
     "pinned": false
   },
   {
