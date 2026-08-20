@@ -331,13 +331,24 @@
   },
   {
     "id": "c37e19d8929f",
-    "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+    "title": "Trump nominates policy aide Overton to lead FDA",
     "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
     "source": "BioPharma Dive",
     "date": "2026-08-19",
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0Ji_8vuSFNkANC4aPmbqLev61iJBHf6Kl3sGJt3LgMY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X3pJUnRuUlcuanBn.webp\" /></div></figure><p>Heidi Overton, a medical doctor and veteran o",
+    "pinned": false
+  },
+  {
+    "id": "882f913e49f9",
+    "title": "Moderna and Merck cancer vaccine returns \u2018landmark\u2019 result in melanoma",
+    "url": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-19",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l2fjcfreviwRnnixhxy6-Bvvb1WOizpHSalAEdf1bs8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05ODA5ODcwMTQuanBn.webp\" /></div></figure><p>At an interim data check, investigators of a key trial fo",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Fulcrum announced in June it would seek strategic alternatives after U.S. regulators expressed concern over the viability of its sickle cell drug.</p>",
-    "pinned": false
-  },
-  {
-    "id": "f22dddfc0e38",
-    "title": "FDA nod is just the first hurdle for Moderna\u2019s potential blockbuster flu vax",
-    "url": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aVNOGVPiPYfEaK4jBSqvo8UEmOai0QTEI_sER0h9Q40/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Nb2Rlcm5hLW1ybmEtZmx1LXZheC1mZGEtbm9kLWJsb2NrYnVzdGVyLWNoYWxsZW5nZXMuanBn.webp\" /></div></figure><p>Strain selection ",
     "pinned": false
   }
 ]
