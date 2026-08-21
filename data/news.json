@@ -1,5 +1,38 @@
 [
   {
+    "id": "67280c415a6c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind\" hreflang=\"en\">Chutes &amp; Ladders\u2014Neumora shuffles leadership ahead of IND</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind",
+    "source": "Fierce Biotech",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Joshua Pinto, Ph.D., has been appointed chief executive officer of Neumora Therapeutics, a clinical-stage biotech with obesity and neuro assets.",
+    "pinned": false
+  },
+  {
+    "id": "7f4fd199ca5e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling\" hreflang=\"en\">Why Pheast\u2019s CEO has no regrets about transparent approach to R&amp;D despite competitors circling</a>",
+    "url": "https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling",
+    "source": "Fierce Biotech",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Pheast Therapeutics may have learned the hard way about the risks of competitors getting a glimpse of your heard-earned discoveries, but the immuno-oncology startup is so far sticking to its transparent approach.",
+    "pinned": false
+  },
+  {
+    "id": "d66d5d96b045",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event\" hreflang=\"en\">Boehringer places phase 1 study of investigational drug on hold to examine \u2018safety event\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
+    "source": "Fierce Biotech",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Boehringer Ingelheim has suspended a phase 1 trial of an investigational small molecule drug while it seeks to understand a \u201csafety event,\u201d although the German pharma isn't shedding light on the nature of the incident for now.",
+    "pinned": false
+  },
+  {
     "id": "e711b0710eca",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal\" hreflang=\"en\">Chai tees up Bristol Myers Squibb AI antibody discovery collab</a>",
     "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
@@ -132,36 +165,14 @@
     "pinned": false
   },
   {
-    "id": "e8f0a4e63c6d",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial\" hreflang=\"en\">Merck, Moderna\u2019s personalized cancer vaccine slows recurrence in phase 3, setting up approval push</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
-    "source": "Fierce Biotech",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval.",
-    "pinned": false
-  },
-  {
-    "id": "de23e9ecca3a",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency\" hreflang=\"en\">Merck and Sarah Cannon team up to boost oncology trial efficiency</a>",
-    "url": "https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
-    "source": "Fierce Biotech",
+    "id": "8d341e38f800",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/regeneron-breathes-out-calming-visual-tour-its-science-new-podcast-series\" hreflang=\"en\">Regeneron podcast turns science learnings into immersive experience</a>",
+    "url": "https://www.fiercepharma.com/marketing/regeneron-breathes-out-calming-visual-tour-its-science-new-podcast-series",
+    "source": "Fierce Pharma",
     "date": "2026-08-21",
     "country": "Global",
     "category": "Company News",
-    "summary": "Oncology R&amp;D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck &amp; Co. to increase patient access to oncology trials at community-based sites in the U.S.",
-    "pinned": false
-  },
-  {
-    "id": "4f95ec36ba69",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss\" hreflang=\"en\">Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss</a>",
-    "url": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
-    "source": "Fierce Biotech",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused \u201cgreat disappointment and concern,\u201d Kolon TissueGene is laying off 37 employees at its Maryland headquarters.",
+    "summary": "Regeneron's \"Science Illuminated\" podcast series transforms scientific topics into a calming, meditative-style video and audio experience. <br />",
     "pinned": false
   },
   {
@@ -319,14 +330,47 @@
     "pinned": false
   },
   {
-    "id": "15fe71021d15",
-    "title": "<a href=\"https://www.fiercepharma.com/campaigns/genetix-kicks-sickle-cell-disease-awareness-campaign-national-football-league-alumni\" hreflang=\"en\">Genetix kicks off sickle cell disease awareness campaign with NFL Alumni Association </a>",
-    "url": "https://www.fiercepharma.com/campaigns/genetix-kicks-sickle-cell-disease-awareness-campaign-national-football-league-alumni",
-    "source": "Fierce Pharma",
+    "id": "0a3e9babcc34",
+    "title": "How cost and perception could reshape the GLP-1 market",
+    "url": "https://www.biopharmadive.com/news/glp-1-market-cost-prescribing-preferences/828424/",
+    "source": "BioPharma Dive",
     "date": "2026-08-21",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Genetix Biotherapeutics is teaming up with the NFL Alumni Association for a U.S. awareness and education drive centered on sickle cell disease.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/17mmyyG9XnzYzW8xIH6-t7ISQUMLINaOm2eJGOQIfhM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nbHAtMS1yYWNlLmpwZw==.webp\" /></div></figure><p>As Eli Lilly and Novo Nordisk race for share, surveys show affordabil",
+    "pinned": false
+  },
+  {
+    "id": "32729a1c6a7d",
+    "title": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds?",
+    "url": "https://www.statnews.com/2026/08/21/focal-therapy-prostate-cancer-still-experimental-or-viable-alternative/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Urologic oncologists who treat prostate cancer are split over the benefits of focal therapy compared to traditional surgery or radiation.",
+    "pinned": false
+  },
+  {
+    "id": "5ed9e37edbfe",
+    "title": "Opinion: Lil Nas X\u2019s bipolar diagnosis and the paradox of treatment",
+    "url": "https://www.statnews.com/2026/08/21/lil-nas-xs-bipolar-diagnosis-treatment-medication-achievement/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "We continue to romanticize the symptoms of mental health problems, especially when we talk about achievement.",
+    "pinned": false
+  },
+  {
+    "id": "cea2e07a9403",
+    "title": "Opinion: A cure for HIV would be a triumph. But it shouldn\u2019t harm survivors",
+    "url": "https://www.statnews.com/2026/08/21/hiv-cure-survivors-harm-benefits-research-ryan-white-hiv-aids-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Long-term survivors deserve to see a cure, not fear the losses it might bring.",
     "pinned": false
   },
   {
@@ -517,39 +561,6 @@
     "pinned": false
   },
   {
-    "id": "06a389c7dc57",
-    "title": "STAT+: New CDC director tells staff she is prepared to speak \u2018truth to power\u2019",
-    "url": "https://www.statnews.com/2026/08/19/cdc-director-erica-schwartz-staff-meeting-truth-to-power/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-19",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Then new CDC director told staff she is \u201cvery comfortable and very confident ... [in] speaking truth to power.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "466204750d5e",
-    "title": "Trust in science: A new STAT initiative",
-    "url": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-19",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Dear Readers, When we launched STAT more than a decade ago, our mission statement promised that we would deliver \"trusted, tough-minded journalism.'' Little did we know that trust would be&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "1c6f26a20140",
-    "title": "STAT+: Experts scrutinize Huidagene\u2019s disclosures after patient\u00a0death",
-    "url": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-19",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Merck and\u00a0Moderna's mRNA cancer vaccine, an expected nominee to lead the FDA, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
     "id": "d28be5a757aa",
     "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
     "url": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>A late-stage trial found the drug, which Amylyx bought for cheap in a bankruptcy auction, was effective at regulating blood sugar in patients who&rsquo;d just undergone bariatric surgery.</p>",
-    "pinned": false
-  },
-  {
-    "id": "0ed4d570db1b",
-    "title": "Argenx jumps on Phase 3 data for blockbuster Vyvgart",
-    "url": "https://www.biopharmadive.com/news/argenx-phase-3-data-vyvgart-IMNM-DM/828025/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pEMBQW3KaFgY6Lxfmup4ZtS1-TvKRR_38Tna06_mxJA/g:nowe:0:433/c:4500:2542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mzg4MTE4NDYuanBn.webp\" /></div></figure><p>The latest results give investors con",
     "pinned": false
   }
 ]
