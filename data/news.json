@@ -1,5 +1,16 @@
 [
   {
+    "id": "60809fde7c68",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push\" hreflang=\"en\">Werewolf transforms into Ambros via reverse merger to support phase 3 push for rare disease drug </a>",
+    "url": "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push",
+    "source": "Fierce Biotech",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Werewolf Therapeutics\u2019 hunt for strategic alternatives has ended. Ambros Therapeutics has agreed to merge with Werewolf in an all-stock deal and raised $150 million, positioning the biotech to take its lead rare disease drug candidate through to a filing for approval.",
+    "pinned": false
+  },
+  {
     "id": "67280c415a6c",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind\" hreflang=\"en\">Chutes &amp; Ladders\u2014Neumora shuffles leadership ahead of IND</a>",
     "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind",
@@ -45,7 +56,7 @@
   },
   {
     "id": "c691068b8ef5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs alumni Amplitude for RNA vaccine platform for infectious disease</a>",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease</a>",
     "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
     "source": "Fierce Biotech",
     "date": "2026-08-21",
@@ -154,14 +165,58 @@
     "pinned": false
   },
   {
-    "id": "ddb1c2b30d28",
-    "title": "<a href=\"https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions\" hreflang=\"en\">How Pharma Teams Evaluate Biotech Companies for Partnerships and Acquisitions</a>",
-    "url": "https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions",
-    "source": "Fierce Biotech",
+    "id": "135425351423",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight\" hreflang=\"en\">Lundbeck continues neuroscience evolution as CEO keeps company \u2018punching above its weight\u2019</a>",
+    "url": "https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight",
+    "source": "Fierce Pharma",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Almost three years into his tenure as Lundbeck\u2019s CEO, Charl van Zyl is confident the company can prove its mettle as a \u201cneuroscience challenger\u201d capable of \u201cpunching above its weight.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
+    "pinned": false
+  },
+  {
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: J&amp;J scores EU approval for Tecvayli-Darzalex combo</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "1d2e495f0b01",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/what-did-we-learn-big-pharmas-q2-results\" hreflang=\"en\">\u202fWhat did we learn from Big Pharma\u2019s Q2 results?</a>",
+    "url": "https://www.fiercepharma.com/pharma/what-did-we-learn-big-pharmas-q2-results",
+    "source": "Fierce Pharma",
+    "date": "2026-08-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce editors break down Big Pharma\u2019s second-quarter results, from AI and new leadership to the oral GLP-1 race and potential new blockbusters.",
+    "pinned": false
+  },
+  {
+    "id": "4a29ac63635d",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal\" hreflang=\"en\">Fierce Pharma Asia\u2014China's IIT scrutiny; Daiichi Sankyo, AZ ph. 3 win; Leo, Tanabe's dermatology deal</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal",
+    "source": "Fierce Pharma",
     "date": "2026-08-21",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Addressing how interactions around partnerships or acquisitions differ from those of investment from biotech companies and how CMOs can support those conversations.",
+    "summary": "China's investigator-initiated trials, once praised for their speediness, have been drawn into scrutiny for a lack of transparency. AstraZeneca and Daiichi Sankyo's Enhertu earned a win in a phase 3 non-small cell lung cancer trial. Tanabe Pharma secured a $435 million payout for",
     "pinned": false
   },
   {
@@ -275,58 +330,14 @@
     "pinned": false
   },
   {
-    "id": "f84141c67bed",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/regeneron-approval-fop\" hreflang=\"en\">Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder</a>",
-    "url": "https://www.fiercepharma.com/pharma/regeneron-approval-fop",
-    "source": "Fierce Pharma",
+    "id": "88a3d6d48215",
+    "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
+    "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
+    "source": "BioPharma Dive",
     "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Regeneron's Pasatru has crossed the finish line with FDA approval after more than ten years of development. The drug is only the second approved treatment for FOP, an ultra-rare genetic condition that causes patients' soft tissues to turn to bone.",
-    "pinned": false
-  },
-  {
-    "id": "6b50bec0f39f",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/sk-strikes-patent-infringement-settlement-msn-over-future-blockbuster-xcopri\" hreflang=\"en\">SK strikes settlement with MSN over future Xcopri generic: reports</a>",
-    "url": "https://www.fiercepharma.com/pharma/sk-strikes-patent-infringement-settlement-msn-over-future-blockbuster-xcopri",
-    "source": "Fierce Pharma",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "For the first time, SK Biopharmaceuticals has reached a settlement with a generics manufacturer that has applied for FDA approval of a copycat version of its epilepsy treatment Xcopri, local news outlets report. SK\u2019s deal with India\u2019s MSN Laboratories will allow the Korean compan",
-    "pinned": false
-  },
-  {
-    "id": "97c9146cd1e9",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/contractor-sk-pharmteco-heralds-completion-two-api-plants-ireland\" hreflang=\"en\">Contractor SK Pharmteco heralds completion of 2 API plants in Ireland</a>",
-    "url": "https://www.fiercepharma.com/pharma/contractor-sk-pharmteco-heralds-completion-two-api-plants-ireland",
-    "source": "Fierce Pharma",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The summer of the high-potency active pharmaceutical ingredient expansion continues, as yet another manufacturing specialist makes inroads to boost capacity for sensitive, in-demand drug ingredients.",
-    "pinned": false
-  },
-  {
-    "id": "2fd99930ad8c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/aurobindo-unit-china-api-maker-dinged-latest-round-fda-warning-letters\" hreflang=\"en\">Aurobindo unit, China API maker dinged in latest round of FDA warning letters</a>",
-    "url": "https://www.fiercepharma.com/pharma/aurobindo-unit-china-api-maker-dinged-latest-round-fda-warning-letters",
-    "source": "Fierce Pharma",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "After receiving a checkered regulatory scorecard in 2024, Aurobindo\u2019s sterile injectables and oncology unit is back in the FDA\u2019s crosshairs.",
-    "pinned": false
-  },
-  {
-    "id": "6de20611ac17",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner\" hreflang=\"en\">Trump taps White House aide Heidi Overton as nominee for next FDA commissioner</a>",
-    "url": "https://www.fiercepharma.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner",
-    "source": "Fierce Pharma",
-    "date": "2026-08-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "After three months without a permanent leader in place, President Donald Trump has named his pick for the new commissioner of the FDA. Heidi Overton, M.D., Ph.D., currently a White House aide, will go before the Senate in an effort to secure the job of the country\u2019s top drug regu",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Kaos Capital wants a &ldquo;governan",
     "pinned": false
   },
   {
@@ -338,6 +349,61 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/17mmyyG9XnzYzW8xIH6-t7ISQUMLINaOm2eJGOQIfhM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nbHAtMS1yYWNlLmpwZw==.webp\" /></div></figure><p>As Eli Lilly and Novo Nordisk race for share, surveys show affordabil",
+    "pinned": false
+  },
+  {
+    "id": "37b341408f1d",
+    "title": "STAT+: HHS document offers new clues to Kennedy\u2019s vaccine plans",
+    "url": "https://www.statnews.com/2026/08/21/rfi-reveals-possible-kennedy-strategy-vaccine-policy-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested.",
+    "pinned": false
+  },
+  {
+    "id": "4ece28510e7c",
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/08/21/up-down-ladder-latest-comings-goings-jobs-2/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "pinned": false
+  },
+  {
+    "id": "ef45192fe9bd",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a big Roche investment in the U.S., estrogen patch shortages, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
+    "pinned": false
+  },
+  {
+    "id": "bf730632abba",
+    "title": "STAT+: Are cancer patients getting too much drug?",
+    "url": "https://www.statnews.com/2026/08/21/biotech-news-are-cancer-patients-us-getting-too-much-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Moderna's stunning surge and drop, AI in scientific writing, and more biotech news from The Readout",
+    "pinned": false
+  },
+  {
+    "id": "fcea87c74b37",
+    "title": "Scientists deploy Merck\u2019s Ebola vaccine in DRC",
+    "url": "https://www.statnews.com/2026/08/21/health-news-scientists-deploy-merck-ebola-vaccine-in-drc/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-21",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Prostate cancer therapy, Meta glasses in hospital settings, and more health news from Morning Rounds",
     "pinned": false
   },
   {
@@ -484,50 +550,6 @@
     "pinned": false
   },
   {
-    "id": "92e843dc702b",
-    "title": "Opinion: Capricor\u2019s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
-    "url": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "\u201cRegulatory flexibility can be exercised in rare disease without sacrificing rigor,\u201d writes Mindy Leffler, whose son has Duchenne muscular dystrophy.",
-    "pinned": false
-  },
-  {
-    "id": "ce808134ba9c",
-    "title": "Reduce protein to increase longevity? Nutrition experts say that\u2019s a bad idea",
-    "url": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say.",
-    "pinned": false
-  },
-  {
-    "id": "f758d358fc52",
-    "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
-    "url": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "ddf31127a8da",
-    "title": "Opinion: The global health aid architecture is collapsing. The faith economy isn\u2019t",
-    "url": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWashington has rediscovered faith as a delivery mechanism. The bigger opportunity is faith as a source of capital,\u201d writes Dr. Alaa Murabit.",
-    "pinned": false
-  },
-  {
     "id": "c37e19d8929f",
     "title": "Trump nominates policy aide Overton to lead FDA",
     "url": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
@@ -547,17 +569,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l2fjcfreviwRnnixhxy6-Bvvb1WOizpHSalAEdf1bs8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05ODA5ODcwMTQuanBn.webp\" /></div></figure><p>At an interim data check, investigators of a key trial fo",
-    "pinned": false
-  },
-  {
-    "id": "c5c06a4431a0",
-    "title": "STAT+: How Trump loyalist Heidi Overton became the president\u2019s pick to run the FDA",
-    "url": "https://www.statnews.com/2026/08/19/heidi-overton-fda-commissioner-nominee-competing-interests-ahead/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-19",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "If she wins confirmation as FDA commissioner, Heidi Overton will face plenty of big challenges.",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nnTWCzHBd9_O2uNBVPF6xmxcO0M-nRFDpca5z-2Xchs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDMwNzQzODA0LmpwZw==.webp\" /></div></figure><p>Tanabe Pharma has already asked the FDA to approve th",
-    "pinned": false
-  },
-  {
-    "id": "1135a3427151",
-    "title": "Amylyx\u2019s bet on a GLP-1 blocker pays off",
-    "url": "https://www.biopharmadive.com/news/amylyx-glp1-avexitide-clinical-trial-results-blood-sugar/828099/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>A late-stage trial found the drug, which Amylyx bought for cheap in a bankruptcy auction, was effective at regulating blood sugar in patients who&rsquo;d just undergone bariatric surgery.</p>",
     "pinned": false
   }
 ]
