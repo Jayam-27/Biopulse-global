@@ -149,9 +149,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1902.4,
+    "price": 1919.4,
     "currency": "INR",
-    "change_pct": -0.08
+    "change_pct": 0.89
   },
   {
     "symbol": "DRREDDY.NS",
@@ -160,9 +160,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1174.7,
+    "price": 1184.4,
     "currency": "INR",
-    "change_pct": -0.45
+    "change_pct": 0.83
   },
   {
     "symbol": "CIPLA.NS",
@@ -171,9 +171,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1432.2,
+    "price": 1426.6,
     "currency": "INR",
-    "change_pct": -0.4
+    "change_pct": -0.39
   },
   {
     "symbol": "4523.T",
@@ -182,9 +182,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 4935.0,
+    "price": 4850.0,
     "currency": "JPY",
-    "change_pct": 0.73
+    "change_pct": -1.0
   },
   {
     "symbol": "4502.T",
@@ -193,9 +193,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 5853.0,
+    "price": 5812.0,
     "currency": "JPY",
-    "change_pct": 1.77
+    "change_pct": 1.06
   },
   {
     "symbol": "4519.T",
@@ -204,9 +204,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 7121.0,
+    "price": 6973.0,
     "currency": "JPY",
-    "change_pct": 1.08
+    "change_pct": -1.02
   },
   {
     "symbol": "1093.HK",
@@ -215,9 +215,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 9.19,
+    "price": 9.37,
     "currency": "HKD",
-    "change_pct": -3.47
+    "change_pct": 1.96
   },
   {
     "symbol": "1177.HK",
@@ -226,9 +226,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 5.59,
+    "price": 5.53,
     "currency": "HKD",
-    "change_pct": 3.8
+    "change_pct": -1.16
   },
   {
     "symbol": "2196.HK",
@@ -237,9 +237,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 17.37,
+    "price": 16.87,
     "currency": "HKD",
-    "change_pct": -2.96
+    "change_pct": -2.88
   },
   {
     "symbol": "XBI",
