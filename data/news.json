@@ -1,5 +1,38 @@
 [
   {
+    "id": "af203f44231f",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus\" hreflang=\"en\">Labcorp launches new hepatitis D test to find patients with most severe form of virus </a>",
+    "url": "https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Labcorp is looking to plug the gap in hepatitis D monitoring with a new reflex testing solution to help find more patients with this form of the virus earlier.",
+    "pinned": false
+  },
+  {
+    "id": "74f981e8958f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game\" hreflang=\"en\">Why a Texas congressman believes Chinese biotechs are 'beating us on our ground game'</a>",
+    "url": "https://www.fiercebiotech.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The \u201cknowledge base is going to start shifting quickly to China,\u201d Rep. Nathaniel Moran, R-Texas, a member of the House Select Committee on China, told Fierce.",
+    "pinned": false
+  },
+  {
+    "id": "24b5589bfe88",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal\" hreflang=\"en\">Founded by Metsera backers, Sentivera emerges with $1.5B inflammatory disease deal</a>",
+    "url": "https://www.fiercebiotech.com/biotech/founded-metsera-backers-sentivera-emerges-15b-inflammatory-disease-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Having set Metsera on its journey to a $10 billion takeover, Arch Venture Partners and Population Health Partners have powered their new startup\u2014Sentivera\u2014to a licensing deal worth up to $1.5 billion.",
+    "pinned": false
+  },
+  {
     "id": "b62436e343ac",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant\" hreflang=\"en\">Implantica finally nabs FDA approval 8 years after EU green light for reflux implant </a>",
     "url": "https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant",
@@ -132,36 +165,58 @@
     "pinned": false
   },
   {
-    "id": "d66d5d96b045",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event\" hreflang=\"en\">Boehringer places phase 1 study of investigational drug on hold to examine \u2018safety event\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
-    "source": "Fierce Biotech",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Boehringer Ingelheim has suspended a phase 1 trial of an investigational small molecule drug while it seeks to understand a \u201csafety event,\u201d although the German pharma isn't shedding light on the nature of the incident for now.",
-    "pinned": false
-  },
-  {
-    "id": "e711b0710eca",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal\" hreflang=\"en\">Chai tees up Bristol Myers Squibb AI antibody discovery collab</a>",
-    "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
-    "source": "Fierce Biotech",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
-    "pinned": false
-  },
-  {
-    "id": "c691068b8ef5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease\" hreflang=\"en\">Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease</a>",
-    "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
-    "source": "Fierce Biotech",
+    "id": "f3c159a5fd0d",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/mckesson-strikes-225-billion-deal-precision-medicine-group\" hreflang=\"en\">McKesson strikes $2.25B deal to snap up Precision Medicine Group</a>",
+    "url": "https://www.fiercepharma.com/pharma/mckesson-strikes-225-billion-deal-precision-medicine-group",
+    "source": "Fierce Pharma",
     "date": "2026-08-25",
     "country": "Global",
     "category": "Company News",
-    "summary": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
+    "summary": "The healthcare conglomerate ,which ranks eighth on the Fortune 500 list, is set to envelope privately held Precision Medicine Group into its oncology branch as part of an ongoing effort to grow it's high-margin cancer and biopharma businesses.",
+    "pinned": false
+  },
+  {
+    "id": "2332b26f6a41",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/jazz-her2-bispecific-ziihera-gains-fda-approval-change-practice-stomach-cancer\" hreflang=\"en\">Jazz's HER2 bispecific Ziihera gains FDA approval to change practice in stomach cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/jazz-her2-bispecific-ziihera-gains-fda-approval-change-practice-stomach-cancer",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Jazz\u2019s bispecific antibody Ziihera has gained FDA approval for first-line HER2-positive stomach cancer, unlocking another market as the company builds toward a $2 billion-plus peak sales target.",
+    "pinned": false
+  },
+  {
+    "id": "3bc8b79cab36",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bausch-lomb-flops-ph-2-xiidra-miebo-combo-advances-it-ph-3\" hreflang=\"en\">Bausch + Lomb flops in ph. 2 with Xiidra and Miebo but advances combo to ph. 3</a>",
+    "url": "https://www.fiercepharma.com/pharma/bausch-lomb-flops-ph-2-xiidra-miebo-combo-advances-it-ph-3",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Bausch + Lomb has come up short in a phase 2 trial, testing its combination of dry-eye disease drugs Xiidra and Miebo. While the study missed its primary endpoint, the Ontario eye care specialist has seen enough promise in the combo to advance it to phase 3 development, it said o",
+    "pinned": false
+  },
+  {
+    "id": "2e573835f70f",
+    "title": "<a href=\"https://www.fiercepharma.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game\" hreflang=\"en\">Why a Texas congressman believes Chinese biotechs are 'beating us on our ground game'</a>",
+    "url": "https://www.fiercepharma.com/biotech/texas-congressman-tells-fierce-why-chinese-biotechs-are-beating-us-our-ground-game",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The \u201cknowledge base is going to start shifting quickly to China,\u201d Rep. Nathaniel Moran, R-Texas, a member of the House Select Committee on China, told Fierce.",
+    "pinned": false
+  },
+  {
+    "id": "48eb12895c4e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/johnson-johnson-scores-its-first-fda-label-expansion-imaavy\" hreflang=\"en\">Johnson &amp; Johnson scores 1st FDA label expansion for Imaavy</a>",
+    "url": "https://www.fiercepharma.com/pharma/johnson-johnson-scores-its-first-fda-label-expansion-imaavy",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Sixteen months after Johnson &amp; Johnson scored its initial FDA approval for Imaavy, the pharma giant has tacked on a label expansion for the monoclonal antibody. The U.S. regulator has signed off on Imaavy to treat warm autoimmune hemolytic anemia, a rare disorder that destroy",
     "pinned": false
   },
   {
@@ -176,8 +231,19 @@
     "pinned": false
   },
   {
+    "id": "974552bdb3c1",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/nad-reaches-split-decision-hair-ad-row-between-kenvue-and-hims-hers\" hreflang=\"en\">NAD reaches split decision on hair ad row between Kenvue and Hims &amp; Hers</a>",
+    "url": "https://www.fiercepharma.com/marketing/nad-reaches-split-decision-hair-ad-row-between-kenvue-and-hims-hers",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The National Advertising Division has delivered a mixed verdict in a row over hair-loss ads, telling Hims &amp; Hers Health to change certain claims while dismissing other challenges brought by Kenvue.",
+    "pinned": false
+  },
+  {
     "id": "10bbb67a3d7e",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-covers-lifelong-obesity-journey-new-glp-1-medicaid-access-campaign\" hreflang=\"en\">Lilly covers lifelong obesity journey in new GLP-1 Medicaid access campaign </a>",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-covers-lifelong-obesity-journey-new-glp-1-medicaid-access-campaign\" hreflang=\"en\">Lilly covers lifelong obesity journey in new GLP-1 Medicare access campaign </a>",
     "url": "https://www.fiercepharma.com/pharma/lilly-covers-lifelong-obesity-journey-new-glp-1-medicaid-access-campaign",
     "source": "Fierce Pharma",
     "date": "2026-08-25",
@@ -264,69 +330,14 @@
     "pinned": false
   },
   {
-    "id": "e797a0fdc763",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/daiichi-sankyo-promotes-ken-keller-lead-new-commercialization-unit\" hreflang=\"en\">Daiichi Sankyo promotes Ken Keller to lead new commercialization unit</a>",
-    "url": "https://www.fiercepharma.com/marketing/daiichi-sankyo-promotes-ken-keller-lead-new-commercialization-unit",
-    "source": "Fierce Pharma",
+    "id": "2010426922c9",
+    "title": "Roche, Eli Lilly get FDA nod for new Alzheimer\u2019s blood test",
+    "url": "https://www.biopharmadive.com/news/roche-eli-lilly-get-fda-nod-for-new-alzheimers-blood-test/828720/",
+    "source": "BioPharma Dive",
     "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Daiichi Sankyo is promoting Ken Keller to lead a new globally integrated commercialization unit, putting the executive in charge of a key pillar of its push to become a top-five oncology company by 2035.",
-    "pinned": false
-  },
-  {
-    "id": "f6755ea7dfda",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/community-health-media-drives-credible-medical-expertise-through-physician-led-content\" hreflang=\"en\">Community Health Media drives 'credible medical expertise' through physician-led content </a>",
-    "url": "https://www.fiercepharma.com/marketing/community-health-media-drives-credible-medical-expertise-through-physician-led-content",
-    "source": "Fierce Pharma",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Education and insight company Community Health Media curates its content library by centering physicians as \"the talent\" and centering its content creation on insightful physician-led conversations. <br />",
-    "pinned": false
-  },
-  {
-    "id": "135425351423",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight\" hreflang=\"en\">Lundbeck continues neuroscience evolution as CEO keeps company \u2018punching above its weight\u2019</a>",
-    "url": "https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight",
-    "source": "Fierce Pharma",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Almost three years into his tenure as Lundbeck\u2019s CEO, Charl van Zyl is confident the company can prove its mettle as a \u201cneuroscience challenger\u201d capable of \u201cpunching above its weight.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "12f3086c234c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows</a>",
-    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-    "source": "Fierce Pharma",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
-    "pinned": false
-  },
-  {
-    "id": "1d2e495f0b01",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/what-did-we-learn-big-pharmas-q2-results\" hreflang=\"en\">\u202fWhat did we learn from Big Pharma\u2019s Q2 results?</a>",
-    "url": "https://www.fiercepharma.com/pharma/what-did-we-learn-big-pharmas-q2-results",
-    "source": "Fierce Pharma",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Fierce editors break down Big Pharma\u2019s second-quarter results, from AI and new leadership to the oral GLP-1 race and potential new blockbusters.",
-    "pinned": false
-  },
-  {
-    "id": "4a29ac63635d",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal\" hreflang=\"en\">Fierce Pharma Asia\u2014China's IIT scrutiny; Daiichi Sankyo, AZ ph. 3 win; Leo, Tanabe's dermatology deal</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal",
-    "source": "Fierce Pharma",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "China's investigator-initiated trials, once praised for their speediness, have been drawn into scrutiny for a lack of transparency. AstraZeneca and Daiichi Sankyo's Enhertu earned a win in a phase 3 non-small cell lung cancer trial. Tanabe Pharma secured a $435 million payout for",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Bdi5M4HMTn0nQ7Ww6DWMZBEaPY1McVmIyhbOSlOBYfo/g:nowe:0:194/c:1920:1085/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8zODY4NjUwMzI1MV80M2IzNGRlNTFjX2suanBn.webp\" /></div></figure><p>Labcorp and Quest Diagnostics bot",
     "pinned": false
   },
   {
@@ -349,6 +360,72 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>A new report found that the sizes of seed rounds and Series A financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;</p>",
+    "pinned": false
+  },
+  {
+    "id": "3881699913ad",
+    "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+    "url": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Two unvaccinated Pennsylvania residents have died from\u00a0measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year.",
+    "pinned": false
+  },
+  {
+    "id": "33eec1f1e55d",
+    "title": "STAT+: How Trump\u2019s funding cuts are reshaping the health system",
+    "url": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "STAT examines Republicans\u2019 health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage.",
+    "pinned": false
+  },
+  {
+    "id": "0c2febaff3a7",
+    "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
+    "url": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The number of people working in Massachusetts\u2019 biotech sector\u00a0fell last year, for the first time since at least 2002. But 2026 is looking up.",
+    "pinned": false
+  },
+  {
+    "id": "85047b637014",
+    "title": "STAT+: FDA promises new AI guidance, and what happened at Epic\u2019s UGM",
+    "url": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this edition of STAT Health Tech: FDA's plans for regulating generative AI-powered devices, and updates from EPIC's UGM.",
+    "pinned": false
+  },
+  {
+    "id": "58e6790a1571",
+    "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
+    "url": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Turkish regulators are investigating Teva Pharmaceutical for allegedly manipulating the patent system and disparaging rival drugs.",
+    "pinned": false
+  },
+  {
+    "id": "4c9266a9e4de",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers",
     "pinned": false
   },
   {
@@ -381,7 +458,7 @@
     "date": "2026-08-25",
     "country": "US",
     "category": "Company News",
-    "summary": "New AI technology can help hospitals prevent the controlled substances from being stolen, or abused by staff, but those tools aren't foolproof.",
+    "summary": "New AI technology can help hospitals prevent controlled substances from being stolen, or abused by staff, but those tools aren't foolproof.",
     "pinned": false
   },
   {
@@ -517,72 +594,6 @@
     "pinned": false
   },
   {
-    "id": "5d0bfd37efd5",
-    "title": "FDA plans to regulate generative AI",
-    "url": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "New clues to RFK Jr.'s vaccine plans, a bottleneck for nurse practitioners, and more health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "22c2b7aaea1b",
-    "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
-    "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA put a hold on a Regenxbio gene therapy trial again after new safety concerns emerged.",
-    "pinned": false
-  },
-  {
-    "id": "c4586001ce0b",
-    "title": "STAT+: Inside Moderna and Merck\u2019s cancer vaccine triumph",
-    "url": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Moderna and Merck's wild gambit on a cancer vaccine appears to have worked, despite big doubts, logistical challenges, and pandemic-era complications.",
-    "pinned": false
-  },
-  {
-    "id": "e65acc191163",
-    "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
-    "url": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say.",
-    "pinned": false
-  },
-  {
-    "id": "0dbdca545ce0",
-    "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
-    "url": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "FDA expects to issue guidance on policies regarding generative AI devices, according to Rick Abramson, the agency\u2019s head of digital health policy.",
-    "pinned": false
-  },
-  {
-    "id": "ef6fe3e9c776",
-    "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
-    "url": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision.",
-    "pinned": false
-  },
-  {
     "id": "88a3d6d48215",
     "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
     "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Kaos Capital wants a &ldquo;governan",
-    "pinned": false
-  },
-  {
-    "id": "0a3e9babcc34",
-    "title": "How cost and perception could reshape the GLP-1 market",
-    "url": "https://www.biopharmadive.com/news/glp-1-market-cost-prescribing-preferences/828424/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/17mmyyG9XnzYzW8xIH6-t7ISQUMLINaOm2eJGOQIfhM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nbHAtMS1yYWNlLmpwZw==.webp\" /></div></figure><p>As Eli Lilly and Novo Nordisk race for share, surveys show affordabil",
     "pinned": false
   }
 ]
