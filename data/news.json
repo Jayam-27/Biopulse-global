@@ -165,6 +165,17 @@
     "pinned": false
   },
   {
+    "id": "10bbb67a3d7e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-covers-lifelong-obesity-journey-new-glp-1-medicaid-access-campaign\" hreflang=\"en\">Lilly covers lifelong obesity journey in new GLP-1 Medicaid access campaign </a>",
+    "url": "https://www.fiercepharma.com/pharma/lilly-covers-lifelong-obesity-journey-new-glp-1-medicaid-access-campaign",
+    "source": "Fierce Pharma",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The campaign adds older adults to the obesity conversation and is anchored by Lilly's \"A Life Covered\" short film, which highlights a woman's decades-long weight loss journey.",
+    "pinned": false
+  },
+  {
     "id": "c938b85278f0",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away\" hreflang=\"en\">Merck, AZ lawsuits against Medicare price negotiations swatted down</a>",
     "url": "https://www.fiercepharma.com/pharma/merck-az-lawsuits-against-medicare-price-negotiations-are-swatted-away",
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "f2cded9e9cbf",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/roche-earmarks-750m-double-size-its-manufacturing-facility-oregon\" hreflang=\"en\">Roche earmarks $750M to double the size of its Oregon manufacturing facility</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/roche-earmarks-750m-double-size-its-manufacturing-facility-oregon",
-    "source": "Fierce Pharma",
+    "id": "8e64c49770f3",
+    "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
+    "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
+    "source": "BioPharma Dive",
     "date": "2026-08-25",
-    "country": "Global",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "Roche will invest $750 million to double the size of its Genentech unit's manufacturing facility in Hillsboro, Oregon. The new outlay will support the construction of a fill-finish plant that will produce drug-delivery devices, such as prefilled syringes and auto-injectors. The f",
+    "summary": "<p>A new report found that the sizes of seed rounds and Series A financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;</p>",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OFuJt8RCv7d5G0yYPlLx8Wpx6b0_2hQq__CLtXvugdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0Mjc2NDAuanBn.webp\" /></div></figure><p>Pasatru&rsquo;s approval sets up a market battle in a rar",
-    "pinned": false
-  },
-  {
-    "id": "9302de10e7df",
-    "title": "Cancer vaccine win restores Wall Street\u2019s faith in Moderna",
-    "url": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kTt-GkKwdvscVqt1TVdwU-EUFaQETvJaILkTKmje9Kk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDE3Nzk1MTM4LmpwZw==.webp\" /></div></figure><p>Moderna gained $45 billion in market value in a singl",
     "pinned": false
   }
 ]
