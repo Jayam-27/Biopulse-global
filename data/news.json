@@ -1,5 +1,38 @@
 [
   {
+    "id": "b62436e343ac",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant\" hreflang=\"en\">Implantica finally nabs FDA approval 8 years after EU green light for reflux implant </a>",
+    "url": "https://www.fiercebiotech.com/medtech/implantica-finally-nabs-fda-approval-8-years-after-european-green-light-reflux-implant",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has signed off on Implantica\u2019s gastroesophageal reflux disease (GERD) implant as the medtech eyes a lucrative U.S. market.",
+    "pinned": false
+  },
+  {
+    "id": "98973438c028",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/despite-massachusetts-vc-growth-and-ipo-boost-lack-early-stage-funding-casts-doubt-future\" hreflang=\"en\">Vacant lab space, shrinking workforce put Mass. in \u2018unique position\u2019 for biotech bounceback</a>",
+    "url": "https://www.fiercebiotech.com/biotech/despite-massachusetts-vc-growth-and-ipo-boost-lack-early-stage-funding-casts-doubt-future",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "A new report on the health of the Massachusetts biotech scene has painted a mixed picture of how drug developers are faring in the Bay State.",
+    "pinned": false
+  },
+  {
+    "id": "953b79346bb7",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-secures-reprieve-fda-extends-dmd-cell-therapy-review\" hreflang=\"en\">Capricor secures reprieve as FDA extends DMD cell therapy review</a>",
+    "url": "https://www.fiercebiotech.com/biotech/capricor-secures-reprieve-fda-extends-dmd-cell-therapy-review",
+    "source": "Fierce Biotech",
+    "date": "2026-08-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has extended its review of Capricor Therapeutics\u2019 Duchenne muscular dystrophy drug candidate, deferring the decision to review information the biotech submitted after a negative advisory committee vote.",
+    "pinned": false
+  },
+  {
     "id": "e748e1f73730",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search\" hreflang=\"en\">Qiagen appoints new chief executive after 9-month search</a>",
     "url": "https://www.fiercebiotech.com/medtech/qiagen-appoints-new-chief-executive-after-9-month-search",
@@ -132,36 +165,14 @@
     "pinned": false
   },
   {
-    "id": "69c417499bbb",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device\" hreflang=\"en\">Meet Aletta: The first FDA approved robotic blood draw device </a>",
-    "url": "https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device",
-    "source": "Fierce Biotech",
+    "id": "b1e01f7d5e7f",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/lundbeck-strikes-expanded-pact-eversana-broaden-ai-scope-across-us-commercial-org\" hreflang=\"en\">Lundbeck strikes expanded pact with Eversana to broaden AI scope across US commercial business </a>",
+    "url": "https://www.fiercepharma.com/marketing/lundbeck-strikes-expanded-pact-eversana-broaden-ai-scope-across-us-commercial-org",
+    "source": "Fierce Pharma",
     "date": "2026-08-25",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has approved Vitestro\u2019s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help.",
-    "pinned": false
-  },
-  {
-    "id": "26315ae61899",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact\" hreflang=\"en\">Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
-    "source": "Fierce Biotech",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "As the dust settles on phase 3 data that added $45 billion to Moderna\u2019s market cap, analysts have begun to ask a question that could define cancer care in the coming years: Can use of the vaccine be as broad as Keytruda?",
-    "pinned": false
-  },
-  {
-    "id": "b49ee2df809b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions\" hreflang=\"en\">\u2018Money has spoken\u2019: Why Chinese biotech CEOs tell Fierce they\u2019re unfazed about rising US tensions</a>",
-    "url": "https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions",
-    "source": "Fierce Biotech",
-    "date": "2026-08-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "You might assume Chinese biotechs are enduring sleepless nights worrying about whether the ramping up of rhetoric in the U.S. is putting their new financial gains in peril. But the companies Fierce spoke to remained unconcerned.",
+    "category": "Company News",
+    "summary": "The partnership builds on previous work and will expand Lundbeck's use of Eversana's AI Agency platform across its U.S. commercial organization, the companies said.",
     "pinned": false
   },
   {
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "8d341e38f800",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/regeneron-breathes-out-calming-visual-tour-its-science-new-podcast-series\" hreflang=\"en\">Regeneron podcast turns science learnings into immersive experience</a>",
-    "url": "https://www.fiercepharma.com/marketing/regeneron-breathes-out-calming-visual-tour-its-science-new-podcast-series",
-    "source": "Fierce Pharma",
+    "id": "4965cb826f9b",
+    "title": "Will a \u2018reset\u2019 reignite investment in women\u2019s health startups?",
+    "url": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
+    "source": "BioPharma Dive",
     "date": "2026-08-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Regeneron's \"Science Illuminated\" podcast series transforms scientific topics into a calming, meditative-style video and audio experience. <br />",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EYMdaozAclZn53ciNVf9VSM5sWkmRjWJSL3tqmMq2yc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYwOTA1NjUwLmpwZw==.webp\" /></div></figure><p>After peaking in 2024, venture investments in startup",
     "pinned": false
   },
   {
@@ -338,6 +349,72 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>A new report found that the sizes of seed rounds and Series A financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the &ldquo;riskiest science.&rdquo;</p>",
+    "pinned": false
+  },
+  {
+    "id": "84cf78b530e2",
+    "title": "CDC releases latest life expectancy data",
+    "url": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Deleted public comments on White House proposals, how Trump cuts are reshaping rural health care, and more Morning Rounds news",
+    "pinned": false
+  },
+  {
+    "id": "3020f43f33e7",
+    "title": "STAT+: Comments on OMB research rule mysteriously removed from federal website",
+    "url": "https://www.statnews.com/2026/08/25/russell-vought-omb-funding-comments-daughter-benefited-nih-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Some comments on a proposed OMB research rule have been mysteriously removed from a public-facing government webpage.",
+    "pinned": false
+  },
+  {
+    "id": "e674ca830963",
+    "title": "STAT+: AI is good at catching drug theft at hospitals, but only when humans do their part",
+    "url": "https://www.statnews.com/2026/08/25/ai-drug-diversion-software-human-oversight-controlcheck-sentri7/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New AI technology can help hospitals prevent the controlled substances from being stolen, or abused by staff, but those tools aren't foolproof.",
+    "pinned": false
+  },
+  {
+    "id": "38b5b1e42cc8",
+    "title": "Opinion: Whale songs: the sounds of love and loss as heard by an OB-GYN",
+    "url": "https://www.statnews.com/2026/08/25/human-whale-songs-of-grief-essay-dr-caroline-cherston/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cI have developed a trained ear for many kinds of \u2018humanized\u2019 whale songs especially the types sung by women,\u201d writes physician Caroline Cherston.",
+    "pinned": false
+  },
+  {
+    "id": "8f5d1dd59d32",
+    "title": "Opinion: Cancer screening guidelines need to address long-term care facilities",
+    "url": "https://www.statnews.com/2026/08/25/cancer-screening-guidelines-long-term-care-facilities/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "After her aunt died, cancer epidemiologist Kim Johnson looked into screening guidelines for long-term care residents \u2014 and found almost nothing.",
+    "pinned": false
+  },
+  {
+    "id": "520e45ef233a",
+    "title": "How Trump\u2019s cuts are reshaping America\u2019s health system",
+    "url": "https://www.statnews.com/2026/08/25/rural-hospitals-response-medicaid-cuts-part-1-unraveled-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A scramble to prepare for massive federal cuts across the health care system is hitting rural states like Maine particularly hard.",
     "pinned": false
   },
   {
@@ -506,39 +583,6 @@
     "pinned": false
   },
   {
-    "id": "4f5102ba1356",
-    "title": "Opinion: Medicine stopped\u00a0shaking hands. We should start again",
-    "url": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A handshake takes only a few seconds but can make a major difference to a patient, an emergency physician writes.",
-    "pinned": false
-  },
-  {
-    "id": "b0c1e2597762",
-    "title": "Opinion: I\u2019m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
-    "url": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cIt was only after retiring from mainstream medicine when I fully comprehended the callous limitations of our health care system,\u201d writes Benjamin I. Lee.",
-    "pinned": false
-  },
-  {
-    "id": "c0d9e9995583",
-    "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
-    "url": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said.",
-    "pinned": false
-  },
-  {
     "id": "88a3d6d48215",
     "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
     "url": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
@@ -558,50 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/17mmyyG9XnzYzW8xIH6-t7ISQUMLINaOm2eJGOQIfhM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nbHAtMS1yYWNlLmpwZw==.webp\" /></div></figure><p>As Eli Lilly and Novo Nordisk race for share, surveys show affordabil",
-    "pinned": false
-  },
-  {
-    "id": "37b341408f1d",
-    "title": "STAT+: HHS document offers new clues to Kennedy\u2019s vaccine plans",
-    "url": "https://www.statnews.com/2026/08/21/rfi-reveals-possible-kennedy-strategy-vaccine-policy-changes/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested.",
-    "pinned": false
-  },
-  {
-    "id": "4ece28510e7c",
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/08/21/up-down-ladder-latest-comings-goings-jobs-2/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "ef45192fe9bd",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a big Roche investment in the U.S., estrogen patch shortages, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/21/roche-genentech-investment-estrogen-patch-shortages/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-21",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Roche's Genentech will invest $750 million to double the size of its existing production facility in Oregon",
-    "pinned": false
-  },
-  {
-    "id": "0e6493775771",
-    "title": "Regeneron to challenge Ipsen as FDA clears bone disease drug",
-    "url": "https://www.biopharmadive.com/news/regeneron-pasatru-fda-approve-fibrodysplasia-ossificans-progressiva/828375/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-20",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OFuJt8RCv7d5G0yYPlLx8Wpx6b0_2hQq__CLtXvugdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0Mjc2NDAuanBn.webp\" /></div></figure><p>Pasatru&rsquo;s approval sets up a market battle in a rar",
     "pinned": false
   }
 ]
