@@ -2,67 +2,67 @@
   {
     "symbol": "CL=F",
     "name": "Crude Oil (WTI)",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per barrel",
-    "price": 82.84,
+    "price": 83.09,
     "currency": "USD",
-    "change_pct": 1.22
+    "change_pct": 1.53
   },
   {
     "symbol": "NG=F",
     "name": "Natural Gas",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per MMBtu",
-    "price": 2.94,
+    "price": 2.91,
     "currency": "USD",
-    "change_pct": 0.68
+    "change_pct": -0.41
   },
   {
     "symbol": "ZC=F",
     "name": "Corn",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per bushel",
-    "price": 534.5,
+    "price": 534.75,
     "currency": "USX",
-    "change_pct": -0.19
+    "change_pct": -0.14
   },
   {
     "symbol": "ZS=F",
     "name": "Soybeans",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per bushel",
-    "price": 1267.75,
+    "price": 1273.25,
     "currency": "USX",
-    "change_pct": 0.4
+    "change_pct": 0.83
   },
   {
     "symbol": "ZW=F",
     "name": "Wheat",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per bushel",
-    "price": 757.25,
+    "price": 760.0,
     "currency": "USX",
-    "change_pct": -0.07
+    "change_pct": 0.3
   },
   {
     "symbol": "HG=F",
     "name": "Copper",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per pound",
     "price": 6.69,
     "currency": "USD",
-    "change_pct": -0.32
+    "change_pct": -0.27
   },
   {
     "symbol": "SB=F",
     "name": "Sugar",
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "live": true,
     "unit": "per pound",
     "price": 18.22,
