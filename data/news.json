@@ -330,6 +330,28 @@
     "pinned": false
   },
   {
+    "id": "152eefe1c285",
+    "title": "STAT+: FDA approves Protagonist and Takeda\u2019s drug for rare blood cancer",
+    "url": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-30",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera.",
+    "pinned": false
+  },
+  {
+    "id": "12f325a69328",
+    "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca\u2019s Wainua",
+    "url": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines.",
+    "pinned": false
+  },
+  {
     "id": "df0c0aecd075",
     "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
     "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
@@ -547,28 +569,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease.",
-    "pinned": false
-  },
-  {
-    "id": "40994cebeb28",
-    "title": "STAT+: Former Stanford president releases emails to rebut fraud and cover-up allegations in new book",
-    "url": "https://www.statnews.com/2026/08/27/marc-tessier-lavigne-responds-theo-baker-book-misconduct-stanford-genentech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-27",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Marc Tessier-Lavigne released new details from his research and travel in an attempt to refute allegations in a new book that he published fraudulent results.",
-    "pinned": false
-  },
-  {
-    "id": "d608c8811558",
-    "title": "STAT+: CMS plans launch event for ACCESS, the Medicare chronic care pilot",
-    "url": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-27",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT Health Tech: CMS plans a launch event for Medicare chronic care pilot, and what the Meta settlement means for health AI.",
     "pinned": false
   },
   {
