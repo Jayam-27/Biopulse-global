@@ -1,5 +1,27 @@
 [
   {
+    "id": "9a9ed5aaae45",
+    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters\" hreflang=\"en\">China in Global Clinical Development: Why Early Inclusion Matters</a>",
+    "url": "https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters",
+    "source": "Fierce Biotech",
+    "date": "2026-08-31",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Leading biotechs are rethinking China\u2019s role in global clinical development. Early inclusion can unlock significant value.",
+    "pinned": false
+  },
+  {
+    "id": "4889e0cdeb8f",
+    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era\" hreflang=\"en\">Beyond the Bandwidth Ceiling: Redesigning Advanced Therapy Operating Models for the Digital Staff Era</a>",
+    "url": "https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era",
+    "source": "Fierce Biotech",
+    "date": "2026-08-31",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Advanced therapy manufacturers are hitting a bandwidth ceiling. Deloitte makes the case for redesigning ops around AI 'digital staff.'",
+    "pinned": false
+  },
+  {
     "id": "fc9b88d8f7b1",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2\" hreflang=\"en\">BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test</a>",
     "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
@@ -66,17 +88,6 @@
     "pinned": false
   },
   {
-    "id": "4eabf2ccbf20",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens\" hreflang=\"en\">Research into protein interactions sheds new light on causes of autism</a>",
-    "url": "https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens",
-    "source": "Fierce Biotech",
-    "date": "2026-08-31",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Studying protein-protein interactions might hold the key to identifying druggable targets for autism, a group of scientists at the University of California, San Francisco has suggested.",
-    "pinned": false
-  },
-  {
     "id": "76b4242bf668",
     "title": "<a href=\"https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise\" hreflang=\"en\">With mRNA back in the spotlight, tRNA shows potential to treat genetic disease</a>",
     "url": "https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise",
@@ -85,6 +96,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "New research coming out of the University of Toronto has shown that transfer RNA may offer a promising therapeutic avenue for treating genetic diseases.",
+    "pinned": false
+  },
+  {
+    "id": "4eabf2ccbf20",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens\" hreflang=\"en\">Research into protein interactions sheds new light on causes of autism</a>",
+    "url": "https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens",
+    "source": "Fierce Biotech",
+    "date": "2026-08-31",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Studying protein-protein interactions might hold the key to identifying druggable targets for autism, a group of scientists at the University of California, San Francisco has suggested.",
     "pinned": false
   },
   {
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Flagship Pioneering\u2019s ProFound Therapeutics is keeping its string of high-profile partnerships going, forging a new pact with the Gates Foundation worth up to $35 million to find new drug targets for a dangerous pregnancy complication.",
-    "pinned": false
-  },
-  {
-    "id": "ad2fa291bf67",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global\" hreflang=\"en\">Medigen links up with Charles River in push to take enterovirus vaccine global</a>",
-    "url": "https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global",
-    "source": "Fierce Biotech",
-    "date": "2026-08-31",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Charles River Laboratories and Taiwan-based Medigen Vaccine Biologics are teaming up to advance Medigen\u2019s multivalent enterovirus vaccine.",
-    "pinned": false
-  },
-  {
-    "id": "4241e3c2e440",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger\" hreflang=\"en\">FDA greenlights Revolution Medicines' pancreatic cancer gamechanger</a>",
-    "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
-    "source": "Fierce Biotech",
-    "date": "2026-08-31",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Following dynamite data that earned a standing ovation at the American Society of Clinical Oncology meeting in May, Revolution Medicines\u2019 Ras inhibitor daraxonrasib has been approved by the FDA for the treatment of metastatic pancreatic cancer.",
     "pinned": false
   },
   {
@@ -327,6 +327,50 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Ajaz Khan, M.D., a medical oncologist at City of Hope Chicago, was in the packed audience at this summer\u2019s American Society of Clinical Oncology meeting when Revolution Medicines received a standing ovation for its groundbreaking pancreatic cancer data.",
+    "pinned": false
+  },
+  {
+    "id": "1d38d6b6fdd7",
+    "title": "The next frontier: Advancing foundation models with multimodal data",
+    "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
+    "source": "BioPharma Dive",
+    "date": "2026-08-31",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>What's possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?</p>",
+    "pinned": false
+  },
+  {
+    "id": "1f427f77551f",
+    "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
+    "url": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-31",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The latest study on CTE in football players \u201cquantifies but does not reveal a problem,\u201d writes Emily Harrison, a historian who studies brain injury in football.",
+    "pinned": false
+  },
+  {
+    "id": "7cd144b1a0bf",
+    "title": "STAT+: After a rough stretch, mRNA gets a boost \u2014 at least for now",
+    "url": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-31",
+    "country": "US",
+    "category": "Company News",
+    "summary": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas.",
+    "pinned": false
+  },
+  {
+    "id": "bce054d454ff",
+    "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
+    "url": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-08-31",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?",
     "pinned": false
   },
   {
@@ -506,28 +550,6 @@
     "pinned": false
   },
   {
-    "id": "24346e3900ca",
-    "title": "Opinion: A billing code was supposed to incentivize relationship-based primary care for Medicare patients. It may not be working as hoped",
-    "url": "https://www.statnews.com/2026/08/28/medicare-g2211-code-billing-research-primary-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Primary care is much more than what happens during an office visit, writes physician Ishani Ganguli.",
-    "pinned": false
-  },
-  {
-    "id": "efb8da78252a",
-    "title": "Opinion: We quit the CDC last year. The problems we protested remain",
-    "url": "https://www.statnews.com/2026/08/28/cdc-protest-resignations-one-year-later-houry-jernigan-daskalakis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "How disease spreads and the risks and benefits of interventions are questions for science, not for ideology.",
-    "pinned": false
-  },
-  {
     "id": "f9a629e367ee",
     "title": "Michael Polansky has a new, skin-focused biotech. Don\u2019t call it a drug company.",
     "url": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
@@ -561,17 +583,6 @@
     "pinned": false
   },
   {
-    "id": "34180a3eecc9",
-    "title": "STAT+: FDA approves Roivant therapy for rare autoimmune disease",
-    "url": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-27",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease.",
-    "pinned": false
-  },
-  {
     "id": "c35961d0f4c4",
     "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
     "url": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4VTHI_nbTPGZJkR2FfsUY-l1dgEiEB9Y0uJ9LwTEUyA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjY3OTMwNjY2LmpwZw==.webp\" /></div></figure><p>The results erased more than $1 billion in market val",
-    "pinned": false
-  },
-  {
-    "id": "25d27b04b0a1",
-    "title": "Biohaven trades cash for \u2018upside\u2019 with $795M epilepsy drug deal",
-    "url": "https://www.biopharmadive.com/news/biohaven-sk-opakalim-epilepsy-drug-deal/828799/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/W95GdFaxtcncQ-TSNFeXqMyL03GzQZYglduqTA46Xqc/g:nowe:0:235/c:2700:1525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CaW9oYXZlbl9WbGFkX0NvcmljX0NFT18yMDIyT0NUMDEuanBn.webp\" /></div></figure><p>Faced with a dwindlin",
     "pinned": false
   }
 ]
