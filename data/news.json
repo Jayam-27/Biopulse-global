@@ -1,5 +1,16 @@
 [
   {
+    "id": "44fdfa6e540a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr\" hreflang=\"en\">ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+    "source": "Fierce Biotech",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it\u2019s too early to count out Alnylam\u2019s silencing drugs in ATTR-CM patients also taking standard-of-care stabilizers.",
+    "pinned": false
+  },
+  {
     "id": "c699b274dddc",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody\" hreflang=\"en\">Roche inks $1.53B deal for Simcere\u2019s B-cell-targeting antibody</a>",
     "url": "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "4889e0cdeb8f",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era\" hreflang=\"en\">Beyond the Bandwidth Ceiling: Redesigning Advanced Therapy Operating Models for the Digital Staff Era</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/beyond-bandwidth-ceiling-redesigning-advanced-therapy-operating-models-digital-staff-era",
-    "source": "Fierce Biotech",
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Another Tavneos domino falls as UK rescinds authorization</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
     "date": "2026-09-01",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Advanced therapy manufacturers are hitting a bandwidth ceiling. Deloitte makes the case for redesigning ops around AI 'digital staff.'",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "afef3d2ffca7",
+    "title": "<a href=\"https://www.fiercepharma.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr\" hreflang=\"en\">ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM</a>",
+    "url": "https://www.fiercepharma.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
+    "source": "Fierce Pharma",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it\u2019s too early to count out Alnylam\u2019s silencing drugs in ATTR-CM patients also taking standard-of-care stabilizers.",
+    "pinned": false
+  },
+  {
+    "id": "0dd5a28d3e5b",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/bausch-lomb-survey-reveals-low-dry-eye-awareness-symptom-perimenopausal-postmenopausal\" hreflang=\"en\">Bausch + Lomb survey reveals low dry eye awareness for perimenopausal, postmenopausal women</a>",
+    "url": "https://www.fiercepharma.com/marketing/bausch-lomb-survey-reveals-low-dry-eye-awareness-symptom-perimenopausal-postmenopausal",
+    "source": "Fierce Pharma",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "A new survey out from Bausch + Lomb has shown that dry eye disease is one of the least recognized symptoms present in perimenopausal and postmenopausal women.",
     "pinned": false
   },
   {
@@ -286,17 +319,6 @@
     "pinned": false
   },
   {
-    "id": "f13e679d171f",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/pharma-doesnt-have-ai-problem-it-has-information-problem\" hreflang=\"en\">Pharma Doesn't Have an AI Problem. It Has an Information Problem.</a>",
-    "url": "https://www.fiercepharma.com/sponsored/pharma-doesnt-have-ai-problem-it-has-information-problem",
-    "source": "Fierce Pharma",
-    "date": "2026-09-01",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Frontier Large Language Models have improved. More data became accessible. Neither solved the hardest questions. Here's what decision-grade pharma AI still needs.",
-    "pinned": false
-  },
-  {
     "id": "66ecadce623e",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/clinician-2-million-followers-shaping-prescribing-behavior-pharma-can-now-be-part\" hreflang=\"en\">The Clinician With 2 Million Followers Is Shaping Prescribing Behavior. Pharma Can Now Be Part of That Conversation</a>",
     "url": "https://www.fiercepharma.com/sponsored/clinician-2-million-followers-shaping-prescribing-behavior-pharma-can-now-be-part",
@@ -308,25 +330,25 @@
     "pinned": false
   },
   {
-    "id": "a5325668a12b",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question\" hreflang=\"en\">HCP media's endemic-versus-reach debate misses the real question</a>",
-    "url": "https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question",
-    "source": "Fierce Pharma",
+    "id": "b7b72a84ccde",
+    "title": "Mid-cap biotechs join Trump\u2019s latest round of drug pricing deals",
+    "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
+    "source": "BioPharma Dive",
     "date": "2026-09-01",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Endemic media and broad reach each do half the job. What makes them work together is not more spend, but a signal that says when.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QgWntJBIi9wmk7OGDnQXGHnnNV7oD0cWSDPggs993zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMDg4MTAwLmpwZw==.webp\" /></div></figure><p>Focused on Medicaid, the new pacts now involve more t",
     "pinned": false
   },
   {
-    "id": "d93030e22ca6",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm\" hreflang=\"en\">ESC: AZ, Ionis' Wainua post-mortem throws water on silencer-plus-stabilizer approach in ATTR-CM</a>",
-    "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
-    "source": "Fierce Pharma",
+    "id": "4a33913eb9d8",
+    "title": "Novartis says MS pill succeeds in two large studies",
+    "url": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
+    "source": "BioPharma Dive",
     "date": "2026-09-01",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "After a surprise washout in a recent phase 3 trial of AstraZeneca and Ionis\u2019 antisense oligonucleotide Wainua, the likely reason for the miss is being laid bare, in a potential ill omen for others pursuing silencer drugs in transthyretin-mediated amyloid cardiomyopathy.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\" /></div></figure><p>Notably, Novartis revealed that remibrutinib wasn&rsq",
     "pinned": false
   },
   {
@@ -338,6 +360,28 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TdEzB9fivWcYdfSq7t-4EvsoludfqTCe-laYACTMMvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMTM0MDgzLmpwZw==.webp\" /></div></figure><p>Though Alumis still sees a path forward in lupus, the",
+    "pinned": false
+  },
+  {
+    "id": "b7e0b499d476",
+    "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+    "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-01",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
+    "pinned": false
+  },
+  {
+    "id": "4cec7ad01241",
+    "title": "Opinion: I\u2019m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+    "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-01",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe whole of my field has been flattened into a single lazy question: Did the health care system fail her?\u201d writes Jennifer Okwerekwu.",
     "pinned": false
   },
   {
@@ -539,28 +583,6 @@
     "pinned": false
   },
   {
-    "id": "3a31893a8214",
-    "title": "STAT+: We\u2019re reading about drug pricing deals, a new cancer therapy approval, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In today's Pharmalittle newsletter, drug pricing deals, a new cancer therapy approval, and more of the latest pharma headlines.",
-    "pinned": false
-  },
-  {
-    "id": "72bb348466f1",
-    "title": "STAT+: Can a pregnancy hormone steer a cardiovascular treatment?",
-    "url": "https://www.statnews.com/2026/08/31/biotech-news-can-a-pregnancy-hormone-steer-a-cardiovascular-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Caution and survival in radiopharmaceuticals, mRNA skepticism, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
     "id": "15bd26845348",
     "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
     "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QMRuFnxqha_MeEkSNlcDFPieSHe5TJZgniaU-Fvf6m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk2MTY2MTgyLmpwZw==.webp\" /></div></figure><p>Results published in NEJM raised questions about the ",
-    "pinned": false
-  },
-  {
-    "id": "4671e3e1f10d",
-    "title": "This week in charts: Biotech\u2019s rebound is undeniable",
-    "url": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>Not only is the XBI continuing to",
-    "pinned": false
-  },
-  {
-    "id": "9dc70fa73502",
-    "title": "FDA green lights Priovant drug for rare skin disease",
-    "url": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MKSpUMRqXmBl5c6sl6lC-y4lj5_idaOQDG4XIWSzlSM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saXNyYXlhLWJvdHRsZS5wbmc=.webp\" /></div></figure><p>Lisraya&rsquo;s clearance marks the first approval of a drug the ",
     "pinned": false
   }
 ]
