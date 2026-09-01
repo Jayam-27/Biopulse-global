@@ -1,5 +1,16 @@
 [
   {
+    "id": "bca335a196f7",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots\" hreflang=\"en\">GSK catches phase 3 fever after mRNA flu vaccine beats standard shots</a>",
+    "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
+    "source": "Fierce Biotech",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month.",
+    "pinned": false
+  },
+  {
     "id": "494ffe7962a2",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events\" hreflang=\"en\">UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies</a>",
     "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "76b4242bf668",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise\" hreflang=\"en\">With mRNA back in the spotlight, tRNA shows potential to treat genetic disease</a>",
-    "url": "https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise",
-    "source": "Fierce Biotech",
+    "id": "d67aa063c094",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/emergent-rolls-out-expanded-narcan-education-push-across-us-canada-international-overdose\" hreflang=\"en\">Emergent re-ups Narcan education push across US, Canada on overdose awareness day</a>",
+    "url": "https://www.fiercepharma.com/marketing/emergent-rolls-out-expanded-narcan-education-push-across-us-canada-international-overdose",
+    "source": "Fierce Pharma",
     "date": "2026-09-01",
     "country": "Global",
     "category": "Company News",
-    "summary": "New research coming out of the University of Toronto has shown that transfer RNA may offer a promising therapeutic avenue for treating genetic diseases.",
+    "summary": "Emergent BioSolutions looks to expand awareness and education of its Narcan opioid overdose reversal spray with an expanded campaign that kicked off on International Overdose Awareness Day.",
     "pinned": false
   },
   {
@@ -173,6 +184,17 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Some four months after the White House inked the last of its expected drug pricing deals with 17 of the industry\u2019s top players, the U.S. government is back for round 2, this time lining up agreements with a host of medium-sized biopharmas under President Trump\u2019s \u2018most favored nat",
+    "pinned": false
+  },
+  {
+    "id": "0e64c5b14ca0",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/fda-dings-alar-over-extremely-concerning-ketamine-claims\" hreflang=\"en\">FDA dings Alar over \u2018extremely concerning\u2019 ketamine claims</a>",
+    "url": "https://www.fiercepharma.com/marketing/fda-dings-alar-over-extremely-concerning-ketamine-claims",
+    "source": "Fierce Pharma",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA sent Alar Pharmaceuticals an untitled letter after finding fault with the company\u2019s exhibit booth display and brochure at a recent conference.",
     "pinned": false
   },
   {
@@ -242,17 +264,6 @@
     "pinned": false
   },
   {
-    "id": "a5325668a12b",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question\" hreflang=\"en\">HCP media's endemic-versus-reach debate misses the real question</a>",
-    "url": "https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question",
-    "source": "Fierce Pharma",
-    "date": "2026-09-01",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Endemic media and broad reach each do half the job. What makes them work together is not more spend, but a signal that says when.",
-    "pinned": false
-  },
-  {
     "id": "f13e679d171f",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/pharma-doesnt-have-ai-problem-it-has-information-problem\" hreflang=\"en\">Pharma Doesn't Have an AI Problem. It Has an Information Problem.</a>",
     "url": "https://www.fiercepharma.com/sponsored/pharma-doesnt-have-ai-problem-it-has-information-problem",
@@ -261,6 +272,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Frontier Large Language Models have improved. More data became accessible. Neither solved the hardest questions. Here's what decision-grade pharma AI still needs.",
+    "pinned": false
+  },
+  {
+    "id": "a5325668a12b",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question\" hreflang=\"en\">HCP media's endemic-versus-reach debate misses the real question</a>",
+    "url": "https://www.fiercepharma.com/sponsored/hcp-medias-endemic-versus-reach-debate-misses-real-question",
+    "source": "Fierce Pharma",
+    "date": "2026-09-01",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Endemic media and broad reach each do half the job. What makes them work together is not more spend, but a signal that says when.",
     "pinned": false
   },
   {
@@ -308,25 +330,36 @@
     "pinned": false
   },
   {
-    "id": "e489b598dfd6",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/mrbeast-snapchat-ai-and-more-pharma-marketings-pulse-check\" hreflang=\"en\">MrBeast, Snapchat, AI and more: Pharma marketing\u2019s pulse check</a>",
-    "url": "https://www.fiercepharma.com/marketing/mrbeast-snapchat-ai-and-more-pharma-marketings-pulse-check",
-    "source": "Fierce Pharma",
+    "id": "137ef8ec1a27",
+    "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
+    "url": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-01",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "In this week\u2019s episode of \u201cThe Top Line,\u201d Fierce\u2019s Ben Adams and Zoey Becker discuss how pharma marketing is evolving across social media, creative work and agency strategy.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "An NIH proposal to cap the number of research grants investigators can receive has drawn a mixed reception, the agency says.",
     "pinned": false
   },
   {
-    "id": "d4d5b3824c4c",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/biogen-enlists-lupus-patient-advocate-share-social-media-story-resilience\" hreflang=\"en\">Biogen enlists lupus patient advocate to share social media story of resilience </a>",
-    "url": "https://www.fiercepharma.com/marketing/biogen-enlists-lupus-patient-advocate-share-social-media-story-resilience",
-    "source": "Fierce Pharma",
+    "id": "bfac68510ffc",
+    "title": "Opinion: The Trump administration is burying science and health care in paperwork",
+    "url": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-01",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Biogen highlighted patient advocate and content creator Naomi Rose\u2019s story living with cutaneous lupus erythematosus (CLE) on its social media platforms.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "This White House has become the paperwork administration, write Brandon Marshall and Abdullah Shihipar.",
+    "pinned": false
+  },
+  {
+    "id": "03999d6fd581",
+    "title": "As MAHA champions nutrition, it\u2019s ignoring the experts, dietitians say",
+    "url": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-01",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians.",
     "pinned": false
   },
   {
@@ -517,17 +550,6 @@
     "pinned": false
   },
   {
-    "id": "df0c0aecd075",
-    "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
-    "url": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-29",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health.",
-    "pinned": false
-  },
-  {
     "id": "15bd26845348",
     "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
     "url": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
@@ -569,28 +591,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MKSpUMRqXmBl5c6sl6lC-y4lj5_idaOQDG4XIWSzlSM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saXNyYXlhLWJvdHRsZS5wbmc=.webp\" /></div></figure><p>Lisraya&rsquo;s clearance marks the first approval of a drug the ",
-    "pinned": false
-  },
-  {
-    "id": "4504e3f02be2",
-    "title": "Juul gets OK to sell updated vaping device with age-gating technology",
-    "url": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Juul\u00a0has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use.",
-    "pinned": false
-  },
-  {
-    "id": "86afdc168659",
-    "title": "Opinion: The unintended consequences of the Lindsay Clancy case",
-    "url": "https://www.statnews.com/2026/08/28/lindsay-clancy-postpartum-psychosis-reproductive-psychiatrists-liability/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-08-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWe are concerned the [Lindsay] Clancy case could make psychiatrists more reluctant to treat mothers with mental illness,\u201d write reproductive and forensic psychiatrists.",
     "pinned": false
   },
   {
