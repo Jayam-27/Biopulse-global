@@ -1,5 +1,38 @@
 [
   {
+    "id": "31a320b008f8",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition\" hreflang=\"en\">Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division</a>",
+    "url": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
+    "source": "Fierce Biotech",
+    "date": "2026-09-02",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Fortrea has agreed to acquire the early-phase services division of fellow CRO Worldwide Clinical Trials for $45 million.",
+    "pinned": false
+  },
+  {
+    "id": "fb03d8c72f77",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland\" hreflang=\"en\">Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland</a>",
+    "url": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
+    "source": "Fierce Biotech",
+    "date": "2026-09-02",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel.",
+    "pinned": false
+  },
+  {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: TScan telegraphs 75% headcount drop; ArsenalBio winnows down workforce</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-09-02",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "pinned": false
+  },
+  {
     "id": "72298799e16e",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease\" hreflang=\"en\">Teva autoimmune antibody notches ph. 2 win in celiac disease</a>",
     "url": "https://www.fiercebiotech.com/biotech/teva-autoimmune-antibody-notches-ph-2-win-celiac-disease",
@@ -29,7 +62,7 @@
     "date": "2026-09-02",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The SEC and the FDA have signed a three-year agreement to step up cooperation and information-sharing capabilities aiming to improve each organization\u2019s regulatory and enforcement missions.",
+    "summary": "The SEC and the FDA have signed a three-year agreement to step up cooperation and information-sharing capabilities, aiming to improve each organization\u2019s regulatory and enforcement missions.",
     "pinned": false
   },
   {
@@ -121,17 +154,6 @@
     "pinned": false
   },
   {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: ArsenalBio winnows down workforce; Kolon cuts staff</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
-    "date": "2026-09-02",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-    "pinned": false
-  },
-  {
     "id": "1c9799466232",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries\" hreflang=\"en\">Boston Scientific halts sales of angiographic catheters amid 2 serious injuries</a>",
     "url": "https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries",
@@ -143,25 +165,25 @@
     "pinned": false
   },
   {
-    "id": "bca335a196f7",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots\" hreflang=\"en\">GSK catches phase 3 fever after mRNA flu vaccine beats standard shots</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gsk-catches-phase-3-fever-after-mrna-flu-vaccine-beats-standard-shots",
-    "source": "Fierce Biotech",
+    "id": "1bf9003a8938",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/arpa-h-puts-125m-bankroll-personalized-rna-based-drug-production\" hreflang=\"en\">ARPA-H puts up $125M to bankroll personalized RNA-based drug production</a>",
+    "url": "https://www.fiercepharma.com/pharma/arpa-h-puts-125m-bankroll-personalized-rna-based-drug-production",
+    "source": "Fierce Pharma",
     "date": "2026-09-02",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "GSK has linked its mRNA seasonal flu vaccine candidate to higher immune responses than conventional jabs in a phase 2 trial, emboldening the company to start a pivotal study this month.",
+    "category": "Funding & M&A",
+    "summary": "RNA-based vaccines and therapeutics may have faced a bumpy road in the U.S. recently, but a major new federal investment proves the government is still betting big on its future.",
     "pinned": false
   },
   {
-    "id": "494ffe7962a2",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events\" hreflang=\"en\">UPDATED: Novartis halts autoimmune CAR-T trials after 3 deaths, as BMS also pauses studies</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-bristol-myers-squibb-halt-car-t-cell-trials-due-immune-events",
-    "source": "Fierce Biotech",
+    "id": "75a09890f0a1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland\" hreflang=\"en\">Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland</a>",
+    "url": "https://www.fiercepharma.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
+    "source": "Fierce Pharma",
     "date": "2026-09-02",
     "country": "Global",
     "category": "Company News",
-    "summary": "Three deaths have forced Novartis to pause development of its CD19 CAR-T candidate in autoimmune diseases, just as Bristol Myers Squibb has halted a similar program due to immune-related adverse events, Fierce has learned.",
+    "summary": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel.",
     "pinned": false
   },
   {
@@ -308,25 +330,14 @@
     "pinned": false
   },
   {
-    "id": "1eeb504495a8",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/b-braun-adds-string-5-iv-solution-recalls-just-over-week-including-3-baxter\" hreflang=\"en\">B. Braun adds to a string of IV solution recalls in US</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/b-braun-adds-string-5-iv-solution-recalls-just-over-week-including-3-baxter",
-    "source": "Fierce Pharma",
+    "id": "60a954fb152e",
+    "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
+    "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
+    "source": "BioPharma Dive",
     "date": "2026-09-02",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Late August has been rough for IV solution makers as B. Braun added to its recall tally once more, building on Baxter\u2019s three recalls of similar products in the same time frame.",
-    "pinned": false
-  },
-  {
-    "id": "c0604f88a876",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/jazz-ziihera-secures-2nd-survival-win-solidify-her2-positive-stomach-cancer-status\" hreflang=\"en\">Jazz\u2019s Ziihera secures 2nd survival win to solidify its HER2-positive stomach cancer status</a>",
-    "url": "https://www.fiercepharma.com/pharma/jazz-ziihera-secures-2nd-survival-win-solidify-her2-positive-stomach-cancer-status",
-    "source": "Fierce Pharma",
-    "date": "2026-09-02",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Jazz Pharmaceuticals has added a second overall survival win to Ziihera\u2019s cap, bolstering&nbsp;the bispecific\u2019s claim as the new HER2 agent of choice in stomach cancer.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Ecu2HjHmKNpcXupMc95gqbNyo45ZTT2Q7YMEgRUdznM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzM0NjQ0MTMyLmpwZw==.webp\" /></div></figure><p>Wall Street analysts believe that a more cautious app",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp\" /></div></figure><p>At a big meeting for cardiovascul",
-    "pinned": false
-  },
-  {
-    "id": "1d38d6b6fdd7",
-    "title": "The next frontier: Advancing foundation models with multimodal data",
-    "url": "https://www.biopharmadive.com/spons/the-next-frontier-advancing-foundation-models-with-multimodal-data/828675/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>What's possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?</p>",
     "pinned": false
   }
 ]
