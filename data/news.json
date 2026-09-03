@@ -1,5 +1,71 @@
 [
   {
+    "id": "2f8f24e5f29a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data\" hreflang=\"en\">Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Roche has decided to pay $190 million upfront for an unusual obesity mechanism after viewing preclinical data that \u201cclearly suggests\u201d the modality can reduce weight while preserving lean muscle, Fierce has learned.",
+    "pinned": false
+  },
+  {
+    "id": "a55dbc0fea09",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Superluminal snags $60M; AusperBio adds $120M</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "pinned": false
+  },
+  {
+    "id": "73a73bb4f87b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial\" hreflang=\"en\">AbbVie\u2019s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "AbbVie released positive phase 3 data Thursday showing that its bispecific T-cell engager etentamig improved response rates and progression-free survival in patients with relapsed/refractory multiple myeloma.",
+    "pinned": false
+  },
+  {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "pinned": false
+  },
+  {
+    "id": "b5a637f253c8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset\" hreflang=\"en\">GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset </a>",
+    "url": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "GSK is handing over $110 million upfront to Hutchmed in a deal worth up to $1.295 billion to get its hands on a first-in-class oncology candidate.",
+    "pinned": false
+  },
+  {
+    "id": "a29ac7471517",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction\" hreflang=\"en\">Ultragenyx fails phase 3 Angelman test, plots \u2018significant expense reductions\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Ultragenyx had been flying high after its recent FDA approval for Genglycos\u2014but the company has been brought back down to earth with a damaging phase 3 flop.",
+    "pinned": false
+  },
+  {
     "id": "31a320b008f8",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition\" hreflang=\"en\">Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division</a>",
     "url": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
@@ -19,17 +85,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Novartis could cut about 130 jobs in Switzerland as it rethinks its biologics technical development and production footprint in Basel.",
-    "pinned": false
-  },
-  {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: TScan telegraphs 75% headcount drop; ArsenalBio winnows down workforce</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
-    "date": "2026-09-03",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
     "pinned": false
   },
   {
@@ -110,58 +165,36 @@
     "pinned": false
   },
   {
-    "id": "5ff70f44f5cb",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t\" hreflang=\"en\">ArsenalBio sheds most of staff in pivot to in vivo CAR-T</a>",
-    "url": "https://www.fiercebiotech.com/biotech/arsenalbio-sheds-most-staff-pivot-vivo-car-t",
-    "source": "Fierce Biotech",
+    "id": "78d5d1412873",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/question-action-rethinking-pharma-engagement-ai-era\" hreflang=\"en\">From Question to Action: Rethinking Pharma Engagement in the AI Era</a>",
+    "url": "https://www.fiercepharma.com/sponsored/question-action-rethinking-pharma-engagement-ai-era",
+    "source": "Fierce Pharma",
     "date": "2026-09-03",
     "country": "Global",
     "category": "Company News",
-    "summary": "About a year after halving its staff in a clinical push, Arsenal Biosciences is now making a hard pivot that involves laying off most of its employees and seeking out new homes for its assets.",
+    "summary": "As AI reshapes health discovery, GoodRx is helping pharma turn consumer and HCP questions into action.",
     "pinned": false
   },
   {
-    "id": "573441d750f0",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule\" hreflang=\"en\">Medtronic recalls reflux monitoring device as 184 serious injuries linked to capsule </a>",
-    "url": "https://www.fiercebiotech.com/medtech/medtronic-recalls-reflux-monitoring-device-184-serious-injuries-linked-capsule",
-    "source": "Fierce Biotech",
+    "id": "6309e9377d75",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/akeso-summit-ivonescimab-extends-lives-keytruda-head-head-trial-what-now\" hreflang=\"en\">Akeso, Summit\u2019s ivonescimab extends lives in Keytruda head-to-head trial. What now?</a>",
+    "url": "https://www.fiercepharma.com/pharma/akeso-summit-ivonescimab-extends-lives-keytruda-head-head-trial-what-now",
+    "source": "Fierce Pharma",
     "date": "2026-09-03",
     "country": "Global",
     "category": "Company News",
-    "summary": "Medtronic is recalling certain esophageal pH monitoring capsule delivery devices amid risks of them failing whilst deployed.",
+    "summary": "About two years ago, a head-to-head progression-free survival win made Akeso and Summit\u2019s ivonescimab\u2014and the PD-1xVEGF class\u2014the most promising agent to replace Keytruda. Now, that same trial has met its overall survival endpoint, but to a far more measured reception.",
     "pinned": false
   },
   {
-    "id": "5908c309ef25",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor\" hreflang=\"en\">Alumis crushed by midstage lupus flop but plots path to phase 3 for TYK2 inhibitor</a>",
-    "url": "https://www.fiercebiotech.com/biotech/alumis-crushed-midstage-lupus-flop-plots-path-phase-3-tyk2-inhibitor",
-    "source": "Fierce Biotech",
-    "date": "2026-09-03",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 2b lupus trial of Alumis\u2019 envudeucitinib has missed its primary and secondary endpoints. But the biotech is still moving the TYK2 inhibitor into phase 3 in the autoimmune disease, pointing to evidence of efficacy in a prespecified subgroup of patients to support its decis",
-    "pinned": false
-  },
-  {
-    "id": "ef1e6a9374c4",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data\" hreflang=\"en\">Novocure hit by cyberattack exposing patient data</a>",
-    "url": "https://www.fiercebiotech.com/medtech/novocure-hit-cyberattack-includes-exposure-patient-records-data",
-    "source": "Fierce Biotech",
+    "id": "31a3a1c576b1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing\" hreflang=\"en\">ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit</a>",
+    "url": "https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing",
+    "source": "Fierce Pharma",
     "date": "2026-09-03",
     "country": "Global",
     "category": "Company News",
-    "summary": "Novocure has become the latest medtech company to be hit by a cyberattack, with the oncology specialist revealing that unauthorized access to some of its information systems exposed patient and employee data.",
-    "pinned": false
-  },
-  {
-    "id": "1c9799466232",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries\" hreflang=\"en\">Boston Scientific halts sales of angiographic catheters amid 2 serious injuries</a>",
-    "url": "https://www.fiercebiotech.com/medtech/boston-scientific-halts-sales-angiographic-catheters-amid-two-serious-injuries",
-    "source": "Fierce Biotech",
-    "date": "2026-09-03",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Boston Scientific has told its customers to stop using its Imager II angiographic catheters upon learning that a manufacturing issue has impacted the tips of the devices.",
+    "summary": "On the back of a heart-helping win for the 11-year-old Repatha last fall, Amgen has continued to deepen the evidence on its PCSK9 inhibitor\u2019s ability to cut cardiovascular risks in many patients.",
     "pinned": false
   },
   {
@@ -297,36 +330,91 @@
     "pinned": false
   },
   {
-    "id": "0e64c5b14ca0",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/fda-dings-alar-over-extremely-concerning-ketamine-claims\" hreflang=\"en\">FDA dings Alar over \u2018extremely concerning\u2019 ketamine claims</a>",
-    "url": "https://www.fiercepharma.com/marketing/fda-dings-alar-over-extremely-concerning-ketamine-claims",
-    "source": "Fierce Pharma",
+    "id": "8ceb369adbd2",
+    "title": "Ultragenyx to weigh \u2018significant\u2019 cost cuts as Angelman drug fails key study",
+    "url": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
+    "source": "BioPharma Dive",
     "date": "2026-09-03",
-    "country": "Global",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses.</p>",
+    "pinned": false
+  },
+  {
+    "id": "b0371735da3e",
+    "title": "The hidden scale-out problem behind CAR-T\u2019s growth",
+    "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NqVSIzno9BnKK70l80W9phVhOdTVqntzodTfqRszY1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtbWFudWZhY3R1cmluZy10ZWNobmljaWFuLWdldHR5LTE0MjE0MDE4ODQuanBn.webp\" /></div></figure><p>CAR-T&rsquo;s commerc",
+    "pinned": false
+  },
+  {
+    "id": "b4cc0e64148b",
+    "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
+    "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA sent Alar Pharmaceuticals an untitled letter after finding fault with the company\u2019s exhibit booth display and brochure at a recent conference.",
+    "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news",
     "pinned": false
   },
   {
-    "id": "3561b2b5fb64",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/cdmo-lonza-hones-commercial-focus-seasoned-exec-returning-newly-created-role\" hreflang=\"en\">CDMO Lonza hones commercial focus with company vet's return to new role</a>",
-    "url": "https://www.fiercepharma.com/marketing/cdmo-lonza-hones-commercial-focus-seasoned-exec-returning-newly-created-role",
-    "source": "Fierce Pharma",
+    "id": "29362777a97c",
+    "title": "STAT+: Fauci speaks, and writes",
+    "url": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-03",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Samanta Cimitan, Ph.D., will serve in a newly created role as the CDMO's chief commercial officer, SVP and member of the extended executive committee starting Jan. 1, 2027.",
+    "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.",
     "pinned": false
   },
   {
-    "id": "236f56d38b65",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes\" hreflang=\"en\">Ascendis to pay 20% Yuviwel royalties in patent settlement with BioMarin</a>",
-    "url": "https://www.fiercepharma.com/pharma/biomarin-wins-20-royalties-ascendis-yuviwel-until-2030-end-global-patent-disputes",
-    "source": "Fierce Pharma",
+    "id": "732270985df5",
+    "title": "HHS flip-flops on disability lawsuit",
+    "url": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-03",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds",
+    "pinned": false
+  },
+  {
+    "id": "c17d6c789e5b",
+    "title": "STAT+: OpenEvidence launches new family of AI models",
+    "url": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more.",
+    "pinned": false
+  },
+  {
+    "id": "7ceeea870568",
+    "title": "STAT+: We\u2019re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
     "category": "Company News",
-    "summary": "BioMarin now collects royalties on the more convenient competitor product. Ascendis will pay 20% of Yuviwel net sales in the U.S. dating back to the first commercial sales and through to May 2030.",
+    "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter",
+    "pinned": false
+  },
+  {
+    "id": "206ff5112d45",
+    "title": "STAT+: Abivax has still not been acquired. What\u2019s going on?",
+    "url": "https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.",
     "pinned": false
   },
   {
@@ -462,61 +550,6 @@
     "pinned": false
   },
   {
-    "id": "b2ab0c27e8fc",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a Huntington\u2019s gene therapy, Novo\u2019s challenges, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "UniQure has submitted its Huntington\u2019s gene therapy to the FDA, investors remain unenthusiastic on Novo Nordisk, and more of the latest pharma headlines in today's Pharmalittle newsletter.",
-    "pinned": false
-  },
-  {
-    "id": "32f6a1bd300d",
-    "title": "HHS spins a tale of a would-be content creator child",
-    "url": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "e6a768d0791e",
-    "title": "STAT+: How Trump\u2019s latest pharma deals may undermine efforts to rein in drug costs",
-    "url": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare.",
-    "pinned": false
-  },
-  {
-    "id": "41a162426c88",
-    "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
-    "url": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas.",
-    "pinned": false
-  },
-  {
-    "id": "0572d883d52e",
-    "title": "Opinion: The next DSM should address the algorithm\u2019s role in eating disorders",
-    "url": "https://www.statnews.com/2026/09/02/dsm-6-eating-disorders-algorithms-social-media-influence-screening/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write.",
-    "pinned": false
-  },
-  {
     "id": "b7b72a84ccde",
     "title": "Mid-cap biotechs join Trump\u2019s latest round of drug pricing deals",
     "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
@@ -550,17 +583,6 @@
     "pinned": false
   },
   {
-    "id": "50df8e12de08",
-    "title": "STAT+: ADA review of members\u2019 expulsion denies group censored opinions, called in police",
-    "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
-    "pinned": false
-  },
-  {
     "id": "0e95220307c0",
     "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
     "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SG1boBs5f6zltWbABFW7cY2TUKDwCBazwEbF3SM-hLw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWtlZGFfUGhvdG9fMS5KUEc=.webp\" /></div></figure><p>The clearance and broader-than-expected label for Mimrylo open up",
-    "pinned": false
-  },
-  {
-    "id": "853718df595b",
-    "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
-    "url": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/9EIPCzYtRGI1Mw67ETK-A5ICASzwtR_LUg63y_dniiA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxMjA1MzY0LmpwZw==.webp\" /></div></figure><p>The big drugmaker&rsquo;s latest company acquisition ",
-    "pinned": false
-  },
-  {
-    "id": "e1b9a0f76f94",
-    "title": "ESC \u201826: Cytokinetics\u2019 sell-off, Arrowhead\u2019s edge and a heart drug autopsy",
-    "url": "https://www.biopharmadive.com/news/esc-congress-2026-results-eplontersen-alnylam-cytokinetics/829139/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BEaA7RlZhiBVZ8rfvBq1gV4dfZ4BC5WOow-17uS8d2o/g:nowe:0:100/c:8192:4628/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2Nzk1NzQ2LmpwZw==.webp\" /></div></figure><p>At a big meeting for cardiovascul",
     "pinned": false
   }
 ]
