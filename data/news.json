@@ -1,5 +1,27 @@
 [
   {
+    "id": "bb2e9bc39c23",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice\" hreflang=\"en\">Psilocybin proves promising in neuropathic pain mouse study</a>",
+    "url": "https://www.fiercebiotech.com/research/psilocybin-proves-promising-neuropathic-pain-study-mice",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Amid the rise of psychedelics in the mental health space, researchers have begun to explore psilocybin as a treatment for chemotherapy-induced peripheral neuropathy.",
+    "pinned": false
+  },
+  {
+    "id": "2aaef0319cd5",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal\" hreflang=\"en\">Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal</a>",
+    "url": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Pfizer has found a new home for an antibody-drug conjugate it acquired in its $43 billion Seagen buyout and dropped earlier this year.",
+    "pinned": false
+  },
+  {
     "id": "2f8f24e5f29a",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data\" hreflang=\"en\">Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data</a>",
     "url": "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data",
@@ -143,36 +165,47 @@
     "pinned": false
   },
   {
-    "id": "44fdfa6e540a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr\" hreflang=\"en\">ESC: Alnylam's next-gen silencer sees silver linings after fallout of AZ, Ionis trial in ATTR-CM</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esc-alnylams-next-gen-silencer-sees-silver-linings-after-fallout-az-ionis-trial-flop-attr",
-    "source": "Fierce Biotech",
+    "id": "90f748376271",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fresenius-unit-dinged-fda-warning-letter-flagging-complaint-trend-customers\" hreflang=\"en\">Fresenius unit dinged in FDA warning letter flagging 'complaint trend' from customers</a>",
+    "url": "https://www.fiercepharma.com/pharma/fresenius-unit-dinged-fda-warning-letter-flagging-complaint-trend-customers",
+    "source": "Fierce Pharma",
     "date": "2026-09-03",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "As AstraZeneca appears to close the book on a combo approach following the phase 3 failure of its Ionis-partnered Wainua, several analysts contend it\u2019s too early to count out Alnylam\u2019s silencing drugs in ATTR-CM patients also taking standard-of-care stabilizers.",
+    "summary": "Following a string of customer complaints, a Form 483 and a recall this past spring, a Fresenius manufacturing unit in Utah is contending with a warning letter from the FDA.",
     "pinned": false
   },
   {
-    "id": "c699b274dddc",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody\" hreflang=\"en\">Roche inks $1.53B deal for Simcere\u2019s B-cell-targeting antibody</a>",
-    "url": "https://www.fiercebiotech.com/biotech/roche-inks-153-billion-biobucks-deal-simceres-b-cell-targeting-antibody",
-    "source": "Fierce Biotech",
-    "date": "2026-09-03",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Roche is paying oncology-focused Simcere Zaiming $75 million upfront for global rights to a preclinical trispecific antibody targeting B-cell-mediated diseases.",
-    "pinned": false
-  },
-  {
-    "id": "78d5d1412873",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/question-action-rethinking-pharma-engagement-ai-era\" hreflang=\"en\">From Question to Action: Rethinking Pharma Engagement in the AI Era</a>",
-    "url": "https://www.fiercepharma.com/sponsored/question-action-rethinking-pharma-engagement-ai-era",
+    "id": "520a8263629a",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian\" hreflang=\"en\">Novartis puts MS advocacy on the podium through social media partnership with British Olympian </a>",
+    "url": "https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian",
     "source": "Fierce Pharma",
     "date": "2026-09-03",
     "country": "Global",
     "category": "Company News",
-    "summary": "As AI reshapes health discovery, GoodRx is helping pharma turn consumer and HCP questions into action.",
+    "summary": "The social media collaboration ties into Novartis' \"you know your MS best\" messaging, which encourages patients to keep track of changes in their disease.",
+    "pinned": false
+  },
+  {
+    "id": "482eb7895fc2",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-docs-reveal-lingering-concerns-intervention-behind-replimunes-long-sought-melanoma-nod\" hreflang=\"en\">FDA files reveal lingering concerns, contrasting views behind Replimune melanoma nod</a>",
+    "url": "https://www.fiercepharma.com/pharma/fda-docs-reveal-lingering-concerns-intervention-behind-replimunes-long-sought-melanoma-nod",
+    "source": "Fierce Pharma",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Two votes of confidence from leaders at the FDA\u2019s Office of Clinical Evaluation and the Oncology Center of Excellence sealed Replimune\u2019s fate, overruling review staffers\u2019 concerns and paving the way for last month\u2019s accelerated nod for Tudriqev.",
+    "pinned": false
+  },
+  {
+    "id": "298b4699a7f9",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/cmi-boosts-medical-affairs-capabilities-new-specialty-communications-unit\" hreflang=\"en\">CMI boosts medical affairs capabilities with new specialty communications unit</a>",
+    "url": "https://www.fiercepharma.com/marketing/cmi-boosts-medical-affairs-capabilities-new-specialty-communications-unit",
+    "source": "Fierce Pharma",
+    "date": "2026-09-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The new business unit is centered on four core capabilities, which includes AI-enhanced scientific intelligence, omnichannel \"scientific ecosystems,\" and more.",
     "pinned": false
   },
   {
@@ -297,36 +330,25 @@
     "pinned": false
   },
   {
-    "id": "a19f15637a98",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-claims-ms-win-rhapsido-remibrutinib-clears-phase-3-no-liver-safety-signal\" hreflang=\"en\">Novartis claims MS win as Rhapsido clears phase 3 with \u2018no liver safety signal\u2019</a>",
-    "url": "https://www.fiercepharma.com/pharma/novartis-claims-ms-win-rhapsido-remibrutinib-clears-phase-3-no-liver-safety-signal",
-    "source": "Fierce Pharma",
+    "id": "384adddd2262",
+    "title": "An AI drug specialist zeroes in on rare forms of obesity",
+    "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
+    "source": "BioPharma Dive",
     "date": "2026-09-03",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novartis appears to have broken the curse of the BTK inhibitor class. The Swiss pharma announced Tuesday that two phase 3 trials for Rhapsido in relapsing multiple sclerosis hit their goals without any liver safety flags.",
-    "pinned": false
-  },
-  {
-    "id": "d67aa063c094",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/emergent-rolls-out-expanded-narcan-education-push-across-us-canada-international-overdose\" hreflang=\"en\">Emergent re-ups Narcan education push across US, Canada on overdose awareness day</a>",
-    "url": "https://www.fiercepharma.com/marketing/emergent-rolls-out-expanded-narcan-education-push-across-us-canada-international-overdose",
-    "source": "Fierce Pharma",
-    "date": "2026-09-03",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Emergent BioSolutions looks to expand awareness and education of its Narcan opioid overdose reversal spray with an expanded campaign that kicked off on International Overdose Awareness Day.",
-    "pinned": false
-  },
-  {
-    "id": "232d308b0706",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers\" hreflang=\"en\">White House unveils next round of MFN pricing deals with 9 midsized drugmakers</a>",
-    "url": "https://www.fiercepharma.com/pharma/white-house-unveils-next-round-mfn-pricing-deals-9-midsized-drugmakers",
-    "source": "Fierce Pharma",
-    "date": "2026-09-03",
-    "country": "Global",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "Some four months after the White House inked the last of its expected drug pricing deals with 17 of the industry\u2019s top players, the U.S. government is back for round 2, this time lining up agreements with a host of medium-sized biopharmas under President Trump\u2019s \u2018most favored nat",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JikBqIBd-z87mV89lFI2VhLGRBmXDVveUUMHhQHnFPk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NTMwOTMyLmpwZw==.webp\" /></div></figure><p>Superluminal Medicines banked $60 million in funding ",
+    "pinned": false
+  },
+  {
+    "id": "bd4aa55559bd",
+    "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
+    "url": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mDk-h3NLB8udDPFuDlI7IPou1i9tJKJYucQXUnhK9vA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MzEzMjc4LmpwZw==.webp\" /></div></figure><p>With its latest foray into China, GSK acquired rights",
     "pinned": false
   },
   {
@@ -341,6 +363,17 @@
     "pinned": false
   },
   {
+    "id": "e0fbe618c0e7",
+    "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
+    "url": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\" /></div></figure><p>A new data cut of a trial pitting",
+    "pinned": false
+  },
+  {
     "id": "b0371735da3e",
     "title": "The hidden scale-out problem behind CAR-T\u2019s growth",
     "url": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
@@ -349,6 +382,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NqVSIzno9BnKK70l80W9phVhOdTVqntzodTfqRszY1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtbWFudWZhY3R1cmluZy10ZWNobmljaWFuLWdldHR5LTE0MjE0MDE4ODQuanBn.webp\" /></div></figure><p>CAR-T&rsquo;s commerc",
+    "pinned": false
+  },
+  {
+    "id": "357bbfcaa0b9",
+    "title": "\u2018Tactical athletes\u2019 get new guidance for cardiovascular fitness",
+    "url": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
     "pinned": false
   },
   {
@@ -539,17 +583,6 @@
     "pinned": false
   },
   {
-    "id": "b65ed19c79bf",
-    "title": "STAT+: How a former ARPA-H director\u2019s startup is tackling AI\u2019s \u2018dumb problems\u2019",
-    "url": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT's AI Prognosis: A startup tackling the 'dumb problems' at the intersection of AI and bio, accuracy of AI scribes, and more.",
-    "pinned": false
-  },
-  {
     "id": "b7b72a84ccde",
     "title": "Mid-cap biotechs join Trump\u2019s latest round of drug pricing deals",
     "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\" /></div></figure><p>Notably, Novartis revealed that remibrutinib wasn&rsq",
-    "pinned": false
-  },
-  {
-    "id": "7a260828204c",
-    "title": "Alumis\u2019 TYK2 drug fails in key lupus study",
-    "url": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TdEzB9fivWcYdfSq7t-4EvsoludfqTCe-laYACTMMvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgyMTM0MDgzLmpwZw==.webp\" /></div></figure><p>Though Alumis still sees a path forward in lupus, the",
-    "pinned": false
-  },
-  {
-    "id": "0e95220307c0",
-    "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
-    "url": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/X3sV_EXvyvsvpYIxmtC_tj_n9c7XBDYmBNLrkm5EaVE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXItdF9jYW5jZXJfY2VsbF90aGVyYXB5LmpwZw==.webp\" /></div></figure><p>The deaths of three study participants led Novart",
-    "pinned": false
-  },
-  {
-    "id": "0ef8ea6661bd",
-    "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
-    "url": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
-    "source": "BioPharma Dive",
-    "date": "2026-08-31",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SG1boBs5f6zltWbABFW7cY2TUKDwCBazwEbF3SM-hLw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWtlZGFfUGhvdG9fMS5KUEc=.webp\" /></div></figure><p>The clearance and broader-than-expected label for Mimrylo open up",
     "pinned": false
   }
 ]
