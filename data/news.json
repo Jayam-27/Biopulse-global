@@ -330,6 +330,61 @@
     "pinned": false
   },
   {
+    "id": "f05221761126",
+    "title": "STAT+: FDA pilot offers generative AI medical devices a path to patients before they are authorized",
+    "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "AI products from Cadence and Limbic are among four devices recently accepted into the FDA\u2019s TEMPO pilot that will allow digital health companies to release products without marketing authorization.",
+    "pinned": false
+  },
+  {
+    "id": "a9407dbbeb19",
+    "title": "Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells",
+    "url": "https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "\u201cThese successes are surprising, worth discussing, and even celebrating a bit,\u201d STAT Lab Dish columnist Paul Knoepfler writes of the FDA and stem cells.",
+    "pinned": false
+  },
+  {
+    "id": "0c535aff11ce",
+    "title": "Opinion: I was a doula before I was an OB-GYN. I wish the two professions understood each other more",
+    "url": "https://www.statnews.com/2026/09/03/doula-turned-ob-gyn-birth-plan-disappointment-urgency/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe longer I practice, the more I think many conflicts in maternity care come from a simple misunderstanding,\u201d writes Debra Eluobaju, a doula turned OB-GYN.",
+    "pinned": false
+  },
+  {
+    "id": "8e09eb44465c",
+    "title": "The pediatricians who take in vaccine-skeptical parents others won\u2019t",
+    "url": "https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals.",
+    "pinned": false
+  },
+  {
+    "id": "ed1794058788",
+    "title": "Why are drug overdose deaths declining?",
+    "url": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.",
+    "pinned": false
+  },
+  {
     "id": "60a954fb152e",
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
@@ -503,61 +558,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
-    "pinned": false
-  },
-  {
-    "id": "95d35f401771",
-    "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA\u2019s controversial June conference",
-    "url": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThis is not a moment our community can afford to spend fighting itself,\u201d writes American Diabetes Association CEO Charles \u201cChuck\u201d Henderson.",
-    "pinned": false
-  },
-  {
-    "id": "b7e0b499d476",
-    "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
-    "url": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.",
-    "pinned": false
-  },
-  {
-    "id": "4cec7ad01241",
-    "title": "Opinion: I\u2019m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
-    "url": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThe whole of my field has been flattened into a single lazy question: Did the health care system fail her?\u201d writes Jennifer Okwerekwu.",
-    "pinned": false
-  },
-  {
-    "id": "4cbf78968029",
-    "title": "STAT+: 5 burning questions on Trump\u2019s latest deals with drugmakers",
-    "url": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing.",
-    "pinned": false
-  },
-  {
-    "id": "d75d3577af30",
-    "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
-    "url": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "More Trump drug pricing deals, GSK speeds up development of mRNA flu vaccine, and other biotech news",
     "pinned": false
   },
   {
