@@ -1,5 +1,16 @@
 [
   {
+    "id": "84bebc887dac",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline\" hreflang=\"en\">Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline</a>",
+    "url": "https://www.fiercebiotech.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
+    "source": "Fierce Biotech",
+    "date": "2026-09-04",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "After Jenny Pearson\u2019s daughter Elise first had a seizure at 16 months old, an MRI came back clean\u2014her brain \u201clooked beautiful,\u201d Pearson recalled to Fierce. But a follow-up scan a year later, just days before Thanksgiving, showed her frontal lobe was now awash in white splotches. ",
+    "pinned": false
+  },
+  {
     "id": "5b3cf00e4f7a",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/menarini-group-signs-771m-deal-take-gan-lee-glp-1-european-market\" hreflang=\"en\">Menarini signs $771M deal to take Gan &amp; Lee GLP-1 to European market </a>",
     "url": "https://www.fiercebiotech.com/biotech/menarini-group-signs-771m-deal-take-gan-lee-glp-1-european-market",
@@ -11,17 +22,6 @@
     "pinned": false
   },
   {
-    "id": "95de7ee6ed10",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout\" hreflang=\"en\">Chutes &amp; Ladders\u2014Invivyd's chairman adds CEO role ahead of COVID readout</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout",
-    "source": "Fierce Biotech",
-    "date": "2026-09-04",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Infectious-disease biotech Invivyd has appointed its current chairman, Marc Elia, as CEO.",
-    "pinned": false
-  },
-  {
     "id": "d2fd5f77520c",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed\" hreflang=\"en\">A year on from Big Pharma\u2019s pull-back from the UK, has anything changed?</a>",
     "url": "https://www.fiercebiotech.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed",
@@ -30,6 +30,17 @@
     "country": "Global",
     "category": "Policy",
     "summary": "September 2025 marked a low point for relations between the U.K. government and Big Pharma. Fierce reached out to the companies involved to see if they've softened their stance.",
+    "pinned": false
+  },
+  {
+    "id": "95de7ee6ed10",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout\" hreflang=\"en\">Chutes &amp; Ladders\u2014Invivyd's chairman adds CEO role ahead of COVID readout</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-invivyd-boosts-chairman-ceo-ahead-covid-readout",
+    "source": "Fierce Biotech",
+    "date": "2026-09-04",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Infectious-disease biotech Invivyd has appointed its current chairman, Marc Elia, as CEO.",
     "pinned": false
   },
   {
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "691b49b2a321",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs\" hreflang=\"en\">TScan axes 75% of workforce to make room for solid tumor programs</a>",
-    "url": "https://www.fiercebiotech.com/biotech/tscan-axes-75-workforce-make-room-solid-tumor-programs",
-    "source": "Fierce Biotech",
+    "id": "4ee8b5f49395",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline\" hreflang=\"en\">Ionis\u2019 \u2018breakthrough\u2019 Alexander disease approval establishes pillar of rare disease pipeline</a>",
+    "url": "https://www.fiercepharma.com/pharma/ionis-breakthrough-alexander-disease-approval-establishes-pillar-rare-disease-pipeline",
+    "source": "Fierce Pharma",
     "date": "2026-09-04",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "TCR-T specialist TScan Therapeutics will reduce its workforce by 75% following the pause of its hematological and autoimmune programs.",
+    "summary": "After Jenny Pearson\u2019s daughter Elise first had a seizure at 16 months old, an MRI came back clean\u2014her brain \u201clooked beautiful,\u201d Pearson recalled to Fierce. But a follow-up scan a year later, just days before Thanksgiving, showed her frontal lobe was now awash in white splotches. ",
     "pinned": false
   },
   {
@@ -184,6 +195,17 @@
     "country": "Global",
     "category": "Policy",
     "summary": "In this week\u2019s episode of \u201cThe Top Line,\u201d we look at the people who kept working the problem, from scientists pushing past long-standing limits in cancer and protein design to physicians and public health leaders tackling trust, misinformation, vaccine policy and representation i",
+    "pinned": false
+  },
+  {
+    "id": "cad179b6a581",
+    "title": "<a href=\"https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed\" hreflang=\"en\">A year on from Big Pharma\u2019s pull-back from the UK, has anything changed?</a>",
+    "url": "https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed",
+    "source": "Fierce Pharma",
+    "date": "2026-09-04",
+    "country": "Global",
+    "category": "Policy",
+    "summary": "September 2025 marked a low point for relations between the U.K. government and Big Pharma. Fierce reached out to the companies involved to see if they've softened their stance.",
     "pinned": false
   },
   {
@@ -217,17 +239,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "GSK, Roche and Novartis continued their dealmaking spree with Asian companies. Three midsized Asian biopharmas reached MFN deals with the White House. Akeso and Summit's ivonescimab delivered a head-to-head overall survival win against Keytruda. And more.",
-    "pinned": false
-  },
-  {
-    "id": "cad179b6a581",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed\" hreflang=\"en\">A year on from Big Pharma\u2019s pull-back from the UK, has anything changed?</a>",
-    "url": "https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed",
-    "source": "Fierce Pharma",
-    "date": "2026-09-04",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "September 2025 marked a low point for relations between the U.K. government and Big Pharma. Fierce reached out to the companies involved to see if they've softened their stance.",
     "pinned": false
   },
   {
@@ -319,14 +330,58 @@
     "pinned": false
   },
   {
-    "id": "73b77015dbe1",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/cellares-restructuring-rolls-new-jersey-amid-cell-therapy-client-loss\" hreflang=\"en\">Cellares downsizes New Jersey operations after losing BMS cell therapy contract</a>",
-    "url": "https://www.fiercepharma.com/pharma/cellares-restructuring-rolls-new-jersey-amid-cell-therapy-client-loss",
-    "source": "Fierce Pharma",
+    "id": "63c1477ece50",
+    "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
+    "url": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
+    "source": "BioPharma Dive",
     "date": "2026-09-04",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "After losing Bristol Myers Squibb as a client, Cellares continues to move forward with the right-sizing its CEO unveiled late last month.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0cnfwe5d43GhJmKetdmaK8qIEtUFH-OzbzGPXEu163M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yR0JLN0JZLmpwZw==.webp\" /></div></figure><p>The drugmaker is leaning on a better side effect profile compared to drug",
+    "pinned": false
+  },
+  {
+    "id": "63a438a2f957",
+    "title": "This week in charts: China deals, stock flatlines and Lilly\u2019s M&A spree",
+    "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-04",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>Deals with Chinese drugmakers are",
+    "pinned": false
+  },
+  {
+    "id": "ba34decd5879",
+    "title": "Ionis\u2019 rare neurology drug approved; Pfizer inks an ADC deal",
+    "url": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-04",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Zanvastro is now the first approved ",
+    "pinned": false
+  },
+  {
+    "id": "16b0bfc3f5b4",
+    "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+    "url": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-04",
+    "country": "US",
+    "category": "Company News",
+    "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.",
+    "pinned": false
+  },
+  {
+    "id": "f5f9f739ff63",
+    "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
+    "url": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-04",
+    "country": "US",
+    "category": "Company News",
+    "summary": "After the failure of an experimental drug for Angelman syndrome, experts cautioned that there is still reason to think similar experimental medicines can succeed.",
     "pinned": false
   },
   {
@@ -528,28 +583,6 @@
     "pinned": false
   },
   {
-    "id": "7ceeea870568",
-    "title": "STAT+: We\u2019re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter",
-    "pinned": false
-  },
-  {
-    "id": "206ff5112d45",
-    "title": "STAT+: Abivax has still not been acquired. What\u2019s going on?",
-    "url": "https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.",
-    "pinned": false
-  },
-  {
     "id": "60a954fb152e",
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "url": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_1cebHGjIUJBOGLx_5Bu8Ko4KoNlfYLcd5Wq0CMhMfY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp\" /></div></figure><p>The company is now hoping for an affirmative ",
-    "pinned": false
-  },
-  {
-    "id": "81d2b645ac91",
-    "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
-    "url": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Teva believes the therapy has &ldquo",
-    "pinned": false
-  },
-  {
-    "id": "b7b72a84ccde",
-    "title": "Mid-cap biotechs join Trump\u2019s latest round of drug pricing deals",
-    "url": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QgWntJBIi9wmk7OGDnQXGHnnNV7oD0cWSDPggs993zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjgzMDg4MTAwLmpwZw==.webp\" /></div></figure><p>Focused on Medicaid, the new pacts now involve more t",
-    "pinned": false
-  },
-  {
-    "id": "4a33913eb9d8",
-    "title": "Novartis says MS pill succeeds in two large studies",
-    "url": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zfRhQ6UdoLhrnrg6WnOJHxS_autlpVcZwuWId9Q7ZSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA5Nzg4MDE4LmpwZw==.webp\" /></div></figure><p>Notably, Novartis revealed that remibrutinib wasn&rsq",
     "pinned": false
   }
 ]
