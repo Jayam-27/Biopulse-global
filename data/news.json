@@ -1,5 +1,16 @@
 [
   {
+    "id": "59e87edab9ef",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped\" hreflang=\"en\">Novo\u2019s blockbuster hopes for CKD program dwindle after more phase 3 trials scrapped</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped",
+    "source": "Fierce Biotech",
+    "date": "2026-09-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novo Nordisk has given up on two more phase 3 trials of ziltivekimab, further eroding the prospects for a molecule that analysts had once tipped as a potential blockbuster.",
+    "pinned": false
+  },
+  {
     "id": "a55dbc0fea09",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: NeuShen nets $80M; Superluminal snags $60M</a>",
     "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Ultragenyx had been flying high after its recent FDA approval for Genglycos\u2014but the company has been brought back down to earth with a damaging phase 3 flop.",
-    "pinned": false
-  },
-  {
-    "id": "31a320b008f8",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition\" hreflang=\"en\">Fortrea boosts early-phase CRO platform with $45M acquisition of Worldwide division</a>",
-    "url": "https://www.fiercebiotech.com/cro/fortrea-boosts-early-phase-platform-45-million-cro-acquisition",
-    "source": "Fierce Biotech",
-    "date": "2026-09-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Fortrea has agreed to acquire the early-phase services division of fellow CRO Worldwide Clinical Trials for $45 million.",
     "pinned": false
   },
   {
@@ -327,6 +327,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "On the back of a heart-helping win for the 11-year-old Repatha last fall, Amgen has continued to deepen the evidence on its PCSK9 inhibitor\u2019s ability to cut cardiovascular risks in many patients.",
+    "pinned": false
+  },
+  {
+    "id": "45c2a1cf1dd0",
+    "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
+    "url": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
     "pinned": false
   },
   {
@@ -580,17 +591,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
-    "pinned": false
-  },
-  {
-    "id": "b4cc0e64148b",
-    "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
-    "url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news",
     "pinned": false
   },
   {
