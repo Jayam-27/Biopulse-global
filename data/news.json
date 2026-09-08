@@ -1,5 +1,16 @@
 [
   {
+    "id": "cf32ef68e07d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test\" hreflang=\"en\">Novartis\u2019 centerpiece of $12B Avidity buyout flunks \u2018crucial\u2019 phase 3 test </a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
+    "source": "Fierce Biotech",
+    "date": "2026-09-08",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The phase 3 Harbor trial of Novartis\u2019 del-desiran has missed its primary endpoint, dealing a major blow to an asset that the Swiss drugmaker acquired in the $12 billion takeover of Avidity Biosciences. The flop leaves Novartis with one win and two failures from a rapid-fire run o",
+    "pinned": false
+  },
+  {
     "id": "59e87edab9ef",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped\" hreflang=\"en\">Novo\u2019s blockbuster hopes for CKD program dwindle after more phase 3 trials scrapped</a>",
     "url": "https://www.fiercebiotech.com/biotech/novos-blockbuster-hopes-ckd-program-dwindle-after-more-phase-3-trials-scrapped",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "GSK is handing over $110 million upfront to Hutchmed in a deal worth up to $1.295 billion to get its hands on a first-in-class oncology candidate.",
-    "pinned": false
-  },
-  {
-    "id": "a29ac7471517",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction\" hreflang=\"en\">Ultragenyx fails phase 3 Angelman test, plots \u2018significant expense reductions\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/ultragenyx-fails-phase-3-angelman-test-plots-significant-expenses-reduction",
-    "source": "Fierce Biotech",
-    "date": "2026-09-08",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Ultragenyx had been flying high after its recent FDA approval for Genglycos\u2014but the company has been brought back down to earth with a damaging phase 3 flop.",
     "pinned": false
   },
   {
@@ -330,6 +330,94 @@
     "pinned": false
   },
   {
+    "id": "88ec2e82c906",
+    "title": "STAT+: Roivant lung disease drug hits mid-stage study goals",
+    "url": "https://www.statnews.com/2026/09/08/roivant-mosliciguat-pulmonary-hypertension-interstitial-lung-disease-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "These positive results could open up a new way to treat serious lung disease.",
+    "pinned": false
+  },
+  {
+    "id": "d73d65547006",
+    "title": "Reynolds is selling fruity new vapes unauthorized by FDA",
+    "url": "https://www.statnews.com/2026/09/08/fda-guidance-reynolds-selling-fruity-new-vapes-unauthorized/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The decision to move ahead with new products in the absence of FDA authorization could spur other big manufacturers to do the same, one tobacco-nicotine expert said.",
+    "pinned": false
+  },
+  {
+    "id": "1dffc296387b",
+    "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
+    "url": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "When the FDA approved a new pancreatic cancer drug called Rasonque, researchers celebrated. But some patients hoping for quick access have been stymied.",
+    "pinned": false
+  },
+  {
+    "id": "c6dc00822ced",
+    "title": "STAT+: UnitedHealth executives shower high-ranking Democrat with donations ahead of midterms",
+    "url": "https://www.statnews.com/2026/09/08/uhg-political-donations-katherine-clark-democratic-whip-medicare-for-all/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Katherine Clark, a top House Democrat, received more than $100,000 in campaign donations from people linked to UnitedHealth Group.",
+    "pinned": false
+  },
+  {
+    "id": "0424596ea156",
+    "title": "Opinion: It\u2019s time to take the gloves off during vaccination",
+    "url": "https://www.statnews.com/2026/09/08/flu-vaccination-season-gloves-waste-climate-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Most of the time, it\u2019s unnecessary to use gloves to administer a flu shot, write Cassandra Thiel and Preeti Jaggi.",
+    "pinned": false
+  },
+  {
+    "id": "317529acdcb8",
+    "title": "Opinion: I\u2019m a fat medical student. I refuse to let myself be shamed for it",
+    "url": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cAs a medical student in a larger body, I have often been ostracized, othered, made to feel different, like I\u2019ve invaded a secret society of thin people.\u201d",
+    "pinned": false
+  },
+  {
+    "id": "dce7f65ecb88",
+    "title": "Hospitals pursue deals to ensure survival as Trump\u2019s Medicaid cuts loom",
+    "url": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Rural health systems are seeking partnership to survive, fueling a debate over competition and the rising cost of medical care.",
+    "pinned": false
+  },
+  {
+    "id": "18e9a6d164b6",
+    "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
+    "url": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A Novartis drug for a rare neuromuscular condition failed in a key study, the company's second major trial collapse in a matter of days.",
+    "pinned": false
+  },
+  {
     "id": "45c2a1cf1dd0",
     "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
     "url": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
@@ -451,61 +539,6 @@
     "pinned": false
   },
   {
-    "id": "2e1893c20be0",
-    "title": "Disabled workers at greater risk of losing health insurance",
-    "url": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds",
-    "pinned": false
-  },
-  {
-    "id": "8c139e7884ed",
-    "title": "STAT+: We\u2019re reading about a Bristol CAR-T trial pause, Pfizer offloading a shelved candidate, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter",
-    "pinned": false
-  },
-  {
-    "id": "a76a09643545",
-    "title": "Opinion: Make infectious disease data boring again",
-    "url": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cIs CDC now applying different standards to state data depending on who governs the state or what political party won an election?\u201d ask former CDC officials.",
-    "pinned": false
-  },
-  {
-    "id": "04031bff34d2",
-    "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
-    "url": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health.",
-    "pinned": false
-  },
-  {
-    "id": "806628e7840b",
-    "title": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
-    "url": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Clozapine \u201cis one of the most underused drugs in all of medicine,\u201d writes Nitin Gogtay.",
-    "pinned": false
-  },
-  {
     "id": "384adddd2262",
     "title": "An AI drug specialist zeroes in on rare forms of obesity",
     "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
@@ -558,39 +591,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NqVSIzno9BnKK70l80W9phVhOdTVqntzodTfqRszY1o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtbWFudWZhY3R1cmluZy10ZWNobmljaWFuLWdldHR5LTE0MjE0MDE4ODQuanBn.webp\" /></div></figure><p>CAR-T&rsquo;s commerc",
-    "pinned": false
-  },
-  {
-    "id": "31f7d6917708",
-    "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
-    "url": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.",
-    "pinned": false
-  },
-  {
-    "id": "c762db7b70da",
-    "title": "STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder",
-    "url": "https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder.",
-    "pinned": false
-  },
-  {
-    "id": "357bbfcaa0b9",
-    "title": "\u2018Tactical athletes\u2019 get new guidance for cardiovascular fitness",
-    "url": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.",
     "pinned": false
   },
   {

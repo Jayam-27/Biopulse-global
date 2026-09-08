@@ -8,7 +8,7 @@
     "type": "stock",
     "price": 145.55,
     "currency": "USD",
-    "change_pct": -1.65
+    "change_pct": 0.38
   },
   {
     "symbol": "REGN",
@@ -19,7 +19,7 @@
     "type": "stock",
     "price": 827.72,
     "currency": "USD",
-    "change_pct": -1.6
+    "change_pct": -2.05
   },
   {
     "symbol": "VRTX",
@@ -30,7 +30,7 @@
     "type": "stock",
     "price": 546.12,
     "currency": "USD",
-    "change_pct": -2.1
+    "change_pct": 0.02
   },
   {
     "symbol": "GILD",
@@ -41,7 +41,7 @@
     "type": "stock",
     "price": 151.0,
     "currency": "USD",
-    "change_pct": 0.83
+    "change_pct": 0.77
   },
   {
     "symbol": "LLY",
@@ -52,7 +52,7 @@
     "type": "stock",
     "price": 1149.36,
     "currency": "USD",
-    "change_pct": -0.96
+    "change_pct": 0.24
   },
   {
     "symbol": "PFE",
@@ -63,7 +63,7 @@
     "type": "stock",
     "price": 28.45,
     "currency": "USD",
-    "change_pct": -1.01
+    "change_pct": 0.0
   },
   {
     "symbol": "JNJ",
@@ -74,7 +74,7 @@
     "type": "stock",
     "price": 275.23,
     "currency": "USD",
-    "change_pct": -1.13
+    "change_pct": -1.18
   },
   {
     "symbol": "BIIB",
@@ -85,7 +85,7 @@
     "type": "stock",
     "price": 220.83,
     "currency": "USD",
-    "change_pct": -1.0
+    "change_pct": -0.07
   },
   {
     "symbol": "NVS",
@@ -96,7 +96,7 @@
     "type": "stock",
     "price": 159.99,
     "currency": "USD",
-    "change_pct": -1.32
+    "change_pct": -1.79
   },
   {
     "symbol": "AZN",
@@ -107,7 +107,7 @@
     "type": "stock",
     "price": 162.7,
     "currency": "USD",
-    "change_pct": -1.54
+    "change_pct": -1.11
   },
   {
     "symbol": "ROG.SW",
@@ -129,7 +129,7 @@
     "type": "stock",
     "price": 49.89,
     "currency": "USD",
-    "change_pct": -1.93
+    "change_pct": -1.68
   },
   {
     "symbol": "SNY",
@@ -140,7 +140,7 @@
     "type": "stock",
     "price": 44.24,
     "currency": "USD",
-    "change_pct": -0.2
+    "change_pct": -0.18
   },
   {
     "symbol": "SUNPHARMA.NS",
@@ -149,9 +149,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1895.0,
+    "price": 1885.9,
     "currency": "INR",
-    "change_pct": -0.21
+    "change_pct": -0.48
   },
   {
     "symbol": "DRREDDY.NS",
@@ -160,9 +160,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1144.2,
+    "price": 1151.0,
     "currency": "INR",
-    "change_pct": -0.59
+    "change_pct": 0.59
   },
   {
     "symbol": "CIPLA.NS",
@@ -171,9 +171,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1395.0,
+    "price": 1384.0,
     "currency": "INR",
-    "change_pct": 0.72
+    "change_pct": -0.79
   },
   {
     "symbol": "4523.T",
@@ -182,9 +182,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 4627.0,
+    "price": 4652.0,
     "currency": "JPY",
-    "change_pct": 0.13
+    "change_pct": 0.67
   },
   {
     "symbol": "4502.T",
@@ -193,9 +193,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 5762.0,
+    "price": 5760.0,
     "currency": "JPY",
-    "change_pct": -0.1
+    "change_pct": -0.14
   },
   {
     "symbol": "4519.T",
@@ -204,9 +204,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 6562.0,
+    "price": 6532.0,
     "currency": "JPY",
-    "change_pct": -0.53
+    "change_pct": -0.99
   },
   {
     "symbol": "1093.HK",
@@ -215,9 +215,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 9.55,
+    "price": 9.42,
     "currency": "HKD",
-    "change_pct": -1.39
+    "change_pct": -2.69
   },
   {
     "symbol": "1177.HK",
@@ -226,9 +226,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 5.59,
+    "price": 5.84,
     "currency": "HKD",
-    "change_pct": 2.1
+    "change_pct": 6.86
   },
   {
     "symbol": "2196.HK",
@@ -237,9 +237,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 17.17,
+    "price": 17.26,
     "currency": "HKD",
-    "change_pct": -1.04
+    "change_pct": -0.52
   },
   {
     "symbol": "XBI",
@@ -250,7 +250,7 @@
     "type": "etf",
     "price": 163.81,
     "currency": "USD",
-    "change_pct": -0.32
+    "change_pct": 0.22
   },
   {
     "symbol": "IBB",
@@ -261,7 +261,7 @@
     "type": "etf",
     "price": 211.92,
     "currency": "USD",
-    "change_pct": -0.53
+    "change_pct": -0.47
   },
   {
     "symbol": "ARKG",
@@ -272,6 +272,6 @@
     "type": "etf",
     "price": 47.14,
     "currency": "USD",
-    "change_pct": 0.47
+    "change_pct": 0.23
   }
 ]
