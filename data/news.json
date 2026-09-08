@@ -1,5 +1,16 @@
 [
   {
+    "id": "0c873c72acd1",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack\" hreflang=\"en\">Boston Scientific cyberattack likely to have \u2018material impact\u2019 on financial results</a>",
+    "url": "https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack",
+    "source": "Fierce Biotech",
+    "date": "2026-09-08",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The recent cyberattack on Boston Scientific is looking more serious than the medtech major first thought, with the company predicting a possible hit to its third-quarter and full-year results.",
+    "pinned": false
+  },
+  {
     "id": "5abb65d97844",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing\" hreflang=\"en\">AZ's R&amp;D chief Barr touts internal 'science success story' after IL-33 antibody's stellar showing in COPD</a>",
     "url": "https://www.fiercebiotech.com/biotech/az-rd-chief-barr-touts-internal-science-success-story-after-il-33-antibodys-stellar-showing",
@@ -128,7 +139,7 @@
     "date": "2026-09-08",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Novo Nordisk has given up on two more phase 3 trials of ziltivekimab, further eroding the prospects for a molecule that analysts had once tipped as a potential blockbuster.",
+    "summary": "Novo Nordisk has given up on two more phase 3 trials of ziltivekimab, further eroding prospects for a molecule analysts once tipped as a potential blockbuster.",
     "pinned": false
   },
   {
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "f5e86d08f1f5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvie-backed-adarx-plans-ipo-fund-array-clinical-stage-sirna-therapies\" hreflang=\"en\">AbbVie-backed ADARx plans IPO to bankroll array of clinical-stage siRNA therapies</a>",
-    "url": "https://www.fiercebiotech.com/biotech/abbvie-backed-adarx-plans-ipo-fund-array-clinical-stage-sirna-therapies",
-    "source": "Fierce Biotech",
+    "id": "9e78e836a3b8",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/sandoz-aims-biosimilar-dominance-under-new-strategy-300m-facility-sweetener-slovenia\" hreflang=\"en\">Sandoz sets sights on 100 biosimilars in new 2040 strategy, with $300M facility build</a>",
+    "url": "https://www.fiercepharma.com/pharma/sandoz-aims-biosimilar-dominance-under-new-strategy-300m-facility-sweetener-slovenia",
+    "source": "Fierce Pharma",
     "date": "2026-09-08",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "ADARx has reinvigorated its ambitions to go public as the AbbVie-backed biotech looks to fund ongoing clinical trials of a range of next-gen small interfering RNA medicines.",
+    "category": "Company News",
+    "summary": "Spying a \u201cgolden decade\u201d beyond the branded drug industry\u2019s looming patent cliff, Sandoz is making big bets on its biosimilar capabilities in the coming years.",
+    "pinned": false
+  },
+  {
+    "id": "4d30fac1e536",
+    "title": "<a href=\"https://www.fiercepharma.com/partner-content/eight-trends-reshaping-patient-centric-drug-development\" hreflang=\"en\">Eight Trends Reshaping Patient-Centric Drug Development </a>",
+    "url": "https://www.fiercepharma.com/partner-content/eight-trends-reshaping-patient-centric-drug-development",
+    "source": "Fierce Pharma",
+    "date": "2026-09-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Exclusive insights from the Patients as Partners Advisory Board on the biggest challenges and opportunities shaping patient engagement, patient advocacy, clinical trial participation, trust, transparency, and patient-focused drug development.",
+    "pinned": false
+  },
+  {
+    "id": "420386643e66",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer\" hreflang=\"en\">Amgen\u2019s DLL3-targeted Imdelltra scores overall survival win in first-line small cell lung cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer",
+    "source": "Fierce Pharma",
+    "date": "2026-09-08",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "While Amgen gave no numerical results from Imdelltra's latest overall survival win in first-line small cell lung cancer, R&amp;D chief Jay Bradner said data suggest the DLL3 bispecific \u201cwill further revolutionize the standard for survival earlier in the treatment journey.\u201d",
     "pinned": false
   },
   {
@@ -297,36 +330,14 @@
     "pinned": false
   },
   {
-    "id": "12f3086c234c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo grow scripts</a>",
-    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-    "source": "Fierce Pharma",
+    "id": "665d6fc6381f",
+    "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
+    "url": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
+    "source": "BioPharma Dive",
     "date": "2026-09-08",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
-    "pinned": false
-  },
-  {
-    "id": "2b211eefa020",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/ucbs-bimzelx-comes-out-blue-claim-augusts-top-pharma-ad-spending-spot\" hreflang=\"en\">UCB\u2019s Bimzelx comes from out of the blue to claim August\u2019s top pharma ad spending spot </a>",
-    "url": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-comes-out-blue-claim-augusts-top-pharma-ad-spending-spot",
-    "source": "Fierce Pharma",
-    "date": "2026-09-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Move over AbbVie and Johnson &amp; Johnson, we have a new and surprising leading drug in the pharma ad spending space.",
-    "pinned": false
-  },
-  {
-    "id": "dbf1a18a6d35",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/roche-gsk-novartis-billion-dollar-deals-more-mfn-sign-ups-akeso-os-win\" hreflang=\"en\">Fierce Pharma Asia\u2014Roche, GSK, Novartis billion-dollar deals; More MFN sign-ups; Akeso\u2019s OS win</a>",
-    "url": "https://www.fiercepharma.com/pharma/roche-gsk-novartis-billion-dollar-deals-more-mfn-sign-ups-akeso-os-win",
-    "source": "Fierce Pharma",
-    "date": "2026-09-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "GSK, Roche and Novartis continued their dealmaking spree with Asian companies. Three midsized Asian biopharmas reached MFN deals with the White House. Akeso and Summit's ivonescimab delivered a head-to-head overall survival win against Keytruda. And more.",
+    "summary": "<p>The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027.</p>",
     "pinned": false
   },
   {
@@ -349,6 +360,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8S1wIGFpFWadnbujOduaCJDPjByPEVoH4ysQjcm_F1k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zZWF0dGxlLWNoaWxkcmVucy1ob3NwaXRhbC1jYW1wdXMtZXh0ZXJpb3ItNS5wbmc=.webp\" /></div></figure><p>Spun out of research at S",
+    "pinned": false
+  },
+  {
+    "id": "7b495238a56d",
+    "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
+    "url": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
     "pinned": false
   },
   {
@@ -375,7 +397,7 @@
   },
   {
     "id": "705bfd3d7d16",
-    "title": "STAT+: Oura goes public, reported $1.2B earnings in its last fiscal year",
+    "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
     "url": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
     "source": "STAT News",
     "date": "2026-09-08",
@@ -506,17 +528,6 @@
     "pinned": false
   },
   {
-    "id": "dce7f65ecb88",
-    "title": "Hospitals pursue deals to ensure survival as Trump\u2019s Medicaid cuts loom",
-    "url": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Rural health systems are seeking partnership to survive, fueling a debate over competition and the rising cost of medical care.",
-    "pinned": false
-  },
-  {
     "id": "50574524203b",
     "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
     "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses.</p>",
-    "pinned": false
-  },
-  {
-    "id": "e0fbe618c0e7",
-    "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
-    "url": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-03",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\" /></div></figure><p>A new data cut of a trial pitting",
     "pinned": false
   }
 ]
