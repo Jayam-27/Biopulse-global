@@ -1,5 +1,16 @@
 [
   {
+    "id": "df4eea86bc43",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/evommune-gives-hope-mrgprx2-antagonist-treat-itch-after-second-phase-2-fail\" hreflang=\"en\">Evommune gives up hope for MRGPRX2 antagonist to treat itch after latest phase 2 fail</a>",
+    "url": "https://www.fiercebiotech.com/biotech/evommune-gives-hope-mrgprx2-antagonist-treat-itch-after-second-phase-2-fail",
+    "source": "Fierce Biotech",
+    "date": "2026-09-09",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Evommune\u2019s MRGPRX2 antagonist has flunked another phase 2 trial, wiping out the biotech\u2019s last hopes of developing the therapy for any itch-related conditions.",
+    "pinned": false
+  },
+  {
     "id": "0c873c72acd1",
     "title": "<a href=\"https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack\" hreflang=\"en\">Boston Scientific cyberattack likely to have \u2018material impact\u2019 on financial results</a>",
     "url": "https://www.fiercebiotech.com/medtech/boston-scientific-making-strong-progress-restoring-its-operations-post-cyberattack",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "849fc8ac92df",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/guardant-nabs-fda-approval-diagnostic-seeking-out-patients-astrazenecas-new-cancer-med\" hreflang=\"en\">Guardant wins FDA nod for diagnostic guiding use of AstraZeneca\u2019s Etcamah</a>",
-    "url": "https://www.fiercebiotech.com/medtech/guardant-nabs-fda-approval-diagnostic-seeking-out-patients-astrazenecas-new-cancer-med",
-    "source": "Fierce Biotech",
+    "id": "6a085fd9fb33",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/drug-pricing-policy-earthquake-forcing-rethink-global-commercialization-plans-survey\" hreflang=\"en\">Drug pricing policy \u2018earthquake\u2019 forcing rethink of global commercialization plans: survey</a>",
+    "url": "https://www.fiercepharma.com/marketing/drug-pricing-policy-earthquake-forcing-rethink-global-commercialization-plans-survey",
+    "source": "Fierce Pharma",
     "date": "2026-09-09",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Hot on the heels of the approval of AstraZeneca\u2019s breast cancer drug Etcamah, Guardant Health has been given the green light for its companion diagnostic.",
+    "category": "Funding & M&A",
+    "summary": "Shifts in drug pricing and market access policies around the world have caused an \u201cearthquake\u201d that will reverberate for years to come, a survey of industry leaders found.",
     "pinned": false
   },
   {
@@ -319,14 +330,36 @@
     "pinned": false
   },
   {
-    "id": "cad179b6a581",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed\" hreflang=\"en\">A year on from Big Pharma\u2019s pull-back from the UK, has anything changed?</a>",
-    "url": "https://www.fiercepharma.com/biotech/year-big-pharmas-pull-back-uk-has-anything-changed",
-    "source": "Fierce Pharma",
+    "id": "556ec6823709",
+    "title": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
+    "url": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-09",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "September 2025 marked a low point for relations between the U.K. government and Big Pharma. Fierce reached out to the companies involved to see if they've softened their stance.",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "\u201cAutonomous AI will likely soon exceed both unaided physicians and physicians aided by AI at five core cognitive medical tasks,\u201d write Ezekiel J. Emanuel and Abe Baker-Butler.",
+    "pinned": false
+  },
+  {
+    "id": "877ad57d3d42",
+    "title": "Opinion: AMA CEO: AI won\u2019t replace doctors \u2014 it will work alongside them",
+    "url": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-09",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe goal should not be to reproduce today\u2019s health care system with fewer humans,\u201d writes American Medical Association CEO John Whyte.",
+    "pinned": false
+  },
+  {
+    "id": "3c103550d2a8",
+    "title": "STAT+: Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
+    "url": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-09",
+    "country": "US",
+    "category": "Company News",
+    "summary": "CEOs of the biggest AI companies have predicted the technology will \u201celiminate most cancer\u201d and \u201cimprove treatment of most other ailments.\u201d But nowhere better illustrates the challenge facing AI than&#8230;",
     "pinned": false
   },
   {
@@ -514,39 +547,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "The decision to move ahead with new products in the absence of FDA authorization could spur other big manufacturers to do the same, one tobacco-nicotine expert said.",
-    "pinned": false
-  },
-  {
-    "id": "1dffc296387b",
-    "title": "A breakthrough pancreatic cancer drug won approval. They still struggle to access it",
-    "url": "https://www.statnews.com/2026/09/08/pancreatic-cancer-patients-caught-beween-fda-drug-approval-insurance-coverage/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "When the FDA approved a new pancreatic cancer drug called Rasonque, researchers celebrated. But some patients hoping for quick access have been stymied.",
-    "pinned": false
-  },
-  {
-    "id": "c6dc00822ced",
-    "title": "STAT+: UnitedHealth executives shower high-ranking Democrat with donations ahead of midterms",
-    "url": "https://www.statnews.com/2026/09/08/uhg-political-donations-katherine-clark-democratic-whip-medicare-for-all/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Katherine Clark, a top House Democrat, received more than $100,000 in campaign donations from people linked to UnitedHealth Group.",
-    "pinned": false
-  },
-  {
-    "id": "0424596ea156",
-    "title": "Opinion: It\u2019s time to take the gloves off during vaccination",
-    "url": "https://www.statnews.com/2026/09/08/flu-vaccination-season-gloves-waste-climate-changes/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Most of the time, it\u2019s unnecessary to use gloves to administer a flu shot, write Cassandra Thiel and Preeti Jaggi.",
     "pinned": false
   },
   {
