@@ -23,7 +23,7 @@
   },
   {
     "id": "fcc622c379b4",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing\" hreflang=\"en\">Google-backed Encoded gains $275M to advance Dravet drug, scale genetic med manufacturing</a>",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing\" hreflang=\"en\">GV-backed Encoded gains $275M to advance Dravet drug, scale genetic med manufacturing</a>",
     "url": "https://www.fiercebiotech.com/biotech/encoded-executes-275m-raise-advance-dravet-syndrome-asset-and-scale-manufacturing",
     "source": "Fierce Biotech",
     "date": "2026-09-09",
@@ -77,14 +77,36 @@
     "pinned": false
   },
   {
-    "id": "95773d8f16e3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo\" hreflang=\"en\">Beeline flies into phase 3 as oral lupus drug soars past placebo</a>",
-    "url": "https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo",
+    "id": "a55dbc0fea09",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Encoded finagles $275M series F; Solstice rises with $225M</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+    "source": "Fierce Biotech",
+    "date": "2026-09-09",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "pinned": false
+  },
+  {
+    "id": "72196e8b53ba",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-garners-fda-nod-its-tactiflex-catheter-treat-afib\" hreflang=\"en\">Abbott garners FDA nod for its TactiFlex catheter to treat AFib</a>",
+    "url": "https://www.fiercebiotech.com/medtech/abbott-garners-fda-nod-its-tactiflex-catheter-treat-afib",
     "source": "Fierce Biotech",
     "date": "2026-09-09",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 2 trial of Beeline Medicines\u2019 afimetoran has hit its primary endpoint, positioning the biotech to swarm into pivotal development in two forms of lupus.",
+    "summary": "Abbot received FDA clearance for its latest-generation catheter that allows physicians more flexibility when treating atrial fibrillation in patients.<br />",
+    "pinned": false
+  },
+  {
+    "id": "c8eedc0a247e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/schrodinger-births-new-immunology-and-immune-focused-biotech-tectora-therapeutics\" hreflang=\"en\">Schr\u00f6dinger births new immunology and inflammation biotech, Tectora Therapeutics</a>",
+    "url": "https://www.fiercebiotech.com/biotech/schrodinger-births-new-immunology-and-immune-focused-biotech-tectora-therapeutics",
+    "source": "Fierce Biotech",
+    "date": "2026-09-09",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Schr\u00f6dinger announced the launch of new immune disease-focused Tectora Therapeutics, which comes online with a $55 million series A financing round.",
     "pinned": false
   },
   {
@@ -99,14 +121,14 @@
     "pinned": false
   },
   {
-    "id": "c8eedc0a247e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/schrodinger-births-new-immunology-and-immune-focused-biotech-tectora-therapeutics\" hreflang=\"en\">Schr\u00f6dinger births new immunology and inflammation biotech, Tectora Therapeutics</a>",
-    "url": "https://www.fiercebiotech.com/biotech/schrodinger-births-new-immunology-and-immune-focused-biotech-tectora-therapeutics",
+    "id": "95773d8f16e3",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo\" hreflang=\"en\">Beeline flies into phase 3 as oral lupus drug soars past placebo</a>",
+    "url": "https://www.fiercebiotech.com/biotech/beeline-flies-phase-3-oral-lupus-drug-soars-past-placebo",
     "source": "Fierce Biotech",
     "date": "2026-09-09",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Schr\u00f6dinger announced the launch of new immune disease-focused Tectora Therapeutics, which comes online with a $55 million series A financing round.",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2 trial of Beeline Medicines\u2019 afimetoran has hit its primary endpoint, positioning the biotech to swarm into pivotal development in two forms of lupus.",
     "pinned": false
   },
   {
@@ -143,25 +165,14 @@
     "pinned": false
   },
   {
-    "id": "34bc086079f8",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer\" hreflang=\"en\">FDA approves AstraZeneca\u2019s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer</a>",
-    "url": "https://www.fiercebiotech.com/pharma/fda-approves-astrazeneca-etcamah-opening-ctdna-guided-treatment-shift-breast-cancer",
-    "source": "Fierce Biotech",
+    "id": "c7c288053bc3",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/actor-kevin-costner-does-math-caris-detect-early-cancer-detection-push\" hreflang=\"en\">Actor Kevin Costner does the math in Caris Detect early cancer detection push </a>",
+    "url": "https://www.fiercepharma.com/marketing/actor-kevin-costner-does-math-caris-detect-early-cancer-detection-push",
+    "source": "Fierce Pharma",
     "date": "2026-09-09",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In a rare divergence from its own expert panel, the FDA has granted accelerated approval to AstraZeneca\u2019s camizestrant, turning a contentious regulatory review into a landmark win that opens a new treatment paradigm for molecular-guided cancer care.",
-    "pinned": false
-  },
-  {
-    "id": "511e09bab87e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program\" hreflang=\"en\">Spyre's 3-pronged IBD strategy on track as IL-23 antibody rounds off trio of phase 2 wins</a>",
-    "url": "https://www.fiercebiotech.com/biotech/spyre-snags-phase-2-win-il-23-antibody-round-ulcerative-colitis-program",
-    "source": "Fierce Biotech",
-    "date": "2026-09-09",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Spyre's three-pronged approach to inflammatory bowel disease continues to pay off, with the biotech's anti-IL-23 antibody notching a phase 2 win.",
+    "category": "Company News",
+    "summary": "The 60-second ad sees \"Yellowstone\" actor Kevin Costner doing the math on the benefits of early cancer detection with Caris' Caris Detect blood test.",
     "pinned": false
   },
   {
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "0f1636e9432b",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/az-leans-ai-generated-llama-promote-lama-combo-inhaler-breztri-new-campaign\" hreflang=\"en\">AZ leans on AI-generated llama to promote LAMA combo inhaler Breztri in new campaign </a>",
-    "url": "https://www.fiercepharma.com/marketing/az-leans-ai-generated-llama-promote-lama-combo-inhaler-breztri-new-campaign",
-    "source": "Fierce Pharma",
+    "id": "627de6d72990",
+    "title": "Kura spins diabetes work into a Lilly-backed biotech startup",
+    "url": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
+    "source": "BioPharma Dive",
     "date": "2026-09-09",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "The Breztri ad prompts viewers to \"put a LAMA to work\" by depicting an AI-generated llama and his barnyard colleagues working a late night in the office.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JSL6MFx_7G82fkdt2b5xaD1Fqy3_zdU_F7C-j0TJiy8/g:nowe:88:975/c:5259:2971/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc4ODE2NTQ3LmpwZw==.webp\" /></div></figure><p>Caspian Therapeutics aims to dev",
     "pinned": false
   },
   {
@@ -349,6 +360,17 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/t2eSQFnULTRPQ6pHoF74ilRTdrAlEvvFROsITsihAlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDUzMDQ1NTczLmpwZw==.webp\" /></div></figure><p>Solstice Oncology is advancing a medicine from China&",
+    "pinned": false
+  },
+  {
+    "id": "4e883a3be2f3",
+    "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
+    "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-09",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
     "pinned": false
   },
   {
@@ -561,17 +583,6 @@
     "pinned": false
   },
   {
-    "id": "c78a494779c7",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about another Novartis trial failure, a Novo Nordisk setback, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/08/novartis-reports-second-trial-failure-novo-nordisk-setback/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "An experimental Novartis drug for a rare neuromuscular condition failed to improve muscle function in a pivotal study",
-    "pinned": false
-  },
-  {
     "id": "50574524203b",
     "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
     "url": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0cnfwe5d43GhJmKetdmaK8qIEtUFH-OzbzGPXEu163M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yR0JLN0JZLmpwZw==.webp\" /></div></figure><p>The drugmaker is leaning on a better side effect profile compared to drug",
-    "pinned": false
-  },
-  {
-    "id": "63a438a2f957",
-    "title": "This week in charts: China deals, stock flatlines and Lilly\u2019s M&A spree",
-    "url": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-04",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>Deals with Chinese drugmakers are",
     "pinned": false
   }
 ]
