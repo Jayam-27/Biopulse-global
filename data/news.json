@@ -165,6 +165,17 @@
     "pinned": false
   },
   {
+    "id": "d8c6c4f434b1",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/lonza-bets-complex-therapies-new-us-facility-corden-scales-injectable-capacity-500-million\" hreflang=\"en\">Swiss CDMOS making moves: Lonza bets on new US facility, CordenPharma scales injectables with \u20ac80M </a>",
+    "url": "https://www.fiercepharma.com/pharma/lonza-bets-complex-therapies-new-us-facility-corden-scales-injectable-capacity-500-million",
+    "source": "Fierce Pharma",
+    "date": "2026-09-10",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Lonza's plans for a new spray-drying facility in Bend, Oregon, affirm the company's commitment both to high-margin medicines and the U.S. At the same time, fellow Swiss CDMO CordenPharma is also making expansion moves, albeit closer to home.",
+    "pinned": false
+  },
+  {
     "id": "d4eb2fa5b2c0",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/abbvie-lines-qulipta-expansion-phase-3-win-untapped-menstrual-migraine-indication\" hreflang=\"en\">AbbVie lines up Qulipta expansion with phase 3 win in untapped menstrual migraine indication</a>",
     "url": "https://www.fiercepharma.com/pharma/abbvie-lines-qulipta-expansion-phase-3-win-untapped-menstrual-migraine-indication",
@@ -194,7 +205,7 @@
     "date": "2026-09-10",
     "country": "Global",
     "category": "Company News",
-    "summary": "In a move that at least one local HIV charity has deemed \u201cprofoundly disappointing,\u201d England's health technology assessor NICE is currently recommending against coverage of Gilead Sciences\u2019 landmark twice-a-year PrEP medication lenacapavir on the National Health Service.",
+    "summary": "In a move that at least one local HIV charity has deemed \u201cprofoundly disappointing,\u201d England's health technology assessor NICE is currently recommending against coverage of Gilead Sciences\u2019 landmark twice-a-year PrEP medication, lenacapavir, on the National Health Service.",
     "pinned": false
   },
   {
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "420386643e66",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer\" hreflang=\"en\">Amgen\u2019s DLL3-targeted Imdelltra scores overall survival win in first-line small cell lung cancer</a>",
-    "url": "https://www.fiercepharma.com/pharma/amgen-dll3-targeted-imdelltra-scores-overall-survival-win-first-line-small-cell-lung-cancer",
-    "source": "Fierce Pharma",
+    "id": "f0e65214dd70",
+    "title": "FDA places partial hold on Biohaven\u2019s epilepsy drug",
+    "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
+    "source": "BioPharma Dive",
     "date": "2026-09-10",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "While Amgen gave no numerical results from Imdelltra's latest overall survival win in first-line small cell lung cancer, R&amp;D chief Jay Bradner said data suggest the DLL3 bispecific \u201cwill further revolutionize the standard for survival earlier in the treatment journey.\u201d",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp\" /></div></figure><p>Announced mere weeks after Biohaven sold off ",
     "pinned": false
   },
   {
@@ -349,6 +360,50 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.</p>",
+    "pinned": false
+  },
+  {
+    "id": "134b7c6b3033",
+    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+    "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+    "pinned": false
+  },
+  {
+    "id": "96fb0c03c2fd",
+    "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+    "url": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
+    "pinned": false
+  },
+  {
+    "id": "734879affc16",
+    "title": "Why two promising heart drugs flopped and what\u2019s next",
+    "url": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment \u2014 why did they fail?",
+    "pinned": false
+  },
+  {
+    "id": "ee5d3575e10c",
+    "title": "STAT+: The gifts from pharma companies that keep on giving",
+    "url": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-10",
+    "country": "US",
+    "category": "Company News",
+    "summary": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.",
     "pinned": false
   },
   {
@@ -517,50 +572,6 @@
     "pinned": false
   },
   {
-    "id": "869fa513c646",
-    "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
-    "url": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The two\u00a0measles-related deaths\u00a0in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
-    "pinned": false
-  },
-  {
-    "id": "4e883a3be2f3",
-    "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
-    "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
-    "pinned": false
-  },
-  {
-    "id": "88759463ad7e",
-    "title": "STAT+: Can AI fix the emergency room?",
-    "url": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.",
-    "pinned": false
-  },
-  {
-    "id": "eba4c1d0ebc9",
-    "title": "STAT+: Orexin discoverers awarded prestigious\u00a0Lasker award",
-    "url": "https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A new FDA CBER head, AI company Schrodinger with a new startup, and more biotech news from The Readout",
-    "pinned": false
-  },
-  {
     "id": "e029bd11f591",
     "title": "Six AI agents, one deskside system: A new model for clinical decision support",
     "url": "https://www.biopharmadive.com/spons/six-ai-agents-one-deskside-system-a-new-model-for-clinical-decision-suppo/829301/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027.</p>",
-    "pinned": false
-  },
-  {
-    "id": "eb876b2e584f",
-    "title": "Novartis RNA drug falls short in rare muscle disease study",
-    "url": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-08",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<p>The failure of &ldquo;del-desiran,&rdquo; which Novartis got through a $12 billion acquisition, could raise questions about the company&rsquo;s business development acumen, according to one analyst.</p>",
     "pinned": false
   }
 ]
