@@ -1,5 +1,16 @@
 [
   {
+    "id": "a22a3d35bc07",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce\" hreflang=\"en\">In first interview as FDA oncology chief, Angelo de Claro vows to \u2018continue the innovation\u2019 behind OCE legacy</a>",
+    "url": "https://www.fiercebiotech.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce",
+    "source": "Fierce Biotech",
+    "date": "2026-09-11",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In his first interview after taking the reins of the FDA\u2019s Oncology Center of Excellence, Angelo de Claro, M.D., is outlining a regulatory agenda that prioritizes organizational strength and continued regulatory modernization.",
+    "pinned": false
+  },
+  {
     "id": "31aac2bf5f87",
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters\" hreflang=\"en\">Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters</a>",
     "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "72196e8b53ba",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-garners-fda-nod-its-tactiflex-catheter-treat-afib\" hreflang=\"en\">Abbott garners FDA nod for its TactiFlex catheter to treat AFib</a>",
-    "url": "https://www.fiercebiotech.com/medtech/abbott-garners-fda-nod-its-tactiflex-catheter-treat-afib",
-    "source": "Fierce Biotech",
+    "id": "f4630741f3ac",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce\" hreflang=\"en\">In first interview as FDA oncology chief, Angelo de Claro vows to \u2018continue the innovation\u2019 behind OCE legacy</a>",
+    "url": "https://www.fiercepharma.com/pharma/first-interview-fda-oncology-chief-angelo-de-claro-vows-continue-innovation-behind-oce",
+    "source": "Fierce Pharma",
     "date": "2026-09-11",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Abbot received FDA clearance for its latest-generation catheter that allows physicians more flexibility when treating atrial fibrillation in patients.<br />",
+    "summary": "In his first interview after taking the reins of the FDA\u2019s Oncology Center of Excellence, Angelo de Claro, M.D., is outlining a regulatory agenda that prioritizes organizational strength and continued regulatory modernization.",
     "pinned": false
   },
   {
@@ -319,14 +330,47 @@
     "pinned": false
   },
   {
-    "id": "4d30fac1e536",
-    "title": "<a href=\"https://www.fiercepharma.com/partner-content/eight-trends-reshaping-patient-centric-drug-development\" hreflang=\"en\">Eight Trends Reshaping Patient-Centric Drug Development </a>",
-    "url": "https://www.fiercepharma.com/partner-content/eight-trends-reshaping-patient-centric-drug-development",
-    "source": "Fierce Pharma",
+    "id": "61573c6fb048",
+    "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+    "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-11",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Exclusive insights from the Patients as Partners Advisory Board on the biggest challenges and opportunities shaping patient engagement, patient advocacy, clinical trial participation, trust, transparency, and patient-focused drug development.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.",
+    "pinned": false
+  },
+  {
+    "id": "7a7b92f0ae4d",
+    "title": "STAT+: Novartis, Novo Nordisk drug failures will likely \u2018pop a hole in the balloon\u2019 of the field",
+    "url": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.",
+    "pinned": false
+  },
+  {
+    "id": "da8f8f1532db",
+    "title": "Opinion: I\u2019m a public health communications consultant. Pro-vaccine advocacy needs more fun",
+    "url": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cSomewhere along the way, we forgot how to celebrate vaccines,\u201d writes public health communications consultant Adam Zimmerman.",
+    "pinned": false
+  },
+  {
+    "id": "48e8573eba4b",
+    "title": "Opinion: I\u2019m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
+    "url": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cFor thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,\u201d writes Raja Flores.",
     "pinned": false
   },
   {
@@ -484,39 +528,6 @@
     "pinned": false
   },
   {
-    "id": "9fcfcd2826c4",
-    "title": "Opinion: John Fetterman\u2019s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
-    "url": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-10",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "\u201cNothing in the recent reporting about John Fetterman is medically surprising,\u201d write Michael P.H. Stanley and Isaiah Kletenik.",
-    "pinned": false
-  },
-  {
-    "id": "ff088046c1c8",
-    "title": "Trump officials say AI will help save rural health care. Some leaders in the field don\u2019t believe it",
-    "url": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence.",
-    "pinned": false
-  },
-  {
-    "id": "89720171a028",
-    "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
-    "url": "https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-10",
-    "country": "US",
-    "category": "Policy",
-    "summary": "GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.",
-    "pinned": false
-  },
-  {
     "id": "fd792a45d563",
     "title": "Tyra disappoints investors with bladder cancer data",
     "url": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
@@ -558,17 +569,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/t2eSQFnULTRPQ6pHoF74ilRTdrAlEvvFROsITsihAlw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDUzMDQ1NTczLmpwZw==.webp\" /></div></figure><p>Solstice Oncology is advancing a medicine from China&",
-    "pinned": false
-  },
-  {
-    "id": "1c335a5e7fdf",
-    "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
-    "url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Policy",
-    "summary": "A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine.",
     "pinned": false
   },
   {
