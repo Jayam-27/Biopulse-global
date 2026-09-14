@@ -18,7 +18,7 @@
     "date": "2026-09-14",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Corbus Pharmaceuticals\u2019 phase 1b obesity trial has generated evidence its CB1 inverse agonist may be less prone to the neuropsychiatric side effects that affected Novo Nordisk and Sanofi. The biotech plans to enter phase 2. <br />",
+    "summary": "Corbus Pharmaceuticals\u2019 phase 1b obesity trial has generated evidence that its CB1 inverse agonist may be less prone to the neuropsychiatric side effects that affected Novo Nordisk and Sanofi. The biotech plans to enter phase 2. <br />",
     "pinned": false
   },
   {
@@ -29,7 +29,7 @@
     "date": "2026-09-14",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Electra Therapeutics is hoping to raise up to $341.9 million from an IPO in order to power the clinical development of its inflammatory disorder drug ipsoprubart.",
+    "summary": "Electra Therapeutics is hoping to raise up to $341.9 million from an IPO in order to power the clinical development of its inflammatory disorder drug, ipsoprubart.",
     "pinned": false
   },
   {
@@ -40,7 +40,7 @@
     "date": "2026-09-14",
     "country": "Global",
     "category": "Company News",
-    "summary": "Johnson &amp; Johnson is nearing a $20 billion deal to sell off its unwanted hips-and-knees business DePuy Synthes to private equity firm Apollo Equity Management.",
+    "summary": "Johnson &amp; Johnson is nearing a $20 billion deal to sell off its unwanted hips-and-knees business, DePuy Synthes, to private equity firm Apollo Equity Management.",
     "pinned": false
   },
   {
@@ -84,7 +84,7 @@
     "date": "2026-09-14",
     "country": "Global",
     "category": "Company News",
-    "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebranding of its business, its logo and its name.",
+    "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebrand of its business, logo and name.",
     "pinned": false
   },
   {
@@ -260,7 +260,7 @@
     "date": "2026-09-14",
     "country": "Global",
     "category": "Company News",
-    "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebranding of its business, its logo and its name.",
+    "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebrand of its business, logo and name.",
     "pinned": false
   },
   {
@@ -330,6 +330,17 @@
     "pinned": false
   },
   {
+    "id": "1b3c84541641",
+    "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
+    "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DXO95hTwvXeb31BPsDT8mRQZBsDXBzkh8y-DSxzCOSk/g:nowe:0:180/c:2000:1129/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDA3MzIxMTg5LmpwZw==.webp\" /></div></figure><p>As dueling data emerge between th",
+    "pinned": false
+  },
+  {
     "id": "73e6401a6f94",
     "title": "AstraZeneca\u2019s newly approved pill fails frontline breast cancer study",
     "url": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
@@ -360,6 +371,28 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jwQkg-wzyofiJL5d7k24n0j3Xb2TKl03YT8PmHJpsMs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JU0VNQllMRC5qcGc=.webp\" /></div></figure><p>Projected by some analysts as a future blockbuster, Isembyld is the first",
+    "pinned": false
+  },
+  {
+    "id": "080bb6e530e0",
+    "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
+    "url": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Abbott has agreed to a $385 million settlement over the closure of the largest baby formula plant in the U.S., which led to the\u00a0supply shortages\u00a0in 2022.",
+    "pinned": false
+  },
+  {
+    "id": "9e0cb41d0972",
+    "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
+    "url": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
     "pinned": false
   },
   {
@@ -539,28 +572,6 @@
     "pinned": false
   },
   {
-    "id": "46872ecb990b",
-    "title": "STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe",
-    "url": "https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An E.U. AG recommended annulling part of a directive that requires drugmakers to finance 80% of the costs of wastewater treatment.",
-    "pinned": false
-  },
-  {
-    "id": "35cd94366164",
-    "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
-    "url": "https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The largest cyclospora food poisoning outbreak in U.S. history is over, U.S.\u00a0health\u00a0officials said, but questions remain over its origin.",
-    "pinned": false
-  },
-  {
     "id": "f0e65214dd70",
     "title": "FDA places partial hold on Biohaven\u2019s epilepsy drug",
     "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.</p>",
-    "pinned": false
-  },
-  {
-    "id": "fd792a45d563",
-    "title": "Tyra disappoints investors with bladder cancer data",
-    "url": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-09",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YSkKf_tz4MZxJT8atPbg2m2TF8em4uejxCE21-146FY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY5Njc4NTE1LmpwZw==.webp\" /></div></figure><p>Remission rates observed in a Phase 2 trial fell shor",
     "pinned": false
   }
 ]
