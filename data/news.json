@@ -1,5 +1,60 @@
 [
   {
+    "id": "5b475b8b3452",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/definium-lsd-drug-goes-3-3-another-pivotal-anxiety-trial-win\" hreflang=\"en\">Definium LSD drug goes 3 for 3 with another pivotal anxiety trial win</a>",
+    "url": "https://www.fiercebiotech.com/biotech/definium-lsd-drug-goes-3-3-another-pivotal-anxiety-trial-win",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Definium Therapeutics has scored a third straight phase 3 win for its LSD formula, with the psychedelic significantly alleviating anxiety symptoms and setting up an FDA filing later this year.",
+    "pinned": false
+  },
+  {
+    "id": "bf147bfe434a",
+    "title": "<a href=\"https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push\" hreflang=\"en\">No more Nordisk as Novo goes it alone amid rebranding push</a>",
+    "url": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As Novo Nordisk continues its epic battle with Eli Lilly for market share in the increasingly competitive obesity and diabetes space, Novo is launching a major rebranding of its business, its logo and its name.",
+    "pinned": false
+  },
+  {
+    "id": "6cf045579772",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival\" hreflang=\"en\">Roche, MediLink notch phase 3 lung cancer win but trail GSK on cross-trial survival</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roche-and-medilink-notch-phase-3-lung-cancer-win-trail-gsk-cross-trial-survival",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "MediLink has reported phase 3 results on a Roche-partnered antibody-drug conjugate. The small-cell lung cancer trial hit its primary endpoint, although the B7-H3-directed ADC\u2019s median overall survival fell short of the bar set by GSK\u2019s rival asset.",
+    "pinned": false
+  },
+  {
+    "id": "a8bab7737351",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/cellectis-cans-allogeneic-car-ts-hop-aboard-vivo-bandwagon\" hreflang=\"en\">Cellectis cans allogeneic CAR-Ts to hop aboard in vivo bandwagon</a>",
+    "url": "https://www.fiercebiotech.com/biotech/cellectis-cans-allogeneic-car-ts-hop-aboard-vivo-bandwagon",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Cellectis may have kicked off the year promising \u201chuge momentum\u201d in the allogeneic CAR-T space, but even the French biotech has been unable to resist the dominance of in vivo options.",
+    "pinned": false
+  },
+  {
+    "id": "854ef9b65f45",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout\" hreflang=\"en\">BioNTech sets survival standard in hard-to-treat cancer ahead of pivotal readout</a>",
+    "url": "https://www.fiercebiotech.com/biotech/biontech-sets-survival-standard-hard-treat-cancer-ahead-pivotal-readout",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "BioNTech has linked gotistobart to median overall survival of 18.5 months in relapsed lung cancer patients, adding to evidence that the anti-CTLA-4 antibody is better than the standard of care.",
+    "pinned": false
+  },
+  {
     "id": "a09d2c6a1c46",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/cullinan-taiho-prove-6-month-survival-benefit-phase-3-trial-advanced-lung-cancer\" hreflang=\"en\">Cullinan, Taiho showcase 6-month survival benefit in phase 3 trial for advanced lung cancer</a>",
     "url": "https://www.fiercebiotech.com/biotech/cullinan-taiho-prove-6-month-survival-benefit-phase-3-trial-advanced-lung-cancer",
@@ -66,17 +121,6 @@
     "pinned": false
   },
   {
-    "id": "97ca4a609315",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-longtime-takeda-rd-chief-depart-next-june\" hreflang=\"en\">Chutes &amp; Ladders\u2014Longtime Takeda R&amp;D chief to depart next June</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-longtime-takeda-rd-chief-depart-next-june",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Takeda President of Research and Development Andy Plump, M.D., Ph.D., is leaving the company in June after twelve years in the position.",
-    "pinned": false
-  },
-  {
     "id": "f22a11a34194",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/singapore-launches-biotech-focused-boston-hub-do-hard-work-matters\" hreflang=\"en\">Singapore launches biotech-focused Boston hub to build on 'centuries-old bond'</a>",
     "url": "https://www.fiercebiotech.com/biotech/singapore-launches-biotech-focused-boston-hub-do-hard-work-matters",
@@ -85,6 +129,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Officials rubbed shoulders with business leaders in a 19th-floor meeting room to celebrate the launch of Singapore\u2019s newest Overseas Centre.",
+    "pinned": false
+  },
+  {
+    "id": "97ca4a609315",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-longtime-takeda-rd-chief-depart-next-june\" hreflang=\"en\">Chutes &amp; Ladders\u2014Longtime Takeda R&amp;D chief to depart next June</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-longtime-takeda-rd-chief-depart-next-june",
+    "source": "Fierce Biotech",
+    "date": "2026-09-14",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Takeda President of Research and Development Andy Plump, M.D., Ph.D., is leaving the company in June after twelve years in the position.",
     "pinned": false
   },
   {
@@ -107,61 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "In his first interview after taking the reins of the FDA\u2019s Oncology Center of Excellence, Angelo de Claro, M.D., is outlining a regulatory agenda that prioritizes organizational strength and continued regulatory modernization.",
-    "pinned": false
-  },
-  {
-    "id": "31aac2bf5f87",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters\" hreflang=\"en\">Novartis shareholder calls for board overhaul following costly deal setbacks: Reuters</a>",
-    "url": "https://www.fiercebiotech.com/pharma/novartis-shareholder-calls-board-overhaul-following-costly-deal-setbacks-reuters",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Novartis\u2019 recent dual clinical setbacks have prompted questions from a major shareholder about the board\u2019s oversight of dealmaking.",
-    "pinned": false
-  },
-  {
-    "id": "41feef45bfad",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/massachusetts-biotech-its-all-about-access-capital-governor-healey\" hreflang=\"en\">Mass. governor makes pre-election pitch to biotechs amid warning early-stage start-ups are 'dying'</a>",
-    "url": "https://www.fiercebiotech.com/biotech/massachusetts-biotech-its-all-about-access-capital-governor-healey",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "It may have seemed like an ordinary Wednesday afternoon at MassBio\u2019s headquarters in Technology Square, but the black SUV parked outside was a telltale sign that the Cambridge, Massachusetts-based biotech trade group was playing host to a government official.",
-    "pinned": false
-  },
-  {
-    "id": "a917dd9b9c43",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal\" hreflang=\"en\">Biohaven epilepsy drug suffers FDA hold days after attracting $350M deal</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biohaven-drug-suffers-fda-hold-days-after-attracting-350m-deal",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has put enrollment in trials of Biohaven\u2019s epilepsy drug candidate BHV-7000 on hold in response to findings from rodent tests, dealing a blow to an asset covered by a pending $350 million deal.",
-    "pinned": false
-  },
-  {
-    "id": "645944626f70",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs\" hreflang=\"en\">Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs</a>",
-    "url": "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Frazier Life Sciences (FLS) has stacked up another sizable biotech-focused capital commitment, netting more than $1.1 billion for its long-running public fund.",
-    "pinned": false
-  },
-  {
-    "id": "2a316deb6795",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes\" hreflang=\"en\">Takeda\u2019s long-serving R&amp;D chief Andy Plump to retire in wake of pipeline successes</a>",
-    "url": "https://www.fiercebiotech.com/biotech/takedas-long-serving-rd-chief-andy-plump-retire-wake-pipeline-successes",
-    "source": "Fierce Biotech",
-    "date": "2026-09-14",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Andy Plump, M.D., Ph.D., president of research and development at Takeda, is set to leave the company in June.",
     "pinned": false
   },
   {
@@ -330,6 +330,61 @@
     "pinned": false
   },
   {
+    "id": "de7b42b552fe",
+    "title": "STAT+: Definium\u2019s LSD therapy eased anxiety in second large trial",
+    "url": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The first wave of biotechs is nearing regulatory approval for psychedelic therapies, a class of treatments that appear to exert rapid benefits.",
+    "pinned": false
+  },
+  {
+    "id": "6d327d0423ed",
+    "title": "STAT+: What\u2019s in a name? Novo looks to a rebrand",
+    "url": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Novo Nordisk is now going by Novo, part of a rebrand that the company hopes can signal a more focused, competitive future.",
+    "pinned": false
+  },
+  {
+    "id": "12c3c2ed5aa2",
+    "title": "Opinion: Am I a hypocrite for loving football despite CTE?",
+    "url": "https://www.statnews.com/2026/09/14/football-cte-risk-should-we-feel-guilty-for-watching-nfl/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Sportswriter and football fan Michael Arkush has known about CTE for years. But he increasingly feels uneasy about watching the game he loves.",
+    "pinned": false
+  },
+  {
+    "id": "ccaddca4e18c",
+    "title": "Opinion: Restoring public trust in science doesn\u2019t have a simple solution. That\u2019s OK",
+    "url": "https://www.statnews.com/2026/09/14/trust-in-science-academia-research-communication-listening/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cMessaging can\u2019t substitute for the relational infrastructure needed for building and sustaining trust,\u201d write Michelle Groman and Caroline Montojo.",
+    "pinned": false
+  },
+  {
+    "id": "713bcc6e90bd",
+    "title": "The GOP\u2019s $50 billion rural health fund is coming up short, hospital leaders say",
+    "url": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-14",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Hospital leaders were excited about the Rural Health Transformation Fund until they saw the fine print.",
+    "pinned": false
+  },
+  {
     "id": "90371a8b7f3d",
     "title": "STAT+: Trump\u2019s secretive pharma deals may undermine \u2018most-favored nation\u2019 pricing, an analysis suggests",
     "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
@@ -473,50 +528,6 @@
     "pinned": false
   },
   {
-    "id": "61573c6fb048",
-    "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
-    "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.",
-    "pinned": false
-  },
-  {
-    "id": "7a7b92f0ae4d",
-    "title": "STAT+: Novartis, Novo Nordisk drug failures will likely \u2018pop a hole in the balloon\u2019 of the field",
-    "url": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.",
-    "pinned": false
-  },
-  {
-    "id": "da8f8f1532db",
-    "title": "Opinion: I\u2019m a public health communications consultant. Pro-vaccine advocacy needs more fun",
-    "url": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cSomewhere along the way, we forgot how to celebrate vaccines,\u201d writes public health communications consultant Adam Zimmerman.",
-    "pinned": false
-  },
-  {
-    "id": "48e8573eba4b",
-    "title": "Opinion: I\u2019m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
-    "url": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-11",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cFor thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,\u201d writes Raja Flores.",
-    "pinned": false
-  },
-  {
     "id": "f0e65214dd70",
     "title": "FDA places partial hold on Biohaven\u2019s epilepsy drug",
     "url": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
@@ -547,17 +558,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand.</p>",
-    "pinned": false
-  },
-  {
-    "id": "134b7c6b3033",
-    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
-    "url": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
     "pinned": false
   },
   {
