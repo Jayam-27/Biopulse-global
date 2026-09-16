@@ -176,6 +176,17 @@
     "pinned": false
   },
   {
+    "id": "2641f9795cfa",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards\" hreflang=\"en\">Standout pharma marketing takes the stage at the 2026 Fierce Pharma Marketing Awards</a>",
+    "url": "https://www.fiercepharma.com/marketing/gsk-novartis-ucb-and-more-snag-wins-2026-fierce-pharma-marketing-awards",
+    "source": "Fierce Pharma",
+    "date": "2026-09-16",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The Fierce Pharma Marketing Awards celebrated winners across 20 different categories, with GSK, Novartis, argenx and more taking home trophies. <br />",
+    "pinned": false
+  },
+  {
     "id": "a593cc6a27e4",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/sanofi-strikes-deal-cheplapharm-divest-20-older-medicines-new-ceos-push-innovation\" hreflang=\"en\">Sanofi strikes Cheplapharm deal to divest 20 older medicines as CEO pushes for innovation</a>",
     "url": "https://www.fiercepharma.com/pharma/sanofi-strikes-deal-cheplapharm-divest-20-older-medicines-new-ceos-push-innovation",
@@ -275,14 +286,14 @@
     "pinned": false
   },
   {
-    "id": "6ee35a1563ce",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-api-manufacturing-changing\" hreflang=\"en\">How is API Manufacturing Changing?</a>",
-    "url": "https://www.fiercepharma.com/sponsored/how-api-manufacturing-changing",
+    "id": "91269cdfc4f5",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/advancing-mcspc-treatment-closer-look-adt-darolutamide-dr-rana-mckay\" hreflang=\"en\">Advancing Treatment: A Closer Look at ADT + Darolutamide with Dr. Rana McKay</a>",
+    "url": "https://www.fiercepharma.com/sponsored/advancing-mcspc-treatment-closer-look-adt-darolutamide-dr-rana-mckay",
     "source": "Fierce Pharma",
     "date": "2026-09-16",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "WuXi AppTec\u2019s Ke Chen discusses trends reshaping API manufacturing \u2013 while diligence, understanding and controlling the process remains the cornerstone",
+    "category": "Company News",
+    "summary": "Dr. Rana McKay speaks to the ARANOTE trial of NUBEQA\u00ae (darolutamide) and what the data mean for patients, doctors, and care providers.",
     "pinned": false
   },
   {
@@ -308,25 +319,47 @@
     "pinned": false
   },
   {
-    "id": "4e597d527fe7",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/precision-all-closing-gap-between-science-and-life\" hreflang=\"en\">Precision for All: Closing the Gap Between Science and Life</a>",
-    "url": "https://www.fiercepharma.com/sponsored/precision-all-closing-gap-between-science-and-life",
+    "id": "6ee35a1563ce",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-api-manufacturing-changing\" hreflang=\"en\">How is API Manufacturing Changing?</a>",
+    "url": "https://www.fiercepharma.com/sponsored/how-api-manufacturing-changing",
     "source": "Fierce Pharma",
     "date": "2026-09-16",
     "country": "Global",
-    "category": "Company News",
-    "summary": "Why are so many eligible patients still missing the therapies designed for them?",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "WuXi AppTec\u2019s Ke Chen discusses trends reshaping API manufacturing \u2013 while diligence, understanding and controlling the process remains the cornerstone",
     "pinned": false
   },
   {
-    "id": "9682a4e7eb70",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-commercial-strategy-needs-start-earlier-ever\" hreflang=\"en\">Why Earlier Commercial Involvement Drives Smarter Strategy</a>",
-    "url": "https://www.fiercepharma.com/sponsored/why-commercial-strategy-needs-start-earlier-ever",
-    "source": "Fierce Pharma",
+    "id": "affa674c7eac",
+    "title": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
+    "url": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-09-16",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Commercial plans can no longer be static. Acumetis' Swathi Rangan explains how teams can adapt strategy as markets evolve.",
+    "summary": "Democrats are mapping out their post-election strategy, and see health care probes as a winning issue.",
+    "pinned": false
+  },
+  {
+    "id": "c3029a2d2802",
+    "title": "Opinion: How my cancer diagnosis changed the way I train physicians",
+    "url": "https://www.statnews.com/2026/09/16/medical-school-cancer-structure-pathology-professor-personal-experience/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-16",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe tumors, test results, and treatments I present to future physicians? Mine,\u201d writes David Elkowitz, a professor of pathology and laboratory medicine and science education.",
+    "pinned": false
+  },
+  {
+    "id": "4b46ce8ba37d",
+    "title": "Opinion: STAT+: Dementia should be a campaign issue \u2014 not an insult",
+    "url": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-16",
+    "country": "US",
+    "category": "Policy",
+    "summary": "STAT\u2019s Neurotransmissions columnist Jason Karlawish asks: What are the harms of the way politicians talk about dementia? What should they say instead?",
     "pinned": false
   },
   {
@@ -536,39 +569,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jwQkg-wzyofiJL5d7k24n0j3Xb2TKl03YT8PmHJpsMs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JU0VNQllMRC5qcGc=.webp\" /></div></figure><p>Projected by some analysts as a future blockbuster, Isembyld is the first",
-    "pinned": false
-  },
-  {
-    "id": "9fad4b616e8c",
-    "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
-    "url": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A federal judge halted a Trump administration plan to place a four-year cap on the kinds of visas used by graduate students and postdocs",
-    "pinned": false
-  },
-  {
-    "id": "080bb6e530e0",
-    "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
-    "url": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Abbott has agreed to a $385 million settlement over the closure of the largest baby formula plant in the U.S., which led to the\u00a0supply shortages\u00a0in 2022.",
-    "pinned": false
-  },
-  {
-    "id": "9e0cb41d0972",
-    "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
-    "url": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
     "pinned": false
   },
   {
