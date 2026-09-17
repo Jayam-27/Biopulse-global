@@ -1,5 +1,16 @@
 [
   {
+    "id": "7dd1f7fd067d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/longeverons-phase-2b-stem-cell-flop-spurs-cost-cutting-exploration-all-options\" hreflang=\"en\">Longeveron\u2019s phase 2b stem cell flop spurs cost cutting, exploration of \u2018all options\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/longeverons-phase-2b-stem-cell-flop-spurs-cost-cutting-exploration-all-options",
+    "source": "Fierce Biotech",
+    "date": "2026-09-17",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2b study of Longeveron\u2019s stem cell therapy in a pediatric heart disease has missed its primary endpoint, prompting the cash-strapped biotech to \u201creview all options\u201d for the business.",
+    "pinned": false
+  },
+  {
     "id": "8d1f28f1e283",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes\" hreflang=\"en\">Novartis ends ALS program after phase 2 flop, adding to R&amp;D woes</a>",
     "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "GSK has bet up to $750 million on a Chimagen Biosciences trispecific T-cell engager, positioning the Big Pharma to start phase 1 development of the multiple myeloma drug candidate next year. The deal comes two years after GSK paid China\u2019s Chimagen $300 million upfront for a trisp",
-    "pinned": false
-  },
-  {
-    "id": "b91467cdcb37",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-walks-away-285m-pact-develop-monthly-glp-1-ascendis\" hreflang=\"en\">Novo walks away from $285M pact to develop monthly GLP-1 obesity drug with Ascendis</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novo-walks-away-285m-pact-develop-monthly-glp-1-ascendis",
-    "source": "Fierce Biotech",
-    "date": "2026-09-17",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Novo\u2019s attempted rebrand got off to a shaky start this week with the news that the pharma had walked away from a $285 million biobucks pact to develop a monthly weight loss drug after less than two years.",
     "pinned": false
   },
   {
@@ -330,6 +330,72 @@
     "pinned": false
   },
   {
+    "id": "91400002be0e",
+    "title": "Roche, Dualitas team up to find bispecific drugs for immune diseases",
+    "url": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\" /></div></figure><p>Through a research deal worth up to $1 billion, Duali",
+    "pinned": false
+  },
+  {
+    "id": "d9b2ee517394",
+    "title": "STAT+: A biotech hedge fund births a new immunology company",
+    "url": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis.",
+    "pinned": false
+  },
+  {
+    "id": "6f1ecf0e6cff",
+    "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
+    "url": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen.",
+    "pinned": false
+  },
+  {
+    "id": "1ec8ce89a7f1",
+    "title": "STAT+: The FDA\u2019s rebuilding effort is running into a new challenge",
+    "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
+    "pinned": false
+  },
+  {
+    "id": "7f1ae43f8e35",
+    "title": "Opinion: What happened to oppositional defiant disorder?",
+    "url": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Over the past 25 years, there\u2019s been a dramatic change in how we understand children who don\u2019t \u201clisten,\u201d writes behavioral pediatrician Lawrence Diller.",
+    "pinned": false
+  },
+  {
+    "id": "d7fac3296aff",
+    "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
+    "url": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact.",
+    "pinned": false
+  },
+  {
     "id": "29c3ab8f2a62",
     "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
     "url": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
@@ -484,17 +550,6 @@
     "pinned": false
   },
   {
-    "id": "4b46ce8ba37d",
-    "title": "Opinion: STAT+: Dementia should be a campaign issue \u2014 not an insult",
-    "url": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-16",
-    "country": "US",
-    "category": "Policy",
-    "summary": "STAT\u2019s Neurotransmissions columnist Jason Karlawish asks: What are the harms of the way politicians talk about dementia? What should they say instead?",
-    "pinned": false
-  },
-  {
     "id": "3222c9d0257e",
     "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
     "url": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
@@ -528,50 +583,6 @@
     "pinned": false
   },
   {
-    "id": "dee878ce0737",
-    "title": "A fourth measles death is reported in Pennsylvania",
-    "url": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
-    "pinned": false
-  },
-  {
-    "id": "acb2aa6c7fc8",
-    "title": "STAT+: RFK Jr. returns to his roots",
-    "url": "https://www.statnews.com/2026/09/15/rfk-childrens-health-defense-chris-klomp-hearings-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Kennedy will keynote a Children's Health Defense event, and hospitals are disappointed by GOP's rural health fund.",
-    "pinned": false
-  },
-  {
-    "id": "b82a652d72d0",
-    "title": "STAT+: Medicare to expand its pilot that pays for technology to manage chronic diseases",
-    "url": "https://www.statnews.com/2026/09/15/medicare-access-chronic-care-management-tech-pilot-expanding/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A recently launched Medicare experiment that pays for technology to help people manage chronic conditions is expanding.",
-    "pinned": false
-  },
-  {
-    "id": "0aced91bc73a",
-    "title": "STAT+: FDA takes applications for new program to shorten drug approval times",
-    "url": "https://www.statnews.com/2026/09/15/fda-launches-program-to-shorten-drug-approval-times/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA is opening applications for a pilot program designed to shorten drug approval timelines and help the U.S. compete with countries like China and Australia.",
-    "pinned": false
-  },
-  {
     "id": "1b3c84541641",
     "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
     "url": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Fjzr5kjcLeZ_A2pzstCyxTNQnZ-ZrmOt89UiifKXUfo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yREI1VzA4LmpwZw==.webp\" /></div></figure><p>Etcamah is the second oral &ldquo;SERD&rdquo; to recently fall short in f",
-    "pinned": false
-  },
-  {
-    "id": "dbb53ffba243",
-    "title": "Cellectis quits CAR-T and pivots to \u2018in vivo\u2019 gene editing",
-    "url": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v3zPs8xFZHpOXBWe_GtdpurJJUCpv3Rf3nHJV4S08Bc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTM4MzgyNTk0LmpwZw==.webp\" /></div></figure><p>Long a frontrunner in donor-derived cell therapy rese",
     "pinned": false
   }
 ]
