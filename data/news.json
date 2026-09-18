@@ -1,5 +1,38 @@
 [
   {
+    "id": "540f37db98af",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets\" hreflang=\"en\">Inside the growing world of biopharma prediction markets</a>",
+    "url": "https://www.fiercebiotech.com/biotech/inside-growing-world-biopharma-prediction-markets",
+    "source": "Fierce Biotech",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "In this episode of \u201cThe Top Line,\u201d we explore the growing space of biopharma prediction markets, how they work and the risks they create around insider information and clinical trial integrity.",
+    "pinned": false
+  },
+  {
+    "id": "a9e82ef06e4f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential\" hreflang=\"en\">Chutes &amp; Ladders\u2014Legend poaches Novartis vet to boost commercial potential</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential",
+    "source": "Fierce Biotech",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "After former Legend Biotech CEO Ying Huang, Ph.D., left the company suddenly in July, Legend has found its permanent CEO, poaching Novartis veteran Ingrid Zhang as the CAR-T specialist eyes its next phase of growth.<br />",
+    "pinned": false
+  },
+  {
+    "id": "8604af07e6c9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events\" hreflang=\"en\">Xenon pauses phase 3 depression trials after psychosis events</a>",
+    "url": "https://www.fiercebiotech.com/biotech/xenon-pauses-phase-3-depression-trials-after-psychosis-events",
+    "source": "Fierce Biotech",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The company has voluntarily stopped enrolling new patients in the studies in response to reports of mostly mild or moderate adverse events.",
+    "pinned": false
+  },
+  {
     "id": "96d128a5009b",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look\" hreflang=\"en\">BMS dumps $100M Orum degrader-antibody conjugate after glimpsing phase 1 data</a>",
     "url": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
@@ -132,36 +165,14 @@
     "pinned": false
   },
   {
-    "id": "8d1f28f1e283",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes\" hreflang=\"en\">Novartis ends ALS program after phase 2 flop, adding to R&amp;D woes</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-ends-als-program-after-phase-2-flop-adding-rd-woes",
-    "source": "Fierce Biotech",
+    "id": "8dc40a4db936",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/changing-expectations-how-gram-strengthening-cdmo-partnerships\" hreflang=\"en\">Changing expectations: How GRAM is strengthening CDMO partnerships</a>",
+    "url": "https://www.fiercepharma.com/sponsored/changing-expectations-how-gram-strengthening-cdmo-partnerships",
+    "source": "Fierce Pharma",
     "date": "2026-09-18",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novartis has extended its losing streak, stopping an amyotrophic lateral sclerosis program after flunking a phase 2 trial.",
-    "pinned": false
-  },
-  {
-    "id": "f7a44b0e5560",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier\" hreflang=\"en\">Novartis pays Sironax $125M to acquire platform for crossing the blood-brain barrier</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-sironax-125m-acquire-platform-crossing-blood-brain-barrier",
-    "source": "Fierce Biotech",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Novartis is paying Sironax $125 million to take up its option on a brain delivery platform, gaining control of technology for getting large molecules to targets in the central nervous system.<br />",
-    "pinned": false
-  },
-  {
-    "id": "cf8de789c032",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter\" hreflang=\"en\">CEO O\u2019Day tells Fierce how Gilead\u2019s cancer, inflammation expansion has reached \u2018critical mass\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/its-cancer-and-inflammation-expansion-critical-mass-gileads-oday-eyes-companys-next-chapter",
-    "source": "Fierce Biotech",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached \u201ccritical mass\u201d in its efforts to diversify into oncology and inflammation, CEO Daniel O\u2019Day told Fierce.",
+    "category": "Company News",
+    "summary": "How proactive risk management, transparency and flexible communication can turn a CDMO relationship into a true strategic partnership.",
     "pinned": false
   },
   {
@@ -173,6 +184,50 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "As trial complexity grows, agentic AI is emerging as a new model for connecting workflows and accelerating execution.",
+    "pinned": false
+  },
+  {
+    "id": "11be54e642cb",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/europes-chmp-endorses-slew-new-medicines-including-novo-and-az-new-offerings\" hreflang=\"en\">Europe's CHMP endorses slew of new medicines, including new offerings from Novo and AZ</a>",
+    "url": "https://www.fiercepharma.com/pharma/europes-chmp-endorses-slew-new-medicines-including-novo-and-az-new-offerings",
+    "source": "Fierce Pharma",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The CHMP recommendation for Novo's next gen hemophilia A treatment was one of several noteworthy endorsements made by the EU agency this week.",
+    "pinned": false
+  },
+  {
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Holiday takes toll on prescriptions</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
+    "pinned": false
+  },
+  {
+    "id": "958c69ef6dbb",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/panthers-and-zebras-and-meerkats-oh-my-peek-behind-curtain-fierce-pharma-week-2026\" hreflang=\"en\">Panthers and zebras and meerkats, oh my: A peek behind the curtain at Fierce Pharma Week 2026</a>",
+    "url": "https://www.fiercepharma.com/pharma/panthers-and-zebras-and-meerkats-oh-my-peek-behind-curtain-fierce-pharma-week-2026",
+    "source": "Fierce Pharma",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "With many of the healthcare industry\u2019s top marketing minds converging in the City of Brotherly Love this past week, the galvanizing power of humor, authenticity and a little outside-the-box thinking in an ever-changing consumer landscape was again at the forefront of Fierce Pharm",
+    "pinned": false
+  },
+  {
+    "id": "ae0e922e40a8",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/china-deals-safe-coins-act-key-wclc-data-legend-new-ceo\" hreflang=\"en\">Fierce Pharma Asia\u2014China deals safe from COINS?; Key WCLC data; Legend\u2019s new CEO</a>",
+    "url": "https://www.fiercepharma.com/pharma/china-deals-safe-coins-act-key-wclc-data-legend-new-ceo",
+    "source": "Fierce Pharma",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Most drug licensing deals with China will be safe from rules being drafted by the U.S. Treasury Department, Reuters reports. Akeso and Summit's ivonescimab, B7-H3 ADCs and a surprise negative overall survival trend from Enhertu headlined WCLC26. Plus more.",
     "pinned": false
   },
   {
@@ -275,58 +330,25 @@
     "pinned": false
   },
   {
-    "id": "0fde9dae7c97",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/ex-phm-ceo-andrea-palmer-takes-top-job-assembled-intelligence\" hreflang=\"en\">Ex-PHM CEO Andrea Palmer takes top job at Assembled Intelligence</a>",
-    "url": "https://www.fiercepharma.com/marketing/ex-phm-ceo-andrea-palmer-takes-top-job-assembled-intelligence",
-    "source": "Fierce Pharma",
+    "id": "d2a69d5f1403",
+    "title": "This week in charts: GSK\u2019s China deals, the $300M IPO club and selling the news",
+    "url": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
+    "source": "BioPharma Dive",
     "date": "2026-09-18",
-    "country": "Global",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "Former Publicis Health Media CEO Andrea Palmer has revealed her next post. The executive has taken the CEO position at Assembled Intelligence, the agency that Minds + Assembly launched last year to integrate its flurry of acquisitions.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pYD3j5yHNQKa20_p-YozLhgHtUmmjO5JVAIccUnyifU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyXzBlaExSdTIuanBn.webp\" /></div></figure><p>The latest installment in BioPharma Dive&rsqu",
     "pinned": false
   },
   {
-    "id": "a1ebfa7e9b68",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/az-daiichis-enhertu-wins-long-awaited-nice-blessing\" hreflang=\"en\">AZ, Daiichi's Enhertu scores long-awaited NICE blessing in HER2-low breast cancer</a>",
-    "url": "https://www.fiercepharma.com/pharma/az-daiichis-enhertu-wins-long-awaited-nice-blessing",
-    "source": "Fierce Pharma",
+    "id": "f2d3b3e29724",
+    "title": "Ultragenyx prices Sanfilippo gene therapy at $4M; Bristol Myers shelves Orum drug",
+    "url": "https://www.biopharmadive.com/news/ultragenyx-fayuvi-orum-bristol-lunsumio-longeveron-rocket-danon/830512/",
+    "source": "BioPharma Dive",
     "date": "2026-09-18",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "After a 2024 rebuff, AstraZeneca and Daiichi Sankyo\u2019s star antibody drug conjugate Enhertu has been deemed cost effective for NHS use in HER2-low advanced breast cancer by England and Wales' drug value assessor.",
-    "pinned": false
-  },
-  {
-    "id": "ac024308d001",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/vera-strong-phase-3-igan-data-trutakna-intensify-kidney-disease-rivalry-otsuka\" hreflang=\"en\">Vera\u2019s strong phase 3 IgAN data for Trutakna intensify kidney disease rivalry</a>",
-    "url": "https://www.fiercepharma.com/pharma/vera-strong-phase-3-igan-data-trutakna-intensify-kidney-disease-rivalry-otsuka",
-    "source": "Fierce Pharma",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "New phase 3 data show Vera Therapeutics\u2019 Trutakna successfully stabilizes kidney function in IgA nephropathy patients, mirroring an earlier clinical success from Otsuka\u2019s Voyxact and heating up competition in a rapidly evolving market race.",
-    "pinned": false
-  },
-  {
-    "id": "ee46532e6e7b",
-    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/cellares-links-genomefrontier-evaluate-virus-free-car-t-therapy-production\" hreflang=\"en\">Cellares links with GenomeFrontier to test automation approach for virus-free CAR-Ts</a>",
-    "url": "https://www.fiercepharma.com/manufacturing/cellares-links-genomefrontier-evaluate-virus-free-car-t-therapy-production",
-    "source": "Fierce Pharma",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Cellares is partnering with Taiwanese biotech GenomeFrontier Therapeutics to evaluate the integrated contract developer and manufacturer\u2019s cell shuttle platform for use in the production of virus-free CAR-T therapies.",
-    "pinned": false
-  },
-  {
-    "id": "6d7d02c70ef4",
-    "title": "<a href=\"https://www.fiercepharma.com/partner-content/trialynx-wins-dpharm-idol-disrupt-2026\" hreflang=\"en\">Trialynx Wins DPHARM Idol Disrupt 2026</a>",
-    "url": "https://www.fiercepharma.com/partner-content/trialynx-wins-dpharm-idol-disrupt-2026",
-    "source": "Fierce Pharma",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Trialynx takes home the DPHARM Idol Disrupt award from the 2026 DPHARM conference.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Ultragenyx&rsquo;s second gene thera",
     "pinned": false
   },
   {
@@ -338,6 +360,50 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/vHV5-vR30GCW-_EdC8kLprqjZHvhGUj1lmBVUgFoneE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NjI3NTYxODNfVU9PSGU1Uy5qcGc=.webp\" /></div></figure><p>Nearly a dozen biotechnology firms have match",
+    "pinned": false
+  },
+  {
+    "id": "1528ddafcb71",
+    "title": "STAT+: Roche expands its Boston footprint with new research center",
+    "url": "https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A gene therapy approved for Sanfilippo syndrome, good and bad news for Xenon Pharma, and more biotech news",
+    "pinned": false
+  },
+  {
+    "id": "5d90d77d5705",
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/09/18/up-down-ladder-latest-comings-goings-job-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "pinned": false
+  },
+  {
+    "id": "4a6e48697f74",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about licensing deals with China, making drugs in space, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "The U.S. is working on rules for investing in China that would likely preserve pharma's ability to strike most licensing deals for Chinese drugs",
+    "pinned": false
+  },
+  {
+    "id": "f6239538f8b6",
+    "title": "Who supports policies for \u2018health equity\u2019? It depends on how you\u2019re asking",
+    "url": "https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds",
     "pinned": false
   },
   {
@@ -382,6 +448,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.",
+    "pinned": false
+  },
+  {
+    "id": "3131cb7af202",
+    "title": "Lisata deal propels Marea\u2019s drug pipeline to Wall Street",
+    "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-17",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1TNhYQTUI7yObB637nFZIAJqv_C_vHe6B8CqUtpkWHg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQwMTQ3MDc2LmpwZw==.webp\" /></div></figure><p>Marea&rsquo;s acquisition by Lisata, alongside a $225",
     "pinned": false
   },
   {
@@ -495,50 +572,6 @@
     "pinned": false
   },
   {
-    "id": "857cd38ac88d",
-    "title": "STAT+: FDA has too few staffers to hire more staff",
-    "url": "https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.",
-    "pinned": false
-  },
-  {
-    "id": "a0692d1ea27d",
-    "title": "Purer fentanyl won\u2019t solve the U.S. overdose death crisis, study says",
-    "url": "https://www.statnews.com/2026/09/17/health-news-fentanyl-overdoses-fda-doge-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Cautious optimism in the Ebola outbreak, FDA still stymied by DOGE cuts, and other health updates from the Morning Rounds newsletter.",
-    "pinned": false
-  },
-  {
-    "id": "42d0b05103ef",
-    "title": "STAT+: Zocdoc for chatbots and what\u2019s new with Medicare\u2019s ACCESS",
-    "url": "https://www.statnews.com/2026/09/17/zocdoc-for-chatbots-and-medicares-access-healh-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from chatbots and health plan websites, and more.",
-    "pinned": false
-  },
-  {
-    "id": "47796dc5d76c",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about FDA hiring delays, a new Bavarian Nordic CEO, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/17/fda-hiring-delays-bavarian-nordic-appoints-ceo/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "For all the talk of a hiring spree at the FDA after DOGE cuts last year, the reality is more complicated and filled with bureaucratic delays",
-    "pinned": false
-  },
-  {
     "id": "7be6f64a5d8f",
     "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
     "url": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Vql4aZidBzEhd2QjTN3RMPOhCdvNFi6mvcRAHM5msJ8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzA2NjM5NTk3LmpwZw==.webp\" /></div></figure><p>A confirmatory late-stage study is now also underway ",
-    "pinned": false
-  },
-  {
-    "id": "20b699ff0104",
-    "title": "Skyhawk racks up more support for Huntington\u2019s drug",
-    "url": "https://www.biopharmadive.com/news/skyhawk-huntingtons-drug-rna-splicing-results/830537/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-16",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/MOwz7heogOUmMBiVeW9jdOYnqDQ4pg7YZRYO_YHAnuM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDUzNDM0MTY4LmpwZw==.webp\" /></div></figure><p>The Fidelity-backed biotech now has 15-month data fro",
-    "pinned": false
-  },
-  {
-    "id": "3222c9d0257e",
-    "title": "FDA clears first generic radioligand drug; Sionna turns to layoffs",
-    "url": "https://www.biopharmadive.com/news/radioligand-generic-sionna-layoffs-novo-contineum-arrowhead-corbus/830246/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A Lutathera copycat has become the f",
-    "pinned": false
-  },
-  {
-    "id": "68d574e7b61b",
-    "title": "WCLC \u201826: A new \u2018ADC era,\u2019 China questions and AstraZeneca\u2019s spotlight",
-    "url": "https://www.biopharmadive.com/news/wclc-2026-adc-b7h3-china-study-results-astrazeneca/830247/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lbrY-kOrc9k3tdi1l3vDKOnquutefnbAg6hO8dGrIo0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMzk4MDA3LmpwZw==.webp\" /></div></figure><p>The year&rsquo;s biggest meeting on lung cancer resea",
     "pinned": false
   }
 ]
