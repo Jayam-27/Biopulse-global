@@ -1,5 +1,27 @@
 [
   {
+    "id": "96d128a5009b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look\" hreflang=\"en\">BMS dumps $100M Orum degrader-antibody conjugate after glimpsing phase 1 data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bristol-myers-dumps-100m-orum-degrader-antibody-conjugate-after-phase-1-look",
+    "source": "Fierce Biotech",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Bristol Myers Squibb has axed the degrader-antibody conjugate it bought from Orum Therapeutics for $100 million, walking away from the asset after seeing phase 1 data.",
+    "pinned": false
+  },
+  {
+    "id": "83486be44e3c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing\" hreflang=\"en\">Inflammation biotech Electra charges up with $350M from upsized IPO</a>",
+    "url": "https://www.fiercebiotech.com/biotech/electra-rides-biotech-ipo-surge-charge-350m-upsized-listing",
+    "source": "Fierce Biotech",
+    "date": "2026-09-18",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Electra Therapeutics is the latest biotech to overshoot its own IPO expectations this year, with the inflammation-focused company bringing in $350 million from this morning\u2019s Nasdaq listing.",
+    "pinned": false
+  },
+  {
     "id": "22941edc6ba5",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol\" hreflang=\"en\">Goa Therapeutics launches with \u2018immeasurably huge\u2019 vision of creating Narcan for alcohol</a>",
     "url": "https://www.fiercebiotech.com/biotech/goa-therapeutics-launches-immeasurably-huge-vision-creating-narcan-alcohol",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Following a steady stream of acquisitions that culminated in three biotech buyouts earlier this year, Gilead has now reached \u201ccritical mass\u201d in its efforts to diversify into oncology and inflammation, CEO Daniel O\u2019Day told Fierce.",
-    "pinned": false
-  },
-  {
-    "id": "adb28ddea62f",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease\" hreflang=\"en\">Sling reels in $123M series C to fund oral Tepezza rival through phase 3 trial</a>",
-    "url": "https://www.fiercebiotech.com/biotech/sling-reels-123m-series-c-funding-its-oral-tepezza-rival-eye-disease",
-    "source": "Fierce Biotech",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Sling Therapeutics has closed a $123 million series C round to advance its oral therapy for thyroid eye disease through a phase 3 trial and hopefully on to commercialization.",
-    "pinned": false
-  },
-  {
-    "id": "53dd7fab0c17",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials\" hreflang=\"en\">FDA launches pilot program to speed up sluggish phase 1 trials</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fda-launches-pilot-program-speed-sluggish-phase-1-trials",
-    "source": "Fierce Biotech",
-    "date": "2026-09-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "After teasing a new initiative to speed up early-stage clinical trials over the summer, the FDA today opened a pilot program for an expedited investigational new drug (IND) application process that the agency hopes will put U.S. phase 1 trials on par with those in China and Austr",
     "pinned": false
   },
   {
@@ -341,6 +341,50 @@
     "pinned": false
   },
   {
+    "id": "eeaa1437d430",
+    "title": "Opinion: Doctors should educate patients about \u2018Asian glow\u2019 and drinking risks",
+    "url": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "It wasn\u2019t until he started medical school, Brian Zhang writes, that he realized \u2018Asian glow\u2019 from drinking was a sign of something important.",
+    "pinned": false
+  },
+  {
+    "id": "f537fe939f92",
+    "title": "Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed",
+    "url": "https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe young men in my clinic are responding rationally to a system that was designed for profit,\u201d writes plastic surgeon Kavitha Ranganathan.",
+    "pinned": false
+  },
+  {
+    "id": "022bb0e601f0",
+    "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
+    "url": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Amid a civil war in Sudan, it\u2019s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available",
+    "pinned": false
+  },
+  {
+    "id": "134b5503edeb",
+    "title": "STAT+: A geriatrician explains why AI for older adults deserves careful scrutiny",
+    "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.",
+    "pinned": false
+  },
+  {
     "id": "9d0f5a7d6134",
     "title": "Novo partners with Orbis, deepening investment in oral peptide drugs",
     "url": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
@@ -492,50 +536,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "For all the talk of a hiring spree at the FDA after DOGE cuts last year, the reality is more complicated and filled with bureaucratic delays",
-    "pinned": false
-  },
-  {
-    "id": "d9b2ee517394",
-    "title": "STAT+: A biotech hedge fund births a new immunology company",
-    "url": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis.",
-    "pinned": false
-  },
-  {
-    "id": "6f1ecf0e6cff",
-    "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
-    "url": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen.",
-    "pinned": false
-  },
-  {
-    "id": "1ec8ce89a7f1",
-    "title": "STAT+: The FDA\u2019s rebuilding effort is running into a new challenge",
-    "url": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center.",
-    "pinned": false
-  },
-  {
-    "id": "7f1ae43f8e35",
-    "title": "Opinion: What happened to oppositional defiant disorder?",
-    "url": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Over the past 25 years, there\u2019s been a dramatic change in how we understand children who don\u2019t \u201clisten,\u201d writes behavioral pediatrician Lawrence Diller.",
     "pinned": false
   },
   {
