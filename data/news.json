@@ -22,6 +22,17 @@
     "pinned": false
   },
   {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Novo reveals 4k more employees were laid off; Sionna halves staff</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-09-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "pinned": false
+  },
+  {
     "id": "bd707ef3b00a",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/china-targets-25-share-global-first-class-drugs-new-5-year-plan\" hreflang=\"en\">China targets 25% share of global first-in-class drugs in new 5-year plan</a>",
     "url": "https://www.fiercebiotech.com/biotech/china-targets-25-share-global-first-class-drugs-new-5-year-plan",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "a9e82ef06e4f",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential\" hreflang=\"en\">Chutes &amp; Ladders\u2014Legend poaches Novartis vet to boost commercial potential</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-legend-poaches-novartis-vet-boost-commercial-potential",
-    "source": "Fierce Biotech",
+    "id": "ec3eaa024a6f",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/trump-calls-some-routine-immunizations-be-split-five-smaller-doses\" hreflang=\"en\">Trump calls for some childhood vaccines be split into smaller doses</a>",
+    "url": "https://www.fiercepharma.com/pharma/trump-calls-some-routine-immunizations-be-split-five-smaller-doses",
+    "source": "Fierce Pharma",
     "date": "2026-09-21",
     "country": "Global",
     "category": "Company News",
-    "summary": "After former Legend Biotech CEO Ying Huang, Ph.D., left the company suddenly in July, Legend has found its permanent CEO, poaching Novartis veteran Ingrid Zhang as the CAR-T specialist eyes its next phase of growth.<br />",
+    "summary": "The president announced plans to split some of childhood immunizations in the U.S. into five separate shots, given as \u201c20% doses\u201d every six months. The decision has garnered significant backlash from the medical community.",
+    "pinned": false
+  },
+  {
+    "id": "e2de16f85b61",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/jj-firms-caplytas-1st-phase-3-win-bipolar-associated-manic-episodes\" hreflang=\"en\">J&amp;J firms up Caplyta's 1st phase 3 win in bipolar-associated manic episodes</a>",
+    "url": "https://www.fiercepharma.com/pharma/jj-firms-caplytas-1st-phase-3-win-bipolar-associated-manic-episodes",
+    "source": "Fierce Pharma",
+    "date": "2026-09-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "As Johnson &amp; Johnson\u2019s $14.6 billion bet on Intra-Cellular Therapies continues to pay off with blockbuster sales of Caplyta, the atypical antipsychotic has passed a phase 3 test that puts it one step closer to a broader psychiatric label.",
+    "pinned": false
+  },
+  {
+    "id": "2ce5b97a7760",
+    "title": "<a href=\"https://www.fiercepharma.com/regulatory/cms-unveils-new-model-aims-bring-most-favored-nation-pricing-medicaid\" hreflang=\"en\">All 50 states apply to participate in new Medicaid drug pricing model, White House says</a>",
+    "url": "https://www.fiercepharma.com/regulatory/cms-unveils-new-model-aims-bring-most-favored-nation-pricing-medicaid",
+    "source": "Fierce Pharma",
+    "date": "2026-09-21",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The Trump administration is rolling out a new model that aims to bring most-favored nation pricing to the Medicaid space.",
     "pinned": false
   },
   {
@@ -297,36 +330,14 @@
     "pinned": false
   },
   {
-    "id": "c5d269c735f2",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-approves-ultragenyx-gene-therapy-fayuvi-rare-neurodegenerative-disorder\" hreflang=\"en\">FDA approves Ultragenyx\u2019s gene therapy Fayuvi for rare neurodegenerative disorder</a>",
-    "url": "https://www.fiercepharma.com/pharma/fda-approves-ultragenyx-gene-therapy-fayuvi-rare-neurodegenerative-disorder",
-    "source": "Fierce Pharma",
+    "id": "91fec69fb99d",
+    "title": "Beacon eye gene therapy hits mark in late-stage study",
+    "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
+    "source": "BioPharma Dive",
     "date": "2026-09-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Ultragenyx scored a belated regulatory win with FDA approval for a first-in-disease gene therapy, giving the company a boost after a previous regulatory rejection and a recent late-stage setback.",
-    "pinned": false
-  },
-  {
-    "id": "6848fe5d7a70",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/bayers-kerendia-secures-fda-nod-3rd-indication-now-first-drug-30-years-ckd-t1d-patients\" hreflang=\"en\">Bayer\u2019s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease</a>",
-    "url": "https://www.fiercepharma.com/pharma/bayers-kerendia-secures-fda-nod-3rd-indication-now-first-drug-30-years-ckd-t1d-patients",
-    "source": "Fierce Pharma",
-    "date": "2026-09-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The heart and kidney med earned the first FDA nod in three decades for adults with chronic kidney disease associated with type 1 diabetes.",
-    "pinned": false
-  },
-  {
-    "id": "a4993293c0c9",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/roche-lunsumio-delivers-positive-confirmatory-trial-readout-follicular-lymphoma\" hreflang=\"en\">Roche\u2019s Lunsumio delivers positive confirmatory trial readout in follicular lymphoma</a>",
-    "url": "https://www.fiercepharma.com/pharma/roche-lunsumio-delivers-positive-confirmatory-trial-readout-follicular-lymphoma",
-    "source": "Fierce Pharma",
-    "date": "2026-09-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Roche\u2019s T-cell engager portfolio has notched another milestone, as a phase 3 trial of the company\u2019s Lunsumio met its primary endpoint in earlier-line follicular lymphoma.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cH10ooat6OeByYHK3VoQMmJ5NjGZwySHAZeirKIvlr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY0NjEzNjAyLmpwZw==.webp\" /></div></figure><p>Beacon claimed the findings represent the first time ",
     "pinned": false
   },
   {
@@ -382,6 +393,17 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>As oncology care grows personalized and home-based, support around treatment becomes as vital as treatment.</p>",
+    "pinned": false
+  },
+  {
+    "id": "b21cab7029dc",
+    "title": "STAT+: What a vote on Grail\u2019s cancer detection test could mean for the company, patients, and regulators",
+    "url": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-21",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.",
     "pinned": false
   },
   {
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown.",
-    "pinned": false
-  },
-  {
-    "id": "7ce4eb024190",
-    "title": "STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
-    "url": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary.",
-    "pinned": false
-  },
-  {
-    "id": "3131cb7af202",
-    "title": "Lisata deal propels Marea\u2019s drug pipeline to Wall Street",
-    "url": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1TNhYQTUI7yObB637nFZIAJqv_C_vHe6B8CqUtpkWHg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQwMTQ3MDc2LmpwZw==.webp\" /></div></figure><p>Marea&rsquo;s acquisition by Lisata, alongside a $225",
     "pinned": false
   }
 ]
