@@ -1,5 +1,16 @@
 [
   {
+    "id": "19fece488ec6",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens\" hreflang=\"en\">Novartis secures new radioligand in $900M deal as competition strengthens</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-secures-new-radioligand-900m-deal-competition-strengthens",
+    "source": "Fierce Biotech",
+    "date": "2026-09-22",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As an imposing new competitor begins to take shape, radiopharma leader Novartis has beefed up its pipeline by licensing a preclinical radioligand therapy from a specialist Chinese biotech.",
+    "pinned": false
+  },
+  {
     "id": "b1e66303f547",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition\" hreflang=\"en\">Celldex monoclonal antibody rebounds with pair of phase 3 wins for chronic skin condition</a>",
     "url": "https://www.fiercebiotech.com/biotech/celldex-redeems-monoclonal-antibody-pair-phase-3-wins-chronic-skin-condition",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "e4ff0ea98f4f",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/beyond-clinical-endpoints-rethinking-als-drug-development-through-disease-biology\" hreflang=\"en\">Beyond clinical endpoints: Rethinking ALS drug development through disease biology</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/beyond-clinical-endpoints-rethinking-als-drug-development-through-disease-biology",
-    "source": "Fierce Biotech",
+    "id": "dce99cdf3296",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters\" hreflang=\"en\">Bristol Myers cuts another 265 jobs tied to New Jersey headquarters</a>",
+    "url": "https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters",
+    "source": "Fierce Pharma",
     "date": "2026-09-22",
     "country": "Global",
     "category": "Company News",
-    "summary": "After decades of hard-won progress, ALS drug development is entering a new era, building on established efficacy measures like survival and ALSFRS-R with biology-driven science that captures the full heterogeneity of the disease.",
+    "summary": "Bristol Myers Squibb plans to lay off another 265 employees tied to its corporate headquarters in New Jersey, bringing the number of total job reductions the company has announced this year in the Garden State to more than 700.",
+    "pinned": false
+  },
+  {
+    "id": "db83c80727fb",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/par-health-recalls-iv-sedative-due-presence-cellulose-stopper-material\" hreflang=\"en\">Par Health recalls IV sedative in US, flagging presence of cellulose, stopper material</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/par-health-recalls-iv-sedative-due-presence-cellulose-stopper-material",
+    "source": "Fierce Pharma",
+    "date": "2026-09-22",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Par Health issued a voluntary recall of two lots of the IV sedative dexmedetomidine HCl in 0.9% sodium chloride injection that may be contaminated with cellulose or stopper material.<br />",
+    "pinned": false
+  },
+  {
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: FDA updates for Merck's Winrevair, Nuvation's Ibtrozi lead regulatory deluge</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
+    "date": "2026-09-22",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
     "pinned": false
   },
   {
@@ -275,17 +308,6 @@
     "pinned": false
   },
   {
-    "id": "f131b3eeeee4",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/clinical-trials-reach-new-automation-inflection-point\" hreflang=\"en\">Clinical trials reach a new automation inflection point</a>",
-    "url": "https://www.fiercepharma.com/sponsored/clinical-trials-reach-new-automation-inflection-point",
-    "source": "Fierce Pharma",
-    "date": "2026-09-22",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "As trial complexity grows, agentic AI is emerging as a new model for connecting workflows and accelerating execution.",
-    "pinned": false
-  },
-  {
     "id": "022ce7d6f275",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-learning-systems-move-pharma-marketing-beyond-box-score\" hreflang=\"en\">How Learning Systems Move Pharma Marketing Beyond the Box Score</a>",
     "url": "https://www.fiercepharma.com/sponsored/how-learning-systems-move-pharma-marketing-beyond-box-score",
@@ -297,36 +319,36 @@
     "pinned": false
   },
   {
-    "id": "1967b13eb575",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/new-mfn-deal-details-reignite-concerns-trumps-pricing-policy-favors-pharma\" hreflang=\"en\">New MFN deal details reignite concerns that Trump's pricing policy favors pharma</a>",
-    "url": "https://www.fiercepharma.com/pharma/new-mfn-deal-details-reignite-concerns-trumps-pricing-policy-favors-pharma",
-    "source": "Fierce Pharma",
-    "date": "2026-09-22",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "Amid lawmaker and advocacy group efforts to parse the White House\u2019s \u201cmost favored nation\u201d drug pricing deals with drugmakers, newly revealed\u2014yet heavily redacted\u2014information is reigniting concerns about just who exactly the Trump administration policy benefits.",
-    "pinned": false
-  },
-  {
-    "id": "532bd777224f",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/eli-lilly-escalates-oral-serd-battle-fda-approval-inluriyo-verzenio-combo\" hreflang=\"en\">Eli Lilly escalates oral SERD battle with FDA approval for Inluriyo, Verzenio combo</a>",
-    "url": "https://www.fiercepharma.com/pharma/eli-lilly-escalates-oral-serd-battle-fda-approval-inluriyo-verzenio-combo",
+    "id": "f131b3eeeee4",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/clinical-trials-reach-new-automation-inflection-point\" hreflang=\"en\">Clinical trials reach a new automation inflection point</a>",
+    "url": "https://www.fiercepharma.com/sponsored/clinical-trials-reach-new-automation-inflection-point",
     "source": "Fierce Pharma",
     "date": "2026-09-22",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "With longer progression-free survival, Jake Van Naarden, president of Lilly Oncology, told Fierce he expects most patients to choose the combination over oral SERD monotherapy.",
+    "summary": "As trial complexity grows, agentic AI is emerging as a new model for connecting workflows and accelerating execution.",
     "pinned": false
   },
   {
-    "id": "11be54e642cb",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/europes-chmp-endorses-slew-new-medicines-including-novo-and-az-new-offerings\" hreflang=\"en\">Europe's CHMP endorses slew of new medicines, including new offerings from Novo and AZ</a>",
-    "url": "https://www.fiercepharma.com/pharma/europes-chmp-endorses-slew-new-medicines-including-novo-and-az-new-offerings",
-    "source": "Fierce Pharma",
+    "id": "fac4ab118956",
+    "title": "Amgen reports a Phase 3 win with Sj\u00f6gren\u2019s drug candidate",
+    "url": "https://www.biopharmadive.com/news/amgen-dazodalibep-sjogrens-syndrome-study-results/831042/",
+    "source": "BioPharma Dive",
     "date": "2026-09-22",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZcEAEChxRzFk7KhWa0x2xrDXRugQTJ2g_oNJ9YcBksM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yQjlQQjU5LmpwZw==.webp\" /></div></figure><p>Dazodalibep, acquired in Amgen&rsquo;s big buyout of Horizon Therapeutics",
+    "pinned": false
+  },
+  {
+    "id": "ec013965cedf",
+    "title": "Viking shares surge on updated obesity drug data",
+    "url": "https://www.biopharmadive.com/news/viking-obesity-drug-maintenance-study-results/831004/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-22",
+    "country": "US",
     "category": "Company News",
-    "summary": "The CHMP recommendation for Novo's next gen hemophilia A treatment was one of several noteworthy endorsements made by the EU agency this week.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XikYMzDenGvrhhCVMlC9UdZulxFKx-4q4MHxRvO2ALE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0Njc5MzkwLmpwZw==.webp\" /></div></figure><p>Trial participants mostly kept their weight down afte",
     "pinned": false
   },
   {
@@ -360,6 +382,39 @@
     "country": "US",
     "category": "Policy",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kDXpTnjTIIrtOrIKuxWnz7a_bSO0JcUt_ybCrkKs9lU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcnVtcF9kcnVnX3ByaWNpbmdfUFZfaGVyb18zMjAweDE4MDAuanBn.webp\" /></div></figure><p>The government has announced &ldquo;m",
+    "pinned": false
+  },
+  {
+    "id": "aa7201e3ab99",
+    "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+    "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
+    "pinned": false
+  },
+  {
+    "id": "61120d009227",
+    "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+    "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-22",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
+    "pinned": false
+  },
+  {
+    "id": "6ffa205bbf6d",
+    "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
+    "url": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The White House's GENEROUS plan was designed to make drugs more affordable for Medicaid users. There's one glaring potential exception.",
     "pinned": false
   },
   {
@@ -506,17 +561,6 @@
     "pinned": false
   },
   {
-    "id": "74ecaa4d1830",
-    "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
-    "url": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-21",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<p>As oncology care grows personalized and home-based, support around treatment becomes as vital as treatment.</p>",
-    "pinned": false
-  },
-  {
     "id": "3e024435f372",
     "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
     "url": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
@@ -558,50 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines",
-    "pinned": false
-  },
-  {
-    "id": "36cd90891725",
-    "title": "President Trump\u2019s newest vaccine \u2018demands\u2019 repeat old misinformation",
-    "url": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-21",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a \u201cfriend\u201d in the White House, President Trump said he\u2019ll be \u201cdemanding\u201d that drug&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "81b9fc9c6254",
-    "title": "STAT+: Alkermes\u2019 orexin agonist shows potential to treat ADHD in early-stage trial",
-    "url": "https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The drugmaker Alkermes said a therapy called an orexin agonist for the first time showed potential to treat people with ADHD in an early-stage study.",
-    "pinned": false
-  },
-  {
-    "id": "4e17111bb261",
-    "title": "STAT+: With new strategy, Novo outlines plans for obesity, direct-to-consumer work",
-    "url": "https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-21",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Under investor pressure, Novo presented its strategy to both grow its obesity franchise and diversify its pipeline.",
-    "pinned": false
-  },
-  {
-    "id": "526c99b3c512",
-    "title": "Xenon shares fall following depression trial pause",
-    "url": "https://www.biopharmadive.com/news/xenon-azetukalner-depression-trial-halt-adverse-events/830756/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-18",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/xa_T0oT9Hj8F-wJjKfJeFkbn4Yqp_lT58dL0S4GszxY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjEzNjQ4MDJfMS5qcGc=.webp\" /></div></figure><p>The occurrence of &ldquo;neuropsychiatric&rdquo; adve",
     "pinned": false
   }
 ]
