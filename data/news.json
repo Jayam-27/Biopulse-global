@@ -1,5 +1,49 @@
 [
   {
+    "id": "454e81677c01",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name\" hreflang=\"en\">Enveda reaps $311M series E to feed ambition to become a \u2018household name\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name",
+    "source": "Fierce Biotech",
+    "date": "2026-09-23",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Enveda has raised a $311 million series E round, positioning the nature-derived drug discovery company to pursue its goal of becoming a household name over the next decade.",
+    "pinned": false
+  },
+  {
+    "id": "c49d04718770",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/department-war-bets-47m-flagship-biotechs-develop-countermeasure-technologies\" hreflang=\"en\">Trump's Department of War bets $47M on Flagship biotechs to develop countermeasures</a>",
+    "url": "https://www.fiercebiotech.com/biotech/department-war-bets-47m-flagship-biotechs-develop-countermeasure-technologies",
+    "source": "Fierce Biotech",
+    "date": "2026-09-23",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The Department of War has awarded Flagship Pioneering $47 million to develop medical countermeasure technologies against emerging threats.",
+    "pinned": false
+  },
+  {
+    "id": "bd7f69c5b4c2",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop\" hreflang=\"en\">Immunovant ends cutaneous lupus program after phase 2 flop</a>",
+    "url": "https://www.fiercebiotech.com/biotech/immunovant-ends-cutaneous-lupus-program-after-phase-2-flop",
+    "source": "Fierce Biotech",
+    "date": "2026-09-23",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Immunovant has stopped development of IMVT-1402 in cutaneous lupus erythematosus after failing a midphase test, closing off one path to market for the anti-FcRn antibody.",
+    "pinned": false
+  },
+  {
+    "id": "65f042060e3b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-adds-250m-value-variant-pact-expanding-cardio-disease\" hreflang=\"en\">Boehringer adds $250M to value of Variant pact by expanding into cardiovascular disease</a>",
+    "url": "https://www.fiercebiotech.com/biotech/boehringer-adds-250m-value-variant-pact-expanding-cardio-disease",
+    "source": "Fierce Biotech",
+    "date": "2026-09-23",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Boehringer Ingelheim has dived deeper into its collaboration with Variant Bio by expanding the collaboration to cover cardiovascular disease to the tune of $250 million.",
+    "pinned": false
+  },
+  {
     "id": "4e8187628f80",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential\" hreflang=\"en\">GSK aiming to \u2018balance West and East\u2019 after Hansoh deal success showed China\u2019s potential</a>",
     "url": "https://www.fiercebiotech.com/biotech/gsk-trying-balance-east-and-west-hansoh-deal-success-showed-chinas-potential",
@@ -121,47 +165,36 @@
     "pinned": false
   },
   {
-    "id": "117e83d44b38",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration\" hreflang=\"en\">Boehringer, Envisagenics sign $1B multi-target oncology collaboration</a>",
-    "url": "https://www.fiercebiotech.com/biotech/boehringer-envisagenics-sign-1b-multi-target-oncology-collaboration",
-    "source": "Fierce Biotech",
+    "id": "9ffc36511d6b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/doustdar-says-novo-open-upgrading-its-nyse-listing\" hreflang=\"en\">Novo CEO sees advantages in souping up NYSE listing: report</a>",
+    "url": "https://www.fiercepharma.com/pharma/doustdar-says-novo-open-upgrading-its-nyse-listing",
+    "source": "Fierce Pharma",
     "date": "2026-09-23",
     "country": "Global",
     "category": "Company News",
-    "summary": "Boehringer Ingelheim and AI drug discovery company Envisagenics have agreed to a potential $1 billion multi-year pact that will task Boehringer with validating tumor-specific targets.",
+    "summary": "The Ozempic and Wegovy maker's CEO said he's open to a direct listing of Novo's shares on the New York Stock Exchange, but no such transition is currently underway.",
     "pinned": false
   },
   {
-    "id": "6f6dfb9ae65b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-glp-1gip-drug-hits-phase-2-diabetes-trial-fueling-best-disease-prediction\" hreflang=\"en\">Roche\u2019s GLP-1/GIP drug hits in phase 2 diabetes trial, fueling best-in-disease hopes</a>",
-    "url": "https://www.fiercebiotech.com/biotech/roches-glp-1gip-drug-hits-phase-2-diabetes-trial-fueling-best-disease-prediction",
-    "source": "Fierce Biotech",
+    "id": "7101748124fa",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/eli-lilly-ceo-touts-70-share-medicare-glp-1-program-reaches-700k-seniors\" hreflang=\"en\">Eli Lilly CEO touts 70% share as Medicare GLP-1 program reaches 700K seniors</a>",
+    "url": "https://www.fiercepharma.com/pharma/eli-lilly-ceo-touts-70-share-medicare-glp-1-program-reaches-700k-seniors",
+    "source": "Fierce Pharma",
     "date": "2026-09-23",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 2 trial of Roche\u2019s dual GLP-1/GIP receptor agonist has hit its primary endpoints, painting the drug candidate as a potential treatment for people with type 2 diabetes and overweight or obesity.<br />",
+    "category": "Company News",
+    "summary": "Sign-ups for Medicare\u2019s GLP-1 coverage plan keep expanding, and Eli Lilly is dominating the market with 70% share, the company\u2019s CEO David Ricks said.",
     "pinned": false
   },
   {
-    "id": "ee4984630db2",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/iambic-maintains-momentum-big-pharma-partnerships-planning-ipo\" hreflang=\"en\">Iambic maintains momentum from string of Big Pharma partnerships by aiming for IPO</a>",
-    "url": "https://www.fiercebiotech.com/biotech/iambic-maintains-momentum-big-pharma-partnerships-planning-ipo",
-    "source": "Fierce Biotech",
+    "id": "db668995343d",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/cellares-pens-2nd-automation-test-asia-based-cell-therapy-outfit-2-weeks\" hreflang=\"en\">Cellares pens 2nd automation test with Asia-based cell therapy partner in 2 weeks</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/cellares-pens-2nd-automation-test-asia-based-cell-therapy-outfit-2-weeks",
+    "source": "Fierce Pharma",
     "date": "2026-09-23",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Iambic Therapeutics is maintaining the momentum generated by its recent mega round and Big Pharma partnerships by gearing up to go public.",
-    "pinned": false
-  },
-  {
-    "id": "d5b45a04207a",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports\" hreflang=\"en\">White House plans to put NIH grants under political control: reports</a>",
-    "url": "https://www.fiercebiotech.com/research/white-house-plans-put-nih-grants-under-political-control-reports",
-    "source": "Fierce Biotech",
-    "date": "2026-09-23",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "President Donald Trump is attempting to seize further control of funding decisions made by the National Institutes of Health. According to multiple reports, senior officials met in the Oval Office on Friday to discuss plans for an executive order that would create an external pan",
+    "category": "Company News",
+    "summary": "Despite hitting a speed bump over the summer, automated cell therapy manufacturing specialist Cellares has continued to sign new partners at a steady pace, now inking a second agreement with an Asia-based organization in just over a week.",
     "pinned": false
   },
   {
@@ -297,36 +330,58 @@
     "pinned": false
   },
   {
-    "id": "03906c74d076",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/novo-aims-appease-investors-direct-consumer-plans-blockbuster-ambitions\" hreflang=\"en\">Novo struggles to appease restive investors with consumer plans, blockbuster ambitions</a>",
-    "url": "https://www.fiercepharma.com/pharma/novo-aims-appease-investors-direct-consumer-plans-blockbuster-ambitions",
-    "source": "Fierce Pharma",
+    "id": "6da5357914d1",
+    "title": "9 pharma leaders sound \u2018alarm bells\u2019 on biotech\u2019s decline in Europe",
+    "url": "https://www.biopharmadive.com/news/europe-biotech-investment-decline-letter-pharma-chairs/831112/",
+    "source": "BioPharma Dive",
     "date": "2026-09-23",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "With reports leaking out of&nbsp;investor discontent, CEO Mike Doustdar opened Novo's Capital Markets Day by acknowledging that the company\u2019s leadership \u201chave to convince\u201d the audience that \u201cthere is a bright future for Novo.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "f8f892c3bfe3",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/bayer-offloads-cancer-drug-stivarga-grunenthal-431m-new-competition-looms\" hreflang=\"en\">Bayer offloads cancer drug Stivarga to Gr\u00fcnenthal for up to $431M as new competition looms</a>",
-    "url": "https://www.fiercepharma.com/pharma/bayer-offloads-cancer-drug-stivarga-grunenthal-431m-new-competition-looms",
-    "source": "Fierce Pharma",
-    "date": "2026-09-23",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Bayer has decided to offload its aging cancer drug Stivarga to German compatriot Gr\u00fcnenthal as a potential new competitor from Exelixis nears an FDA decision.",
-    "pinned": false
-  },
-  {
-    "id": "8dc40a4db936",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/changing-expectations-how-gram-strengthening-cdmo-partnerships\" hreflang=\"en\">Changing expectations: How GRAM is strengthening CDMO partnerships</a>",
-    "url": "https://www.fiercepharma.com/sponsored/changing-expectations-how-gram-strengthening-cdmo-partnerships",
-    "source": "Fierce Pharma",
-    "date": "2026-09-23",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "How proactive risk management, transparency and flexible communication can turn a CDMO relationship into a true strategic partnership.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/QKpRxTHLIOFtGwnpxEdgE86UVBXWvw9E_XUcDefarkA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUyNjg4NTIxLmpwZw==.webp\" /></div></figure><p>Frustrated by a slump that&rsquo;s seen Europe lose g",
+    "pinned": false
+  },
+  {
+    "id": "b291282e5072",
+    "title": "STAT+: Flagship gets a Pentagon\u00a0contract",
+    "url": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-23",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense\u00a0to advance countermeasure technologies against biological threats.",
+    "pinned": false
+  },
+  {
+    "id": "fc0077cc287e",
+    "title": "STAT+: AI doomerism: Here\u2019s how to make sense of it",
+    "url": "https://www.statnews.com/2026/09/23/how-to-make-sense-of-ai-doomerism-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "In this edition of STAT's AI Prognosis newsletter: Brittany Trang offers a few stories to make sense of the AI doom/slowdown talk, and more.",
+    "pinned": false
+  },
+  {
+    "id": "bfc80b41cccb",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a closing loophole for importing meds, European competitiveness, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/23/loophole-closing-for-importing-meds-european-competitiveness/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "As of next month, a loophole that allows Americans to personally import their medications by mail is closing",
+    "pinned": false
+  },
+  {
+    "id": "172c40b08979",
+    "title": "The latest in the legal saga for youth gender-affirming care in the U.S.",
+    "url": "https://www.statnews.com/2026/09/23/health-news-legal-saga-for-youth-gender-affirming-care-in-the-us/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The chilling effect of the Trump administration's dogged offensive against transgender health care has been swift, with dozens of hospitals across the U.S. ending care, even if they haven't been&#8230;",
     "pinned": false
   },
   {
@@ -506,50 +561,6 @@
     "pinned": false
   },
   {
-    "id": "da3c23436682",
-    "title": "STAT+: Ohio governor\u2019s race is a battle over Covid, health costs, and trust in science",
-    "url": "https://www.statnews.com/2026/09/22/ohio-governor-election-health-care-policy-acton-ramaswamy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The race between Amy Acton and Vivek Ramaswamy could be the election\u2019s most direct test of where the heartland stands on health care and the pandemic.",
-    "pinned": false
-  },
-  {
-    "id": "c7b379a6302f",
-    "title": "STAT+: Why an influential GOP health policy expert still backs the Medicaid cuts \u2014 and which policy target is next",
-    "url": "https://www.statnews.com/2026/09/22/brian-blase-paragon-health-institute-gop-aca-medicaid-reforms/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Why an influential GOP health policy expert still backs $1 trillion in Medicaid cuts \u2014 and which policy target is next.",
-    "pinned": false
-  },
-  {
-    "id": "48d3c3b121df",
-    "title": "Opinion: Social media bans are passing around the world. How will we know if they help teens?",
-    "url": "https://www.statnews.com/2026/09/22/social-media-bans-australia-uk-teen-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "\u201cResearchers must seize this opportunity to examine how social media \u2014 and its regulation \u2014 impacts teenagers,\u201d writes Wellcome\u2019s Camilla Iannone.",
-    "pinned": false
-  },
-  {
-    "id": "59c2e91b2975",
-    "title": "Opinion: The science on relieving cancer symptoms is clear. Why isn\u2019t insurance paying?",
-    "url": "https://www.statnews.com/2026/09/22/integrative-oncology-cancer-symptoms-insurance-asco-sio-pain-fatigue/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?",
-    "pinned": false
-  },
-  {
     "id": "91fec69fb99d",
     "title": "Beacon eye gene therapy hits mark in late-stage study",
     "url": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<p>In an interview with BioPharma Dive, Compass executives said that, should the FDA approve their treatment, they hope to capitalize on a strategy pioneered by J&amp;J in selling the ketamine spray Spravato.</p>",
-    "pinned": false
-  },
-  {
-    "id": "798097024efb",
-    "title": "Are healthcare systems really ready for GLP-1s?",
-    "url": "https://www.biopharmadive.com/spons/are-healthcare-systems-really-ready-for-glp-1s/829901/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>New GLP-1 therapy indications mean new challenges for pharma companies, from care to consumer trust.</p>",
     "pinned": false
   }
 ]
