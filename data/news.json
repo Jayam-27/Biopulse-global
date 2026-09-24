@@ -1,5 +1,27 @@
 [
   {
+    "id": "eb83ae8543f5",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/autoimmune-car-t-peers-hit-safety-snags-kyverna-touts-1-year-miv-cel-data\" hreflang=\"en\">Kyverna \u2018resetting conversation\u2019 with 1-year miv-cel data as autoimmune CAR-T peers hit safety snags</a>",
+    "url": "https://www.fiercebiotech.com/biotech/autoimmune-car-t-peers-hit-safety-snags-kyverna-touts-1-year-miv-cel-data",
+    "source": "Fierce Biotech",
+    "date": "2026-09-24",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As two Big Pharma players in the autoimmune CAR-T space face unexpected safety setbacks, Kyverna Therapeutics is reporting long-term clinical data that showcase sustained efficacy alongside an unblemished safety profile for its potential first-in-class candidate, miv-cel.",
+    "pinned": false
+  },
+  {
+    "id": "daa991579f3a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare\" hreflang=\"en\">Lilly puts up $100M, plus billions on the backend, to form 5-target deal with China's InnoCare</a>",
+    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-puts-100m-plus-billions-backend-form-5-target-deal-innocare",
+    "source": "Fierce Biotech",
+    "date": "2026-09-24",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Eli Lilly has committed $100 million in upfront and near-term payments to InnoCare Pharma to form a five-target drug discovery pact. The deal features up to $3.25 billion in milestones.",
+    "pinned": false
+  },
+  {
     "id": "454e81677c01",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name\" hreflang=\"en\">Enveda reaps $311M series E to feed ambition to become a \u2018household name\u2019</a>",
     "url": "https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "A phase 3 study of Otsuka and Ionis Pharmaceuticals\u2019 amyotrophic lateral sclerosis drug candidate has hit its primary endpoint, positioning the partners to talk to regulators about expedited approvals.",
-    "pinned": false
-  },
-  {
-    "id": "5be2a953f715",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/siemens-healthineers-team-novo-fatty-liver-disease-awareness-blood-testing\" hreflang=\"en\">Siemens Healthineers and Novo team up on fatty liver disease awareness, testing</a>",
-    "url": "https://www.fiercebiotech.com/medtech/siemens-healthineers-team-novo-fatty-liver-disease-awareness-blood-testing",
-    "source": "Fierce Biotech",
-    "date": "2026-09-24",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Siemens Healthineers is joining forces with Novo to help boost awareness and diagnosis of fatty liver disease.",
-    "pinned": false
-  },
-  {
-    "id": "62b57cf15b7e",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cordis-sirolimus-drug-coated-balloon-earns-fda-approval-breakthrough-device\" hreflang=\"en\">Cordis\u2019 sirolimus drug-coated balloon earns FDA approval as a breakthrough device</a>",
-    "url": "https://www.fiercebiotech.com/medtech/cordis-sirolimus-drug-coated-balloon-earns-fda-approval-breakthrough-device",
-    "source": "Fierce Biotech",
-    "date": "2026-09-24",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA gave the green light to a first and only sirolimus drug-eluting balloon designed by Cordis to treat coronary in-stent restenosis.",
     "pinned": false
   },
   {
@@ -330,6 +330,94 @@
     "pinned": false
   },
   {
+    "id": "fa7569d60063",
+    "title": "STAT+: Why Gilead can\u2019t stop talking about its ambitions in immunology",
+    "url": "https://www.statnews.com/2026/09/24/gilead-immunology-inflammation-biotech-moderna-merck/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Gilead Sciences\u2019 top executives have been emphatically bullish about the biotech\u2019s years-long push to develop drugs for inflammatory and autoimmune diseases.",
+    "pinned": false
+  },
+  {
+    "id": "75a2cd5d2398",
+    "title": "STAT+: How a young doctor rose from rural New Mexico to FDA commissioner nominee",
+    "url": "https://www.statnews.com/2026/09/24/heidi-overton-profile-fda-commissioner-nominee/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "What to know about Dr. Heidi Overton, Trump's pick to run the FDA, including her medical background and career trajectory.",
+    "pinned": false
+  },
+  {
+    "id": "f6b89ea2cc63",
+    "title": "STAT+: In radiology, AI is blurring the line between technology development and clinical practice",
+    "url": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A new wave of radiology practices are aggressively embracing AI: developing and deploying it in-house, and marketing themselves as 'AI-native.'",
+    "pinned": false
+  },
+  {
+    "id": "6f1085b8dfc7",
+    "title": "STAT+: Momentum is building for a big change to how doctors get paid",
+    "url": "https://www.statnews.com/2026/09/24/patients-first-act-congress-moves-on-doctor-pay-medicare-reform/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Congress is considering linking doctor payment rates to medical inflation under the proposed Patients First Act.",
+    "pinned": false
+  },
+  {
+    "id": "06b4d29b80be",
+    "title": "STAT+: Trump boast on drug pricing policy overstated state-level interest in federal program",
+    "url": "https://www.statnews.com/2026/09/24/trump-medicaid-generous-model-state-interest/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Policy",
+    "summary": "President Trump and his aides boasted that every U.S. state wanted to participate in a drug pricing initiative through Medicaid. Several states said they weren't sure yet.",
+    "pinned": false
+  },
+  {
+    "id": "2c0f01f55e14",
+    "title": "STAT+: Heidi Overton, Trump\u2019s pick for FDA head, to face questions at Senate hearing",
+    "url": "https://www.statnews.com/2026/09/24/heidi-overton-fda-commissioner-confirmation-hearing-2/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Heidi Overton, Trump's pick for FDA head, will face questions at a Senate hearing. Follow along with our live blog.",
+    "pinned": false
+  },
+  {
+    "id": "5afd9d1298b7",
+    "title": "Opinion: Measles almost killed me. Now I\u2019m a doctor \u2014 and I\u2019m scared of what\u2019s happening",
+    "url": "https://www.statnews.com/2026/09/24/measles-outbreak-experience-child-doctor-1961/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Jewel Mullen was in kindergarten in 1961 when she almost died from measles. Now a physician, measles\u2019 return frightens her.",
+    "pinned": false
+  },
+  {
+    "id": "3f2f4be45974",
+    "title": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
+    "url": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe epidemiology and genetics of heart attack and stroke risk, for now, seem to have outpaced what more we can actually do about it,\u201d writes cardiologist Vishal Khetpal.",
+    "pinned": false
+  },
+  {
     "id": "2272124bf614",
     "title": "Enveda, an AI drugmaker, banks $311M in venture funding",
     "url": "https://www.biopharmadive.com/news/enveda-ai-drug-discovery-series-e/831161/",
@@ -440,50 +528,6 @@
     "pinned": false
   },
   {
-    "id": "900b5e5a61e6",
-    "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
-    "url": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Some health insurers push back on a Medicare proposal that would disrupt how doctors can bill for remotely monitoring patients' health.",
-    "pinned": false
-  },
-  {
-    "id": "151bc6687d09",
-    "title": "STAT+: Drugmakers, biotech VCs show \u2018reinvigorated\u2019 interest in osteoporosis treatments",
-    "url": "https://www.statnews.com/2026/09/23/biotech-vc-investors-new-opportunity-osteoporosis-treatments/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-23",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Medicines for osteoporosis are grabbing the attention of the pharma industry, which has been incentivized by a long-awaited regulatory change.",
-    "pinned": false
-  },
-  {
-    "id": "c479b0fade91",
-    "title": "Opinion: Mentally ill women deserve more support to have children",
-    "url": "https://www.statnews.com/2026/09/23/lindsay-clancy-patrick-60-minutes-reproductive-psychiatry-mentally-ill-mothers/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThe maternal mental health needs of women like me have been badly underprioritized in American society,\u201d writes Meg LeDuc.",
-    "pinned": false
-  },
-  {
-    "id": "42b3aaeef310",
-    "title": "STAT+: A private equity-owned hospital chain is becoming a nonprofit. Is it just a bailout for investors?",
-    "url": "https://www.statnews.com/2026/09/23/quorum-hospitals-nonprofit-conversion-increases-debt-load/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-23",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Other private equity-owned hospital chains have collapsed in recent years, so the stakes are high for Quorum.",
-    "pinned": false
-  },
-  {
     "id": "fac4ab118956",
     "title": "Amgen reports a Phase 3 win with Sj\u00f6gren\u2019s drug candidate",
     "url": "https://www.biopharmadive.com/news/amgen-dazodalibep-sjogrens-syndrome-study-results/831042/",
@@ -536,50 +580,6 @@
     "country": "US",
     "category": "Policy",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kDXpTnjTIIrtOrIKuxWnz7a_bSO0JcUt_ybCrkKs9lU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcnVtcF9kcnVnX3ByaWNpbmdfUFZfaGVyb18zMjAweDE4MDAuanBn.webp\" /></div></figure><p>The government has announced &ldquo;m",
-    "pinned": false
-  },
-  {
-    "id": "aa7201e3ab99",
-    "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
-    "url": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing.",
-    "pinned": false
-  },
-  {
-    "id": "61120d009227",
-    "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
-    "url": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment.",
-    "pinned": false
-  },
-  {
-    "id": "6ffa205bbf6d",
-    "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
-    "url": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The White House's GENEROUS plan was designed to make drugs more affordable for Medicaid users. There's one glaring potential exception.",
-    "pinned": false
-  },
-  {
-    "id": "4712050e9aae",
-    "title": "STAT+: Novo may be getting a better deal than expected with Medicare\u2019s Bridge program",
-    "url": "https://www.statnews.com/2026/09/22/biotech-news-novo-may-be-getting-a-better-deal-than-expected-with-medicare-bridge/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Eli Lilly and Novo Nordisk were already benefitting a great deal from the Trump administration's pilot program covering obesity drugs for seniors at a price of $245 a month. It&#8230;",
     "pinned": false
   },
   {
