@@ -1,5 +1,38 @@
 [
   {
+    "id": "318753a42381",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days\" hreflang=\"en\">Canadian $5M accelerated clinical trial program cuts start-up to 45 days</a>",
+    "url": "https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days",
+    "source": "Fierce Biotech",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A newly launched $5 million clinical trial program allows clinical trial sponsors to start trials in as little as 45 days in Ontario.",
+    "pinned": false
+  },
+  {
+    "id": "62bf7765f868",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/enanta-sheds-staffers-key-antiviral-and-immunology-readouts-loom\" hreflang=\"en\">Enanta sheds staffers as key antiviral, immunology readouts loom</a>",
+    "url": "https://www.fiercebiotech.com/biotech/enanta-sheds-staffers-key-antiviral-and-immunology-readouts-loom",
+    "source": "Fierce Biotech",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As antiviral specialist Enanta Pharmaceuticals endeavors to expand into immunology, the company has decided to lay off 37 employees, Fierce has learned.",
+    "pinned": false
+  },
+  {
+    "id": "5acc421dca2c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Enanta sheds staffers; BMS slashes 265 HQ roles</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+    "source": "Fierce Biotech",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "pinned": false
+  },
+  {
     "id": "b854b4032575",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken\" hreflang=\"en\">uniQure stock crashes as Huntington\u2019s gene therapy data weaken</a>",
     "url": "https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken",
@@ -132,36 +165,25 @@
     "pinned": false
   },
   {
-    "id": "682bbbf8f74a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d\" hreflang=\"en\">Merck pens $2.1B deal with China\u2019s SciBrunch to chase KRAS G12D</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-pens-21b-deal-chinas-scibrunch-chase-kras-g12d",
-    "source": "Fierce Biotech",
+    "id": "102ec201927c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/white-house-inventories-us-capacity-ahead-plans-reshore-production-86-essential-medicines\" hreflang=\"en\">White House lays groundwork to reshore production of 86 essential medicines</a>",
+    "url": "https://www.fiercepharma.com/pharma/white-house-inventories-us-capacity-ahead-plans-reshore-production-86-essential-medicines",
+    "source": "Fierce Pharma",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The White House is asking pharma manufacturers to provide details on their domestic capacity as it moves forward with an initiative that will increase stateside production of 86 key medicines over the next 18 months.",
+    "pinned": false
+  },
+  {
+    "id": "feaee14287c6",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/phrma-locks-former-house-majority-leader-cantor-fill-trade-groups-ceo-shoes\" hreflang=\"en\">PhRMA locks in former House majority leader Cantor as next CEO</a>",
+    "url": "https://www.fiercepharma.com/pharma/phrma-locks-former-house-majority-leader-cantor-fill-trade-groups-ceo-shoes",
+    "source": "Fierce Pharma",
     "date": "2026-09-29",
     "country": "Global",
     "category": "Company News",
-    "summary": "Merck &amp; Co. has become the latest pharma to jump on the KRAS G12D bandwagon, paying $400 million to China\u2019s SciBrunch for a preclinical candidate.",
-    "pinned": false
-  },
-  {
-    "id": "d49b05f4a1c3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/adicet-bio-car-t-sparks-lupus-remissions-early-trial-new-era-autoimmune-treatment\" hreflang=\"en\">Adicet Bio CAR-T sparks lupus remissions in early trial as \u2018new era\u2019 of autoimmune treatment approaches</a>",
-    "url": "https://www.fiercebiotech.com/biotech/adicet-bio-car-t-sparks-lupus-remissions-early-trial-new-era-autoimmune-treatment",
-    "source": "Fierce Biotech",
-    "date": "2026-09-29",
-    "country": "Global",
-    "category": "Policy",
-    "summary": "As the race to harness CAR-T cells for autoimmune diseases hits a rough patch, a Bay Area biotech is gliding over the potholes with an early sign of efficacy in lupus.",
-    "pinned": false
-  },
-  {
-    "id": "45f771a63cb9",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal\" hreflang=\"en\">Merck, Daiichi pull lung cancer filing after FDA pushback deals another blow to $4B deal</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-co-and-daiichi-pull-lung-cancer-filing-after-fda-pushback-deals-another-blow-4b-deal",
-    "source": "Fierce Biotech",
-    "date": "2026-09-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Daiichi Sankyo and Merck &amp; Co. have withdrawn an antibody-drug conjugate (ADC) filing after the FDA said they lacked the data for accelerated approval in a lung cancer population.",
+    "summary": "Following news of a planned CEO departure for the United States\u2019 top drug industry lobbying group, PhRMA has tapped a new leader well versed in navigating disagreements and reaching consensus with those in the U.S. halls of power.",
     "pinned": false
   },
   {
@@ -184,6 +206,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "In Milan this week, Novo and Eli Lilly took the stage at the European Association for the Study of Diabetes 2026 meeting with dueling datasets on oral and injectable GLP-1s.",
+    "pinned": false
+  },
+  {
+    "id": "ffdbc7238d72",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/big-pharmas-big-brand-regenerons-science-driven-communications-approach\" hreflang=\"en\">Big Pharma's Big Brand: Regeneron's science-driven communications approach</a>",
+    "url": "https://www.fiercepharma.com/marketing/big-pharmas-big-brand-regenerons-science-driven-communications-approach",
+    "source": "Fierce Pharma",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Regeneron looks for \"different entry points\" to introduce audiences to its science, SVP of corporate affairs Christina Chan explained in an interview.",
     "pinned": false
   },
   {
@@ -264,17 +297,6 @@
     "pinned": false
   },
   {
-    "id": "ce3aef33ed28",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway\" hreflang=\"en\">For Rare Disease Marketing, Precision Starts with the Care Pathway</a>",
-    "url": "https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway",
-    "source": "Fierce Pharma",
-    "date": "2026-09-29",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "CMI Media Group\u2019s Rare Disease Center of Excellence combines boutique-level expertise with the data infrastructure, buying power, and scale needed to activate specialized audiences.",
-    "pinned": false
-  },
-  {
     "id": "f6e7981e06d2",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales\" hreflang=\"en\">It's a Jungle Out There: Hiring for Resilience in Life Sciences Sales</a>",
     "url": "https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales",
@@ -283,6 +305,17 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Resilience is declining just as launches demand more of it. See how behavioral science helps commercial leaders hire for grit.",
+    "pinned": false
+  },
+  {
+    "id": "ce3aef33ed28",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway\" hreflang=\"en\">For Rare Disease Marketing, Precision Starts with the Care Pathway</a>",
+    "url": "https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway",
+    "source": "Fierce Pharma",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "CMI Media Group\u2019s Rare Disease Center of Excellence combines boutique-level expertise with the data infrastructure, buying power, and scale needed to activate specialized audiences.",
     "pinned": false
   },
   {
@@ -297,36 +330,14 @@
     "pinned": false
   },
   {
-    "id": "593f73e0a8a1",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/mirum-bags-fda-approval-ultra-rare-bone-lesion-disorder-heating-rivalry-regeneronns-pasatru\" hreflang=\"en\">Mirum bags FDA approval for ultra-rare bone lesion disorder, heating up rivalry with Regeneron</a>",
-    "url": "https://www.fiercepharma.com/pharma/mirum-bags-fda-approval-ultra-rare-bone-lesion-disorder-heating-rivalry-regeneronns-pasatru",
-    "source": "Fierce Pharma",
+    "id": "6cf6371afb99",
+    "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
+    "url": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
+    "source": "BioPharma Dive",
     "date": "2026-09-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Mirum's Atebrioz gained FDA approval for FOP on the heels of Regeneron's green light in the same indication last month.",
-    "pinned": false
-  },
-  {
-    "id": "12f3086c234c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Prescriptions bounce back from holiday lull</a>",
-    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-    "source": "Fierce Pharma",
-    "date": "2026-09-29",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
-    "pinned": false
-  },
-  {
-    "id": "b4cbff7a938f",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/merck-eisai-welireg-lenvima-combo-lands-fda-nod-jump-kidney-cancer-queue\" hreflang=\"en\">Merck, Eisai\u2019s Welireg-Lenvima combo lands FDA nod to jump the kidney cancer queue</a>",
-    "url": "https://www.fiercepharma.com/pharma/merck-eisai-welireg-lenvima-combo-lands-fda-nod-jump-kidney-cancer-queue",
-    "source": "Fierce Pharma",
-    "date": "2026-09-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Merck &amp; Co. has scored an FDA approval for its blockbuster-to-be Welireg to move into second-line treatment of kidney cancer, where analysts have projected a rapid uptake.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/uaPgyyyIEYMOQwzwzi4jZopcRul86kRWfC9HvdzV1OE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MDI1NTg0OTIuanBn.webp\" /></div></figure><p>Beam claimed a former scientist stole confidential inform",
     "pinned": false
   },
   {
@@ -371,6 +382,39 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/U1p_j9BDqJ48JLk77g8bxOnzXIh5YVNKqCXZdq4xNwI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcxMDQzNjg0LmpwZw==.webp\" /></div></figure><p>The equity investment comes alongside a deal to test ",
+    "pinned": false
+  },
+  {
+    "id": "73a355936760",
+    "title": "STAT+: Lawmakers urge Trump to rethink new rule that could restrict imported meds from Canada and overseas",
+    "url": "https://www.statnews.com/pharmalot/2026/09/29/lawmakers-urge-trump-rethink-new-rule-that-could-restrict-imported-medicines/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Some lawmakers are urging the Trump administration to rethink a pending rule that may prevent Americans from obtaining medicines from licensed international pharmacies.",
+    "pinned": false
+  },
+  {
+    "id": "651e35b79692",
+    "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
+    "url": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Eric Cantor, a former GOP House majority leader, is taking the helm of PhRMA at a challenging time for the industry.",
+    "pinned": false
+  },
+  {
+    "id": "6738d36e3512",
+    "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
+    "url": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company that made a deal with VC firms.",
     "pinned": false
   },
   {
@@ -558,50 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Fewer shots, no hour-long pharmacy runs: two families show what medicine built for real life means.</p>",
-    "pinned": false
-  },
-  {
-    "id": "d3b80456450a",
-    "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
-    "url": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later.",
-    "pinned": false
-  },
-  {
-    "id": "602dc13b4534",
-    "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
-    "url": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Merck discontinued Recarbio, an important antibiotic in the U.S., despite concerns over resistance to superbugs.",
-    "pinned": false
-  },
-  {
-    "id": "31518560fd6b",
-    "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
-    "url": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison.",
-    "pinned": false
-  },
-  {
-    "id": "cc6a33bf242d",
-    "title": "This week in charts: Novo\u2019s rise and fall and AI biotechs\u2019 big haul",
-    "url": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-25",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>The latest installment in BioPhar",
     "pinned": false
   }
 ]
