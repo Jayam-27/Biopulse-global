@@ -1,5 +1,27 @@
 [
   {
+    "id": "b854b4032575",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken\" hreflang=\"en\">uniQure stock crashes as Huntington\u2019s gene therapy data weaken</a>",
+    "url": "https://www.fiercebiotech.com/biotech/uniqure-stock-crashes-huntingtons-gene-therapy-data-weaken",
+    "source": "Fierce Biotech",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "uniQure\u2019s Huntington\u2019s disease gene therapy has failed to significantly slow disease progression after 48 months, sending the biotech\u2019s stock down 41% when trading began. But mitigating circumstances and the ongoing strength of a secondary endpoint kept analysts optimistic about ",
+    "pinned": false
+  },
+  {
+    "id": "edb9fc18e483",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system\" hreflang=\"en\">ai3Bio emerging from stealth to \u2018take the gun out of the hands of the immune system\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system",
+    "source": "Fierce Biotech",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "ai3Bio has emerged from stealth with $48 million in funding and a buzzing platform for targeting T cells in autoimmune disease.",
+    "pinned": false
+  },
+  {
     "id": "cc85e0cfa681",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui\" hreflang=\"en\">Novo agrees $2.6B deal for preclinical GLP-1/GIP drug from in-demand Hengrui</a>",
     "url": "https://www.fiercebiotech.com/biotech/novo-agrees-26b-deal-preclinical-glp-1gip-drug-demand-hengrui",
@@ -143,25 +165,36 @@
     "pinned": false
   },
   {
-    "id": "07a17661af33",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers\" hreflang=\"en\">Lundbeck to move US digs to Boston as it eyes bigger innovation frontiers</a>",
-    "url": "https://www.fiercebiotech.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers",
-    "source": "Fierce Biotech",
+    "id": "e54755779d1b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/us-details-rules-0-specialty-pharmaceutical-tariff-exemptions\" hreflang=\"en\">US details rules for 0% specialty pharmaceutical tariff exemptions</a>",
+    "url": "https://www.fiercepharma.com/pharma/us-details-rules-0-specialty-pharmaceutical-tariff-exemptions",
+    "source": "Fierce Pharma",
     "date": "2026-09-29",
     "country": "Global",
-    "category": "Company News",
-    "summary": "With Lundbeck steering its R&amp;D engine toward increasingly specialized neuroscience targets, the Danish drugmaker is plotting a U.S. HQ move to one of the country\u2019s preeminent biopharma hotspots.",
+    "category": "Policy",
+    "summary": "Before broad 100% tariffs on imported pharmaceuticals take full effect today, the Trump administration has detailed rules that allow certain specialty drugs, including orphan treatments, nuclear medicines, cell and gene therapies, and ADCs, to enter the U.S. duty-free.",
     "pinned": false
   },
   {
-    "id": "2676ed50b8b3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pioneer-china-newco-model-sued-over-trade-secret-misuse-double-dealing\" hreflang=\"en\">Pioneer of China NewCo model sued in US over trade secret misuse, double-dealing</a>",
-    "url": "https://www.fiercebiotech.com/biotech/pioneer-china-newco-model-sued-over-trade-secret-misuse-double-dealing",
-    "source": "Fierce Biotech",
+    "id": "c0df6da6a7bf",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/novo-lilly-pit-their-glp-1s-against-one-another-diabetes-and-obesity-easd-kicks-milan\" hreflang=\"en\">Novo, Lilly pit their GLP-1s against one another in diabetes and obesity as EASD kicks off in Milan</a>",
+    "url": "https://www.fiercepharma.com/pharma/novo-lilly-pit-their-glp-1s-against-one-another-diabetes-and-obesity-easd-kicks-milan",
+    "source": "Fierce Pharma",
     "date": "2026-09-29",
     "country": "Global",
     "category": "Company News",
-    "summary": "A legal feud unfolding in New York is putting a spotlight on the work of a business development veteran who is credited for pioneering one of biopharma\u2019s hottest dealmaking mechanism: the China \u201cNewCo\u201d model.",
+    "summary": "In Milan this week, Novo and Eli Lilly took the stage at the European Association for the Study of Diabetes 2026 meeting with dueling datasets on oral and injectable GLP-1s.",
+    "pinned": false
+  },
+  {
+    "id": "5595f650a6ab",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/audien-beams-william-shatner-boldly-boost-otc-hearing-aid-awareness\" hreflang=\"en\">Audien beams up William Shatner to boldly boost OTC hearing aid awareness</a>",
+    "url": "https://www.fiercepharma.com/marketing/audien-beams-william-shatner-boldly-boost-otc-hearing-aid-awareness",
+    "source": "Fierce Pharma",
+    "date": "2026-09-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "William Shatner has partnered with Audien Hearing to \u201cBoldly Hear What\u2019s Next.\u201d The alliance makes the \u201cStar Trek\u201d actor the face of a campaign for Audien\u2019s over-the-counter hearing aids.",
     "pinned": false
   },
   {
@@ -297,36 +330,102 @@
     "pinned": false
   },
   {
-    "id": "bda20d5ae9a8",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers\" hreflang=\"en\">Lundbeck to move US digs to Boston as it eyes bigger innovation frontiers</a>",
-    "url": "https://www.fiercepharma.com/pharma/lundbeck-move-us-digs-boston-it-eyes-bigger-innovation-frontiers",
-    "source": "Fierce Pharma",
+    "id": "3988a6e00400",
+    "title": "Novo to pay Hengrui up to $2.6B for a once-weekly obesity pill",
+    "url": "https://www.biopharmadive.com/news/novo-hengrui-oral-obesity-drug-deal/831607/",
+    "source": "BioPharma Dive",
     "date": "2026-09-29",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "With Lundbeck steering its R&amp;D engine toward increasingly specialized neuroscience targets, the Danish drugmaker is plotting a U.S. HQ move to one of the country\u2019s preeminent biopharma hotspots.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aI2iJ0KsLoetrenkjn92gzc1Vz0ZFLzbtdVrUaAPy3I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUEY1SFBKLmpwZw==.webp\" /></div></figure><p>The deal, which hands Novo a challenger to Lilly&rsquo;s market-leading Z",
     "pinned": false
   },
   {
-    "id": "de1949c26e97",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-week-look-biggest-trends-campaigns-and-conversations\" hreflang=\"en\">Fierce Pharma Week: A look at the biggest trends, campaigns and conversations</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-week-look-biggest-trends-campaigns-and-conversations",
-    "source": "Fierce Pharma",
+    "id": "1da331a18c70",
+    "title": "UniQure tumbles with latest data for Huntington\u2019s gene therapy",
+    "url": "https://www.biopharmadive.com/news/uniqure-huntingtons-four-year-data-gene-therapy-results/831611/",
+    "source": "BioPharma Dive",
     "date": "2026-09-29",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Fierce editors recap the biggest trends, campaigns and conversations from Fierce Pharma Week, from GLP-1 marketing and AI to celebrity campaigns and what stood out on the show floor.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qlgLLw2c2yrKjI5ZO2FmrXiVDHfHmthnvdlzYzLFeBE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTQ5NDY1MDlfWUlJNG03bC5qcGc=.webp\" /></div></figure><p>Analysts guessed that investors wanted to see",
     "pinned": false
   },
   {
-    "id": "cf642c538430",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-335b-innocare-deal-korea-breakthrough-china-5-year-biotech-plan\" hreflang=\"en\">Fierce Pharma Asia\u2014Lilly\u2019s $3.35B InnoCare deal; Korea\u2019s breakthrough; China\u2019s 5-year biotech plan</a>",
-    "url": "https://www.fiercepharma.com/pharma/lilly-335b-innocare-deal-korea-breakthrough-china-5-year-biotech-plan",
-    "source": "Fierce Pharma",
+    "id": "b0d6c56c9692",
+    "title": "ai3Bio, built from two biotechs, pursues a different path to an \u2018immune reset\u2019",
+    "url": "https://www.biopharmadive.com/news/ai3bio-th17-drugs-immune-reset-launch-series-a/831521/",
+    "source": "BioPharma Dive",
     "date": "2026-09-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Eli Lilly and InnoCare Pharma inked a multi-target deal potentially worth $3.35 billion. The FDA has doled out the first approval for a novel cancer drug from a Korean company. China's new pharmaceuticals five-year plan includes some ambitious goals. And more.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/aNTzdMHK4RRawV8CktDQdeZ_hIxyaN3mcNLUBbQ6ASQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk4MzgwNDA3LmpwZw==.webp\" /></div></figure><p>Rather than deplete malfunctioning B cells as many ot",
+    "pinned": false
+  },
+  {
+    "id": "bb8a4906c88d",
+    "title": "AstraZeneca invests $2B in Summit, gaining \u2018seat at the table\u2019 for PD-1/VEGF drug push",
+    "url": "https://www.biopharmadive.com/news/summit-astrazeneca-ivonescimab-deal-pd1-vegf/752865/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/U1p_j9BDqJ48JLk77g8bxOnzXIh5YVNKqCXZdq4xNwI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcxMDQzNjg0LmpwZw==.webp\" /></div></figure><p>The equity investment comes alongside a deal to test ",
+    "pinned": false
+  },
+  {
+    "id": "c3043a312805",
+    "title": "STAT+: Overton won\u2019t get a vote before midterms",
+    "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy.",
+    "pinned": false
+  },
+  {
+    "id": "23230d3afa55",
+    "title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
+    "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "In this edition of STAT Health Tech: Oura delays IPO plans, Anthropic joins an clinical AI effort by ARPA-H, and MAHA's health data goals.",
+    "pinned": false
+  },
+  {
+    "id": "8131fed9eff7",
+    "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
+    "url": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca\u2019s antibody-drug conjugates.",
+    "pinned": false
+  },
+  {
+    "id": "6360cb34f734",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Novo has agreed to pay up to $2.6 billion to license an experimental, weekly weight loss pill from China\u2019s Hengrui Pharma",
+    "pinned": false
+  },
+  {
+    "id": "f99647f69630",
+    "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+    "url": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration.",
     "pinned": false
   },
   {
@@ -495,61 +594,6 @@
     "pinned": false
   },
   {
-    "id": "3784f0480bf5",
-    "title": "STAT+: It really is bleak out there, and list prices matter",
-    "url": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc.",
-    "pinned": false
-  },
-  {
-    "id": "aaa407103616",
-    "title": "STAT+: AbbVie wins FDA nod for Parkinson\u2019s pill",
-    "url": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has approved AbbVie\u2019s once-daily Parkinson\u2019s pill for sales, based on a late-stage study that showed the drug helped improve symptoms.",
-    "pinned": false
-  },
-  {
-    "id": "8b22810ec74d",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about GLP-1s becoming lifestyle drugs, a setback for Merck and Daiichi, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/09/28/glp1-lifestyle-drug-marketing-merck-daiichi-lung-cancer-setback/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Once promoted as tools to address obesity as a medical issue, GLP-1 drugs are increasingly being marketed as a way to look and feel better",
-    "pinned": false
-  },
-  {
-    "id": "dc4363f5fc08",
-    "title": "Trump uses \u2018contested\u2019 power to cut more funding to HHS",
-    "url": "https://www.statnews.com/2026/09/28/health-news-trump-uses-contested-power-to-cut-more-funding-to-hhs/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Late Friday night, the Trump administration clawed back nearly $1 billion in spending approved by Congress, targeting several HHS programs focused on immigrants and diversity",
-    "pinned": false
-  },
-  {
-    "id": "fbfa6363a5fe",
-    "title": "STAT+: Once described as obesity medicines for \u2018patients,\u2019 GLP-1s are increasingly lifestyle drugs for \u2018customers\u2019",
-    "url": "https://www.statnews.com/2026/09/28/glp1-marketing-shift-obesity-medicine-weight-loss-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Blockbuster GLP-1 drugs have transformed the lives of millions of people. Lately, they\u2019re undergoing a makeover of their own.",
-    "pinned": false
-  },
-  {
     "id": "cc6a33bf242d",
     "title": "This week in charts: Novo\u2019s rise and fall and AI biotechs\u2019 big haul",
     "url": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
@@ -558,50 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>The latest installment in BioPhar",
-    "pinned": false
-  },
-  {
-    "id": "828bd391f278",
-    "title": "Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer\u2019s data",
-    "url": "https://www.biopharmadive.com/news/novo-nanexa-acadia-remlifanserin-nektar-lilly-onswik-welireg/831346/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-25",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Novo&rsquo;s latest alliance involve",
-    "pinned": false
-  },
-  {
-    "id": "6ffe2ea920d6",
-    "title": "RNAi drug specialist ADARx raises $446M IPO",
-    "url": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-25",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>ADARx is the only maker of RNA-based drugs to go publ",
-    "pinned": false
-  },
-  {
-    "id": "24289b332435",
-    "title": "Grail multicancer detection test wins FDA advisers\u2019 backing",
-    "url": "https://www.biopharmadive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831286/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-24",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bvrkQAm61CxewXoEVu6N0Aptu7l4Qj285gBvauUCnWs/g:nowe:0:52/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HUkFJTC1TVE9DS19BdWcyMDI1LTQwLTEtMTAyNHg2ODMuanBn.webp\" /></div></figure><p>Panel members said the ",
-    "pinned": false
-  },
-  {
-    "id": "09040431829e",
-    "title": "FDA nominee Overton parries vaccine questions at Senate hearing",
-    "url": "https://www.biopharmadive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831285/",
-    "source": "BioPharma Dive",
-    "date": "2026-09-24",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I4OD5X6p--2ITpT-w51kC3Y_ZcoTL-ZImAJ0d0zLv9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2OTM3MzQ1LmpwZw==.webp\" /></div></figure><p>Pressed by lawmakers on Thursday, Trump&rsquo;s pick ",
     "pinned": false
   }
 ]
