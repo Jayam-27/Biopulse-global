@@ -1,5 +1,16 @@
 [
   {
+    "id": "824dd306a9e5",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo\" hreflang=\"en\">Lilly raises diabetes weight-loss bar with amylin-Zepbound combo</a>",
+    "url": "https://www.fiercebiotech.com/biotech/lilly-raises-weight-loss-bar-its-amylin-zepbound-combo",
+    "source": "Fierce Biotech",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Eli Lilly announced its amylin-Zepbound combination eloraTZP resulted in 23.3% weight loss in adults with type 2 diabetes and obesity or overweight, topping its own triple-G drug candidate retatrutide in that population.",
+    "pinned": false
+  },
+  {
     "id": "61882beda0fc",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets\" hreflang=\"en\">Beam Therapeutics sues base editing rival, claims former scientist stole secrets</a>",
     "url": "https://www.fiercebiotech.com/biotech/beam-therapeutics-sues-base-editing-rival-claims-former-scientist-stole-secrets",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "edb9fc18e483",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system\" hreflang=\"en\">ai3Bio emerging from stealth to \u2018take the gun out of the hands of the immune system\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/ai3bio-emerging-stealth-take-gun-out-hands-immune-system",
-    "source": "Fierce Biotech",
+    "id": "1a13c9674eab",
+    "title": "<a href=\"https://www.fiercepharma.com/ai-and-machine-learning/second-fresenius-site-hit-fda-warning-letter-citing-contamination-concerns\" hreflang=\"en\">FDA hits 2nd Fresenius site with contamination-related warning letter in less than a month</a>",
+    "url": "https://www.fiercepharma.com/ai-and-machine-learning/second-fresenius-site-hit-fda-warning-letter-citing-contamination-concerns",
+    "source": "Fierce Pharma",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The agency raised concerns about contamination and quality control at Fresenius Kabi's Melrose Park facility in Illinois.",
+    "pinned": false
+  },
+  {
+    "id": "5ec5a37ea705",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/biomarin-lays-117-california-workers-consolidate-footprint\" hreflang=\"en\">BioMarin lays off 117 California workers to consolidate footprint</a>",
+    "url": "https://www.fiercepharma.com/pharma/biomarin-lays-117-california-workers-consolidate-footprint",
+    "source": "Fierce Pharma",
     "date": "2026-09-30",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "ai3Bio has emerged from stealth with $48 million in funding and a buzzing platform for targeting T cells in autoimmune disease.",
+    "summary": "Just months after trimming jobs in New Jersey following an acquisition, BioMarin is laying off 117 employees in California as part of a consolidation of its footprint.",
+    "pinned": false
+  },
+  {
+    "id": "2ed2b18b2ae8",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/novo-trims-108-jobs-us-headquarters-new-jersey\" hreflang=\"en\">Novo trims 108 jobs at US headquarters in New Jersey</a>",
+    "url": "https://www.fiercepharma.com/pharma/novo-trims-108-jobs-us-headquarters-new-jersey",
+    "source": "Fierce Pharma",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Come year\u2019s end, more than 100 Novo employees reporting to the Danish drugmaker\u2019s outpost in Plainsboro, New Jersey, will be headed for the exit.",
     "pinned": false
   },
   {
@@ -227,7 +260,7 @@
     "date": "2026-09-30",
     "country": "Global",
     "category": "Company News",
-    "summary": "Bookended by its first commercial-scale manufacturing of the radioisotope actinium-225 in January and an expected high-capacity production line launch by the end of the year, radiopharmaceutical supplier and CDMO NorthStar Medical Technologies has secured a hefty chunk of change ",
+    "summary": "Book ended by its first commercial-scale manufacturing of the radioisotope actinium-225 in January and an expected high-capacity production line launch by the end of the year, radiopharmaceutical supplier and CDMO NorthStar Medical Technologies has secured a hefty chunk of change",
     "pinned": false
   },
   {
@@ -297,39 +330,6 @@
     "pinned": false
   },
   {
-    "id": "5595f650a6ab",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/audien-beams-william-shatner-boldly-boost-otc-hearing-aid-awareness\" hreflang=\"en\">Audien beams up William Shatner to boldly boost OTC hearing aid awareness</a>",
-    "url": "https://www.fiercepharma.com/marketing/audien-beams-william-shatner-boldly-boost-otc-hearing-aid-awareness",
-    "source": "Fierce Pharma",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "William Shatner has partnered with Audien Hearing to \u201cBoldly Hear What\u2019s Next.\u201d The alliance makes the \u201cStar Trek\u201d actor the face of a campaign for Audien\u2019s over-the-counter hearing aids.",
-    "pinned": false
-  },
-  {
-    "id": "18540008ab90",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/inizio-evoke-names-new-leaders-media-ai-and-client-accounts\" hreflang=\"en\">Inizio Evoke names new leaders in media, AI and client accounts</a>",
-    "url": "https://www.fiercepharma.com/marketing/inizio-evoke-names-new-leaders-media-ai-and-client-accounts",
-    "source": "Fierce Pharma",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Inizio Evoke has unveiled a trio of appointments, installing leaders across its media, artificial intelligence and client relationship teams.<br />",
-    "pinned": false
-  },
-  {
-    "id": "fa026097d48f",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations\" hreflang=\"en\">AstraZeneca scales Summit\u2019s PD-1xVEGF strategy with $2B investment to fuel ADC combos</a>",
-    "url": "https://www.fiercepharma.com/biotech/astrazeneca-scales-summits-pd-1xvegf-strategy-2b-investment-fuel-adc-combinations",
-    "source": "Fierce Pharma",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "AstraZeneca is investing $2 billion in Summit Therapeutics to accelerate the development of PD-1xVEGF bispecific ivonescimab in combination with antibody-drug conjugates (ADCs). The newly minted partners will start by testing ivonescimab with AstraZeneca\u2019s CLDN18.2-directed ADC i",
-    "pinned": false
-  },
-  {
     "id": "5760dfdbd335",
     "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
     "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
@@ -360,6 +360,17 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A former congressman will take over ",
+    "pinned": false
+  },
+  {
+    "id": "e161268bb5dc",
+    "title": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
+    "url": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-30",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Federal health officials want to speed up clinical research to compete with countries like China.",
     "pinned": false
   },
   {
@@ -569,17 +580,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "The gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company that made a deal with VC firms.",
-    "pinned": false
-  },
-  {
-    "id": "c3043a312805",
-    "title": "STAT+: Overton won\u2019t get a vote before midterms",
-    "url": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-29",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy.",
     "pinned": false
   },
   {
