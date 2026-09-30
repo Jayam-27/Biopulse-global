@@ -1,5 +1,38 @@
 [
   {
+    "id": "c16e9ff783c8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-zealand-see-phase-2-amylin-weight-loss-peak-mid-dose-start-pivotal-program\" hreflang=\"en\">Roche, Zealand see phase 2 amylin weight loss peak at mid-dose, start pivotal program</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roche-zealand-see-phase-2-amylin-weight-loss-peak-mid-dose-start-pivotal-program",
+    "source": "Fierce Biotech",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Zealand Pharma has shared primary endpoint data on Roche-partnered petrelintide, revealing that the middle dose of the amylin analog delivered the highest weight loss\u20149.8%\u2014at Week 28.",
+    "pinned": false
+  },
+  {
+    "id": "1a5ef9423a65",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody\" hreflang=\"en\">Amgen reveals 6-point drop in lupus severity behind phase 2 win for Horizon antibody</a>",
+    "url": "https://www.fiercebiotech.com/biotech/amgen-reveals-6-point-drop-lupus-severity-behind-phase-2-win-horizon-antibody",
+    "source": "Fierce Biotech",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Amgen has shed light on its phase 2 lupus win, revealing that its monoclonal antibody daxdilimab was tied to a 6-point reduction in disease severity at the lower dose.",
+    "pinned": false
+  },
+  {
+    "id": "9d3fea5c860e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data\" hreflang=\"en\">Lilly sets up next-gen obesity battle with full phase 3 retatrutide data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-sets-next-gen-obesity-battle-full-phase-3-retatrutide-data",
+    "source": "Fierce Biotech",
+    "date": "2026-09-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Eli Lilly has shared detailed data from a phase 3 retatrutide trial, revealing that more than one-third of patients on the top dose of the triple-G drug candidate lost at least 25% of their body weight.",
+    "pinned": false
+  },
+  {
     "id": "318753a42381",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days\" hreflang=\"en\">Canadian $5M accelerated clinical trial program cuts start-up to 45 days</a>",
     "url": "https://www.fiercebiotech.com/cro/canadian-5m-accelerated-clinical-trial-program-cuts-start-45-days",
@@ -132,36 +165,14 @@
     "pinned": false
   },
   {
-    "id": "a3c09da5391b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug\" hreflang=\"en\">Kodiak's stock doubles as resurrected eye disease drug matches Eylea in phase 3</a>",
-    "url": "https://www.fiercebiotech.com/biotech/kodiak-roars-back-pivotal-victory-resurrected-eye-disease-drug",
-    "source": "Fierce Biotech",
+    "id": "bbbe5ec7d9b4",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/alnylam-drafts-football-veteran-pete-shaw-heart-disease-education-push\" hreflang=\"en\">Alnylam drafts football veteran Pete Shaw for heart disease education push</a>",
+    "url": "https://www.fiercepharma.com/marketing/alnylam-drafts-football-veteran-pete-shaw-heart-disease-education-push",
+    "source": "Fierce Pharma",
     "date": "2026-09-30",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Two of Kodiak Sciences\u2019 drug candidates have matched aflibercept in a phase 3 clinical trial, positioning the biotech to seek FDA approval of one of the eye disease assets this year.<br />",
-    "pinned": false
-  },
-  {
-    "id": "9c9272244752",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years\" hreflang=\"en\">VC Sofinnova reels in \u20ac82M to target medtechs in the next 5 years</a>",
-    "url": "https://www.fiercebiotech.com/medtech/vc-sofinnova-reels-eur82m-target-medtechs-next-5-years",
-    "source": "Fierce Biotech",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Sofinnova Partners has hauled in 82 million euro ($93.3 million) in an oversubscribed financing round. The European venture capital group said it will use the cash to expand its medtech creation strategy in Europe and the U.S.<br />",
-    "pinned": false
-  },
-  {
-    "id": "5e038a58026a",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/new-approach-methodologies-safety-and-toxicology-testing-why-proving-repeatability-next\" hreflang=\"en\">New approach methodologies in safety and toxicology testing: Why proving repeatability is the next hurdle for widespread adoption</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/new-approach-methodologies-safety-and-toxicology-testing-why-proving-repeatability-next",
-    "source": "Fierce Biotech",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "NAMs could transform drug safety testing\u2014but proving repeatability and cell health remains the key hurdle to widespread adoption.",
+    "category": "Company News",
+    "summary": "Alnylam Pharmaceuticals has teamed up with Pete Shaw, making the retired professional football player the star of its \u201cPlay by Play\u201d educational heart disease initiative.",
     "pinned": false
   },
   {
@@ -297,17 +308,6 @@
     "pinned": false
   },
   {
-    "id": "f6e7981e06d2",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales\" hreflang=\"en\">It's a Jungle Out There: Hiring for Resilience in Life Sciences Sales</a>",
-    "url": "https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales",
-    "source": "Fierce Pharma",
-    "date": "2026-09-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Resilience is declining just as launches demand more of it. See how behavioral science helps commercial leaders hire for grit.",
-    "pinned": false
-  },
-  {
     "id": "ce3aef33ed28",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway\" hreflang=\"en\">For Rare Disease Marketing, Precision Starts with the Care Pathway</a>",
     "url": "https://www.fiercepharma.com/sponsored/rare-disease-marketing-precision-starts-care-pathway",
@@ -319,14 +319,47 @@
     "pinned": false
   },
   {
-    "id": "f2c9b4485393",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/mercks-holistic-hiv-health-hive-buzzes-help-actress-debbie-allen\" hreflang=\"en\">Merck's holistic HIV health hive buzzes with the help of actress Debbie Allen</a>",
-    "url": "https://www.fiercepharma.com/marketing/mercks-holistic-hiv-health-hive-buzzes-help-actress-debbie-allen",
+    "id": "f6e7981e06d2",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales\" hreflang=\"en\">It's a Jungle Out There: Hiring for Resilience in Life Sciences Sales</a>",
+    "url": "https://www.fiercepharma.com/sponsored/its-jungle-out-there-hiring-resilience-life-sciences-sales",
     "source": "Fierce Pharma",
     "date": "2026-09-30",
     "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Resilience is declining just as launches demand more of it. See how behavioral science helps commercial leaders hire for grit.",
+    "pinned": false
+  },
+  {
+    "id": "05e2b66d2723",
+    "title": "Opinion: America\u2019s biotech race with China must be won at home",
+    "url": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-30",
+    "country": "US",
     "category": "Company News",
-    "summary": "Merck's \"Your Hive of Whole Health\" brings together a hoard of educational resources and tips to promote holistic health for those living with HIV.",
+    "summary": "\u201cThe surest way to secure our biotech lead is to build up our own capabilities,\u201d write Gary Locke and Patrick McHenry.",
+    "pinned": false
+  },
+  {
+    "id": "d3eeea6ab9a2",
+    "title": "Kratom and 7-OH should be regulated, experts agree. They\u2019re split on how",
+    "url": "https://www.statnews.com/2026/09/30/dea-proposal-7-oh-kratom-schedule-1-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-30",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Kratom has skirted regulation for decades, but newer, highly concentrated 7-OH products have renewed interest in safeguards.",
+    "pinned": false
+  },
+  {
+    "id": "bf4dbd181078",
+    "title": "Opinion: STAT+: What to think about those mice with half-human brains",
+    "url": "https://www.statnews.com/2026/09/30/xeno-mice-human-brains-cortex-research-ethics/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-09-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New research involving giving mice a human cell-based cortex brings to mind \u201cFlowers for Algernon\u201d and \u201cPinky and the Brain,\u201d writes STAT Lab Dish columnist Paul Knoepfler.",
     "pinned": false
   },
   {
@@ -514,39 +547,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned.",
-    "pinned": false
-  },
-  {
-    "id": "a113ad073f80",
-    "title": "STAT+: The last \u2018breakthrough\u2019 devices to get special treatment from Medicare",
-    "url": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-29",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "New medical devices deemed \"breakthrough\" by the FDA are no longer automatically eligible for extra Medicare payments.",
-    "pinned": false
-  },
-  {
-    "id": "a82d0b1b0c2b",
-    "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
-    "url": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-29",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies.",
-    "pinned": false
-  },
-  {
-    "id": "d623fff5dada",
-    "title": "Opinion: Child health is the national security crisis we keep ignoring",
-    "url": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-09-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cNational security begins in childhood,\u201d write Tina L. Cheng, Stanley McChrystal, and James M. Perrin.",
     "pinned": false
   },
   {
