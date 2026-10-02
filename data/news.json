@@ -1,5 +1,38 @@
 [
   {
+    "id": "63648006c1aa",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager\" hreflang=\"en\">Novartis pens $7.8B deal for Abogen's in vivo autoimmune T-cell engager</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-pays-abogen-575m-vivo-autoimmune-t-cell-engager",
+    "source": "Fierce Biotech",
+    "date": "2026-10-02",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Novartis is paying Abogen Biosciences $575 million upfront for an mRNA-encoded T-cell engager that showed early clinical promise in autoimmune disease. The deal, which includes up to $7.2 billion in milestones, comes weeks after Novartis paused an autoimmune CAR-T program over th",
+    "pinned": false
+  },
+  {
+    "id": "de3a2ceb18f9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down\" hreflang=\"en\">Immmunotherapy startup Adecto blames \u2018risk-adverse funding environment\u2019 for closing down</a>",
+    "url": "https://www.fiercebiotech.com/biotech/immmunotherapy-startup-adecto-blames-risk-adverse-funding-environment-closing-down",
+    "source": "Fierce Biotech",
+    "date": "2026-10-02",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Adecto Pharmaceuticals\u2019 12-year story has come to an end as the immunotherapy biotech blamed a \u201crisk-averse funding environment\u201d for shutting up shop.",
+    "pinned": false
+  },
+  {
+    "id": "c00c98e2f11d",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us\" hreflang=\"en\">Abbott launches SimpleScreen CRC blood test in the US</a>",
+    "url": "https://www.fiercebiotech.com/medtech/abbott-launches-simplescreen-crc-blood-test-us",
+    "source": "Fierce Biotech",
+    "date": "2026-10-02",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Abbott is kickstarting the U.S. commercial launch of SimpleScreen CRC, an FDA-approved blood-based colorectal cancer (CRC) screening test for adults age 45 and older who are at average risk for the disease.",
+    "pinned": false
+  },
+  {
     "id": "5acc421dca2c",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Foghorn cuts workforce by 40%; BioMarin drops 117 roles</a>",
     "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
@@ -129,39 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "pinned": false
-  },
-  {
-    "id": "7d807b6955b3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program\" hreflang=\"en\">GSK continues to stock up on Wave's RNA drugs with liver-focused program</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gsk-continues-stock-waves-rna-drugs-liver-focused-program",
-    "source": "Fierce Biotech",
-    "date": "2026-10-02",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "GSK is paying Wave Life Sciences $12 million upfront to take ownership of a hepatic program arising from the companies\u2019 long-running collaboration.",
-    "pinned": false
-  },
-  {
-    "id": "bbc13e905219",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer\" hreflang=\"en\">Highlight Therapeutics illuminates positive ph. 2 topline data in high-risk skin cancer</a>",
-    "url": "https://www.fiercebiotech.com/biotech/highlight-therapeutics-illuminates-positive-ph-2-topline-data-high-risk-skin-cancer",
-    "source": "Fierce Biotech",
-    "date": "2026-10-02",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Highlight Therapeutics touted positive topline results in patients with localized high-risk head and neck basal cell carcinoma (BCC).",
-    "pinned": false
-  },
-  {
-    "id": "7389a8c00c8d",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/connects-dupixent-rival-reduces-copd-attacks-85-misses-secondary-goal\" hreflang=\"en\">Connect\u2019s Dupixent rival reduces COPD attacks by 85%, but misses a secondary goal</a>",
-    "url": "https://www.fiercebiotech.com/biotech/connects-dupixent-rival-reduces-copd-attacks-85-misses-secondary-goal",
-    "source": "Fierce Biotech",
-    "date": "2026-10-02",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Connect Biopharma has pointed to phase 2 data for its IL-4/IL-13 blocker as proof that the wannabe Dupixent rival can reduce respiratory attacks\u2014although the study missed a secondary endpoint tied to a breathing test.",
     "pinned": false
   },
   {
@@ -327,6 +327,39 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "As Vanda Pharmaceuticals awaits a long-sought hearing with the FDA around a potential Hetlioz label expansion into jet lag disorder, the melatonin receptor agonist has demonstrated its merit in another sleep indication with a current dearth of treatment options.",
+    "pinned": false
+  },
+  {
+    "id": "760b1b7fab10",
+    "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
+    "url": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-02",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 fiscal year.",
+    "pinned": false
+  },
+  {
+    "id": "de35b124c561",
+    "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
+    "url": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-02",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist.",
+    "pinned": false
+  },
+  {
+    "id": "db8a58f1ca6b",
+    "title": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world",
+    "url": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-02",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A doctor\u2019s request to marathons: Let\u2019s make evidence-based medical plans \u2014 especially for extreme heat.",
     "pinned": false
   },
   {
@@ -503,39 +536,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "A small conference with big ambitions mirrors the rapid growth of Chinese biotech, invites comparisons to U.S. biotech gathering also known for deal-making.",
-    "pinned": false
-  },
-  {
-    "id": "8f74e8828cb9",
-    "title": "STAT+: Can a top Republican from a bygone political era fix pharma\u2019s woes in Washington?",
-    "url": "https://www.statnews.com/2026/10/01/eric-cantor-phrma-populist-drug-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In Washington, Eric Cantor will confront bipartisan backlash over rising health care costs.",
-    "pinned": false
-  },
-  {
-    "id": "a26c6a74e9c3",
-    "title": "STAT+: Two key Senate health committees face major shake-ups",
-    "url": "https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Senate committees that handle important health care matters are about to see major GOP turnover. Here's what that means.",
-    "pinned": false
-  },
-  {
-    "id": "e3797cb57ce0",
-    "title": "Opinion: I studied GLP-1 use in children. The results are reassuring",
-    "url": "https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cIntervening in childhood could save children from decades of irreversible damage,\u201d a transplant surgeon writes of GLP-1 weight loss drugs.",
     "pinned": false
   },
   {
