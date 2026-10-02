@@ -165,6 +165,28 @@
     "pinned": false
   },
   {
+    "id": "ab6faaf3c14b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-approval-lilly-btk-drug-jaypirca-enters-first-line-cll\" hreflang=\"en\">With FDA approval, Lilly\u2019s BTK drug Jaypirca enters first-line CLL</a>",
+    "url": "https://www.fiercepharma.com/pharma/fda-approval-lilly-btk-drug-jaypirca-enters-first-line-cll",
+    "source": "Fierce Pharma",
+    "date": "2026-10-02",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Eli Lilly\u2019s Jaypirca, the first noncovalent BTK inhibitor, has won FDA approval for the first-line treatment of chronic lymphocytic leukemia or small lymphocytic lymphoma, a market now led by BeOne\u2019s Brukinsa.",
+    "pinned": false
+  },
+  {
+    "id": "6fe46ce31f36",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/best-yet-come-bayer-doubles-down-us-plans-22b-ohio-manufacturing-site\" hreflang=\"en\">'The best is yet to come': Bayer doubles down on US with plans for $2.2B Ohio manufacturing site</a>",
+    "url": "https://www.fiercepharma.com/pharma/best-yet-come-bayer-doubles-down-us-plans-22b-ohio-manufacturing-site",
+    "source": "Fierce Pharma",
+    "date": "2026-10-02",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Following a spate of large-scale pharma investments in the U.S. last year, German conglomerate Bayer is advancing its own plans to expand in America, in a move the company is framing as the culmination of a multi-year strategy, rather than an acute policy response.",
+    "pinned": false
+  },
+  {
     "id": "c69b7e3cf70e",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion\" hreflang=\"en\">Pfizer touts 'dermatology momentum' as it paints fuller picture of Litfulo's vitiligo potential</a>",
     "url": "https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion",
@@ -308,28 +330,6 @@
     "pinned": false
   },
   {
-    "id": "9f38c9276207",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/organon-beams-skin-science-sci-fi-themed-vtama-campaign\" hreflang=\"en\">Organon beams up 'Skin Science' in sci-fi themed Vtama campaign</a>",
-    "url": "https://www.fiercepharma.com/marketing/organon-beams-skin-science-sci-fi-themed-vtama-campaign",
-    "source": "Fierce Pharma",
-    "date": "2026-10-02",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Organon leaned into non-steriod skin cream Vtama's first-in-class status for a science-fiction themed HCP marketing campaign, complete with aliens and UFOs.",
-    "pinned": false
-  },
-  {
-    "id": "1a13c9674eab",
-    "title": "<a href=\"https://www.fiercepharma.com/ai-and-machine-learning/second-fresenius-site-hit-fda-warning-letter-citing-contamination-concerns\" hreflang=\"en\">FDA hits 2nd Fresenius site with contamination-related warning letter in less than a month</a>",
-    "url": "https://www.fiercepharma.com/ai-and-machine-learning/second-fresenius-site-hit-fda-warning-letter-citing-contamination-concerns",
-    "source": "Fierce Pharma",
-    "date": "2026-10-02",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The agency raised concerns about contamination and quality control at Fresenius Kabi's Melrose Park facility in Illinois.",
-    "pinned": false
-  },
-  {
     "id": "92a2b018ad14",
     "title": "This week in charts: Kodiak\u2019s big comeback and Hengrui\u2019s dealmaking",
     "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
@@ -338,6 +338,17 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>The latest installment in BioPhar",
+    "pinned": false
+  },
+  {
+    "id": "7203205465bc",
+    "title": "NIH rolling out streamlined website to help public find information more easily",
+    "url": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-02",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
     "pinned": false
   },
   {
@@ -558,17 +569,6 @@
     "country": "US",
     "category": "Policy",
     "summary": "Proposed changes to the federal government\u2019s health survey would undercount Americans with disabilities, advocates say.",
-    "pinned": false
-  },
-  {
-    "id": "6b8f7c65aadf",
-    "title": "STAT+: A journey to witness China\u2019s biotech boom up close",
-    "url": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Chinese-designed drugs now account for roughly half the global pipeline. STAT's Jason Mast traveled to Shanghai to get an up-close look at the competition that's making American's nervous.",
     "pinned": false
   },
   {
