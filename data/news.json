@@ -330,6 +330,17 @@
     "pinned": false
   },
   {
+    "id": "aea37f6fb899",
+    "title": "Trump announces $90 payments for seniors\u2019 Medicare premium costs ahead of midterm elections",
+    "url": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-04",
+    "country": "US",
+    "category": "Company News",
+    "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections \u2014 this time for seniors' Medicare Part B premiums",
+    "pinned": false
+  },
+  {
     "id": "92a2b018ad14",
     "title": "This week in charts: Kodiak\u2019s big comeback and Hengrui\u2019s dealmaking",
     "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
@@ -338,17 +349,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>The latest installment in BioPhar",
-    "pinned": false
-  },
-  {
-    "id": "a616b297c91d",
-    "title": "Novartis wagers almost $8B on a Chinese biotech\u2019s RNA drugs",
-    "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mnq5GbBV-QXgGPe2-0VR931mfPsNAmKJqN8EkpLr3lI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY1NzI0ODY5LmpwZw==.webp\" /></div></figure><p>In exchange for a $575 million payment up front, Abog",
     "pinned": false
   },
   {
@@ -572,17 +572,6 @@
     "pinned": false
   },
   {
-    "id": "b98662066e93",
-    "title": "As CDC redesigns annual health survey, it removes questions about disabilities",
-    "url": "https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Proposed changes to the federal government\u2019s health survey would undercount Americans with disabilities, advocates say.",
-    "pinned": false
-  },
-  {
     "id": "5760dfdbd335",
     "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
     "url": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
@@ -602,6 +591,17 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\" /></div></figure><p>The FDA previously hadn&rsquo;t ever accepted an appl",
+    "pinned": false
+  },
+  {
+    "id": "44f09b51ba9e",
+    "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+    "url": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+    "source": "BioPharma Dive",
+    "date": "2026-09-30",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A former congressman will take over ",
     "pinned": false
   }
 ]
