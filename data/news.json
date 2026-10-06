@@ -1,5 +1,71 @@
 [
   {
+    "id": "8a8d63acaf46",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease\" hreflang=\"en\">Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease</a>",
+    "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn\u2019t be able to advance quickly enough.",
+    "pinned": false
+  },
+  {
+    "id": "70a198afc09a",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home\" hreflang=\"en\">Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home</a>",
+    "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
+    "pinned": false
+  },
+  {
+    "id": "96ce162e9f7f",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain\" hreflang=\"en\">Biotech\u2019s peptide shows promise as \u2018bait molecule\u2019 to treat neuropathic pain in mice</a>",
+    "url": "https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "While psychedelic drugs may be capturing all the attention when it comes to finding fresh ways to treat neuropathic pain, research with mice has suggested a peptide approach may also be effective.",
+    "pinned": false
+  },
+  {
+    "id": "26ffd7d711e5",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock\" hreflang=\"en\">ArriVent\u2019s phase 3 lung cancer trial flops, sinking stock</a>",
+    "url": "https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 3 lung cancer study of ArriVent BioPharma\u2019s EGFR inhibitor has missed its primary endpoint, sending the biotech\u2019s stock down 57% in early trading on the Nasdaq.",
+    "pinned": false
+  },
+  {
+    "id": "a55dbc0fea09",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: KymaThera corrals $80M; RougeTx lifts off with $58M</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "pinned": false
+  },
+  {
+    "id": "4690dda21861",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting\" hreflang=\"en\">Kairos seizes moment to push prostate cancer prospect into earlier setting</a>",
+    "url": "https://www.fiercebiotech.com/biotech/kairos-seizes-moment-push-prostate-cancer-prospect-earlier-setting",
+    "source": "Fierce Biotech",
+    "date": "2026-10-06",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Kairos Pharma is moving prostate cancer prospect ENV-105 into an earlier line of treatment in response to midphase survival data.<br />",
+    "pinned": false
+  },
+  {
     "id": "99abbe40de5a",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs\" hreflang=\"en\">Forbion\u2019s \u2018landmark\u2019 \u20ac2.3B fundraise to benefit 30 \u2018high potential\u2019 biotechs</a>",
     "url": "https://www.fiercebiotech.com/biotech/forbions-landmark-eur23b-fundraise-benefit-30-high-potential-biotechs",
@@ -99,69 +165,47 @@
     "pinned": false
   },
   {
-    "id": "4e284a68b64b",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/how-choose-biologics-cdmo-4-criteria-matter-most\" hreflang=\"en\">How to Choose a Biologics CDMO: 4 Criteria That Matter the Most</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/how-choose-biologics-cdmo-4-criteria-matter-most",
-    "source": "Fierce Biotech",
+    "id": "d2b35fa41eef",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/viiv-girds-data-package-cabenuva-competitive-hiv-treatment-market\" hreflang=\"en\">ViiV girds data package for Cabenuva in competitive HIV treatment market</a>",
+    "url": "https://www.fiercepharma.com/pharma/viiv-girds-data-package-cabenuva-competitive-hiv-treatment-market",
+    "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
     "category": "Company News",
-    "summary": "Choosing a biologics CDMO goes beyond capabilities. Four criteria can help sponsors assess quality, cost, technology and long-term partnership.",
+    "summary": "As competition in both the HIV treatment and prevention fields continues to mount, GSK\u2019s ViiV Healthcare is looking to expand the reach of its long-acting Cabenuva, homing in on the combination treatment\u2019s potential to help people whose infection isn\u2019t adequately kept in check by",
     "pinned": false
   },
   {
-    "id": "fa329b1575ca",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine\" hreflang=\"en\">Trio of scientists who developed neuron light switches win Nobel Prize in Physiology or Medicine</a>",
-    "url": "https://www.fiercebiotech.com/research/3-scientists-who-developed-neuron-light-switches-win-nobel-prize-physiology-or-medicine",
-    "source": "Fierce Biotech",
+    "id": "cdb14fafcd42",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/abbvie-genmab-tout-ph3-first-line-win-epkinly-mounting-rivalry-roche\" hreflang=\"en\">AbbVie, Genmab score first-line DLBCL win for Epkinly, teeing up challenge to Roche's Polivy</a>",
+    "url": "https://www.fiercepharma.com/pharma/abbvie-genmab-tout-ph3-first-line-win-epkinly-mounting-rivalry-roche",
+    "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
     "category": "Company News",
-    "summary": "The 2026 Nobel Prize in Physiology or Medicine has been awarded to three scientists who forged a new neuroscience technique that uses light to precisely flip chosen neurons on and off.",
+    "summary": "Epkinly plus R-CHOP cut the risk of progression or death by 51% compared with R-CHOP alone in newly diagnosed DLBCL, setting up a potential first-line challenge to Roche\u2019s Polivy.",
     "pinned": false
   },
   {
-    "id": "71c3350190ae",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/meet-motivista-click-therapeutics-first-its-kind-schizophrenia-digital-therapeutic\" hreflang=\"en\">Meet Motivista: Click Therapeutics debuts first-of-its-kind schizophrenia digital therapeutic</a>",
-    "url": "https://www.fiercebiotech.com/medtech/meet-motivista-click-therapeutics-first-its-kind-schizophrenia-digital-therapeutic",
-    "source": "Fierce Biotech",
+    "id": "4d42b9950eac",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary\" hreflang=\"en\">Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary</a>",
+    "url": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
+    "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Click Therapeutics has nabbed FDA approval for its digital therapeutic Motivista, which now becomes the first authorized treatment for negative schizophrenia symptoms.",
+    "category": "Company News",
+    "summary": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50-year anniversary.",
     "pinned": false
   },
   {
-    "id": "c15057293274",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere\" hreflang=\"en\">Genmab\u2019s latest phase 2 data spur claim ADC is \u2018clearly superior\u2019 to AbbVie\u2019s Elahere</a>",
-    "url": "https://www.fiercebiotech.com/biotech/genmab-data-spur-claim-adc-clearly-superior-abbvies-elahere",
-    "source": "Fierce Biotech",
+    "id": "9cade7c8c294",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis\u2019 Pluvicto expansion</a>",
+    "url": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
+    "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Genmab has linked an antibody-drug conjugate to a median progression-free survival of 9.5 months, leading TD Cowen analysts to hail the asset as \u201cclearly superior\u201d to AbbVie\u2019s Elahere.",
-    "pinned": false
-  },
-  {
-    "id": "28a7e10f1031",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug\" hreflang=\"en\">CSL pays $355M to co-develop Alentis\u2019 phase 2-stage fibrosis drug</a>",
-    "url": "https://www.fiercebiotech.com/biotech/csl-pays-355m-co-develop-alentis-phase-2-stage-fibrosis-drug",
-    "source": "Fierce Biotech",
-    "date": "2026-10-06",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Australia\u2019s CSL is paying $355 million upfront for the rights to Alentis Therapeutics\u2019 phase 2-stage fibrosis drug.",
-    "pinned": false
-  },
-  {
-    "id": "b9eaec785bb1",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-signs-first-heart-valve-designed-dynamically-expand-children\" hreflang=\"en\">FDA signs off on first heart valve designed to dynamically expand in children</a>",
-    "url": "https://www.fiercebiotech.com/medtech/fda-signs-first-heart-valve-designed-dynamically-expand-children",
-    "source": "Fierce Biotech",
-    "date": "2026-10-06",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA has approved a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.",
+    "summary": "Novartis\u2019 flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that",
     "pinned": false
   },
   {
@@ -198,14 +242,14 @@
     "pinned": false
   },
   {
-    "id": "222138986228",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage\" hreflang=\"en\">Evolving Patient Support Programs: Clinical Support as Competitive Advantage</a>",
-    "url": "https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage",
+    "id": "cdf9b1afe4e9",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0\" hreflang=\"en\">For biopharma manufacturing at speed and scale, the future is flexible</a>",
+    "url": "https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0",
     "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
     "category": "Company News",
-    "summary": "For biopharmaceutical commercial teams, integrating clinical support into Patient Support Programs (PSPs) is becoming a competitive advantage for differentiating complex therapies in crowded markets.",
+    "summary": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
     "pinned": false
   },
   {
@@ -220,14 +264,14 @@
     "pinned": false
   },
   {
-    "id": "cdf9b1afe4e9",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0\" hreflang=\"en\">For biopharma manufacturing at speed and scale, the future is flexible</a>",
-    "url": "https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0",
+    "id": "222138986228",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage\" hreflang=\"en\">Evolving Patient Support Programs: Clinical Support as Competitive Advantage</a>",
+    "url": "https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage",
     "source": "Fierce Pharma",
     "date": "2026-10-06",
     "country": "Global",
     "category": "Company News",
-    "summary": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
+    "summary": "For biopharmaceutical commercial teams, integrating clinical support into Patient Support Programs (PSPs) is becoming a competitive advantage for differentiating complex therapies in crowded markets.",
     "pinned": false
   },
   {
@@ -286,47 +330,36 @@
     "pinned": false
   },
   {
-    "id": "4ab910ae4b63",
-    "title": "<a href=\"https://www.fiercepharma.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot\" hreflang=\"en\">HRSA names 10 drugmakers for revised 340B rebate pilot ahead of 2027 launch</a>",
-    "url": "https://www.fiercepharma.com/regulatory/hrsa-announces-drugmakers-products-revised-340b-rebate-pilot",
-    "source": "Fierce Pharma",
+    "id": "e763d5d20730",
+    "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
+    "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
+    "source": "BioPharma Dive",
     "date": "2026-10-06",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The list of approved participants and drugs is larger than the controversial pilot's first attempted launch. It comes the same day that CMS launched a soon-to-be-mandatory data repository for Part D 340B claim submissions.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/vdoj2T5T_GEqWt0A18ttegnUTJm6dPOremACbAN4BQY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzU0MDk3NjdfVjRobkFpMC5qcGc=.webp\" /></div></figure><p>The fundraise is the firm&rsquo;s largest to ",
     "pinned": false
   },
   {
-    "id": "c69b7e3cf70e",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion\" hreflang=\"en\">Pfizer touts 'dermatology momentum' as it paints fuller picture of Litfulo's vitiligo potential</a>",
-    "url": "https://www.fiercepharma.com/pharma/pfizer-funnels-dermatology-momentum-immunology-expansion",
-    "source": "Fierce Pharma",
+    "id": "175ca95bced1",
+    "title": "ArriVent collapses on disappointing lung cancer data",
+    "url": "https://www.biopharmadive.com/news/arrivent-furmonertinib-egfr-lung-cancer-study-results/832220/",
+    "source": "BioPharma Dive",
     "date": "2026-10-06",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Pfizer has detailed two clinical wins for its immunology portfolio as it aims for a label expansion, an approval and new indications beyond dermatology, too.",
-    "pinned": false
-  },
-  {
-    "id": "246b168b5a0f",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/locking-pharmas-consumerization-trend\" hreflang=\"en\">Locking in on pharma\u2019s consumerization trend</a>",
-    "url": "https://www.fiercepharma.com/pharma/locking-pharmas-consumerization-trend",
-    "source": "Fierce Pharma",
-    "date": "2026-10-06",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "With GLP-1s paving the way, a consumer shift is happening across markets for certain branded pharmaceuticals. Now, the CEO of a buzzy pattern-hair-loss biotech is eyeing opportunities in an evolving market that could expand well beyond his own company.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lbrY-kOrc9k3tdi1l3vDKOnquutefnbAg6hO8dGrIo0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEyMzk4MDA3LmpwZw==.webp\" /></div></figure><p>More than half of the company&rsquo;s value was wiped",
     "pinned": false
   },
   {
-    "id": "12f3086c234c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Lilly's Foundayo surges as Novo's Wegovy pill stalls</a>",
-    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
-    "source": "Fierce Pharma",
+    "id": "0a276cc57597",
+    "title": "Dual-acting drug from AbbVie, Genmab scores in frontline lymphoma trial",
+    "url": "https://www.biopharmadive.com/news/abbvie-genmab-epkinly-dlbcl-epcore-study-results/832241/",
+    "source": "BioPharma Dive",
     "date": "2026-10-06",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WrykHCObgQORJy6_Nsx19TUHTg8V8DEoa5UN1HcFlZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcxODMyMDY3LmpwZw==.webp\" /></div></figure><p>The better-than-expected results could make Epkinly t",
     "pinned": false
   },
   {
@@ -341,6 +374,17 @@
     "pinned": false
   },
   {
+    "id": "48a937198164",
+    "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer\u2019s Research in Focus",
+    "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<p>This podcast explores how leading Alzheimer&rsquo;s experts are working to bridge the gap between clinical trial design and frontline care.</p>",
+    "pinned": false
+  },
+  {
     "id": "1af7bfc491c0",
     "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
     "url": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
@@ -349,6 +393,61 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yhZeSjaTnkEPhD3uiSdGtISDkhL0flozgCqPXty174c/g:nowe:0:242/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRUhDLmpwZw==.webp\" /></div></figure><p>The purchase expands GE HealthCare&rsquo;s radiopharmaceut",
+    "pinned": false
+  },
+  {
+    "id": "c754469919ae",
+    "title": "STAT+: AstraZeneca opens new Boston site",
+    "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "AstraZeneca opened a new R&#038;D site in Kendall Square yesterday, celebrating a $1 billion investment in the unsettled center of U.S. biotechnology after a spate of Chinese dealmaking.",
+    "pinned": false
+  },
+  {
+    "id": "02790af368f2",
+    "title": "STAT+: Are stem cell treatments about to have their day?",
+    "url": "https://www.statnews.com/2026/10/06/trump-medicare-checks-stem-cell-treatments-fda-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Stem cells might be the next peptides, and how Trump's $90 checks will play out after the election.",
+    "pinned": false
+  },
+  {
+    "id": "7a6a540ac2b9",
+    "title": "What are hospital longevity programs, and what can they tell you about your health?",
+    "url": "https://www.statnews.com/2026/10/06/hospital-longevity-programs-health-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Company News",
+    "summary": "What can hospital longevity clinics can tell you about your health? STAT's Sarah Todd went to one to find out.",
+    "pinned": false
+  },
+  {
+    "id": "d45ddb95822d",
+    "title": "STAT+: FDA spells out 2027 AI guidance plans",
+    "url": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this edition of STAT Health Tech: New AI guidances expected from the the FDA in 2027, Utah expanding its AI sandbox, and more.",
+    "pinned": false
+  },
+  {
+    "id": "f49529bbe87e",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about U.S.-funded psychedelic trials, an AstraZeneca R&D center, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/06/us-funded-psychedelic-trials-astrazeneca-research-center/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-06",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The Trump administration is advancing the first government-funded clinical trials of the psychedelic drug ibogaine to treat opioid addiction and PTSD",
     "pinned": false
   },
   {
@@ -451,17 +550,6 @@
     "pinned": false
   },
   {
-    "id": "8470dbb5d923",
-    "title": "How AI is transforming biopharma manufacturing facilities of the future",
-    "url": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>As AI accelerates drug discovery, here are the ways pharmaceutical manufacturing facilities are adapting.</p>",
-    "pinned": false
-  },
-  {
     "id": "345e53447157",
     "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
     "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
@@ -514,94 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "Utah plans to allow an AI product to evaluate patients and write new drug prescriptions without prior human review.",
-    "pinned": false
-  },
-  {
-    "id": "3bf2ac84508f",
-    "title": "STAT+: Lilly\u2019s Jaypirca approved as first-line CLL therapy",
-    "url": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Eli Lilly\u2019s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma.",
-    "pinned": false
-  },
-  {
-    "id": "bac489ea2fa6",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck",
-    "pinned": false
-  },
-  {
-    "id": "282b350d9204",
-    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
-    "url": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck.",
-    "pinned": false
-  },
-  {
-    "id": "f34300390590",
-    "title": "Could we one day vaccinate against every cancer?",
-    "url": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "What science says so far about which cancers can be beat by vaccines \u2014 and which will require more creative approaches.",
-    "pinned": false
-  },
-  {
-    "id": "d4f024b3a61f",
-    "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
-    "url": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine \u201cfor their discoveries concerning light-gated ion channels and optogenetics,\" the&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "92a2b018ad14",
-    "title": "This week in charts: Kodiak\u2019s big comeback and Hengrui\u2019s dealmaking",
-    "url": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/S7kYl4_8o-FTTXWhd92CtQyC0IbGNdT9f0kWAlh5hRk/g:nowe:0:217/c:4928:2784/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyLmpwZw==.webp\" /></div></figure><p>The latest installment in BioPhar",
-    "pinned": false
-  },
-  {
-    "id": "a616b297c91d",
-    "title": "Novartis wagers almost $8B on a Chinese biotech\u2019s RNA drugs",
-    "url": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-02",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mnq5GbBV-QXgGPe2-0VR931mfPsNAmKJqN8EkpLr3lI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY1NzI0ODY5LmpwZw==.webp\" /></div></figure><p>In exchange for a $575 million payment up front, Abog",
-    "pinned": false
-  },
-  {
-    "id": "d5db0e3e6adc",
-    "title": "3 takeaways from a European obesity scientific meeting",
-    "url": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-01",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Lwe2KJpHwGQNmoHfod27KvoSZpAjQHguLp_4r0PptNI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjY1Nzc4NTU4LmpwZw==.webp\" /></div></figure><p>Eli Lilly impressed with its amylin-Zepbound combinat",
     "pinned": false
   }
 ]
