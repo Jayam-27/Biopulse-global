@@ -1,5 +1,27 @@
 [
   {
+    "id": "a5d47e129313",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly\" hreflang=\"en\">MimiVax\u2019s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as \u2018inspiring\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
+    "source": "Fierce Biotech",
+    "date": "2026-10-07",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under.",
+    "pinned": false
+  },
+  {
+    "id": "3ee93bc2d6e1",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates\" hreflang=\"en\">CAR-T biotech Caribou makes \u2018heartbreaking\u2019 call to shrink headcount, halt pipeline</a>",
+    "url": "https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates",
+    "source": "Fierce Biotech",
+    "date": "2026-10-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
+    "pinned": false
+  },
+  {
     "id": "8a8d63acaf46",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease\" hreflang=\"en\">Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease</a>",
     "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
@@ -143,25 +165,25 @@
     "pinned": false
   },
   {
-    "id": "65e01fe49713",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gate-secures-870m-vote-confidence-eli-lilly\" hreflang=\"en\">Gate CEO sees expanded $870M pact with Lilly as \u2018vote of confidence\u2019 in biotech\u2019s platform</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gate-secures-870m-vote-confidence-eli-lilly",
-    "source": "Fierce Biotech",
+    "id": "dfa872022fd2",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/vml-healths-molly-kanofsky-loves-turning-idea-page-real-world-impact\" hreflang=\"en\">Rising Stars: How VML Health\u2019s Molly Kanofsky turns \u2018an idea on a page\u2019 into real-world impact</a>",
+    "url": "https://www.fiercepharma.com/marketing/vml-healths-molly-kanofsky-loves-turning-idea-page-real-world-impact",
+    "source": "Fierce Pharma",
     "date": "2026-10-07",
     "country": "Global",
     "category": "Company News",
-    "summary": "Eli Lilly has been pushing at an open door by tacking on $870 million in biobucks to its existing collaboration with Gate Bioscience.",
+    "summary": "VML Health's Molly Kanofsky ended up in the pharma marketing world after an unexpected career detour, where she's now able to merge her passion for healthcare with her creative side.",
     "pinned": false
   },
   {
-    "id": "5e609d2ab8fe",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech\" hreflang=\"en\">There Is No Such Thing as a Typical Biotech</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/there-no-such-thing-typical-biotech",
-    "source": "Fierce Biotech",
+    "id": "f980e68f0d2f",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/noom-puts-spooky-voice-haunting-threat-weight-regain-glp-1-users-new-spot\" hreflang=\"en\">Noom puts a spooky voice to the haunting threat of weight regain for GLP-1 users in new spot</a>",
+    "url": "https://www.fiercepharma.com/marketing/noom-puts-spooky-voice-haunting-threat-weight-regain-glp-1-users-new-spot",
+    "source": "Fierce Pharma",
     "date": "2026-10-07",
     "country": "Global",
     "category": "Company News",
-    "summary": "Why Your Operating Model Should Reflect Your Company\u2019s DNA",
+    "summary": "Noom's horror movie-esque new ad showcases the haunting threat of weight regain on GLP-1s, which the Noom app can help fend off.",
     "pinned": false
   },
   {
@@ -187,17 +209,6 @@
     "pinned": false
   },
   {
-    "id": "4d42b9950eac",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary\" hreflang=\"en\">Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary</a>",
-    "url": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
-    "source": "Fierce Pharma",
-    "date": "2026-10-07",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50-year anniversary.",
-    "pinned": false
-  },
-  {
     "id": "9cade7c8c294",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis\u2019 Pluvicto expansion</a>",
     "url": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
@@ -206,6 +217,17 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Novartis\u2019 flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that",
+    "pinned": false
+  },
+  {
+    "id": "4d42b9950eac",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary\" hreflang=\"en\">Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary</a>",
+    "url": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
+    "source": "Fierce Pharma",
+    "date": "2026-10-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50-year anniversary.",
     "pinned": false
   },
   {
@@ -242,14 +264,14 @@
     "pinned": false
   },
   {
-    "id": "cdf9b1afe4e9",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0\" hreflang=\"en\">For biopharma manufacturing at speed and scale, the future is flexible</a>",
-    "url": "https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0",
+    "id": "222138986228",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage\" hreflang=\"en\">Evolving Patient Support Programs: Clinical Support as Competitive Advantage</a>",
+    "url": "https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage",
     "source": "Fierce Pharma",
     "date": "2026-10-07",
     "country": "Global",
     "category": "Company News",
-    "summary": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
+    "summary": "For biopharmaceutical commercial teams, integrating clinical support into Patient Support Programs (PSPs) is becoming a competitive advantage for differentiating complex therapies in crowded markets.",
     "pinned": false
   },
   {
@@ -264,14 +286,14 @@
     "pinned": false
   },
   {
-    "id": "222138986228",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage\" hreflang=\"en\">Evolving Patient Support Programs: Clinical Support as Competitive Advantage</a>",
-    "url": "https://www.fiercepharma.com/sponsored/evolving-patient-support-programs-clinical-support-competitive-advantage",
+    "id": "cdf9b1afe4e9",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0\" hreflang=\"en\">For biopharma manufacturing at speed and scale, the future is flexible</a>",
+    "url": "https://www.fiercepharma.com/sponsored/biopharma-manufacturing-speed-and-scale-future-flexible-0",
     "source": "Fierce Pharma",
     "date": "2026-10-07",
     "country": "Global",
     "category": "Company News",
-    "summary": "For biopharmaceutical commercial teams, integrating clinical support into Patient Support Programs (PSPs) is becoming a competitive advantage for differentiating complex therapies in crowded markets.",
+    "summary": "Biopharma development has long trended toward specialized and personalized therapies such as cell and gene therapies, antibody-drug conjugates, and monoclonal antibodies (mAbs), among others.",
     "pinned": false
   },
   {
@@ -308,25 +330,91 @@
     "pinned": false
   },
   {
-    "id": "ab6faaf3c14b",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-approval-lilly-btk-drug-jaypirca-enters-first-line-cll\" hreflang=\"en\">With FDA approval, Lilly\u2019s BTK drug Jaypirca enters first-line CLL</a>",
-    "url": "https://www.fiercepharma.com/pharma/fda-approval-lilly-btk-drug-jaypirca-enters-first-line-cll",
-    "source": "Fierce Pharma",
+    "id": "2a0dbfed9057",
+    "title": "A Takeda spinout builds case for its Parkinson\u2019s drug",
+    "url": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
+    "source": "BioPharma Dive",
     "date": "2026-10-07",
-    "country": "Global",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Eli Lilly\u2019s Jaypirca, the first noncovalent BTK inhibitor, has won FDA approval for the first-line treatment of chronic lymphocytic leukemia or small lymphocytic lymphoma, a market now led by BeOne\u2019s Brukinsa.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JnHvBGTJSr4l47AX16fQPWTTjXcgfRWSvOqrX8Sx6rc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY5MzE1MzcxLmpwZw==.webp\" /></div></figure><p>Cerevance plans to meet with the FDA to &ldquo;determ",
     "pinned": false
   },
   {
-    "id": "6fe46ce31f36",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/best-yet-come-bayer-doubles-down-us-plans-22b-ohio-manufacturing-site\" hreflang=\"en\">'The best is yet to come': Bayer doubles down on US with plans for $2.2B Ohio manufacturing site</a>",
-    "url": "https://www.fiercepharma.com/pharma/best-yet-come-bayer-doubles-down-us-plans-22b-ohio-manufacturing-site",
-    "source": "Fierce Pharma",
+    "id": "063677223a14",
+    "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
+    "url": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Following a spate of large-scale pharma investments in the U.S. last year, German conglomerate Bayer is advancing its own plans to expand in America, in a move the company is framing as the culmination of a multi-year strategy, rather than an acute policy response.",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The Justice Department issued a new directive for combating fraud that noted the agency will pursue violations of a federal law that tightly regulates the pharmaceutical industry.",
+    "pinned": false
+  },
+  {
+    "id": "420006e02288",
+    "title": "ER visits from people born outside the U.S. dropped after ICE raids",
+    "url": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year.",
+    "pinned": false
+  },
+  {
+    "id": "c06c2be553c6",
+    "title": "2026 Nobel Prize in chemistry awarded for \u2018mirror image\u2019 molecule research, with impact on pharmacology",
+    "url": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Henri B. Kagan and Kenso Soai were awarded the 2026 Nobel Prize in chemistry on Wednesday for solving a mystery with research on \"mirror image\" molecules.",
+    "pinned": false
+  },
+  {
+    "id": "6211eb205b84",
+    "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+    "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma.",
+    "pinned": false
+  },
+  {
+    "id": "e3c110f1f730",
+    "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+    "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Exon-skipping drugs present a critical test for the FDA\u2019s goal of encouraging treatments for rare disease.",
+    "pinned": false
+  },
+  {
+    "id": "8fcade10dc29",
+    "title": "STAT+: Democrats plot a midterms push for MAHA voters",
+    "url": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them.",
+    "pinned": false
+  },
+  {
+    "id": "13cff566a836",
+    "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it \u2018untreated cancer\u2019",
+    "url": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cI reject the idea that a man who keeps every prostate cancer surveillance appointment has \u2018untreated cancer,\u2019\u201d writes Howard Wolinsky.",
     "pinned": false
   },
   {
@@ -484,39 +572,6 @@
     "pinned": false
   },
   {
-    "id": "e3a75dbeb206",
-    "title": "Opinion: I\u2019m a doctor. Here\u2019s what I want the public to know about AI tools and health care costs",
-    "url": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWe can document honestly and still wind up inflating hospital bills,\u201d writes a frustrated doctor.",
-    "pinned": false
-  },
-  {
-    "id": "213015743186",
-    "title": "Opinion: Why the FDA should not approve an ineffective multicancer screening test",
-    "url": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "\u201cTelling more people they have cancer is not progress; progress is having fewer people die from cancer,\u201d H. Gilbert Welch writes of Grail\u2019s multicancer screening test.",
-    "pinned": false
-  },
-  {
-    "id": "e7389d689338",
-    "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
-    "url": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Longevity clinics promise personalized health advice and cutting-edge tests. Now major hospitals are entering the business, at costs reaching $45,000 a year.",
-    "pinned": false
-  },
-  {
     "id": "badde2bd55b7",
     "title": "Shionogi pays $2B to acquire a rare disease startup",
     "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
@@ -547,61 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-PA7wImZfQPzE3pbMsLKp3xxhtk0ajdm4K5mCsoeQrc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgwNDAzODQzLmpwZw==.webp\" /></div></figure><p>The company&rsquo;s next-generation shot surpassed Wa",
-    "pinned": false
-  },
-  {
-    "id": "4ce0492cc529",
-    "title": "Precision for All: Closing the gap between innovation and impact",
-    "url": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>Why diagnostic-driven therapies need a new commercialization model to reach more eligible patients.</p>",
-    "pinned": false
-  },
-  {
-    "id": "345e53447157",
-    "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
-    "url": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case.",
-    "pinned": false
-  },
-  {
-    "id": "495c125332f6",
-    "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer\u2019s",
-    "url": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works",
-    "pinned": false
-  },
-  {
-    "id": "b65709b6f636",
-    "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
-    "url": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Policy",
-    "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
-    "pinned": false
-  },
-  {
-    "id": "b4bc6090e70a",
-    "title": "STAT+: Prices, prices, prices",
-    "url": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out.",
     "pinned": false
   }
 ]
