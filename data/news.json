@@ -1,5 +1,49 @@
 [
   {
+    "id": "c689255b6f4b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant\" hreflang=\"en\">\u2018It\u2019s just survival now\u2019: Why is almost a third of Boston\u2019s life sciences lab space sitting vacant?</a>",
+    "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+    "pinned": false
+  },
+  {
+    "id": "eff38fd67eba",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset\" hreflang=\"en\">Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave\u2019s asset</a>",
+    "url": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Japan\u2019s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven\u2019s IgG degraders led by a phase 3-stage Grave\u2019s disease prospect.",
+    "pinned": false
+  },
+  {
+    "id": "04b75f59cc96",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data\" hreflang=\"en\">Zealand, Roche\u2019s \u2018intriguing\u2019 weight loss for amylin drug soured by blood sugar data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+    "pinned": false
+  },
+  {
+    "id": "87764a90ed44",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run\" hreflang=\"en\">Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run</a>",
+    "url": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "A phase 2 celiac disease trial of argenx\u2019s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+    "pinned": false
+  },
+  {
     "id": "75e951ce381f",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline\" hreflang=\"en\">Cadrenal launches strategic review for late-stage cardiology pipeline</a>",
     "url": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
@@ -77,6 +121,17 @@
     "pinned": false
   },
   {
+    "id": "a55dbc0fea09",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Matchpoint makes $150M; KymaThera corrals $80M</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "pinned": false
+  },
+  {
     "id": "a5d47e129313",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly\" hreflang=\"en\">MimiVax\u2019s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as \u2018inspiring\u2019</a>",
     "url": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
@@ -110,58 +165,14 @@
     "pinned": false
   },
   {
-    "id": "8a8d63acaf46",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease\" hreflang=\"en\">Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease</a>",
-    "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
-    "source": "Fierce Biotech",
+    "id": "1848c39accea",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b\" hreflang=\"en\">PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B</a>",
+    "url": "https://www.fiercepharma.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+    "source": "Fierce Pharma",
     "date": "2026-10-08",
     "country": "Global",
     "category": "Company News",
-    "summary": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn\u2019t be able to advance quickly enough.",
-    "pinned": false
-  },
-  {
-    "id": "70a198afc09a",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home\" hreflang=\"en\">Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home</a>",
-    "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-new-cardiomems-hf-system-allows-heart-readings-be-seen-home",
-    "source": "Fierce Biotech",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Abbott has been given U.S. clearance for new updates to its CardioMEMS HF System that allow for patient-facing capabilities through its CardioGuide HF App.",
-    "pinned": false
-  },
-  {
-    "id": "96ce162e9f7f",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain\" hreflang=\"en\">Biotech\u2019s peptide shows promise as \u2018bait molecule\u2019 to treat neuropathic pain in mice</a>",
-    "url": "https://www.fiercebiotech.com/research/mimetics-peptide-shows-promise-non-psychedelic-method-reducing-neuropathic-pain",
-    "source": "Fierce Biotech",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "While psychedelic drugs may be capturing all the attention when it comes to finding fresh ways to treat neuropathic pain, research with mice has suggested a peptide approach may also be effective.",
-    "pinned": false
-  },
-  {
-    "id": "26ffd7d711e5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock\" hreflang=\"en\">ArriVent\u2019s phase 3 lung cancer trial flops, sinking stock</a>",
-    "url": "https://www.fiercebiotech.com/biotech/arrivents-phase-3-lung-cancer-trial-flops-sinking-stock",
-    "source": "Fierce Biotech",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 3 lung cancer study of ArriVent BioPharma\u2019s EGFR inhibitor has missed its primary endpoint, sending the biotech\u2019s stock down 57% in early trading on the Nasdaq.",
-    "pinned": false
-  },
-  {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: KymaThera corrals $80M; RougeTx lifts off with $58M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+    "summary": "As the Trump administration advances plans to bring its \u201cmost favored nation\u201d drug pricing model to Medicare Part B, the pharmaceutical industry\u2019s top lobbying group is pushing back in court.",
     "pinned": false
   },
   {
@@ -286,17 +297,6 @@
     "pinned": false
   },
   {
-    "id": "9cade7c8c294",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis\u2019 Pluvicto expansion</a>",
-    "url": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novartis\u2019 flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that",
-    "pinned": false
-  },
-  {
     "id": "4d42b9950eac",
     "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary\" hreflang=\"en\">Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary</a>",
     "url": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
@@ -305,6 +305,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50-year anniversary.",
+    "pinned": false
+  },
+  {
+    "id": "9cade7c8c294",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis\u2019 Pluvicto expansion</a>",
+    "url": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novartis\u2019 flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that",
     "pinned": false
   },
   {
@@ -319,14 +330,102 @@
     "pinned": false
   },
   {
-    "id": "fa3707d8c5ff",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/gilead-partners-calm-roll-out-disease-specific-emotional-wellness-support\" hreflang=\"en\">Gilead partners with Calm to roll out disease-specific emotional wellness support</a>",
-    "url": "https://www.fiercepharma.com/marketing/gilead-partners-calm-roll-out-disease-specific-emotional-wellness-support",
-    "source": "Fierce Pharma",
+    "id": "78cde94f0401",
+    "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
+    "url": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-08",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Sleep app Calm is helping Gilead achieve its dream of helping its patients through a journey of whole-person health.",
+    "summary": "Roche has inked a drug discovery deal with Chinese biotech Defand Therapeutics, focused on molecular glue medicines.",
+    "pinned": false
+  },
+  {
+    "id": "22667afbb764",
+    "title": "The Nobel boys club (again)",
+    "url": "https://www.statnews.com/2026/10/08/health-news-nobel-boys-club-again-2026-winners/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "All six Nobel awardees in physiology or medicine, physics, and chemistry this year were men. Women make up 4% of laureates since the award\u2019s inception.",
+    "pinned": false
+  },
+  {
+    "id": "64e717d44837",
+    "title": "STAT+: Biotech companies are struggling to navigate Trump\u2019s new tariffs",
+    "url": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes.",
+    "pinned": false
+  },
+  {
+    "id": "3614b5a29d9c",
+    "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
+    "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Power House health committees could get a lot of new members after the midterms.",
+    "pinned": false
+  },
+  {
+    "id": "143137e0d5cf",
+    "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
+    "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Policy",
+    "summary": "\u201cA small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,\u201d writes an HHS leader.",
+    "pinned": false
+  },
+  {
+    "id": "f4f263699345",
+    "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
+    "url": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Eliminating hepatitis C is achievable \u2014 if the U.S. seriously invests in it, experts write.",
+    "pinned": false
+  },
+  {
+    "id": "23890ec7d82a",
+    "title": "STAT+: Why this startup is taking its AI to predict breast cancer risk directly to patients",
+    "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A startup didn't want to wait for doctors and insurers to get behind its breast-cancer risk prediction AI. So it's going directly to patients.",
+    "pinned": false
+  },
+  {
+    "id": "1f9a28c4497e",
+    "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
+    "url": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "There\u2019s increasing evidence that older women with breast cancer could benefit from more tailored treatments. STAT Wunderkind Neil Carleton is working to make that a reality.",
+    "pinned": false
+  },
+  {
+    "id": "1e375791f20b",
+    "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
+    "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cDon\u2019t google,\u201d the pediatric geneticist warned. It took me five years to disobey.",
     "pinned": false
   },
   {
@@ -429,94 +528,6 @@
     "pinned": false
   },
   {
-    "id": "b98ebbc4409d",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about WHO obesity guidelines for kids, DOJ targeting pharma, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/07/who-obesity-guidelines-for-kids-doj-targets-pharma/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The World Health Organization released its first guidelines addressing the sharp rise in obesity among children and adolescents",
-    "pinned": false
-  },
-  {
-    "id": "063677223a14",
-    "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
-    "url": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Policy",
-    "summary": "The Justice Department issued a new directive for combating fraud that noted the agency will pursue violations of a federal law that tightly regulates the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "420006e02288",
-    "title": "ER visits from people born outside the U.S. dropped after ICE raids",
-    "url": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year.",
-    "pinned": false
-  },
-  {
-    "id": "c06c2be553c6",
-    "title": "2026 Nobel Prize in chemistry awarded for \u2018mirror image\u2019 molecule research, with impact on pharmacology",
-    "url": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Henri B. Kagan and Kenso Soai were awarded the 2026 Nobel Prize in chemistry on Wednesday for solving a mystery with research on \"mirror image\" molecules.",
-    "pinned": false
-  },
-  {
-    "id": "6211eb205b84",
-    "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
-    "url": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma.",
-    "pinned": false
-  },
-  {
-    "id": "e3c110f1f730",
-    "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
-    "url": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Exon-skipping drugs present a critical test for the FDA\u2019s goal of encouraging treatments for rare disease.",
-    "pinned": false
-  },
-  {
-    "id": "8fcade10dc29",
-    "title": "STAT+: Democrats plot a midterms push for MAHA voters",
-    "url": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them.",
-    "pinned": false
-  },
-  {
-    "id": "13cff566a836",
-    "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it \u2018untreated cancer\u2019",
-    "url": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cI reject the idea that a man who keeps every prostate cancer surveillance appointment has \u2018untreated cancer,\u2019\u201d writes Howard Wolinsky.",
-    "pinned": false
-  },
-  {
     "id": "e763d5d20730",
     "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
     "url": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
@@ -580,17 +591,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yhZeSjaTnkEPhD3uiSdGtISDkhL0flozgCqPXty174c/g:nowe:0:242/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRUhDLmpwZw==.webp\" /></div></figure><p>The purchase expands GE HealthCare&rsquo;s radiopharmaceut",
-    "pinned": false
-  },
-  {
-    "id": "69b1e2fbde21",
-    "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
-    "url": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli.",
     "pinned": false
   },
   {
