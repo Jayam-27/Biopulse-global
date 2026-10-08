@@ -1,5 +1,27 @@
 [
   {
+    "id": "206b6174f61c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor\" hreflang=\"en\">Endeavor\u2019s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor</a>",
+    "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+    "pinned": false
+  },
+  {
+    "id": "696eef25f896",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic\" hreflang=\"en\">AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic</a>",
+    "url": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+    "source": "Fierce Biotech",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+    "pinned": false
+  },
+  {
     "id": "c689255b6f4b",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant\" hreflang=\"en\">\u2018It\u2019s just survival now\u2019: Why is almost a third of Boston\u2019s life sciences lab space sitting vacant?</a>",
     "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
@@ -18,7 +40,7 @@
     "date": "2026-10-08",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Japan\u2019s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven\u2019s IgG degraders led by a phase 3-stage Grave\u2019s disease prospect.",
+    "summary": "Japan\u2019s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven\u2019s IgG degraders, led by a phase 3-stage Grave\u2019s disease prospect.",
     "pinned": false
   },
   {
@@ -143,25 +165,80 @@
     "pinned": false
   },
   {
-    "id": "3ee93bc2d6e1",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates\" hreflang=\"en\">CAR-T biotech Caribou makes \u2018heartbreaking\u2019 call to shrink headcount, halt pipeline</a>",
-    "url": "https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates",
-    "source": "Fierce Biotech",
+    "id": "5e3982af61e4",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bms-fills-out-zenbexus-picture-post-approval-pfs-victory-multiple-myeloma\" hreflang=\"en\">BMS fills out Zenbexus picture with post-approval PFS victory in multiple myeloma</a>",
+    "url": "https://www.fiercepharma.com/pharma/bms-fills-out-zenbexus-picture-post-approval-pfs-victory-multiple-myeloma",
+    "source": "Fierce Pharma",
     "date": "2026-10-08",
     "country": "Global",
-    "category": "Company News",
-    "summary": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "BMS has put up the progression-free survival numbers on its recently approved Zenbexus regimen, more than doubling the score over a control cocktail of daratumumab, bortezomib and dexamethasone.",
     "pinned": false
   },
   {
-    "id": "e41227b48c53",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs\" hreflang=\"en\">Stryker strikes up a new CEO in Spencer Stiles as Kevin Lobo moves upstairs</a>",
-    "url": "https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs",
-    "source": "Fierce Biotech",
+    "id": "6b49cc18975e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/pfizers-tukysa-snags-first-line-approval-her2-breast-cancer\" hreflang=\"en\">Pfizer's Tukysa snags first-line approval in HER2+ breast cancer maintenance</a>",
+    "url": "https://www.fiercepharma.com/pharma/pfizers-tukysa-snags-first-line-approval-her2-breast-cancer",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Pfizer bagged a coveted first-line maintenance approval for Tukysa. In combination with HER2 antibody drugs, the treatment can significantly delay disease progression for patients with advanced breast cancer.",
+    "pinned": false
+  },
+  {
+    "id": "40af162d8945",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b\" hreflang=\"en\">Viatris to snap up Pacira's non-opioid pain pipeline for $1.65B</a>",
+    "url": "https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "In a push to up its investments in patent-protected medicines, Viatris is set to acquire Pacira BioSciences, including two high-margin non-opioid pain therapies.<br />",
+    "pinned": false
+  },
+  {
+    "id": "4887bbbea72e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/argenx-walks-away-vyvgart-sjogrens-disease-trial-after-futility-flag\" hreflang=\"en\">Argenx walks away from Vyvgart Sj\u00f6gren's disease trial after futility flag</a>",
+    "url": "https://www.fiercepharma.com/pharma/argenx-walks-away-vyvgart-sjogrens-disease-trial-after-futility-flag",
+    "source": "Fierce Pharma",
     "date": "2026-10-08",
     "country": "Global",
     "category": "Company News",
-    "summary": "Stryker veteran Spencer Stiles will take up the chief executive role as its former CEO Kevin Lobo will move into the boardroom.",
+    "summary": "Just shy of two months after teeing up its FcRn blocker Vyvgart Hytrulo for entry into another potential immunology niche, argenx has stumbled in a late-stage trial testing the drug against a separate target.",
+    "pinned": false
+  },
+  {
+    "id": "8df7aa9b190e",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/csl-seqirus-blasted-multiple-and-prolonged-deficiencies\" hreflang=\"en\">CSL Seqirus blasted for \u2018multiple and prolonged deficiencies\u2019</a>",
+    "url": "https://www.fiercepharma.com/marketing/csl-seqirus-blasted-multiple-and-prolonged-deficiencies",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "A U.K. drug marketing watchdog has slammed CSL Seqirus for \u201cmultiple and prolonged deficiencies\u201d in its systems, governance and oversight.",
+    "pinned": false
+  },
+  {
+    "id": "a85217937561",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/melissa-explains-it-all-menopause-team-bayer\" hreflang=\"en\">Melissa explains it all in menopause team up with Bayer</a>",
+    "url": "https://www.fiercepharma.com/marketing/melissa-explains-it-all-menopause-team-bayer",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Bayer is teaming up with American actress and director Melissa Joan Hart to boost awareness about hot flashes treatment Lynkuet by tapping her personal experiences.",
+    "pinned": false
+  },
+  {
+    "id": "d5e53c368476",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/theramex-pays-250m-rights-asieris-first-kind-cervical-lesion-treatment\" hreflang=\"en\">Theramex pays up to $250M for Asieris' novel cervical lesion treatment</a>",
+    "url": "https://www.fiercepharma.com/pharma/theramex-pays-250m-rights-asieris-first-kind-cervical-lesion-treatment",
+    "source": "Fierce Pharma",
+    "date": "2026-10-08",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Should an EU approval go through, the deal allows Asieris to piggyback its global expansion on Theramex\u2019s established women\u2019s health infrastructure across Europe.",
     "pinned": false
   },
   {
@@ -253,80 +330,124 @@
     "pinned": false
   },
   {
-    "id": "dfa872022fd2",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/vml-healths-molly-kanofsky-loves-turning-idea-page-real-world-impact\" hreflang=\"en\">Rising Stars: How VML Health\u2019s Molly Kanofsky turns \u2018an idea on a page\u2019 into real-world impact</a>",
-    "url": "https://www.fiercepharma.com/marketing/vml-healths-molly-kanofsky-loves-turning-idea-page-real-world-impact",
-    "source": "Fierce Pharma",
+    "id": "f4100b372b08",
+    "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+    "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+    "source": "BioPharma Dive",
     "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "VML Health's Molly Kanofsky ended up in the pharma marketing world after an unexpected career detour, where she's now able to merge her passion for healthcare with her creative side.",
-    "pinned": false
-  },
-  {
-    "id": "f980e68f0d2f",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/noom-puts-spooky-voice-haunting-threat-weight-regain-glp-1-users-new-spot\" hreflang=\"en\">Noom puts a spooky voice to the haunting threat of weight regain for GLP-1 users in new spot</a>",
-    "url": "https://www.fiercepharma.com/marketing/noom-puts-spooky-voice-haunting-threat-weight-regain-glp-1-users-new-spot",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Noom's horror movie-esque new ad showcases the haunting threat of weight regain on GLP-1s, which the Noom app can help fend off.",
-    "pinned": false
-  },
-  {
-    "id": "d2b35fa41eef",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/viiv-girds-data-package-cabenuva-competitive-hiv-treatment-market\" hreflang=\"en\">ViiV girds data package for Cabenuva in competitive HIV treatment market</a>",
-    "url": "https://www.fiercepharma.com/pharma/viiv-girds-data-package-cabenuva-competitive-hiv-treatment-market",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "As competition in both the HIV treatment and prevention fields continues to mount, GSK\u2019s ViiV Healthcare is looking to expand the reach of its long-acting Cabenuva, homing in on the combination treatment\u2019s potential to help people whose infection isn\u2019t adequately kept in check by",
-    "pinned": false
-  },
-  {
-    "id": "cdb14fafcd42",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/abbvie-genmab-tout-ph3-first-line-win-epkinly-mounting-rivalry-roche\" hreflang=\"en\">AbbVie, Genmab score first-line DLBCL win for Epkinly, teeing up challenge to Roche's Polivy</a>",
-    "url": "https://www.fiercepharma.com/pharma/abbvie-genmab-tout-ph3-first-line-win-epkinly-mounting-rivalry-roche",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Epkinly plus R-CHOP cut the risk of progression or death by 51% compared with R-CHOP alone in newly diagnosed DLBCL, setting up a potential first-line challenge to Roche\u2019s Polivy.",
-    "pinned": false
-  },
-  {
-    "id": "4d42b9950eac",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary\" hreflang=\"en\">Genentech celebrates 50 years of 'The Impossible Bet' in anniversary documentary</a>",
-    "url": "https://www.fiercepharma.com/marketing/genentech-celebrates-50-years-impossible-bet-anniversary-documentary",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Known as the \"original biotech,\" Genentech is unlocking its archives to shine light on its past, present and future in a new documentary celebrating its 50-year anniversary.",
-    "pinned": false
-  },
-  {
-    "id": "9cade7c8c294",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion\" hreflang=\"en\">Proposed nuclear safety rules threaten to stall Novartis\u2019 Pluvicto expansion</a>",
-    "url": "https://www.fiercepharma.com/pharma/proposed-nuclear-safety-rules-threaten-stall-novartis-pluvicto-expansion",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novartis\u2019 flagship radioligand therapy Pluvicto entered a rapid growth phase recently, driven by FDA approvals in earlier-stage prostate cancer and broader uptake in community settings. But a regulatory overhaul proposed by federal nuclear authorities now threatens to derail that",
-    "pinned": false
-  },
-  {
-    "id": "eceae65b8b13",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/bd-commits-19b-amid-us-onshoring-push-3b-earmarked-manufacturing-growth\" hreflang=\"en\">BD commits $19B amid US onshoring push, with $3B earmarked for manufacturing growth</a>",
-    "url": "https://www.fiercepharma.com/pharma/bd-commits-19b-amid-us-onshoring-push-3b-earmarked-manufacturing-growth",
-    "source": "Fierce Pharma",
-    "date": "2026-10-08",
-    "country": "Global",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "With a substantial multi-year investment in the offing, BD has joined a wave of healthcare companies upping their commitments to the U.S., this time focusing squarely on medical technology and the essential consumables used daily by doctors and patients.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/b93a1GqR6kuP7wD2oNWtD1DNuJpzHOgoQ7ZHIJxSNNs/g:nowe:19:97/c:980:554/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RLUdsb2JhbEhRX1NvdXRocG9pbnRlXzIucG5n.webp\" /></div></figure><p>The deal hands Viatris two non-opio",
+    "pinned": false
+  },
+  {
+    "id": "ec043494245e",
+    "title": "Argenx falls as Sj\u00f6gren\u2019s setback offsets celiac drug progress",
+    "url": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/xa_T0oT9Hj8F-wJjKfJeFkbn4Yqp_lT58dL0S4GszxY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjEzNjQ4MDJfMS5qcGc=.webp\" /></div></figure><p>A monitoring board&rsquo;s recommendation to stop the",
+    "pinned": false
+  },
+  {
+    "id": "683c79999b3b",
+    "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+    "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The struggling cell therapy developer is exploring st",
+    "pinned": false
+  },
+  {
+    "id": "16ab5b6fe2d5",
+    "title": "STAT+: House Democrat seeks to scrap No Surprises Act\u2019s costly arbitration process",
+    "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A new proposal in Congress to scrap a surprise billing ban\u2019s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+    "pinned": false
+  },
+  {
+    "id": "ea4da91e3b78",
+    "title": "NIH funding uncertainty thwarts U.S. researchers",
+    "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+    "pinned": false
+  },
+  {
+    "id": "b231a269ebfb",
+    "title": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+    "url": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.",
+    "pinned": false
+  },
+  {
+    "id": "85ba04783413",
+    "title": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
+    "url": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races.",
+    "pinned": false
+  },
+  {
+    "id": "f2ddf2cf5f74",
+    "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+    "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.",
+    "pinned": false
+  },
+  {
+    "id": "a922e2ae7ce9",
+    "title": "FDA says its safety review of abortion pill will continue into next year",
+    "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+    "pinned": false
+  },
+  {
+    "id": "d483fc5eb6ae",
+    "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+    "url": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Argenx said its blockbuster drug Vyvgart didn\u2019t outperform placebo in a Phase 3 trial of patients with Sj\u00f6gren's disease, a chronic autoimmune disorder.",
+    "pinned": false
+  },
+  {
+    "id": "c7cc4cddf5fc",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about PhRMA suing Trump, biotech frustration over tariffs, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/08/phrma-suing-trump-biotech-frustration-tariffs-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-08",
+    "country": "US",
+    "category": "Policy",
+    "summary": "PhRMA is suing the Trump administration, smaller biotech firms are frustrated over tariffs, and more of the latest pharma news.",
     "pinned": false
   },
   {
@@ -407,28 +528,6 @@
     "pinned": false
   },
   {
-    "id": "1f9a28c4497e",
-    "title": "Breast cancer can behave differently in older women. This physician is making more tailored treatments a reality",
-    "url": "https://www.statnews.com/2026/10/08/breast-cancer-research-older-women-neil-carleton-stat-wunderkind/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "There\u2019s increasing evidence that older women with breast cancer could benefit from more tailored treatments. STAT Wunderkind Neil Carleton is working to make that a reality.",
-    "pinned": false
-  },
-  {
-    "id": "1e375791f20b",
-    "title": "A mother-daughter quest to find fellow members of an ultra-rare genetic community",
-    "url": "https://www.statnews.com/2026/10/08/rare-disease-nicolaides-baraitser-syndrome-history-ncbrs-researchers/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cDon\u2019t google,\u201d the pediatric geneticist warned. It took me five years to disobey.",
-    "pinned": false
-  },
-  {
     "id": "5668e4d9a4f8",
     "title": "Caribou to halt CAR-T work, lay off staff amid \u2018challenging\u2019 funding climate",
     "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
@@ -458,73 +557,7 @@
     "date": "2026-10-07",
     "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JnHvBGTJSr4l47AX16fQPWTTjXcgfRWSvOqrX8Sx6rc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY5MzE1MzcxLmpwZw==.webp\" /></div></figure><p>Cerevance plans to meet with the FDA to &ldquo;determ",
-    "pinned": false
-  },
-  {
-    "id": "2e6814462d8b",
-    "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
-    "url": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics.",
-    "pinned": false
-  },
-  {
-    "id": "83a92c20ca3f",
-    "title": "Trump administration proposes $70,000 fee for popular international student work program",
-    "url": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience",
-    "pinned": false
-  },
-  {
-    "id": "fe4cfa4c9670",
-    "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
-    "url": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Policy",
-    "summary": "The brand drug industry\u2019s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries.",
-    "pinned": false
-  },
-  {
-    "id": "edd19d796e4f",
-    "title": "STAT+: Merck suffers a setback in Europe over its new Keytruda formulation",
-    "url": "https://www.statnews.com/pharmalot/2026/10/07/merck-suffers-setback-in-europe-over-new-keytruda-formulation/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In a setback for Merck, a Dutch court ordered a halt to the manufacturing and marketing of a subcutaneous formulation of Keytruda in several European countries.",
-    "pinned": false
-  },
-  {
-    "id": "3c4c7671964e",
-    "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
-    "url": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Forbion, a prominent European venture capital firm, said it has raised $2.6 billion, its largest fundraise\u00a0to date and one of the largest in the region in recent years.",
-    "pinned": false
-  },
-  {
-    "id": "6e7698580d5c",
-    "title": "STAT+: Why health AI pilots in Utah may be on a collision course with the FDA",
-    "url": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-07",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "In this edition of STAT's AIP Prognosis: Unresolved regulatory questions around Utah's AI sandbox, and more health AI news.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JnHvBGTJSr4l47AX16fQPWTTjXcgfRWSvOqrX8Sx6rc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY5MzE1MzcxLmpwZw==.webp\" /></div></figure><p>Cerevance plans to meet with the FDA to determine nex",
     "pinned": false
   },
   {
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<p>This podcast explores how leading Alzheimer&rsquo;s experts are working to bridge the gap between clinical trial design and frontline care.</p>",
-    "pinned": false
-  },
-  {
-    "id": "4812f1c52a16",
-    "title": "The top biopharma conferences in 2027",
-    "url": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8m2UUy2QBRQsGJIHWjhIc6YLzal_YHYoOaoVXxoJxYI/g:nowe:0:592/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjg1NF9IQm41Q0loLmpwZw==.webp\" /></div></figure><p>Medical meetings often feature important ",
-    "pinned": false
-  },
-  {
-    "id": "1af7bfc491c0",
-    "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
-    "url": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yhZeSjaTnkEPhD3uiSdGtISDkhL0flozgCqPXty174c/g:nowe:0:242/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRUhDLmpwZw==.webp\" /></div></figure><p>The purchase expands GE HealthCare&rsquo;s radiopharmaceut",
-    "pinned": false
-  },
-  {
-    "id": "badde2bd55b7",
-    "title": "Shionogi pays $2B to acquire a rare disease startup",
-    "url": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-05",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bCvdB3RlwpaRkc128TgqglBZXPpus08ByIP9sT3eHKQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NDcxNjc0NTAuanBn.webp\" /></div></figure><p>The acquisition of Texas-based IntraBio adds to a growing",
     "pinned": false
   }
 ]
