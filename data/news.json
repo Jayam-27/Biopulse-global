@@ -1,5 +1,27 @@
 [
   {
+    "id": "b8119d85dfdd",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15\" hreflang=\"en\">How we picked the Fierce 15</a>",
+    "url": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+    "source": "Fierce Biotech",
+    "date": "2026-10-09",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "What does it mean to be a Fierce 15 biotech in 2026? With this year\u2019s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+    "pinned": false
+  },
+  {
+    "id": "77455f02ea99",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing\" hreflang=\"en\">Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing</a>",
+    "url": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+    "source": "Fierce Biotech",
+    "date": "2026-10-09",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+    "pinned": false
+  },
+  {
     "id": "206b6174f61c",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor\" hreflang=\"en\">Endeavor\u2019s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor</a>",
     "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
@@ -143,25 +165,14 @@
     "pinned": false
   },
   {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Matchpoint makes $150M; KymaThera corrals $80M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
+    "id": "87ad4068ab92",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/pharmas-free-lunches-clinicians-bloat-prescription-bills-cochrane-review\" hreflang=\"en\">Pharma\u2019s free lunches for clinicians bloat prescription bills: Cochrane review</a>",
+    "url": "https://www.fiercepharma.com/marketing/pharmas-free-lunches-clinicians-bloat-prescription-bills-cochrane-review",
+    "source": "Fierce Pharma",
     "date": "2026-10-09",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "pinned": false
-  },
-  {
-    "id": "a5d47e129313",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly\" hreflang=\"en\">MimiVax\u2019s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as \u2018inspiring\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
-    "source": "Fierce Biotech",
-    "date": "2026-10-09",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under.",
+    "category": "Company News",
+    "summary": "Promotional interactions between clinicians and pharmaceutical companies are probably associated with harmful outcomes, according to a Cochrane review that assessed free meals, ads and other dealings.",
     "pinned": false
   },
   {
@@ -319,14 +330,58 @@
     "pinned": false
   },
   {
-    "id": "ca2f474b5665",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/catalent-wins-access-iro-and-launches-next-gen-development-platform\" hreflang=\"en\">Catalent wins access to Iro and launches next-gen development platform</a>",
-    "url": "https://www.fiercepharma.com/pharma/catalent-wins-access-iro-and-launches-next-gen-development-platform",
-    "source": "Fierce Pharma",
+    "id": "b7abba98f028",
+    "title": "TRex Bio prices $117M IPO to support immune drug work",
+    "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
+    "source": "BioPharma Dive",
     "date": "2026-10-09",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sBtYKKH5sscDVuLjDSQCOXakDVLL95AbneXd6jzxisM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA2NlhKLmpwZw==.webp\" /></div></figure><p>Eli Lilly is the largest equity holder in TRex, which is developing drugs",
+    "pinned": false
+  },
+  {
+    "id": "16bdd7f127fb",
+    "title": "STAT+: Will MAHA survive the midterms?",
+    "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-09",
+    "country": "US",
     "category": "Company News",
-    "summary": "Catalent will gain access to Ori's Iro platform, a proprietary automated cell and gene therapy manufacturing system that speeds up development and reduces costs.",
+    "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
+    "pinned": false
+  },
+  {
+    "id": "41dcb417c93c",
+    "title": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+    "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-09",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cErasing data does not erase need or harm,\u201d writes social epidemiologist Nancy Krieger.",
+    "pinned": false
+  },
+  {
+    "id": "70821b9e0435",
+    "title": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
+    "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-09",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cBasic studies led to clinical and translational advances that no one could have predicted,\u201d Robert Gallo writes of his work with interleukin-2.",
+    "pinned": false
+  },
+  {
+    "id": "217322f20592",
+    "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+    "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-09",
+    "country": "US",
+    "category": "Company News",
+    "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
     "pinned": false
   },
   {
@@ -484,50 +539,6 @@
     "pinned": false
   },
   {
-    "id": "64e717d44837",
-    "title": "STAT+: Biotech companies are struggling to navigate Trump\u2019s new tariffs",
-    "url": "https://www.statnews.com/2026/10/08/trump-tariffs-section-232-imported-prescription-drugs-challenge-biotech-companies/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Smaller biotech firms are trying to figure out how to win exemptions from Trump's import taxes.",
-    "pinned": false
-  },
-  {
-    "id": "3614b5a29d9c",
-    "title": "STAT+: Dozens of Democrats vie for slots on key House health committees",
-    "url": "https://www.statnews.com/2026/10/08/midterm-election-democrats-vie-for-roles-house-health-care-committees/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Power House health committees could get a lot of new members after the midterms.",
-    "pinned": false
-  },
-  {
-    "id": "143137e0d5cf",
-    "title": "Opinion: How CMS plans to fix a major flaw in the 340B drug discount program",
-    "url": "https://www.statnews.com/2026/10/08/340b-drug-discount-program-cms-reform-proposal/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Policy",
-    "summary": "\u201cA small, well-intended discount for safety net hospitals became a large institutional subsidy with expensive unintended consequences,\u201d writes an HHS leader.",
-    "pinned": false
-  },
-  {
-    "id": "f4f263699345",
-    "title": "Opinion: England and other nations are on the path toward eliminating hepatitis C. Why not the U.S.?",
-    "url": "https://www.statnews.com/2026/10/08/us-hepatitis-c-cure-medication-cost-elimination/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Eliminating hepatitis C is achievable \u2014 if the U.S. seriously invests in it, experts write.",
-    "pinned": false
-  },
-  {
     "id": "5668e4d9a4f8",
     "title": "Caribou to halt CAR-T work, lay off staff amid \u2018challenging\u2019 funding climate",
     "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WrykHCObgQORJy6_Nsx19TUHTg8V8DEoa5UN1HcFlZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcxODMyMDY3LmpwZw==.webp\" /></div></figure><p>The better-than-expected results could make Epkinly t",
-    "pinned": false
-  },
-  {
-    "id": "48a937198164",
-    "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer\u2019s Research in Focus",
-    "url": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-06",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<p>This podcast explores how leading Alzheimer&rsquo;s experts are working to bridge the gap between clinical trial design and frontline care.</p>",
     "pinned": false
   }
 ]
