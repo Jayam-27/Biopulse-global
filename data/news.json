@@ -1,5 +1,49 @@
 [
   {
+    "id": "38e0359c51e8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence\" hreflang=\"en\">BioNTech\u2019s mRNA cancer vaccine fails phase 3 test, significantly denting analysts\u2019 confidence</a>",
+    "url": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
+    "source": "Fierce Biotech",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2/3 clinical trial of BioNTech\u2019s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patients in the metastatic head and neck cancer",
+    "pinned": false
+  },
+  {
+    "id": "1b9f62183a15",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race\" hreflang=\"en\">Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
+    "source": "Fierce Biotech",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics\u2019 ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
+    "pinned": false
+  },
+  {
+    "id": "292b6decd4a9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field\" hreflang=\"en\">Pfizer inks $500M Enodia pact to join Lilly in emerging protein degrader field</a>",
+    "url": "https://www.fiercebiotech.com/biotech/pfizer-inks-500m-enodia-pact-join-lilly-emerging-protein-degrader-field",
+    "source": "Fierce Biotech",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Pfizer has followed Eli Lilly into the Sec61 space, inking a $500 million deal with Enodia Therapeutics days after its Big Pharma peer formed an $870 million pact with Gate Bioscience.",
+    "pinned": false
+  },
+  {
+    "id": "84739a50a5ab",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option\" hreflang=\"en\">Nurix drops one BTK degrader as momentum builds behind Roche-partnered option</a>",
+    "url": "https://www.fiercebiotech.com/biotech/nurix-drops-one-btk-inhibitor-momentum-builds-behind-roche-partnered-option",
+    "source": "Fierce Biotech",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Nurix\u2019s BTK degrader zelebrudomide may have survived a clinical hold in recent years, but that hasn\u2019t stopped the California biotech from dropping the cancer drug.",
+    "pinned": false
+  },
+  {
     "id": "d8fe57126e7e",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data\" hreflang=\"en\">Roche sets sights on FDA approval decision of July 2027 with updated eye drug data</a>",
     "url": "https://www.fiercebiotech.com/biotech/roche-sets-sights-july-fda-ruling-updated-eye-drug-data",
@@ -121,47 +165,36 @@
     "pinned": false
   },
   {
-    "id": "77455f02ea99",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing\" hreflang=\"en\">Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing</a>",
-    "url": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
-    "source": "Fierce Biotech",
-    "date": "2026-10-13",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
-    "pinned": false
-  },
-  {
-    "id": "206b6174f61c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor\" hreflang=\"en\">Endeavor\u2019s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor</a>",
-    "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
-    "source": "Fierce Biotech",
-    "date": "2026-10-13",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
-    "pinned": false
-  },
-  {
-    "id": "696eef25f896",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic\" hreflang=\"en\">AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic</a>",
-    "url": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
-    "source": "Fierce Biotech",
-    "date": "2026-10-13",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
-    "pinned": false
-  },
-  {
-    "id": "c689255b6f4b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant\" hreflang=\"en\">\u2018It\u2019s just survival now\u2019: Why is almost a third of Boston\u2019s life sciences lab space sitting vacant?</a>",
-    "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
-    "source": "Fierce Biotech",
+    "id": "87ea4ce38e99",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/ucb-fashions-wear-it-out-project-empowering-t-shirts-community-inflammatory-disease\" hreflang=\"en\">UCB fashions \u2018Wear It Out\u2019 project with empowering t-shirts, community for inflammatory disease patients</a>",
+    "url": "https://www.fiercepharma.com/marketing/ucb-fashions-wear-it-out-project-empowering-t-shirts-community-inflammatory-disease",
+    "source": "Fierce Pharma",
     "date": "2026-10-13",
     "country": "Global",
     "category": "Company News",
-    "summary": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+    "summary": "The t-shirts let those with hidradenitis suppurativa (HS), plaque psoriasis and psoriatic arthritis (PsA) reclaim clothes they may avoid due to their disease.",
+    "pinned": false
+  },
+  {
+    "id": "b35c5b126abc",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/arpa-h-program-manager-talks-first-shoring-philosophy-behind-125m-rna-manufacturing-network\" hreflang=\"en\">ARPA-H program manager talks 'first-shoring' philosophy behind $125M RNA manufacturing network challenge</a>",
+    "url": "https://www.fiercepharma.com/pharma/arpa-h-program-manager-talks-first-shoring-philosophy-behind-125m-rna-manufacturing-network",
+    "source": "Fierce Pharma",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Rather than another instance of on-shoring enthusiasm, ARPA-H\u2019s personalized RNA drug production network project should be viewed as more akin to a \u201cfirst-shoring program,\u201d said John Schiel, Ph.D., program manager for GIVE at ARPA-H.",
+    "pinned": false
+  },
+  {
+    "id": "e6cb36c03566",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/galderma-sculpts-new-narrative-around-menopausal-skin-changes-fill-awareness-gap\" hreflang=\"en\">Galderma sculpts new narrative around menopausal skin changes to fill awareness gap</a>",
+    "url": "https://www.fiercepharma.com/marketing/galderma-sculpts-new-narrative-around-menopausal-skin-changes-fill-awareness-gap",
+    "source": "Fierce Pharma",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "One in two women is unaware that hormonal fluctuations during perimenopause and menopause can affect their skin, a Galderma survey found.",
     "pinned": false
   },
   {
@@ -231,17 +264,6 @@
     "pinned": false
   },
   {
-    "id": "6057242da218",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/mediaos-tackles-healthcare-advertisings-identity-challenge\" hreflang=\"en\">Media OS is designed to tackle healthcare advertising's identity challenge</a>",
-    "url": "https://www.fiercepharma.com/sponsored/mediaos-tackles-healthcare-advertisings-identity-challenge",
-    "source": "Fierce Pharma",
-    "date": "2026-10-13",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "IQVIA Digital's Jerrad Rickard explains identity, transparency and AI's evolving role in healthcare advertising.",
-    "pinned": false
-  },
-  {
     "id": "2e58573b2ac1",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-data-reshaping-rare-disease-media-strategy\" hreflang=\"en\">How data is reshaping rare disease media strategy</a>",
     "url": "https://www.fiercepharma.com/sponsored/how-data-reshaping-rare-disease-media-strategy",
@@ -250,6 +272,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Addressable Health's Steve Kimm explains how data-driven omnichannel planning is helping rare disease brands maximize media impact.",
+    "pinned": false
+  },
+  {
+    "id": "45aa8b2ebfba",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/data-rich-decision-ready-life-sciences\" hreflang=\"en\">From Data Rich to Decision Ready in Life Sciences</a>",
+    "url": "https://www.fiercepharma.com/sponsored/data-rich-decision-ready-life-sciences",
+    "source": "Fierce Pharma",
+    "date": "2026-10-13",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Within3 leaders discuss why ownership, insight sharing and human judgment are critical to faster decisions.",
     "pinned": false
   },
   {
@@ -275,14 +308,14 @@
     "pinned": false
   },
   {
-    "id": "2654fa33db76",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/how-predictive-modeling-uncovers-blind-spots-patient-journey\" hreflang=\"en\">How Predictive Modeling Uncovers Blind Spots in the Patient Journey</a>",
-    "url": "https://www.fiercepharma.com/sponsored/how-predictive-modeling-uncovers-blind-spots-patient-journey",
+    "id": "7fe42810a098",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge\" hreflang=\"en\">Why Timing Has Become HCP Marketing's Biggest Challenge</a>",
+    "url": "https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge",
     "source": "Fierce Pharma",
     "date": "2026-10-13",
     "country": "Global",
     "category": "Company News",
-    "summary": "Predictive modeling helps pharma marketers reach patients before diagnosis and measure impact beyond traditional audience metrics.",
+    "summary": "Phreesia's ProviderConnect lets teams reach the right clinicians at the right time based on cases they are likely to see in upcoming practice.",
     "pinned": false
   },
   {
@@ -297,42 +330,64 @@
     "pinned": false
   },
   {
-    "id": "f4054dc0fa1f",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-medical-teams-must-lead-dol-strategy\" hreflang=\"en\">Why Medical Teams Must Lead DOL Strategy</a>",
-    "url": "https://www.fiercepharma.com/sponsored/why-medical-teams-must-lead-dol-strategy",
-    "source": "Fierce Pharma",
+    "id": "ae6577049e7f",
+    "title": "STAT+: Takeaways from an evaluation of Google\u2019s diagnostic chatbot, AMIE",
+    "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-13",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Medical, marketing and commercial teams must unite to make digital opinion leader engagement effective in the AI era.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
     "pinned": false
   },
   {
-    "id": "64e2ba3ce0cc",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/fullspan-health-winning-ai-search-revolution\" hreflang=\"en\">Fullspan Health on Winning the AI Search Revolution</a>",
-    "url": "https://www.fiercepharma.com/sponsored/fullspan-health-winning-ai-search-revolution",
-    "source": "Fierce Pharma",
+    "id": "ca118a09fe26",
+    "title": "How many ways can the Trump administration clamp down on international researchers?",
+    "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-13",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Learn how Fullspan Health is helping brands improve AI visibility, build trust and engage patients across the healthcare journey.",
+    "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;",
     "pinned": false
   },
   {
-    "id": "7fe42810a098",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge\" hreflang=\"en\">Why Timing Has Become HCP Marketing's Biggest Challenge</a>",
-    "url": "https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge",
-    "source": "Fierce Pharma",
+    "id": "27c1983c0a39",
+    "title": "Opinion: Lethal injection will never be the same after Christa Pike\u2019s botched execution",
+    "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-13",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Phreesia's ProviderConnect lets teams reach the right clinicians at the right time based on cases they are likely to see in upcoming practice.",
+    "summary": "\u201cThe legal and medical issues in the Christa Pike case are on a collision course,\u201d writes bioethicist M. Sara Rosenthal.",
     "pinned": false
   },
   {
-    "id": "ae335bd7c36b",
+    "id": "d19852292e66",
+    "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
+    "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
+    "pinned": false
+  },
+  {
+    "id": "02181a8be803",
+    "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
+    "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-13",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cHordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,\u201d writes STAT columnist Frances Mei Hardin.",
+    "pinned": false
+  },
+  {
+    "id": "5180f226b432",
     "title": "First Tracks climbs on \u2018impressive\u2019 celiac study data",
-    "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
+    "url": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
     "source": "BioPharma Dive",
     "date": "2026-10-12",
     "country": "US",
@@ -528,39 +583,6 @@
     "pinned": false
   },
   {
-    "id": "41dcb417c93c",
-    "title": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
-    "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cErasing data does not erase need or harm,\u201d writes social epidemiologist Nancy Krieger.",
-    "pinned": false
-  },
-  {
-    "id": "70821b9e0435",
-    "title": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
-    "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cBasic studies led to clinical and translational advances that no one could have predicted,\u201d Robert Gallo writes of his work with interleukin-2.",
-    "pinned": false
-  },
-  {
-    "id": "217322f20592",
-    "title": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
-    "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-09",
-    "country": "US",
-    "category": "Company News",
-    "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
-    "pinned": false
-  },
-  {
     "id": "726245b75300",
     "title": "HHS launches new plan to strengthen vaccine injury research, reporting",
     "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/b93a1GqR6kuP7wD2oNWtD1DNuJpzHOgoQ7ZHIJxSNNs/g:nowe:19:97/c:980:554/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RLUdsb2JhbEhRX1NvdXRocG9pbnRlXzIucG5n.webp\" /></div></figure><p>The deal hands Viatris two non-opio",
-    "pinned": false
-  },
-  {
-    "id": "4cd39217dbe3",
-    "title": "Trump administration investigates 9 universities for alleged visa fraud",
-    "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "16ab5b6fe2d5",
-    "title": "STAT+: House Democrat seeks to scrap No Surprises Act\u2019s costly arbitration process",
-    "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-08",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A new proposal in Congress to scrap a surprise billing ban\u2019s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
     "pinned": false
   }
 ]
