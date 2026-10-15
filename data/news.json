@@ -1,5 +1,60 @@
 [
   {
+    "id": "af0ce02f44a8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery\" hreflang=\"en\">AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs</a>",
+    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
+    "source": "Fierce Biotech",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence. <br />",
+    "pinned": false
+  },
+  {
+    "id": "52b487eb45f2",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline\" hreflang=\"en\">Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline</a>",
+    "url": "https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline",
+    "source": "Fierce Biotech",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Lakefront Biotherapeutics\u2014the new name for Belgium\u2019s Galapagos Therapeutics\u2014has found a buyer for its unwanted cell therapy pipeline.",
+    "pinned": false
+  },
+  {
+    "id": "028390ba025b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline\" hreflang=\"en\">Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline</a>",
+    "url": "https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline",
+    "source": "Fierce Biotech",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Iambic Therapeutics\u2019 IPO came in dead on target, bringing in $150 million for the AI biotech to fuel the clinical development of its oncology pipeline.",
+    "pinned": false
+  },
+  {
+    "id": "070ab2b9bac1",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3\" hreflang=\"en\">Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study</a>",
+    "url": "https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3",
+    "source": "Fierce Biotech",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 3 trial of Vanda Pharmaceuticals\u2019 social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold.",
+    "pinned": false
+  },
+  {
+    "id": "0d8650fec87a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech\" hreflang=\"en\">Why OMass\u2019 $310M series C marks \u2018fantastic milestone\u2019 on journey to become \u2018Britain\u2019s Big Biotech\u2019</a>",
+    "url": "https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech",
+    "source": "Fierce Biotech",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "When Fierce last caught up with OMass Therapeutics\u2019 CEO Ros Deegan, it was hard not to be impressed by the company\u2019s ambition.",
+    "pinned": false
+  },
+  {
     "id": "5491076087d9",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials\" hreflang=\"en\">IQVIA, Veeva expand on existing partnership for speedier clinical trials</a>",
     "url": "https://www.fiercebiotech.com/cro/iqvia-veeva-expand-partnership-speedy-clinical-trials",
@@ -107,61 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Stryker will funnel around $400 million (\u00a3300 million) in a \u201cstrategic\u201d investment in CMR Surgical and its robot surgery tech.",
-    "pinned": false
-  },
-  {
-    "id": "938bfd3e8f5b",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start\" hreflang=\"en\">WCG unveils AI-powered solution to accelerate clinical trial kickoffs</a>",
-    "url": "https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start",
-    "source": "Fierce Biotech",
-    "date": "2026-10-15",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "WCG, a clinical trials solutions provider, is launching an AI-powered program dubbed Activation Intelligence to help study sites accelerate clinical trial start-up.",
-    "pinned": false
-  },
-  {
-    "id": "609e8af2d1cd",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us\" hreflang=\"en\">Insulet\u2019s Omnipod Discover platform sees full market release in US</a>",
-    "url": "https://www.fiercebiotech.com/medtech/insulets-omnipod-discover-platform-sees-full-market-release-us",
-    "source": "Fierce Biotech",
-    "date": "2026-10-15",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Insulet Corporation has announced the U.S. full market release of Omnipod Discover, a web-based data platform designed for Omnipod 5.",
-    "pinned": false
-  },
-  {
-    "id": "38e0359c51e8",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence\" hreflang=\"en\">BioNTech\u2019s mRNA cancer vaccine fails phase 3 test, significantly denting analysts\u2019 confidence</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
-    "source": "Fierce Biotech",
-    "date": "2026-10-15",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 2/3 clinical trial of BioNTech\u2019s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track patients in the metastatic head and neck cancer",
-    "pinned": false
-  },
-  {
-    "id": "32be57dc65e4",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout\" hreflang=\"en\">Biotech builder Paragon imports Apogee's top brass after AbbVie buyout</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biotech-builder-paragon-imports-apogees-leadership-wholesale-wake-abbvie-buyout",
-    "source": "Fierce Biotech",
-    "date": "2026-10-15",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "It\u2019s been a busy morning for Paragon Labs. In addition to bringing over much of the leadership team from AbbVie-acquired Apogee Therapeutics, Paragon has overseen a reverse merger to take its hypertension-focused spinout Velaris Therapeutics public.",
-    "pinned": false
-  },
-  {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Souffl\u00e9 cooks up $135M; Matchpoint makes $150M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
-    "date": "2026-10-15",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
     "pinned": false
   },
   {
@@ -341,6 +341,50 @@
     "pinned": false
   },
   {
+    "id": "e6b2baa0d9fe",
+    "title": "STAT+: On Wall Street, there\u2019s trouble stirring for biotech",
+    "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "On Wall Street, the real trouble for biotech, and the reason\u00a0for investor angst, lies\u00a0below the surface.",
+    "pinned": false
+  },
+  {
+    "id": "bde9fa16f261",
+    "title": "Forty percent of high school students report binge eating in new CDC survey",
+    "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Company News",
+    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
+    "pinned": false
+  },
+  {
+    "id": "521ebb105485",
+    "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+    "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+    "pinned": false
+  },
+  {
+    "id": "1bc019c99b3a",
+    "title": "Opinion: My daughter\u2019s death changed how I understood the nursing shortage",
+    "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
+    "pinned": false
+  },
+  {
     "id": "65b8bfb4b4ac",
     "title": "Compass Pathways CEO: Psychedelics company will \u2018go slow before we go fast\u2019",
     "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
@@ -506,28 +550,6 @@
     "pinned": false
   },
   {
-    "id": "430e7163c4b8",
-    "title": "Opinion: How states can resist the potential Trump vaccine shortages",
-    "url": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Policy",
-    "summary": "\u201cStates can serve as a last line of defense against the Trump administration\u2019s anti-vaccine policy,\u201d writes Joel Dodge.",
-    "pinned": false
-  },
-  {
-    "id": "ef9a3b5b557c",
-    "title": "Opinion: We think a baby\u2019s gut microbiome could be key to lifelong brain health",
-    "url": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWe need more rigorous, large-scale research into the gut-brain axis across the life course,\u201d write Holly Baines and George Vradenburg.",
-    "pinned": false
-  },
-  {
     "id": "af71bcb88c13",
     "title": "Decreasing process variability in fluid management systems",
     "url": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
@@ -569,28 +591,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\" /></div></figure><p>An alliance with Rona Therapeutics adds to a particul",
-    "pinned": false
-  },
-  {
-    "id": "676265150fae",
-    "title": "STAT+: BlackRock to buy majority stake in Humana\u2019s CenterWell clinics for $2.8 billion",
-    "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.",
-    "pinned": false
-  },
-  {
-    "id": "03604eb5d5d3",
-    "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69",
-    "url": "https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.",
     "pinned": false
   },
   {
