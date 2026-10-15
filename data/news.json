@@ -165,6 +165,17 @@
     "pinned": false
   },
   {
+    "id": "93dc141425b8",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/kindeva-meridian-land-226m-defense-contract-supply-nerve-agent-antidote\" hreflang=\"en\">Kindeva lands $226M defense contract to supply nerve agent antidote in US</a>",
+    "url": "https://www.fiercepharma.com/pharma/kindeva-meridian-land-226m-defense-contract-supply-nerve-agent-antidote",
+    "source": "Fierce Pharma",
+    "date": "2026-10-15",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Kindeva's Meridian was awarded a $226 million defense contract to supply the U.S. military with its self-injected nerve agent antidote and bolster national defense against chemical threats.",
+    "pinned": false
+  },
+  {
     "id": "5f0f5f80291e",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/par-health-recalls-22-lots-iv-blood-thinner-its-3rd-recall-month\" hreflang=\"en\">Par Health recalls 22 lots of IV blood thinner, its 3rd US product pull in a month</a>",
     "url": "https://www.fiercepharma.com/pharma/par-health-recalls-22-lots-iv-blood-thinner-its-3rd-recall-month",
@@ -194,7 +205,7 @@
     "date": "2026-10-15",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Gilead's \u201cAhorita Mismo (Right Now!)\u201d stars two popular Latino creators in a call-in podcast themed spot looking to spark conversations around HIV prevention.",
+    "summary": "Gilead's \u201cAhorita Mismo (Right Now!)\u201d stars two popular Latino creators in a call-in podcast-themed spot looking to spark conversations around HIV prevention.",
     "pinned": false
   },
   {
@@ -319,14 +330,14 @@
     "pinned": false
   },
   {
-    "id": "cccc0f674e9a",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam\" hreflang=\"en\">GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam</a>",
-    "url": "https://www.fiercepharma.com/biotech/gsk-lay-over-12k-roles-belgium-cost-saving-program-picks-steam",
-    "source": "Fierce Pharma",
+    "id": "6581f3d68ec6",
+    "title": "Belgian startup revives Galapagos CAR-T research",
+    "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
+    "source": "BioPharma Dive",
     "date": "2026-10-15",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out its global cost-saving plans.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D0L8N1mSAxUmtVXNUWGxMU_1vN4b1NGa4XnnPVKFOZ4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNjMzMTE0MjA1LmpwZw==.webp\" /></div></figure><p>Armed Cell Therapeutics, chaired by former Galapagos ",
     "pinned": false
   },
   {
@@ -349,6 +360,39 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KKSuOxTFPeZit4ONYhxrVBLX3z4TmhuGQrVJamE-W0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2OTg0OTQ5LmpwZw==.webp\" /></div></figure><p>Part of a wave of young biotechs employing AI to acce",
+    "pinned": false
+  },
+  {
+    "id": "aa95bf653de9",
+    "title": "Merck and Moderna have \u2018lot of exploring to do\u2019 after initial cancer vaccine success",
+    "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
+    "pinned": false
+  },
+  {
+    "id": "051c41e08d67",
+    "title": "The Trump administration is doubling down on health care fraud investigations",
+    "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don\u2019t be another Theranos.",
+    "pinned": false
+  },
+  {
+    "id": "852a41cc79de",
+    "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
+    "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-15",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
     "pinned": false
   },
   {
@@ -528,39 +572,6 @@
     "pinned": false
   },
   {
-    "id": "d246a164bb8e",
-    "title": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
-    "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
-    "pinned": false
-  },
-  {
-    "id": "c36bd417c56e",
-    "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
-    "url": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.",
-    "pinned": false
-  },
-  {
-    "id": "e0f1d38f2981",
-    "title": "How consumer tech company Whoop is building for Medicare patients",
-    "url": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.",
-    "pinned": false
-  },
-  {
     "id": "af71bcb88c13",
     "title": "Decreasing process variability in fluid management systems",
     "url": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rOXgWwvAoQejvYyGfhFgyegwrIQjA6F1toVkmaowa6Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk1OTc1MTMyLmpwZw==.webp\" /></div></figure><p>An early data check showed the shot didn&rsquo;t dela",
-    "pinned": false
-  },
-  {
-    "id": "498fad576de1",
-    "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
-    "url": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-13",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_Jl91qpyunJWe-csdceqrcSO_PmI-VBjWQO1KOBqP58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTM3MjY1MDU5LmpwZw==.webp\" /></div></figure><p>An alliance with Rona Therapeutics adds to a particul",
     "pinned": false
   }
 ]
