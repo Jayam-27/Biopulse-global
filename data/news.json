@@ -55,6 +55,17 @@
     "pinned": false
   },
   {
+    "id": "9048d887d683",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test\" hreflang=\"en\">Labcorp, Thrive Global launch latest Thrive 5 health test</a>",
+    "url": "https://www.fiercebiotech.com/medtech/labcorp-thrive-global-launch-latest-thrive-5-health-test",
+    "source": "Fierce Biotech",
+    "date": "2026-10-16",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Labcorp has launched the Thrive 5 Health Test that is now offered through a collaboration with Arianna Huffington's behavior change technology company, Thrive Global.",
+    "pinned": false
+  },
+  {
     "id": "a55dbc0fea09",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Estuary channels $93M series A; OMass obtains $310M</a>",
     "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
@@ -154,14 +165,25 @@
     "pinned": false
   },
   {
-    "id": "0d8650fec87a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech\" hreflang=\"en\">Why OMass\u2019 $310M series C marks \u2018fantastic milestone\u2019 on journey to become \u2018Britain\u2019s Big Biotech\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/why-omass-310m-series-c-fantastic-milestone-journey-become-britains-big-biotech",
-    "source": "Fierce Biotech",
+    "id": "6556bb8c67bc",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/trumps-pharma-holdings-boomed-medicare-price-negotiation-carveouts-democrats-allege\" hreflang=\"en\">Trump's pharma holdings surged as drugmakers benefited from Medicare price negotiation carveouts, Democrats allege</a>",
+    "url": "https://www.fiercepharma.com/pharma/trumps-pharma-holdings-boomed-medicare-price-negotiation-carveouts-democrats-allege",
+    "source": "Fierce Pharma",
     "date": "2026-10-16",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "When Fierce last caught up with OMass Therapeutics\u2019 CEO Ros Deegan, it was hard not to be impressed by the company\u2019s ambition.",
+    "category": "Company News",
+    "summary": "As midterms loom, Democrats on Congress\u2019 Joint Economic Committee (JEC) are reviving concerns about the orphan drug carveout tucked into Republicans\u2019 One Big Beautiful Bill Act, alleging that President Donald Trump accumulated millions of dollars in pharma stocks before and after",
+    "pinned": false
+  },
+  {
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Foundayo, Wegovy pill undergo minor fluctuations</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
+    "date": "2026-10-16",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
     "pinned": false
   },
   {
@@ -173,6 +195,17 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Across the pond, European regulators handed down a pair of pivotal approval recommendations this week, making way for a new front in Novo and Eli Lilly\u2019s oral GLP-1 showdown and endorsing Revolution Medicines\u2019 potential pancreatic cancer gamechanger.",
+    "pinned": false
+  },
+  {
+    "id": "adf2317f5092",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/sanofi-cycles-deeper-athletic-marketing-niche-tour-de-france-partner\" hreflang=\"en\">Sanofi cycles deeper into sports marketing niche as Tour de France partner</a>",
+    "url": "https://www.fiercepharma.com/marketing/sanofi-cycles-deeper-athletic-marketing-niche-tour-de-france-partner",
+    "source": "Fierce Pharma",
+    "date": "2026-10-16",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The French pharma will sponsor the prestigious white jersey, awarded to the best rider under 25, at both the Tour de France and the Tour de France Femmes in 2027.",
     "pinned": false
   },
   {
@@ -205,7 +238,7 @@
     "date": "2026-10-16",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Some six years after scoring an initial FDA nod, Roche\u2019s IL-6 receptor agonist Enspryng is muscling up to Roche's Tepezza in a key eye disease arena.",
+    "summary": "Some six years after scoring an initial FDA nod, Roche\u2019s IL-6 receptor inhibitor Enspryng is muscling up to Amgen's Tepezza in a key eye disease arena.",
     "pinned": false
   },
   {
@@ -297,36 +330,14 @@
     "pinned": false
   },
   {
-    "id": "ff26572e99f6",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-clears-immunitybio-anktiva-expansion-bladder-cancer-after-regulatory-whiplash\" hreflang=\"en\">FDA clears ImmunityBio\u2019s Anktiva expansion in bladder cancer after regulatory whiplash</a>",
-    "url": "https://www.fiercepharma.com/pharma/fda-clears-immunitybio-anktiva-expansion-bladder-cancer-after-regulatory-whiplash",
-    "source": "Fierce Pharma",
+    "id": "89751a758db5",
+    "title": "Iambic CEO on taking an AI drug company public",
+    "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
+    "source": "BioPharma Dive",
     "date": "2026-10-16",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "To expand Anktiva\u2019s label, the FDA adopted a new approach to how it evaluates treatments for BCG-unresponsive NMIBC. The new regulatory path essentially allowed ImmunityBio to bypass an expensive randomized phase 3 trial that competitor Johnson &amp; Johnson is currently forced t",
-    "pinned": false
-  },
-  {
-    "id": "3efcab701e25",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/ultragenyx-makes-swift-413m-return-fda-review-vouchers-after-summer-gene-therapy-nods\" hreflang=\"en\">Ultragenyx makes swift $413M return on FDA review vouchers after summer of gene therapy nods</a>",
-    "url": "https://www.fiercepharma.com/pharma/ultragenyx-makes-swift-413m-return-fda-review-vouchers-after-summer-gene-therapy-nods",
-    "source": "Fierce Pharma",
-    "date": "2026-10-16",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Hot off a pair of key FDA approvals this summer, rare disease specialist Ultragenyx has wasted little time cashing in on the priority review vouchers it earned from the green lights.",
-    "pinned": false
-  },
-  {
-    "id": "6fbf7ac1ae17",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/united-lands-clearcut-win-liquidia-agrees-380m-settlement-tyvaso-patent-infringement-saga\" hreflang=\"en\">United lands 'clear-cut win' as Liquidia agrees to $380M settlement in Tyvaso patent infringement saga</a>",
-    "url": "https://www.fiercepharma.com/pharma/united-lands-clearcut-win-liquidia-agrees-380m-settlement-tyvaso-patent-infringement-saga",
-    "source": "Fierce Pharma",
-    "date": "2026-10-16",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "With a years-long patent dispute between the two drugmakers finally put to bed\u2014complete with a hefty settlement payout\u2014United Therapeutics has clinched what one analyst calls a \u201cclear-cut win\u201d over lung disease rival Liquidia Technologies.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<p>Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.</p>",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/y4ZnE-ebRFmuc-ITWJOkqsjoXAD1lFYu97Rycb1qL9c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTkzNzcxMDk4LmpwZw==.webp\" /></div></figure><p>Prosecutors say the company filled unnecessary prescr",
-    "pinned": false
-  },
-  {
-    "id": "0781b32034b0",
-    "title": "J&J earnings set \u2018negative tone\u2019; Shkreli vs. the FTC",
-    "url": "https://www.biopharmadive.com/news/jnj-earnings-gilead-vir-shkreli-ftc-syndax-pfizer/832879/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A 6% sell-off in J&amp;J shares was ",
     "pinned": false
   }
 ]
