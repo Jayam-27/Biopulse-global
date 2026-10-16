@@ -1,5 +1,16 @@
 [
   {
+    "id": "9cd46821025e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq\" hreflang=\"en\">City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq</a>",
+    "url": "https://www.fiercebiotech.com/biotech/city-goes-public-200m-ipo-while-frazier-takes-biotech-focused-spac-nasdaq",
+    "source": "Fierce Biotech",
+    "date": "2026-10-16",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
+    "pinned": false
+  },
+  {
     "id": "656255a5f356",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest\" hreflang=\"en\">OrbiMed\u2019s largest-ever Asian fund contributes to $3B war chest</a>",
     "url": "https://www.fiercebiotech.com/biotech/orbimeds-largest-ever-asian-fund-contributes-3b-war-chest",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out its global cost-saving plans.",
-    "pinned": false
-  },
-  {
-    "id": "60caafd0aa90",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline\" hreflang=\"en\">Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline</a>",
-    "url": "https://www.fiercebiotech.com/biotech/zealand-inks-12b-generate-pact-add-multispecific-proteins-obesity-pipeline",
-    "source": "Fierce Biotech",
-    "date": "2026-10-16",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion.",
     "pinned": false
   },
   {
@@ -330,6 +330,50 @@
     "pinned": false
   },
   {
+    "id": "00774fe74bf1",
+    "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini\u2019s downfall",
+    "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-16",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
+    "pinned": false
+  },
+  {
+    "id": "5061f0fd6e23",
+    "title": "STAT+: In DOGE\u2019s aftermath, federal health workers bristle at new performance reviews",
+    "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-16",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;",
+    "pinned": false
+  },
+  {
+    "id": "272b47393887",
+    "title": "Opinion: Is Milton Friedman to blame for America\u2019s health care woes?",
+    "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-16",
+    "country": "US",
+    "category": "Policy",
+    "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong \u2014 and how to fix it.",
+    "pinned": false
+  },
+  {
+    "id": "95c6b83d866b",
+    "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
+    "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-16",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
+    "pinned": false
+  },
+  {
     "id": "6581f3d68ec6",
     "title": "Belgian startup revives Galapagos CAR-T research",
     "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
@@ -481,50 +525,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "On Wall Street, the real trouble for biotech, and the reason\u00a0for investor angst, lies\u00a0below the surface.",
-    "pinned": false
-  },
-  {
-    "id": "bde9fa16f261",
-    "title": "Forty percent of high school students report binge eating in new CDC survey",
-    "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
-    "pinned": false
-  },
-  {
-    "id": "521ebb105485",
-    "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
-    "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
-    "pinned": false
-  },
-  {
-    "id": "1bc019c99b3a",
-    "title": "Opinion: My daughter\u2019s death changed how I understood the nursing shortage",
-    "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
-    "pinned": false
-  },
-  {
-    "id": "65b8bfb4b4ac",
-    "title": "Compass Pathways CEO: Psychedelics company will \u2018go slow before we go fast\u2019",
-    "url": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to \u201cgo slow before we go fast.\u201d",
     "pinned": false
   },
   {
