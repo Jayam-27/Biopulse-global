@@ -5,9 +5,9 @@
     "date": "2026-10-18",
     "live": true,
     "unit": "per barrel",
-    "price": 101.41,
+    "price": 99.02,
     "currency": "USD",
-    "change_pct": 6.0
+    "change_pct": 3.5
   },
   {
     "symbol": "NG=F",
@@ -55,9 +55,9 @@
     "date": "2026-10-18",
     "live": true,
     "unit": "per pound",
-    "price": 6.53,
+    "price": 6.57,
     "currency": "USD",
-    "change_pct": -1.67
+    "change_pct": -1.03
   },
   {
     "symbol": "SB=F",
