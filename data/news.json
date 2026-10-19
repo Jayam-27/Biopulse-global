@@ -1,5 +1,27 @@
 [
   {
+    "id": "023abf9505da",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/abbvies-next-gen-crohns-combination-beats-skyrizi-phase-2-trial\" hreflang=\"en\">AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/abbvies-next-gen-crohns-combination-beats-skyrizi-phase-2-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-10-19",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "AbbVie\u2019s next-generation Crohn\u2019s disease combination candidate has beaten Skyrizi in a midphase clinical trial.",
+    "pinned": false
+  },
+  {
+    "id": "3dfe35748df8",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/nouscom-raises-135m-pivotal-trial-cancer-preventing-vaccine-candidate\" hreflang=\"en\">Nouscom raises $135M for pivotal trial of cancer-preventing vaccine candidate</a>",
+    "url": "https://www.fiercebiotech.com/biotech/nouscom-raises-135m-pivotal-trial-cancer-preventing-vaccine-candidate",
+    "source": "Fierce Biotech",
+    "date": "2026-10-19",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Nouscom has reeled in 120 million euros ($135 million) to take a cancer-preventing vaccine through a registration-enabling clinical trial.",
+    "pinned": false
+  },
+  {
     "id": "1cfd4cbe8d6d",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms\" hreflang=\"en\">China looks to ban foreign acquisitions of critical biopharma platforms</a>",
     "url": "https://www.fiercebiotech.com/biotech/china-looks-ban-foreign-acquisitions-critical-biopharma-platforms",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Lakefront Biotherapeutics\u2014the new name for Belgium\u2019s Galapagos Therapeutics\u2014has found a buyer for its unwanted cell therapy pipeline.",
-    "pinned": false
-  },
-  {
-    "id": "028390ba025b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline\" hreflang=\"en\">Iambic goes public with $150M IPO to accelerate clinical development of oncology pipeline</a>",
-    "url": "https://www.fiercebiotech.com/biotech/iambic-goes-public-150m-ipo-accelerate-clinical-development-oncology-pipeline",
-    "source": "Fierce Biotech",
-    "date": "2026-10-19",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Iambic Therapeutics\u2019 IPO came in dead on target, bringing in $150 million for the AI biotech to fuel the clinical development of its oncology pipeline.",
-    "pinned": false
-  },
-  {
-    "id": "070ab2b9bac1",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3\" hreflang=\"en\">Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study</a>",
-    "url": "https://www.fiercebiotech.com/biotech/vanda-pauses-social-anxiety-program-after-ex-novartis-asset-flunks-phase-3",
-    "source": "Fierce Biotech",
-    "date": "2026-10-19",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 3 trial of Vanda Pharmaceuticals\u2019 social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold.",
     "pinned": false
   },
   {
@@ -330,6 +330,105 @@
     "pinned": false
   },
   {
+    "id": "c8309f890b1d",
+    "title": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
+    "url": "https://www.biopharmadive.com/spons/from-strategy-to-scale-how-saudi-arabia-is-building-a-biotech-ecosystem/832761/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Saudi Arabia&rsquo;s biotech strategy now has named partners, sites and capital behind it.</p>",
+    "pinned": false
+  },
+  {
+    "id": "45c443da0c42",
+    "title": "Extractables in single-use systems used in ADC manufacturing",
+    "url": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Explore extractables data supporting single-use systems in ADC manufacturing.</p>",
+    "pinned": false
+  },
+  {
+    "id": "2590e36d31ad",
+    "title": "How early should you engage a CDMO?",
+    "url": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<p>Discover which CMC activities can move forward early, and which decisions need to remain flexible.</p>",
+    "pinned": false
+  },
+  {
+    "id": "d43ccfc1a2fe",
+    "title": "STAT+: Gilead\u2019s IBD drug eliminated symptoms for patients, mid-stage study finds",
+    "url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
+    "pinned": false
+  },
+  {
+    "id": "292caceb30c9",
+    "title": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+    "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for&#8230;",
+    "pinned": false
+  },
+  {
+    "id": "38289d6cec68",
+    "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+    "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether \u2014 and how \u2014 it can deliver on that promise.",
+    "pinned": false
+  },
+  {
+    "id": "5dee72e82de4",
+    "title": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+    "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cSometimes mental illness is terminal,\u201d Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+    "pinned": false
+  },
+  {
+    "id": "918234e228fb",
+    "title": "Opinion: Measles is back \u2014 and becoming a midterm liability for Republicans",
+    "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cSilence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,\u201d write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+    "pinned": false
+  },
+  {
+    "id": "c49a0c7a5436",
+    "title": "STAT+: How the No Surprises Act\u2019s nonprofit arbitrators are operating like \u2018mini gods\u2019 and getting rich doing it",
+    "url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-19",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
+    "pinned": false
+  },
+  {
     "id": "1f7e434fda09",
     "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: \u2018The hardest years of my life\u2019",
     "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
@@ -473,28 +572,6 @@
     "pinned": false
   },
   {
-    "id": "272b47393887",
-    "title": "Opinion: Is Milton Friedman to blame for America\u2019s health care woes?",
-    "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-16",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong \u2014 and how to fix it.",
-    "pinned": false
-  },
-  {
-    "id": "95c6b83d866b",
-    "title": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
-    "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-16",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
-    "pinned": false
-  },
-  {
     "id": "6581f3d68ec6",
     "title": "Belgian startup revives Galapagos CAR-T research",
     "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
@@ -525,83 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KKSuOxTFPeZit4ONYhxrVBLX3z4TmhuGQrVJamE-W0c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc2OTg0OTQ5LmpwZw==.webp\" /></div></figure><p>Part of a wave of young biotechs employing AI to acce",
-    "pinned": false
-  },
-  {
-    "id": "72c0aa9838e7",
-    "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
-    "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "aa95bf653de9",
-    "title": "Merck and Moderna have \u2018lot of exploring to do\u2019 after initial cancer vaccine success",
-    "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
-    "pinned": false
-  },
-  {
-    "id": "051c41e08d67",
-    "title": "The Trump administration is doubling down on health care fraud investigations",
-    "url": "https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don\u2019t be another Theranos.",
-    "pinned": false
-  },
-  {
-    "id": "852a41cc79de",
-    "title": "Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China",
-    "url": "https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-15",
-    "country": "US",
-    "category": "Policy",
-    "summary": "Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.",
-    "pinned": false
-  },
-  {
-    "id": "d66e6bc1a341",
-    "title": "Experimental Arrowhead RNAi drug hints at Alzheimer\u2019s benefit",
-    "url": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_gluo--ffPQcATih2CuusukvSlrAJr96z7PWL69DLpw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgyMDgyODUxLmpwZw==.webp\" /></div></figure><p>In a first, a subcutaneously administered RNA interfe",
-    "pinned": false
-  },
-  {
-    "id": "096ed81032e5",
-    "title": "Verastem cancer drug shows early promise in small study",
-    "url": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WEayUdfuHXoOw2FpmsOFLF4yn7KYNOFOwzm5w7xXaT4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE4Mjc5OTExLmpwZw==.webp\" /></div></figure><p>Wall Street analysts believe Verastem&rsquo;s drug to",
-    "pinned": false
-  },
-  {
-    "id": "30176730417e",
-    "title": "CVS to pay $315M to settle opioid prescribing allegations",
-    "url": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-14",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/y4ZnE-ebRFmuc-ITWJOkqsjoXAD1lFYu97Rycb1qL9c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xOTkzNzcxMDk4LmpwZw==.webp\" /></div></figure><p>Prosecutors say the company filled unnecessary prescr",
     "pinned": false
   }
 ]
