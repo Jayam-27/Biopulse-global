@@ -33,6 +33,17 @@
     "pinned": false
   },
   {
+    "id": "8ae10cd41b63",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report\" hreflang=\"en\">Industry at a \u2018turning point\u2019 with growth dominated by commercial leaders: EY report</a>",
+    "url": "https://www.fiercebiotech.com/medtech/industry-turning-point-growth-dominated-commercial-leaders-ey-report",
+    "source": "Fierce Biotech",
+    "date": "2026-10-20",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "A new report has found that in 2025 through the first half of 2026, innovation increased dealmaking and R&amp;D investment, AI heavily influenced the future of value creation, and that industry growth continued to expand into alternative care settings.",
+    "pinned": false
+  },
+  {
     "id": "5550b87bf835",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study\" hreflang=\"en\">Israeli biotech\u2019s inhaled exosome therapy reduces respiratory failure in phase 2 study</a>",
     "url": "https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study",
@@ -51,7 +62,7 @@
     "date": "2026-10-20",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this is marks end of the road for the asset.",
+    "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this marks the end of the road for the asset.",
     "pinned": false
   },
   {
@@ -154,14 +165,25 @@
     "pinned": false
   },
   {
-    "id": "b10d659c3e53",
-    "title": "<a href=\"https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182\" hreflang=\"en\">From Scientific Hypothesis to Clinical Practice: The Next Chapter for CLDN18.2</a>",
-    "url": "https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182",
-    "source": "Fierce Biotech",
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Viatris' Ryzumvi wins FDA nod in age-related vision loss</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
+    "date": "2026-10-20",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "42dbac7634d3",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/cdmo-samsung-bio-wins-temporary-reprieve-strike-threat-after-seoul-court-ruling\" hreflang=\"en\">CDMO Samsung Bio wins temporary reprieve from strike threat after Seoul court ruling</a>",
+    "url": "https://www.fiercepharma.com/pharma/cdmo-samsung-bio-wins-temporary-reprieve-strike-threat-after-seoul-court-ruling",
+    "source": "Fierce Pharma",
     "date": "2026-10-20",
     "country": "Global",
     "category": "Company News",
-    "summary": "Astellas reflects on a decade of progress in CLDN18.2 and the opportunities ahead in patient identification, testing and innovation",
+    "summary": "Ahead of a planned strike by its labor union later this month, Samsung Biologics has secured a favorable South Korean court ruling that shields most of its drug substance manufacturing operations from the labor action.",
     "pinned": false
   },
   {
@@ -205,7 +227,7 @@
     "date": "2026-10-20",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Topline results show the biotech's lead asset, VDPHL01, cleared all primary and secondary endpoints in a study of more than 500 men with mild to moderate pattern hair loss.",
+    "summary": "Topline results show the biotech's lead asset, VDPHL01, cleared all primary and secondary endpoints in a study of more than 500 men with mild-to-moderate pattern hair loss.",
     "pinned": false
   },
   {
@@ -297,17 +319,6 @@
     "pinned": false
   },
   {
-    "id": "fd38a50a5f12",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment\" hreflang=\"en\">Closing the gap between approval and treatment</a>",
-    "url": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
-    "source": "Fierce Pharma",
-    "date": "2026-10-20",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Lauren Boyer, CEO of Underscore, on why patient finding is a marketing job, and how to reach the people traditional data can't see.",
-    "pinned": false
-  },
-  {
     "id": "62439868a980",
     "title": "<a href=\"https://www.fiercepharma.com/sponsored/why-are-53-phase-2-and-3-trials-delayed-redesign-overdue\" hreflang=\"en\">Why Are 53% of Phase 2 and 3 Trials Delayed? A Redesign Is Overdue</a>",
     "url": "https://www.fiercepharma.com/sponsored/why-are-53-phase-2-and-3-trials-delayed-redesign-overdue",
@@ -319,14 +330,25 @@
     "pinned": false
   },
   {
-    "id": "56ead6cf08db",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/gsk-taps-actress-viola-davis-teach-adults-over-50-how-get-away-shingles-new-education\" hreflang=\"en\">GSK taps actress Viola Davis for shingles-focused campaign</a>",
-    "url": "https://www.fiercepharma.com/marketing/gsk-taps-actress-viola-davis-teach-adults-over-50-how-get-away-shingles-new-education",
-    "source": "Fierce Pharma",
+    "id": "298d5edee303",
+    "title": "Rapport\u2019s epilepsy drug finds surprising success in bipolar trial",
+    "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
+    "source": "BioPharma Dive",
     "date": "2026-10-20",
-    "country": "Global",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<p>Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.</p>",
+    "pinned": false
+  },
+  {
+    "id": "bb2393be8ffb",
+    "title": "Most new drugs are still too costly at launch, ICER says",
+    "url": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-20",
+    "country": "US",
     "category": "Company News",
-    "summary": "The \"How to Get Away With Murder\" star is the face of GSK's \"Shingles, actually\" campaign, which positions an increased shingles risk as an untold reality of aging.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-S5SBsRN-O58laXhHUIX_prDcn4t6yuZ5jUtvoPSEA0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzQ4OTY2MzUuanBn.webp\" /></div></figure><p>A new analysis from the non-profit group found that net l",
     "pinned": false
   },
   {
@@ -337,7 +359,40 @@
     "date": "2026-10-20",
     "country": "US",
     "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D7fvuUPSzJt-tg0JzZStZZVPxZXcRGNU7o-CAnpThcY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtcmQtY2xpbmljYWwtZXZpZGVuY2UuanBn.webp\" /></div></figure><p>New types of bispecifics, antibod-drug conjugates",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D7fvuUPSzJt-tg0JzZStZZVPxZXcRGNU7o-CAnpThcY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtcmQtY2xpbmljYWwtZXZpZGVuY2UuanBn.webp\" /></div></figure><p>New types of bispecifics, antibody-drug conjugate",
+    "pinned": false
+  },
+  {
+    "id": "83e739fb6c06",
+    "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+    "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-20",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+    "pinned": false
+  },
+  {
+    "id": "c22e252a8661",
+    "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
+    "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-20",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
+    "pinned": false
+  },
+  {
+    "id": "5473d26612ff",
+    "title": "STAT+: Roche continues to look to China for new drugs",
+    "url": "https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-20",
+    "country": "US",
+    "category": "Company News",
+    "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive\u00a0deal with Roche to develop a portfolio of antibody-drug conjugates.",
     "pinned": false
   },
   {
@@ -539,39 +594,6 @@
     "pinned": false
   },
   {
-    "id": "9ee84102b028",
-    "title": "Two former Republican lawmakers say the GOP\u2019s vaccine position is a liability",
-    "url": "https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Policy",
-    "summary": "The Republican party\u2019s confusing messaging on vaccines is going to hurt candidates in the midterms, two former GOP congressmen argue.",
-    "pinned": false
-  },
-  {
-    "id": "ee7a83292487",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about Roche investments in Germany, a Gilead bowel disease drug, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Roche is reviewing all future investments in Germany over health care cost-cutting \u200bpolicies, with a top executive citing a loss of trust",
-    "pinned": false
-  },
-  {
-    "id": "d43ccfc1a2fe",
-    "title": "STAT+: Gilead\u2019s IBD drug eliminated symptoms for patients, mid-stage study finds",
-    "url": "https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.",
-    "pinned": false
-  },
-  {
     "id": "89751a758db5",
     "title": "Iambic CEO on taking an AI drug company public",
     "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.</p>",
-    "pinned": false
-  },
-  {
-    "id": "49cac111c812",
-    "title": "This week in charts: Moderna\u2019s massive stock run",
-    "url": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-16",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/noY6Oanv5v-_yDQZKEqBBDkEKvecYGoj9vaCkgyW_q0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgxODMyMjUyX20yY2w4SnouanBn.webp\" /></div></figure><p>The latest installment in BioPharma Dive&rsqu",
-    "pinned": false
-  },
-  {
-    "id": "b2bbc3a69170",
-    "title": "Next-gen RNAi drugmaker City prices $200M IPO",
-    "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-16",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szYDL8kkQd6XaSVgvjJPYl2j0snveijWs_0sZ-B522Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDYyODUzODA3LmpwZw==.webp\" /></div></figure><p>The offering will support a trio of medicines in or n",
     "pinned": false
   }
 ]
