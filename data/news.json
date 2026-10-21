@@ -66,6 +66,28 @@
     "pinned": false
   },
   {
+    "id": "6f81e199595a",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp\" hreflang=\"en\">Myriad Genetics to sell off Prenatal Health testing business to Labcorp</a>",
+    "url": "https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Myriad Genetics is selling off its Prenatal Health testing biz to Labcorp for $210 million in cash.",
+    "pinned": false
+  },
+  {
+    "id": "914de881633d",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach\" hreflang=\"en\">Hologic snaps up Reveal Genomics to boost genomic diagnostic reach</a>",
+    "url": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Hologic is acquiring precision oncology company Reveal Genomics.",
+    "pinned": false
+  },
+  {
     "id": "dcde25083d68",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard\" hreflang=\"en\">Advocacy organization launches data dashboard to better assess how clinical trial sites perform</a>",
     "url": "https://www.fiercebiotech.com/cro/society-clinical-research-sites-aims-strengthen-site-relationships-data-intelligence-dashboard",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this marks the end of the road for the asset.",
-    "pinned": false
-  },
-  {
-    "id": "c13d9fb389f0",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials\" hreflang=\"en\">AstraZeneca taps Oracle to help improve recruitment for clinical trials</a>",
-    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
-    "source": "Fierce Biotech",
-    "date": "2026-10-21",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development\u2014improving patient recruitment.<br />",
-    "pinned": false
-  },
-  {
-    "id": "9bd880ce1a4b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma\" hreflang=\"en\">Ambrose Healthcare inks $181M deal for former Pfizer target AM-Pharma</a>",
-    "url": "https://www.fiercebiotech.com/biotech/ambrose-healthcare-inks-181m-deal-former-pfizer-target-am-pharma",
-    "source": "Fierce Biotech",
-    "date": "2026-10-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Ambrose Healthcare has bought AM-Pharma for up to 161 million euros, inking a cut-price deal for a biotech once courted by Pfizer.",
     "pinned": false
   },
   {
@@ -363,6 +363,28 @@
     "pinned": false
   },
   {
+    "id": "bb6dcbb77c0b",
+    "title": "STAT+: Another diabetes association leader is out while review continues",
+    "url": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An endocrinologist who had long served in the American Diabetes Association's leadership is out without explanation.",
+    "pinned": false
+  },
+  {
+    "id": "0a71f8b496b7",
+    "title": "STAT+: What\u2019s the deal with Isomorphic Labs?",
+    "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
+    "pinned": false
+  },
+  {
     "id": "4f65f7dc7650",
     "title": "STAT+: GSK picks up hep B drug approval",
     "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
@@ -536,28 +558,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "China's Hansoh Pharmaceutical Group has announced that it struck a massive\u00a0deal with Roche to develop a portfolio of antibody-drug conjugates.",
-    "pinned": false
-  },
-  {
-    "id": "d55bd46e9155",
-    "title": "Why I wish you didn\u2019t want to see Nathan Fielder\u2019s Elizabeth Holmes documentary",
-    "url": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.",
-    "pinned": false
-  },
-  {
-    "id": "77db588770dc",
-    "title": "STAT+: OpenEvidence\u2019s JAMA paper leaves open questions",
-    "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
     "pinned": false
   },
   {
