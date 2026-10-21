@@ -1,5 +1,60 @@
 [
   {
+    "id": "49fa10ee03ef",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response\" hreflang=\"en\">\u2018A two-way conversation with the tumor\u2019: Researchers use \u2018avatar\u2019 to predict immunotherapy responses</a>",
+    "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor \u201cavatar\u201d from biopsies.",
+    "pinned": false
+  },
+  {
+    "id": "1f099afd3bdb",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy\" hreflang=\"en\">Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy</a>",
+    "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "GSK may have cemented its hepatitis B credentials with Tuesday\u2019s landmark FDA nod for its \u201cfunctional cure\u201d bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
+    "pinned": false
+  },
+  {
+    "id": "a5ccd5e8430a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches\" hreflang=\"en\">Roche builds blockbuster BTK case for fenebrutinib in multiple sclerosis as FDA decision approaches</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roche-builds-blockbuster-btk-case-multiple-sclerosis-fda-decision-approaches",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Roche has dived into the data behind its filing for FDA approval of fenebrutinib in multiple sclerosis, unpacking the BTK inhibitor\u2019s effect on chronic active lesions, disease control and brain volume.",
+    "pinned": false
+  },
+  {
+    "id": "3a2522f26d5f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal\" hreflang=\"en\">Astellas links up with AI Proteins in $400M computational drug discovery deal</a>",
+    "url": "https://www.fiercebiotech.com/biotech/astellas-links-ai-proteins-400m-computational-discovery-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Japan's Astellas Pharma has tapped Boston computational discovery company AI Proteins in a drug discovery deal potentially worth $400 million.",
+    "pinned": false
+  },
+  {
+    "id": "08a1d5340b68",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present\" hreflang=\"en\">\u2018We\u2019re getting back to stability\u2019: CBER Director Karim Mikhail shares his strategy with Fierce</a>",
+    "url": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
+    "source": "Fierce Biotech",
+    "date": "2026-10-21",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a permanent basis last month.",
+    "pinned": false
+  },
+  {
     "id": "5272294ba1e3",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets\" hreflang=\"en\">Biotech reverse mergers rebound to highest level since 2021 as PIPEs flood market: report</a>",
     "url": "https://www.fiercebiotech.com/biotech/biotech-reverse-mergers-rebound-highest-level-2021-pipes-flood-markets",
@@ -110,58 +165,36 @@
     "pinned": false
   },
   {
-    "id": "44ae6e347450",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac\" hreflang=\"en\">Investment firm TCGX picks migraine biotech TriGemX to take public via SPAC</a>",
-    "url": "https://www.fiercebiotech.com/biotech/investment-firm-tcgx-picks-migraine-biotech-trigemx-take-public-spac",
-    "source": "Fierce Biotech",
-    "date": "2026-10-21",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Life sciences-focused investment firm TCGX will use a special purpose acquisition company to take migraine-minded TriGemX Bio public.",
-    "pinned": false
-  },
-  {
-    "id": "5acc421dca2c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026\" hreflang=\"en\">Fierce Biotech Layoff Tracker 2026: Enlivex excises 60%; Eyepoint halves headcount</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-    "source": "Fierce Biotech",
+    "id": "a3817b9e6943",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/alcon-ponies-550m-neurotech-encelto-and-gene-therapy-platform\" hreflang=\"en\">Alcon ponies up $550M for Neurotech, bagging approved cell therapy implant Encelto</a>",
+    "url": "https://www.fiercepharma.com/pharma/alcon-ponies-550m-neurotech-encelto-and-gene-therapy-platform",
+    "source": "Fierce Pharma",
     "date": "2026-10-21",
     "country": "Global",
     "category": "Company News",
-    "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+    "summary": "Eye specialty pharma Alcon has bought out Neurotech Pharmaceuticals for $550 million, gaining access to the approved Encelto and Neurotech's proprietary cell-based gene therapy delivery platform.",
     "pinned": false
   },
   {
-    "id": "692d387b64cc",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery\" hreflang=\"en\">Lilly partners with Hong Kong's Metis in $1.1B deal to bolster AI nanoparticle discovery</a>",
-    "url": "https://www.fiercebiotech.com/biotech/lilly-partners-hong-kongs-metis-11b-deal-bolster-ai-nanoparticle-discovery",
-    "source": "Fierce Biotech",
-    "date": "2026-10-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "The collaboration is another in a series of partnerships Lilly has accumulated in both drug delivery and AI-based technologies.",
-    "pinned": false
-  },
-  {
-    "id": "e22a1c9dc454",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win\" hreflang=\"en\">Gilead \u2018sitting on a foundational asset\u2019 after oral UC drug's phase 2 win</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gilead-sitting-foundational-asset-its-oral-ibd-drug-after-mid-stage-win",
-    "source": "Fierce Biotech",
+    "id": "a049b2e0b19e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/new-us-drug-launches-need-price-check-counter-access-impediments-icer-west-health-urge\" hreflang=\"en\">New US drug launches need price check to counter access impediments, ICER, West Health urge</a>",
+    "url": "https://www.fiercepharma.com/pharma/new-us-drug-launches-need-price-check-counter-access-impediments-icer-west-health-urge",
+    "source": "Fierce Pharma",
     "date": "2026-10-21",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Gilead touted a mid-stage win for its inflammatory bowel disease pill after the treatment delivered clinical improvements in patients with ulcerative colitis.",
+    "summary": "As policies from the last two presidential administrations put heightened focus on drug affordability in the United States, a new report suggests much work remains to be done when it comes to the launch prices of novel medicines.",
     "pinned": false
   },
   {
-    "id": "b8a3a14e920a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts\" hreflang=\"en\">Enlivex lays off 60% of employees, scraps preclinical R&amp;D and gives execs \u2018substantial\u2019 salary cuts</a>",
-    "url": "https://www.fiercebiotech.com/biotech/enlivex-lays-60-employees-and-gives-execs-substantial-salary-cuts",
-    "source": "Fierce Biotech",
+    "id": "0b0319b9567e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/csl-taps-gsk-deborah-waterhouse-ceo-darkest-hour\" hreflang=\"en\">CSL taps GSK\u2019s Deborah Waterhouse as CEO in darkest hour</a>",
+    "url": "https://www.fiercepharma.com/pharma/csl-taps-gsk-deborah-waterhouse-ceo-darkest-hour",
+    "source": "Fierce Pharma",
     "date": "2026-10-21",
     "country": "Global",
     "category": "Company News",
-    "summary": "Enlivex is laying off 60% of its workforce, ending preclinical R&amp;D and trimming its top execs\u2019 salaries as the Israeli biotech tries to keep cash flowing to its osteoarthritis drug.",
+    "summary": "Recruiting an industry veteran to steer the company through its darkest hour of growth pressures, CSL has hired GSK\u2019s Deborah Waterhouse as its next CEO.",
     "pinned": false
   },
   {
@@ -297,36 +330,80 @@
     "pinned": false
   },
   {
-    "id": "2b30eec096bb",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/roche-pauses-future-germany-investments-joining-growing-pharma-chorus\" hreflang=\"en\">Roche pauses future Germany investments, joining growing chorus of pharma pullbacks</a>",
-    "url": "https://www.fiercepharma.com/pharma/roche-pauses-future-germany-investments-joining-growing-pharma-chorus",
-    "source": "Fierce Pharma",
+    "id": "8affbf3de03f",
+    "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+    "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+    "source": "BioPharma Dive",
     "date": "2026-10-21",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Amid tensions over government healthcare cost-cutting policies, Roche has slammed the brakes on new investments in Germany, joining an expanding group of drugmakers pulling back from the European country.",
-    "pinned": false
-  },
-  {
-    "id": "3b426066aab8",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-presses-pause-midstage-fabhalta-trial-lupus-nephritis-says-efficacy-and-safety-not\" hreflang=\"en\">Novartis pauses midstage Fabhalta trial in lupus nephritis\u2014but efficacy, safety not at play</a>",
-    "url": "https://www.fiercepharma.com/pharma/novartis-presses-pause-midstage-fabhalta-trial-lupus-nephritis-says-efficacy-and-safety-not",
-    "source": "Fierce Pharma",
-    "date": "2026-10-21",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Amid a steady advance of kidney-focused label expansions, Novartis\u2019 Fabhalta is slowing its roll in a key potential autoimmune niche.",
-    "pinned": false
-  },
-  {
-    "id": "96037cc299c2",
-    "title": "<a href=\"https://www.fiercepharma.com/sponsored/next-chapter-ai-clinical-trials\" hreflang=\"en\">The Next Chapter for AI in Clinical Trials</a>",
-    "url": "https://www.fiercepharma.com/sponsored/next-chapter-ai-clinical-trials",
-    "source": "Fierce Pharma",
-    "date": "2026-10-21",
-    "country": "Global",
+    "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "As agentic AI enters clinical development, governance and human judgment will determine its value.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp\" /></div></figure><p>Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chroni",
+    "pinned": false
+  },
+  {
+    "id": "2ea586c824ba",
+    "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
+    "url": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.</p>",
+    "pinned": false
+  },
+  {
+    "id": "d139ce86b175",
+    "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
+    "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>New follow-up results suggest Arcus&",
+    "pinned": false
+  },
+  {
+    "id": "4f65f7dc7650",
+    "title": "STAT+: GSK picks up hep B drug approval",
+    "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
+    "pinned": false
+  },
+  {
+    "id": "2ffa88eb85f2",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
+    "pinned": false
+  },
+  {
+    "id": "143fe40bc614",
+    "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+    "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
+    "pinned": false
+  },
+  {
+    "id": "aa529cf3dcd5",
+    "title": "Nigeria identifies travel-related Ebola case",
+    "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-21",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health&#8230;",
     "pinned": false
   },
   {
@@ -484,50 +561,6 @@
     "pinned": false
   },
   {
-    "id": "ad2f304e1efc",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about drug launch prices, an AstraZeneca AI deal, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.",
-    "pinned": false
-  },
-  {
-    "id": "8f97ff56326f",
-    "title": "How voters feel about trans rights and abortion access will soon be put to the test",
-    "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
-    "pinned": false
-  },
-  {
-    "id": "e3ee64a5ab2e",
-    "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
-    "url": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.",
-    "pinned": false
-  },
-  {
-    "id": "b7060748a493",
-    "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.",
-    "pinned": false
-  },
-  {
     "id": "26a8ba6a4555",
     "title": "Disc\u2019s once-spurned rare disease drug to get a second chance at approval",
     "url": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>Saudi Arabia&rsquo;s biotech strategy now has named partners, sites and capital behind it.</p>",
-    "pinned": false
-  },
-  {
-    "id": "45c443da0c42",
-    "title": "Extractables in single-use systems used in ADC manufacturing",
-    "url": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>Explore extractables data supporting single-use systems in ADC manufacturing.</p>",
-    "pinned": false
-  },
-  {
-    "id": "2590e36d31ad",
-    "title": "How early should you engage a CDMO?",
-    "url": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<p>Discover which CMC activities can move forward early, and which decisions need to remain flexible.</p>",
-    "pinned": false
-  },
-  {
-    "id": "89751a758db5",
-    "title": "Iambic CEO on taking an AI drug company public",
-    "url": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-16",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<p>Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI&rsquo;s role in drug development evolving.</p>",
     "pinned": false
   }
 ]
