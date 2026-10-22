@@ -1,5 +1,27 @@
 [
   {
+    "id": "380e667fbbde",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval\" hreflang=\"en\">Rebranded NodThera plans IPO to fund NLRP3 inhibitor\u2019s push toward approval</a>",
+    "url": "https://www.fiercebiotech.com/biotech/rebranded-nodthera-plans-ipo-fund-nlrp3-inhibitors-push-toward-approval",
+    "source": "Fierce Biotech",
+    "date": "2026-10-22",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "NodThera\u2014under its new name Rezera\u2014is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market.",
+    "pinned": false
+  },
+  {
+    "id": "05b90f0ed507",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset\" hreflang=\"en\">Roche\u2019s CEO has \u2018absolutely not\u2019 changed tune on Poseida despite scrapping CAR-T from the buyout</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roches-ceo-has-absolutely-not-changed-tune-15b-poseida-buy-despite-scrapping-asset",
+    "source": "Fierce Biotech",
+    "date": "2026-10-22",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Roche\u2019s CEO has insisted to Fierce that the company\u2019s view on its $1.5 billion Poseida buyout has \u201cabsolutely not\u201d changed, even as the Swiss pharma scraps one of the CAR-T therapy\u2019s from the acquisition.",
+    "pinned": false
+  },
+  {
     "id": "49fa10ee03ef",
     "title": "<a href=\"https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response\" hreflang=\"en\">\u2018A two-way conversation with the tumor\u2019: Researchers use \u2018avatar\u2019 to predict immunotherapy responses</a>",
     "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
@@ -143,25 +165,25 @@
     "pinned": false
   },
   {
-    "id": "5550b87bf835",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study\" hreflang=\"en\">Israeli biotech\u2019s inhaled exosome therapy reduces respiratory failure in phase 2 study</a>",
-    "url": "https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study",
-    "source": "Fierce Biotech",
+    "id": "a88673a4094f",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbvie-pumps-economic-case-early-subcutaneous-parkinsons-treatment\" hreflang=\"en\">AbbVie pumps up the economic case for early subcutaneous Parkinson\u2019s treatment</a>",
+    "url": "https://www.fiercepharma.com/marketing/abbvie-pumps-economic-case-early-subcutaneous-parkinsons-treatment",
+    "source": "Fierce Pharma",
     "date": "2026-10-22",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Nano24\u2019s inhaled exosome therapy reduced respiratory failure in patients with acute respiratory distress syndrome (ARDS), hitting the main goal of a phase 2b study.",
+    "category": "Company News",
+    "summary": "Delaying the use of subcutaneous Parkinson\u2019s disease treatments by one year increases annual medical costs by 59.1%, AbbVie-sponsored research found.",
     "pinned": false
   },
   {
-    "id": "277eb5af5f8b",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future\" hreflang=\"en\">Pfizer makes \u2018business decision\u2019 to end phase 2 trial of autoimmune drug as program\u2019s future uncertain</a>",
-    "url": "https://www.fiercebiotech.com/biotech/pfizer-makes-business-decision-end-phase-2-trial-autoimmune-drug-while-programs-future",
-    "source": "Fierce Biotech",
+    "id": "a0c339865a37",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder\" hreflang=\"en\">Otsuka hit with 11 marketing code breaches after event organizer blunder</a>",
+    "url": "https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder",
+    "source": "Fierce Pharma",
     "date": "2026-10-22",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Pfizer has called time on a phase 2 trial of its CXCR5 antibody in an autoimmune blood disorder, with the company tight-lipped on whether this marks the end of the road for the asset.",
+    "category": "Company News",
+    "summary": "The PMCPA has ruled that Otsuka Europe\u2019s involvement with a sponsored symposium webpage breached 11 clauses of the U.K. marketing code. While the PMCPA found fault with many aspects of the webpage, the watchdog opted against hitting Otsuka with its toughest punishment.",
     "pinned": false
   },
   {
@@ -206,6 +228,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Recruiting an industry veteran to steer the company through its darkest hour of growth pressures, CSL has hired GSK\u2019s Deborah Waterhouse as its next CEO.",
+    "pinned": false
+  },
+  {
+    "id": "66b718309a2c",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement\" hreflang=\"en\">AI-Powered Brand Sites Are Changing Patient Engagement</a>",
+    "url": "https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement",
+    "source": "Fierce Pharma",
+    "date": "2026-10-22",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
     "pinned": false
   },
   {
@@ -297,36 +330,47 @@
     "pinned": false
   },
   {
-    "id": "9f6b7cd04c13",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/amgen-az-dive-deep-tezspires-dupixent-challenging-victory-eoe-phase-3\" hreflang=\"en\">Amgen, AZ dive deep into Tezspire's Dupixent-challenging victory in EoE phase 3</a>",
-    "url": "https://www.fiercepharma.com/pharma/amgen-az-dive-deep-tezspires-dupixent-challenging-victory-eoe-phase-3",
-    "source": "Fierce Pharma",
+    "id": "d06e2b73db57",
+    "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
+    "url": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-22",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "With little time elapsed since AstraZeneca and Amgen unveiled a topline win for Tezspire over the summer, the partners are upping the stakes with a detailed look at their inflammation-fighting antibody\u2019s prowess in eosinophilic esophagitis.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A KFF survey finds that rising healthcare costs are squeezing both employers and workers.",
     "pinned": false
   },
   {
-    "id": "3b14294edc1e",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials\" hreflang=\"en\">AstraZeneca taps Oracle to help improve recruitment for clinical trials</a>",
-    "url": "https://www.fiercepharma.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
-    "source": "Fierce Pharma",
+    "id": "85c888f7f58a",
+    "title": "Opinion: What I got wrong about the Affordable Care Act \u2014 and how to fix it",
+    "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-22",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development\u2014improving patient recruitment.<br />",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe big mistake, ironically, was the ACA\u2019s lack of focus on affordability,\u201d writes Dana Goldman.",
     "pinned": false
   },
   {
-    "id": "668706db0463",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/gsk-jemperli-scores-fda-approval-rectal-cancer-backed-high-complete-response-rate\" hreflang=\"en\">GSK\u2019s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate</a>",
-    "url": "https://www.fiercepharma.com/pharma/gsk-jemperli-scores-fda-approval-rectal-cancer-backed-high-complete-response-rate",
-    "source": "Fierce Pharma",
+    "id": "1c63fba78c9b",
+    "title": "Opinion: The inherited disease my family called \u2018it\u2019 had a name, which changed everything",
+    "url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-22",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Building on the buzz around a celebrated early trial readout, GSK\u2019s Jemperli has earned a first-in-class FDA approval in a specific type of rectal cancer.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas\u2019 family. Then she discovered something.",
+    "pinned": false
+  },
+  {
+    "id": "06f9b188481b",
+    "title": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
+    "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
     "pinned": false
   },
   {
@@ -484,17 +528,6 @@
     "pinned": false
   },
   {
-    "id": "e45879746780",
-    "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
-    "url": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma.",
-    "pinned": false
-  },
-  {
     "id": "298d5edee303",
     "title": "Rapport\u2019s epilepsy drug finds surprising success in bipolar trial",
     "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
@@ -525,39 +558,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D7fvuUPSzJt-tg0JzZStZZVPxZXcRGNU7o-CAnpThcY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtcmQtY2xpbmljYWwtZXZpZGVuY2UuanBn.webp\" /></div></figure><p>New types of bispecifics, antibody-drug conjugate",
-    "pinned": false
-  },
-  {
-    "id": "9e684205fb1b",
-    "title": "STAT+: He\u2019s slashing quality at nursing homes. This state is letting it happen",
-    "url": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes\u2019 revenue into a constellation of real estate&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "83e739fb6c06",
-    "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
-    "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
-    "pinned": false
-  },
-  {
-    "id": "c22e252a8661",
-    "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
-    "url": "https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-20",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.",
     "pinned": false
   },
   {
