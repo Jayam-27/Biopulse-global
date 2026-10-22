@@ -205,7 +205,7 @@
     "date": "2026-10-22",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "Local news reported Pfizer layoffs in Michigan and North Carolina as the drugmaker kicks of $2.5 billion in planned cost cuts. Pfizer declined to comment on the total number of jobs affected or when the layoffs would go into effect.",
+    "summary": "Local news reported Pfizer layoffs in Michigan and North Carolina as the drugmaker kicks off $2.5 billion in planned cost cuts. Pfizer declined to comment on the total number of jobs affected or when the layoffs would go into effect.",
     "pinned": false
   },
   {
@@ -330,6 +330,28 @@
     "pinned": false
   },
   {
+    "id": "c7312d522f66",
+    "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+    "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l2fjcfreviwRnnixhxy6-Bvvb1WOizpHSalAEdf1bs8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05ODA5ODcwMTQuanBn.webp\" /></div></figure><p>A combination of the shot and the immunotherapy Keytruda ",
+    "pinned": false
+  },
+  {
+    "id": "7250fa4fd3d6",
+    "title": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
+    "url": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/W95GdFaxtcncQ-TSNFeXqMyL03GzQZYglduqTA46Xqc/g:nowe:0:235/c:2700:1525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CaW9oYXZlbl9WbGFkX0NvcmljX0NFT18yMDIyT0NUMDEuanBn.webp\" /></div></figure><p>U.S. regulators have ",
+    "pinned": false
+  },
+  {
     "id": "ca88e75aea3f",
     "title": "GLP-1 compounder issues recall for copycat Zepbound",
     "url": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
@@ -349,6 +371,50 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products.&nbsp;</p>",
+    "pinned": false
+  },
+  {
+    "id": "a97e596b2014",
+    "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+    "url": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.",
+    "pinned": false
+  },
+  {
+    "id": "da10431648ba",
+    "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+    "url": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations.",
+    "pinned": false
+  },
+  {
+    "id": "9ff26c4134e1",
+    "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
+    "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
+    "pinned": false
+  },
+  {
+    "id": "017b8fde38ad",
+    "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
+    "url": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-22",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement.",
     "pinned": false
   },
   {
@@ -397,7 +463,7 @@
   },
   {
     "id": "5d03b85a126d",
-    "title": "STAT+: FDA has finalized its guidance on apps related to drugs, pharma rejoices",
+    "title": "STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices",
     "url": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss",
     "source": "STAT News",
     "date": "2026-10-22",
@@ -506,50 +572,6 @@
     "pinned": false
   },
   {
-    "id": "bb6dcbb77c0b",
-    "title": "STAT+: Another diabetes association leader is out while review continues",
-    "url": "https://www.statnews.com/2026/10/21/american-diabetes-association-leadership-change-controversy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An endocrinologist who had long served in the American Diabetes Association's leadership is out without explanation.",
-    "pinned": false
-  },
-  {
-    "id": "0a71f8b496b7",
-    "title": "STAT+: What\u2019s the deal with Isomorphic Labs?",
-    "url": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care.",
-    "pinned": false
-  },
-  {
-    "id": "4f65f7dc7650",
-    "title": "STAT+: GSK picks up hep B drug approval",
-    "url": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.",
-    "pinned": false
-  },
-  {
-    "id": "2ffa88eb85f2",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
-    "pinned": false
-  },
-  {
     "id": "298d5edee303",
     "title": "Rapport\u2019s epilepsy drug finds surprising success in bipolar trial",
     "url": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D7fvuUPSzJt-tg0JzZStZZVPxZXcRGNU7o-CAnpThcY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9waGFybWEtcmQtY2xpbmljYWwtZXZpZGVuY2UuanBn.webp\" /></div></figure><p>New types of bispecifics, antibody-drug conjugate",
-    "pinned": false
-  },
-  {
-    "id": "26a8ba6a4555",
-    "title": "Disc\u2019s once-spurned rare disease drug to get a second chance at approval",
-    "url": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pEMBQW3KaFgY6Lxfmup4ZtS1-TvKRR_38Tna06_mxJA/g:nowe:0:433/c:4500:2542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01Mzg4MTE4NDYuanBn.webp\" /></div></figure><p>Months after the FDA rejected its tre",
-    "pinned": false
-  },
-  {
-    "id": "9e11444af6e2",
-    "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
-    "url": "https://www.biopharmadive.com/news/merck-kgaa-rnai-13b-silence-buyout-blood-disorder-polycythemia-vera/833336/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-19",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XrLcxShGY7XDXsOdjU9WtubI0W5Yi2P5k4gYh2Ax9HU/g:nowe:1:160/c:1583:894/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjUtMDgtMTVfYXRfOS4xNS4yMV9BTS5wbmc=.webp\" /></div></figure><p>The acquisition gi",
     "pinned": false
   }
 ]
