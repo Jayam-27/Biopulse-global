@@ -1,5 +1,16 @@
 [
   {
+    "id": "88042422ef54",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win\" hreflang=\"en\">Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions</a>",
+    "url": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
+    "source": "Fierce Biotech",
+    "date": "2026-10-23",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Roche's Genentech has put numbers behind its phase 3 success in IgA nephropathy (IgAN), reporting that antisense oligonucleotide sefaxersen reduced a key marker of kidney damage by 43.1% compared with placebo.",
+    "pinned": false
+  },
+  {
     "id": "48a0224073f1",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde\" hreflang=\"en\">Gilead to pay $1.3B upfront for PepStar\u2019s oral IL-23 challenger to J&amp;J\u2019s Icotyde</a>",
     "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
@@ -41,6 +52,17 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer.",
+    "pinned": false
+  },
+  {
+    "id": "6785b4966084",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal\" hreflang=\"en\">EQT buys molecular diagnostics specialist Qiagen in a \u20ac10.8B deal</a>",
+    "url": "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal",
+    "source": "Fierce Biotech",
+    "date": "2026-10-23",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "EQT is buying up Netherlands-based Qiagen in a deal worth \u20ac10.8 billion ($12.1 billion) in enterprise value that includes $1.1 billion in net debt.",
     "pinned": false
   },
   {
@@ -143,28 +165,6 @@
     "pinned": false
   },
   {
-    "id": "7313dd32a783",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company\" hreflang=\"en\">Abbott to separate Nutrition business into an independent, publicly traded company</a>",
-    "url": "https://www.fiercebiotech.com/medtech/abbott-separate-nutrition-business-independent-publicly-traded-company",
-    "source": "Fierce Biotech",
-    "date": "2026-10-23",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Abbott will separate its Nutrition business into an independent, publicly traded company through a tax-free distribution to Abbott shareholders.",
-    "pinned": false
-  },
-  {
-    "id": "bf33107ee6ae",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack\" hreflang=\"en\">Quest Diagnostics\u2019 test results system breached in yet another medtech cyberattack</a>",
-    "url": "https://www.fiercebiotech.com/medtech/quest-diagnostics-test-results-system-breached-yet-another-medtech-cyberattack",
-    "source": "Fierce Biotech",
-    "date": "2026-10-23",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Quest Diagnostics is the latest life sciences company to fall victim to a cyberattack, with the company believing patient records have been compromised.",
-    "pinned": false
-  },
-  {
     "id": "ca35a5449ef1",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/argenx-pipeline-wobbles-overshadow-strong-vyvgart-sales\" hreflang=\"en\">Argenx confirmatory trial update for Vyvgart puts small dent in strong Q3</a>",
     "url": "https://www.fiercepharma.com/pharma/argenx-pipeline-wobbles-overshadow-strong-vyvgart-sales",
@@ -183,7 +183,7 @@
     "date": "2026-10-23",
     "country": "Global",
     "category": "Funding & M&A",
-    "summary": "As a snarl of pharma-focused lawsuits from Texas Attorney General Ken Paxton play out, Gilead Sciences has worked out a deal to put its own litigation to bed.",
+    "summary": "As a snarl of pharma-focused lawsuits from Texas Attorney General Ken Paxton plays out, Gilead Sciences has worked out a deal to put its own litigation to bed.",
     "pinned": false
   },
   {
@@ -363,6 +363,72 @@
     "pinned": false
   },
   {
+    "id": "07cc6365bbd1",
+    "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+    "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
+    "pinned": false
+  },
+  {
+    "id": "1db29478efc8",
+    "title": "STAT+: Diabetes association says \u2018threat\u2019 preceded members\u2019 ejections, but admits policies were unclear",
+    "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
+    "pinned": false
+  },
+  {
+    "id": "a2af70dfa529",
+    "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
+    "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
+    "pinned": false
+  },
+  {
+    "id": "5f550bbffe44",
+    "title": "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
+    "url": "https://www.statnews.com/pharmalot/2026/10/23/cancer-drugs-approved-europe-lack-high-clinical-benefit/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds.",
+    "pinned": false
+  },
+  {
+    "id": "540bc97bc509",
+    "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
+    "url": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment.",
+    "pinned": false
+  },
+  {
+    "id": "1c77408e08f1",
+    "title": "Opinion: It took me 13 years to be diagnosed with MS. Christina Applegate\u2019s misdiagnosis doesn\u2019t surprise me",
+    "url": "https://www.statnews.com/2026/10/23/christina-applegate-ms-misdiagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-23",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cI felt Christina Applegate\u2019s disappointment as if it were my own \u2014 because not long ago, it was,\u201d writes Lindsay Karp.",
+    "pinned": false
+  },
+  {
     "id": "8d00567721ad",
     "title": "STAT+: Up and down the ladder: The latest comings and goings",
     "url": "https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/?utm_campaign=rss",
@@ -459,72 +525,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
-    "pinned": false
-  },
-  {
-    "id": "afa42ff21ba6",
-    "title": "Opinion: New Medicare policies will keep important pain relief from some patients",
-    "url": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Policy",
-    "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
-    "pinned": false
-  },
-  {
-    "id": "ee8a622103c2",
-    "title": "Opinion: Overdose deaths have plunged. We need to know why",
-    "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "ea1c1f9e1347",
-    "title": "STAT reporters react to the new Elizabeth Holmes documentary",
-    "url": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film \u2014 here's their review.",
-    "pinned": false
-  },
-  {
-    "id": "d9e6488bc89f",
-    "title": "How a targeted drug kept one patient alive 15 years \u2014 but failed to save her friends",
-    "url": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A lung cancer patient speaks out about her cutting-edge treatment: \u201cResearch is big on tracking survival stats, but quality of life for survivors \u2014 not so much.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "0f74f7c93a20",
-    "title": "One family\u2019s story of a life-extending medicine for pancreatic cancer",
-    "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
-    "pinned": false
-  },
-  {
-    "id": "27ce4760d1e8",
-    "title": "STAT+: Alnylam says Huntington\u2019s drug shows promise in early study",
-    "url": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "It\u2019s yet to be seen whether Alnylam\u2019s drug will actually slow progression of Huntington\u2019s, but the field is lively.",
     "pinned": false
   },
   {
