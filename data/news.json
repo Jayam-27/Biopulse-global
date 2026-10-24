@@ -330,6 +330,17 @@
     "pinned": false
   },
   {
+    "id": "3c2748d86366",
+    "title": "STAT+: The ESMO presentation everyone\u2019s been waiting for",
+    "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-24",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+    "pinned": false
+  },
+  {
     "id": "6e20d6cfa360",
     "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
     "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
@@ -514,17 +525,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
-    "pinned": false
-  },
-  {
-    "id": "ad23c2fc28c0",
-    "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
-    "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
     "pinned": false
   },
   {
