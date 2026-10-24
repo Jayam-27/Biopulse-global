@@ -1,5 +1,16 @@
 [
   {
+    "id": "05324c9903ea",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data\" hreflang=\"en\">\u2018It is what it is\u2019: Merck exec unruffled by \u2018unfortunate\u2019 leak of ESMO cancer vaccine data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
+    "source": "Fierce Biotech",
+    "date": "2026-10-24",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week\u2014just not in the way it happened.",
+    "pinned": false
+  },
+  {
     "id": "201557fb2971",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space\" hreflang=\"en\">ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space</a>",
     "url": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
@@ -154,14 +165,36 @@
     "pinned": false
   },
   {
-    "id": "b11bd0ff6a14",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b\" hreflang=\"en\">Menarini's Stemline picks up Georgiamune preclinical cancer immunotherapy in $1.1B deal</a>",
-    "url": "https://www.fiercebiotech.com/biotech/menarini-stemline-pick-georgiamune-preclinical-cancer-immunotherapy-11b",
-    "source": "Fierce Biotech",
+    "id": "0d8f9a69015a",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/chasing-keytruda-astrazeneca-imfinzi-pitches-its-own-padcev-combos-bladder-cancer\" hreflang=\"en\">ESMO: Chasing Keytruda, AstraZeneca\u2019s Imfinzi pitches its own Padcev combos in bladder cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/chasing-keytruda-astrazeneca-imfinzi-pitches-its-own-padcev-combos-bladder-cancer",
+    "source": "Fierce Pharma",
     "date": "2026-10-24",
     "country": "Global",
     "category": "Company News",
-    "summary": "Georgiamune, an immunology-focused biotech out of Maryland, has licensed a preclinical cancer drug candidate to Stemline Therapeutics, owned by Italy's Menarini Group, for up to $1.1 billion.",
+    "summary": "AstraZeneca is rolling out its own Imfinzi-Padcev combination pitch in cisplatin-ineligible muscle-invasive bladder cancer, hoping to differentiate from Keytruda-Padcev with a tweaked dosing regimen, while its effort to add a CTLA-4 component appears to have backfired.",
+    "pinned": false
+  },
+  {
+    "id": "34d745743510",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/amgen-imdelltra-drives-massive-survival-benefit-watershed-moment-small-cell-lung-cancer\" hreflang=\"en\">ESMO: Amgen\u2019s Imdelltra drives massive survival benefit in \u2018watershed moment\u2019 for small cell lung cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/amgen-imdelltra-drives-massive-survival-benefit-watershed-moment-small-cell-lung-cancer",
+    "source": "Fierce Pharma",
+    "date": "2026-10-24",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Amgen\u2019s T-cell engager Imdelltra has posted a massive survival benefit in small cell lung cancer, delivering what Chief Medical Officer Paul Burton called a \u201cwatershed moment\u201d for the field while drawing comparison to Rasonque in pancreatic cancer.",
+    "pinned": false
+  },
+  {
+    "id": "631bd04a82f9",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer\" hreflang=\"en\">Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
+    "source": "Fierce Pharma",
+    "date": "2026-10-24",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
     "pinned": false
   },
   {
@@ -297,36 +330,25 @@
     "pinned": false
   },
   {
-    "id": "a9361f31bdfd",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/roivant-comes-humira-lisraya-checks-boxes-inflammatory-eye-disease-phase-3s\" hreflang=\"en\">Roivant comes for Humira as Lisraya checks boxes in inflammatory eye disease phase 3s</a>",
-    "url": "https://www.fiercepharma.com/pharma/roivant-comes-humira-lisraya-checks-boxes-inflammatory-eye-disease-phase-3s",
-    "source": "Fierce Pharma",
+    "id": "6e20d6cfa360",
+    "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
+    "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-24",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "With the ink barely dry on Lisraya\u2019s first approval, Roivant and its spinout Priovant are wasting little time in making the case for the dual TYK2/JAK1 inhibitor to claim a larger immune-mediated kingdom.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe goal is not simply to diagnose MS faster. It is to get the diagnosis right,\u201d writes Bruce Bebo.",
     "pinned": false
   },
   {
-    "id": "a88673a4094f",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/abbvie-pumps-economic-case-early-subcutaneous-parkinsons-treatment\" hreflang=\"en\">AbbVie pumps up the economic case for early subcutaneous Parkinson\u2019s treatment</a>",
-    "url": "https://www.fiercepharma.com/marketing/abbvie-pumps-economic-case-early-subcutaneous-parkinsons-treatment",
-    "source": "Fierce Pharma",
+    "id": "ee5115ec5863",
+    "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
+    "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-24",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Delaying the use of subcutaneous Parkinson\u2019s disease treatments by one year increases annual medical costs by 59.1%, AbbVie-sponsored research found.",
-    "pinned": false
-  },
-  {
-    "id": "a0c339865a37",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder\" hreflang=\"en\">Otsuka hit with 11 marketing code breaches after event organizer blunder</a>",
-    "url": "https://www.fiercepharma.com/marketing/otsuka-hit-11-marketing-code-breaches-after-event-organizer-blunder",
-    "source": "Fierce Pharma",
-    "date": "2026-10-24",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "The PMCPA has ruled that Otsuka Europe\u2019s involvement with a sponsored symposium webpage breached 11 clauses of the U.K. marketing code. While the PMCPA found fault with many aspects of the webpage, the watchdog opted against hitting Otsuka with its toughest punishment.",
+    "summary": "\u201cEven if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,\u201d writes a STAT reader.",
     "pinned": false
   },
   {
@@ -503,28 +525,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
-    "pinned": false
-  },
-  {
-    "id": "912613d84aa8",
-    "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
-    "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
-    "pinned": false
-  },
-  {
-    "id": "dc7eb60f01d2",
-    "title": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
-    "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
     "pinned": false
   },
   {
