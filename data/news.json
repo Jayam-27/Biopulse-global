@@ -1,5 +1,38 @@
 [
   {
+    "id": "c8b2ed61ff89",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss\" hreflang=\"en\">ESMO: AstraZeneca exec insists phase 3 ADC data \u2018robust\u2019 enough for regulators despite PFS miss</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
+    "source": "Fierce Biotech",
+    "date": "2026-10-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "An AstraZeneca executive was adamant that detailed data from a phase 3 study of the pharma\u2019s next-generation antibody-drug conjugate are \u201crobust\u201d enough to take to regulators, despite the trial failing to meet a key endpoint.",
+    "pinned": false
+  },
+  {
+    "id": "3e2ea3293761",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities\" hreflang=\"en\">ESMO: Roche touts \u2018convincing\u2019 phase 3 KRAS data after win over rivals</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
+    "source": "Fierce Biotech",
+    "date": "2026-10-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor\u2019s phase 3 victory over Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati.",
+    "pinned": false
+  },
+  {
+    "id": "4af00efe4046",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug\" hreflang=\"en\">ESMO: J&amp;J exec says RIPTAC readout is \u2018best data we\u2019ve ever seen\u2019 for a prostate cancer drug</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+    "source": "Fierce Biotech",
+    "date": "2026-10-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+    "pinned": false
+  },
+  {
     "id": "05324c9903ea",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data\" hreflang=\"en\">\u2018It is what it is\u2019: Merck exec unruffled by \u2018unfortunate\u2019 leak of ESMO cancer vaccine data</a>",
     "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
@@ -88,17 +121,6 @@
     "pinned": false
   },
   {
-    "id": "48a0224073f1",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde\" hreflang=\"en\">Gilead to pay $1.3B upfront for PepStar\u2019s oral IL-23 challenger to J&amp;J\u2019s Icotyde</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
-    "source": "Fierce Biotech",
-    "date": "2026-10-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Gilead has struck a deal to acquire PepStar Therapeutics\u2019 oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson &amp; Johnson\u2019s Icotyde across a range of inflammatory diseases.",
-    "pinned": false
-  },
-  {
     "id": "c4a4c787e0d9",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
     "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
@@ -107,6 +129,17 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana\u2019s lead antibody through multiple phase 2 trials in inflammatory diseases.",
+    "pinned": false
+  },
+  {
+    "id": "48a0224073f1",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde\" hreflang=\"en\">Gilead to pay $1.3B upfront for PepStar\u2019s oral IL-23 challenger to J&amp;J\u2019s Icotyde</a>",
+    "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
+    "source": "Fierce Biotech",
+    "date": "2026-10-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Gilead has struck a deal to acquire PepStar Therapeutics\u2019 oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson &amp; Johnson\u2019s Icotyde across a range of inflammatory diseases.",
     "pinned": false
   },
   {
@@ -132,36 +165,25 @@
     "pinned": false
   },
   {
-    "id": "37ed30383099",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra\" hreflang=\"en\">Roche pays Zymeworks $55M for trispecific challenger to Amgen\u2019s Imdelltra</a>",
-    "url": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
-    "source": "Fierce Biotech",
-    "date": "2026-10-25",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen\u2019s Imdelltra.",
-    "pinned": false
-  },
-  {
-    "id": "5e0f3777aea2",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing\" hreflang=\"en\">Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma\u2019s China licensing deals</a>",
-    "url": "https://www.fiercebiotech.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
-    "source": "Fierce Biotech",
-    "date": "2026-10-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
-    "pinned": false
-  },
-  {
-    "id": "7c813c078984",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data\" hreflang=\"en\">ESMO: After leak, Merck and Moderna post phase 3 cancer vaccine data early</a>",
-    "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
-    "source": "Fierce Biotech",
+    "id": "b633c4614b4e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer\" hreflang=\"en\">ESMO: AZ, Hutchmed\u2019s Orpathys combo shows post-Tagrisso power in MET-driven lung cancer</a>",
+    "url": "https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer",
+    "source": "Fierce Pharma",
     "date": "2026-10-25",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Merck &amp; Co. and Moderna have shared highly anticipated phase 3 data on their cancer vaccine ahead of schedule, revealing a primary endpoint hit that approached analysts\u2019 best-case scenario. But the positive result was offset by weaker-than-expected data on a key secondary end",
+    "summary": "AstraZeneca has offered a detailed look at the phase 3 non-small cell lung cancer data that finally position its Hutchmed-partnered Orpathys for an FDA approval more than five years after the MET inhibitor\u2019s initial go-ahead in China.",
+    "pinned": false
+  },
+  {
+    "id": "f5655f8be811",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win\" hreflang=\"en\">\u2018Infinite potential\u2019: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win</a>",
+    "url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
+    "source": "Fierce Pharma",
+    "date": "2026-10-25",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "With ivonescimab\u2019s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star PD-1xVEGF bispecific.",
     "pinned": false
   },
   {
@@ -308,25 +330,14 @@
     "pinned": false
   },
   {
-    "id": "5e2ad68d83f9",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/esteve-earmarks-80m-revamp-china-operations\" hreflang=\"en\">Esteve earmarks $80M to revamp CDMO operations in China</a>",
-    "url": "https://www.fiercepharma.com/pharma/esteve-earmarks-80m-revamp-china-operations",
-    "source": "Fierce Pharma",
+    "id": "cc1cdb50345e",
+    "title": "STAT+: At ESMO, AstraZeneca\u2019s cancer pursuits get a showcase",
+    "url": "https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "In the next phase of its global expansion, Esteve is set to invest $80 million in an upgrade and relocation of its CDMO business in China.",
-    "pinned": false
-  },
-  {
-    "id": "8fe546c8aee0",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/pfizer-layoffs-hit-michigan-north-carolina-and-italy-25b-cost-cutting-effort-kicks\" hreflang=\"en\">Pfizer's latest cost-savings plan looks to get early start as layoff reports surface around Europe, US plants</a>",
-    "url": "https://www.fiercepharma.com/pharma/pfizer-layoffs-hit-michigan-north-carolina-and-italy-25b-cost-cutting-effort-kicks",
-    "source": "Fierce Pharma",
-    "date": "2026-10-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Local news reported Pfizer layoffs in Michigan and North Carolina as the drugmaker kicks off $2.5 billion in planned cost cuts. Pfizer declined to comment on the total number of jobs affected or when the layoffs would go into effect.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.",
     "pinned": false
   },
   {
@@ -514,17 +525,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes.",
-    "pinned": false
-  },
-  {
-    "id": "b47cd8fb6838",
-    "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
-    "url": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.",
     "pinned": false
   },
   {
