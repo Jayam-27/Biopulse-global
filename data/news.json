@@ -1,5 +1,27 @@
 [
   {
+    "id": "a0dc6d27eb6c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
+    "pinned": false
+  },
+  {
+    "id": "1d4b4732ef00",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo\" hreflang=\"en\">ESMO: Tango trims headcount after impressing analysts with \u2018highly synergistic\u2019 RevMed combo</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Tango disclosed a 14% reduction in headcount even as the company shared more evidence that its PRMT5 inhibitor enhances Revolution Medicines\u2019 Rasonque.",
+    "pinned": false
+  },
+  {
     "id": "98736aaa3a9b",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug\" hreflang=\"en\">ESMO: BMS\u2019 Massacesi hails \u2018very promising\u2019 data for BioNTech-partnered PD-L1xVEGF-A drug</a>",
     "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
@@ -132,17 +154,6 @@
     "pinned": false
   },
   {
-    "id": "48a0224073f1",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde\" hreflang=\"en\">Gilead to pay $1.3B upfront for PepStar\u2019s oral IL-23 challenger to J&amp;J\u2019s Icotyde</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
-    "source": "Fierce Biotech",
-    "date": "2026-10-26",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Gilead has struck a deal to acquire PepStar Therapeutics\u2019 oral IL-23 receptor inhibitor program for $1.275 billion, positioning itself as a would-be challenger to Johnson &amp; Johnson\u2019s Icotyde across a range of inflammatory diseases.",
-    "pinned": false
-  },
-  {
     "id": "c4a4c787e0d9",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
     "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
@@ -154,14 +165,14 @@
     "pinned": false
   },
   {
-    "id": "e3a6e0a528cc",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead\" hreflang=\"en\">Chutes &amp; Ladders\u2014Troubled CSL enlists GSK vet Deborah Waterhouse to lead</a>",
-    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
-    "source": "Fierce Biotech",
+    "id": "f11941f58e90",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren\" hreflang=\"en\">ESMO: Bristol Myers CMO touts \u20185 out of 5\u2019 positive phase 3 trials for bispecific ADC iza-bren</a>",
+    "url": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
+    "source": "Fierce Pharma",
     "date": "2026-10-26",
     "country": "Global",
-    "category": "Company News",
-    "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers\u2019 Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New Jersey pharma has yet to match one China study",
     "pinned": false
   },
   {
@@ -319,14 +330,80 @@
     "pinned": false
   },
   {
-    "id": "9866501d693b",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/azs-ultomiris-adds-5th-rare-disease-feather-cap-accelerated-igan-fda-nod\" hreflang=\"en\">AZ's Ultomiris adds 5th rare disease feather to cap with FDA IgAN nod</a>",
-    "url": "https://www.fiercepharma.com/pharma/azs-ultomiris-adds-5th-rare-disease-feather-cap-accelerated-igan-fda-nod",
-    "source": "Fierce Pharma",
+    "id": "6a698957e468",
+    "title": "The molecule was fine. The moment wasn\u2019t.",
+    "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+    "source": "BioPharma Dive",
     "date": "2026-10-26",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "With a late Thursday nod from the FDA to reduce protein levels in the urine of patients with primary immunoglobulin A nephropathy (IgAN), AstraZeneca\u2019s Alexion-born Ultomiris has racked up its fifth rare disease indication in the United States.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Some overlooked medicines aren&rsquo;t failures. They just arrived before the market was ready.</p>",
+    "pinned": false
+  },
+  {
+    "id": "5e94ddb23431",
+    "title": "Novel protein and peptide therapeutics",
+    "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.</p>",
+    "pinned": false
+  },
+  {
+    "id": "6dd512502c21",
+    "title": "The 4 stages of women\u2019s heart health: Experts present new framework",
+    "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New guidance is intended to help girls and women \u2014 and their doctors \u2014 recognize four distinct phases in heart health.",
+    "pinned": false
+  },
+  {
+    "id": "a48066f4a5cb",
+    "title": "STAT+: Moderna CEO on what\u2019s next after success in cancer vaccine",
+    "url": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
+    "pinned": false
+  },
+  {
+    "id": "6fb4b261300a",
+    "title": "STAT+: NIH\u2019s new vaccine injury center has broad goals beyond RFK Jr.\u2019s focus on shots",
+    "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+    "pinned": false
+  },
+  {
+    "id": "40af224c3d65",
+    "title": "Opinion: How bad is healthy supposed to feel?",
+    "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cWe shouldn't confuse illness and the hardships that come with living,\u201d writes family nurse practitioner Kirsten Balin.",
+    "pinned": false
+  },
+  {
+    "id": "773ea7616eca",
+    "title": "Opinion: Could long-term AI use lead to isolation? We need to find out \u2014 but researchers need better access to data",
+    "url": "https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cWhat we don\u2019t know is whether people are disconnecting from one another, gradually, over months of interacting with chatbots,\u201d researchers write.",
     "pinned": false
   },
   {
@@ -473,61 +550,6 @@
     "pinned": false
   },
   {
-    "id": "1c77408e08f1",
-    "title": "Opinion: It took me 13 years to be diagnosed with MS. Christina Applegate\u2019s misdiagnosis doesn\u2019t surprise me",
-    "url": "https://www.statnews.com/2026/10/23/christina-applegate-ms-misdiagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cI felt Christina Applegate\u2019s disappointment as if it were my own \u2014 because not long ago, it was,\u201d writes Lindsay Karp.",
-    "pinned": false
-  },
-  {
-    "id": "8d00567721ad",
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "05a3fbe0d218",
-    "title": "Remembering STAT\u2019s Helen Branswell",
-    "url": "https://www.statnews.com/2026/10/23/readout-loud-podcast-remembering-helen-branswell-infectious-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "This week on the \u201cThe Readout LOUD\u201d podcast, we remember our beloved colleague Helen Branswell, who died last week. We speak with colleagues, family, and public health leaders about her&#8230;",
-    "pinned": false
-  },
-  {
-    "id": "023d3deaf2eb",
-    "title": "STAT+: Tango builds on Revolution Medicines\u2019 pancreatic cancer success",
-    "url": "https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "As the ESMO conference kicks off, Tango's pancreatic cancer combination shows\u00a0striking promise and detailed data on Moderna and Merck's cancer vaccine is released early.",
-    "pinned": false
-  },
-  {
-    "id": "732fd8793977",
-    "title": "Anxiety builds over Medicaid work requirements",
-    "url": "https://www.statnews.com/2026/10/23/medicaid-work-requirements-anxiety-morning-rounds-health-news/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes.",
-    "pinned": false
-  },
-  {
     "id": "c7312d522f66",
     "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
     "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp\" /></div></figure><p>Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chroni",
-    "pinned": false
-  },
-  {
-    "id": "2ea586c824ba",
-    "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
-    "url": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a &ldquo;best-in-disease&rdquo; medicine for an inflammatory eye condition, one analyst said.</p>",
-    "pinned": false
-  },
-  {
-    "id": "d139ce86b175",
-    "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
-    "url": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>New follow-up results suggest Arcus&",
     "pinned": false
   }
 ]
