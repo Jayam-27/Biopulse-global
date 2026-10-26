@@ -1,5 +1,38 @@
 [
   {
+    "id": "96bb187de85a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing\" hreflang=\"en\">Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing</a>",
+    "url": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
+    "pinned": false
+  },
+  {
+    "id": "b11ee4f3c559",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race\" hreflang=\"en\">ESMO: Why Incyte sees itself \u2018neck and neck\u2019 with RevMed in KRAS G12D pancreatic cancer race</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Incyte has pointed to a spread of phase 1 data for its KRAS G12D inhibitor as evidence that the company has a worthy rival to Revolution Medicines in this increasingly competitive cancer space.",
+    "pinned": false
+  },
+  {
+    "id": "02eb10f42a8e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases\" hreflang=\"en\">BioNTech sees \u2018limited\u2019 benefit to ADC after phase 3 reveals modest efficacy, ILD cases</a>",
+    "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "BioNTech has&nbsp;reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+    "pinned": false
+  },
+  {
     "id": "a0dc6d27eb6c",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
     "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
@@ -8,6 +41,17 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
+    "pinned": false
+  },
+  {
+    "id": "c32ca8e7eda6",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout\" hreflang=\"en\">ESMO: Genmab posts phase 3 win for Elahere rival, ahead of \u2018very interesting\u2019 data from Merus buyout</a>",
+    "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
+    "source": "Fierce Biotech",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
     "pinned": false
   },
   {
@@ -62,7 +106,7 @@
     "date": "2026-10-26",
     "country": "Global",
     "category": "Company News",
-    "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+    "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johnson has unveiled the first data from its shiny new RIPTAC pipeline it believes could sustain its leading role in prostate cancer.",
     "pinned": false
   },
   {
@@ -73,7 +117,7 @@
     "date": "2026-10-26",
     "country": "Global",
     "category": "Company News",
-    "summary": "Merck &amp; Co. and Moderna always knew they would be making headlines in Madrid this week\u2014just not in the way it happened.",
+    "summary": "Merck &amp; Co. and Moderna always knew they would make headlines in Madrid this week\u2014just not in the way it happened.",
     "pinned": false
   },
   {
@@ -121,47 +165,36 @@
     "pinned": false
   },
   {
-    "id": "fa1ad261ac25",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result\" hreflang=\"en\">ESMO: Zentalis already dreaming of launch for WEE1 inhibitor after \u2018great result\u2019 in early-stage test</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-zentalis-already-dreaming-launching-wee1-drug-after-great-result",
-    "source": "Fierce Biotech",
-    "date": "2026-10-26",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Zentalis Pharmaceuticals has pointed to the first overall survival (OS) analysis for azenosertib as proof that the oral WEE1 tyrosine kinase inhibitor can offer a convenient oral treatment for a tricky cancer.",
-    "pinned": false
-  },
-  {
-    "id": "6785b4966084",
-    "title": "<a href=\"https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal\" hreflang=\"en\">EQT buys molecular diagnostics specialist Qiagen in a \u20ac10.8B deal</a>",
-    "url": "https://www.fiercebiotech.com/medtech/eqt-buys-molecular-diagnostics-specialist-qiagen-eur108b-deal",
-    "source": "Fierce Biotech",
-    "date": "2026-10-26",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "EQT is buying up Netherlands-based Qiagen in a deal worth \u20ac10.8 billion ($12.1 billion) in enterprise value that includes $1.1 billion in net debt.",
-    "pinned": false
-  },
-  {
-    "id": "1ba7d41b7fd3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win\" hreflang=\"en\">ESMO: Takeda\u2019s $1.2B bet on Innovent \u2018absolutely\u2019 pays off with details of ADC\u2019s phase 3 win</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
-    "source": "Fierce Biotech",
+    "id": "cb3e7c7b79d7",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/sac-tmt-first-global-phase-3-win-merck-sees-pretty-consistent-data-china\" hreflang=\"en\">ESMO: In sac-TMT\u2019s first global phase 3 win, Merck sees \u2018pretty consistent\u2019 data with China</a>",
+    "url": "https://www.fiercepharma.com/pharma/sac-tmt-first-global-phase-3-win-merck-sees-pretty-consistent-data-china",
+    "source": "Fierce Pharma",
     "date": "2026-10-26",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months.",
+    "summary": "As a cornerstone of Merck\u2019s post-Keytruda oncology strategy, sac-TMT has cleared a clinical milestone. In its first global phase 3 win, the TROP2 ADC delivered results that are \u201cpretty consistent\u201d with earlier China data, according to Merck\u2019s head of oncology clinical development",
     "pinned": false
   },
   {
-    "id": "c4a4c787e0d9",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies\" hreflang=\"en\">Bolt makes inflammation play with Prana reverse merger, $120M financing</a>",
-    "url": "https://www.fiercebiotech.com/biotech/bolt-strikes-180m-reverse-merger-prana-therapies",
-    "source": "Fierce Biotech",
+    "id": "318d10261e4c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-rhapsido-touts-solid-efficacy-industry-best-safety-data-rms-phase-3-reveal\" hreflang=\"en\">Novartis' Rhapsido touts solid efficacy with industry-best safety data in RMS phase 3 reveal</a>",
+    "url": "https://www.fiercepharma.com/pharma/novartis-rhapsido-touts-solid-efficacy-industry-best-safety-data-rms-phase-3-reveal",
+    "source": "Fierce Pharma",
     "date": "2026-10-26",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Bolt Biotherapeutics is acquiring Prana Therapies in a stock-for-stock reverse merger backed by a $120 million financing to advance Prana\u2019s lead antibody through multiple phase 2 trials in inflammatory diseases.",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In new data from Novartis' Remodel-1 and Remodel-2, Rhapsido's safety profile helped compensate for its solid but lower-than-expected efficacy data in RMS.",
+    "pinned": false
+  },
+  {
+    "id": "6511208154fc",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/biopharma-companies-must-break-dmta-linearity\" hreflang=\"en\">Biopharma Companies Must Break the DMTA Linearity</a>",
+    "url": "https://www.fiercepharma.com/sponsored/biopharma-companies-must-break-dmta-linearity",
+    "source": "Fierce Pharma",
+    "date": "2026-10-26",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Reimagining DMTA as a connected network gives scientists the flexibility to act when needed, with context retained across every decision",
     "pinned": false
   },
   {
@@ -297,36 +330,36 @@
     "pinned": false
   },
   {
-    "id": "a65beed3fb92",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing\" hreflang=\"en\">Treasury sweeps biotech into proposed COINS Act restrictions, but spares Big Pharma\u2019s China licensing deals</a>",
-    "url": "https://www.fiercepharma.com/biotech/treasury-sweeps-biotech-proposed-coins-act-restrictions-spares-big-pharma-china-licensing",
-    "source": "Fierce Pharma",
+    "id": "8ebcf06b763d",
+    "title": "BioNTech, DualityBio say ADC had \u2018modest\u2019 benefit in breast cancer study",
+    "url": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
+    "source": "BioPharma Dive",
     "date": "2026-10-26",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Despite the sweeping scope of the ban covering various types of drug molecules, biopharma business development teams can breathe a measured sigh of relief.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rOXgWwvAoQejvYyGfhFgyegwrIQjA6F1toVkmaowa6Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk1OTc1MTMyLmpwZw==.webp\" /></div></figure><p>The companies said the findings suggest the treatment",
     "pinned": false
   },
   {
-    "id": "466413c1824f",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/real-chemistry-presents-health-dignity-key-trust-engagement-indicator-new-research\" hreflang=\"en\">Real Chemistry spotlights health dignity as key trust, engagement indicator in new research initiative</a>",
-    "url": "https://www.fiercepharma.com/marketing/real-chemistry-presents-health-dignity-key-trust-engagement-indicator-new-research",
-    "source": "Fierce Pharma",
+    "id": "dae17f6ef974",
+    "title": "ESMO \u201826: A cancer vaccine debate, Roche\u2019s KRAS progress and Amgen\u2019s \u2018unprecedented\u2019 data",
+    "url": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
+    "source": "BioPharma Dive",
     "date": "2026-10-26",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "With its health dignity initiative, Real Chemistry is tapping into human experiences during healthcare interactions to gauge communication signals that could mark important engagement indicators.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EJrqrrcuFWlU-QnLf8Ud41fk8Eni5F1wUYU7UftQH9A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY1NzI1MDM2LmpwZw==.webp\" /></div></figure><p>At one of the year&rsquo;s premiere meetings for canc",
     "pinned": false
   },
   {
-    "id": "7a329a51dbea",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/vabysmo-shows-signs-reacceleration-roche-gears-busy-2027\" hreflang=\"en\">Vabysmo shows signs of reacceleration as Roche gears up for busy 2027</a>",
-    "url": "https://www.fiercepharma.com/pharma/vabysmo-shows-signs-reacceleration-roche-gears-busy-2027",
-    "source": "Fierce Pharma",
+    "id": "8d27aab8f62e",
+    "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
+    "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
+    "source": "BioPharma Dive",
     "date": "2026-10-26",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "After disappointing Wall Street for most of 2026, Roche\u2019s eye disease drug Vabysmo met analysts\u2019 expectations for the first time this year. But the company may have bigger fish to fry heading into 2027.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A patient who received Bristol Myers",
     "pinned": false
   },
   {
@@ -352,8 +385,96 @@
     "pinned": false
   },
   {
+    "id": "9d660352bc30",
+    "title": "STAT+: House lawmaker probes PBMs for \u2018punitive\u2019 audits of independent pharmacies",
+    "url": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
+    "pinned": false
+  },
+  {
+    "id": "4eacac3f70c7",
+    "title": "STAT+: GSK sees its return to cancer start to pay off",
+    "url": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug.",
+    "pinned": false
+  },
+  {
+    "id": "22fa798280f1",
+    "title": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
+    "url": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A Phase 3 trial of a targeted drug developed by Merck and China\u2019s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer.",
+    "pinned": false
+  },
+  {
+    "id": "e24ca95101c6",
+    "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
+    "url": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown.",
+    "pinned": false
+  },
+  {
+    "id": "d94b20186a63",
+    "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
+    "url": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer.",
+    "pinned": false
+  },
+  {
+    "id": "3db008af672c",
+    "title": "STAT+: Five biotech updates to read after ESMO this weekend",
+    "url": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO St\u00e9phane Bancel.",
+    "pinned": false
+  },
+  {
+    "id": "dc03132c28f7",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial",
+    "pinned": false
+  },
+  {
+    "id": "618d9b329bdd",
+    "title": "A virus that afflicts cows makes the jump to a human",
+    "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-26",
+    "country": "US",
+    "category": "Policy",
+    "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely.",
+    "pinned": false
+  },
+  {
     "id": "6dd512502c21",
-    "title": "The 4 stages of women\u2019s heart health: Experts present new framework",
+    "title": "The 4 stages of women\u2019s heart health: New framework for doctors and patients",
     "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
     "source": "STAT News",
     "date": "2026-10-26",
@@ -370,7 +491,7 @@
     "date": "2026-10-26",
     "country": "US",
     "category": "Company News",
-    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
+    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success of a cancer vaccine, and how that impacts the company's business strategy.",
     "pinned": false
   },
   {
@@ -429,39 +550,6 @@
     "pinned": false
   },
   {
-    "id": "3c2748d86366",
-    "title": "STAT+: The ESMO presentation everyone\u2019s been waiting for",
-    "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
-    "pinned": false
-  },
-  {
-    "id": "6e20d6cfa360",
-    "title": "Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology",
-    "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cThe goal is not simply to diagnose MS faster. It is to get the diagnosis right,\u201d writes Bruce Bebo.",
-    "pinned": false
-  },
-  {
-    "id": "ee5115ec5863",
-    "title": "Opinion: STAT readers on Elizabeth Holmes, cancer screening, and more",
-    "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cEven if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,\u201d writes a STAT reader.",
-    "pinned": false
-  },
-  {
     "id": "a8c987654b62",
     "title": "This week in charts: a big year for RNAi developers",
     "url": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
@@ -495,61 +583,6 @@
     "pinned": false
   },
   {
-    "id": "07cc6365bbd1",
-    "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
-    "url": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In data released at ESMO, the Moderna-Merck personalized mRNA cancer vaccine reduced recurrence-free survival and the time until distant metastasis occurred.",
-    "pinned": false
-  },
-  {
-    "id": "1db29478efc8",
-    "title": "STAT+: Diabetes association says \u2018threat\u2019 preceded members\u2019 ejections, but admits policies were unclear",
-    "url": "https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The American Diabetes Association has issued two explanations, two reviews and an apology over its June convention. A Friday report adds new twists.",
-    "pinned": false
-  },
-  {
-    "id": "a2af70dfa529",
-    "title": "STAT+: Patient dies in Bristol Myers Squibb autoimmune CAR-T trial",
-    "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
-    "pinned": false
-  },
-  {
-    "id": "5f550bbffe44",
-    "title": "STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
-    "url": "https://www.statnews.com/pharmalot/2026/10/23/cancer-drugs-approved-europe-lack-high-clinical-benefit/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Most new cancer medicines approved by European regulators over a recent four-year period do not offer high clinical benefit, a new analysis finds.",
-    "pinned": false
-  },
-  {
-    "id": "540bc97bc509",
-    "title": "STAT+: Novartis multiple sclerosis treatment cuts rates of relapse in pivotal trials",
-    "url": "https://www.statnews.com/2026/10/23/novartis-remibrutinib-multiple-sclerosis-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-23",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "An MS treatment from Novartis cut by a third the rates of relapses compared to a standard treatment.",
-    "pinned": false
-  },
-  {
     "id": "c7312d522f66",
     "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
     "url": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/W95GdFaxtcncQ-TSNFeXqMyL03GzQZYglduqTA46Xqc/g:nowe:0:235/c:2700:1525/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CaW9oYXZlbl9WbGFkX0NvcmljX0NFT18yMDIyT0NUMDEuanBn.webp\" /></div></figure><p>U.S. regulators have ",
-    "pinned": false
-  },
-  {
-    "id": "ca88e75aea3f",
-    "title": "GLP-1 compounder issues recall for copycat Zepbound",
-    "url": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/sHvIDEWnHWODDKUtbWbg7nZxoWKQNqB4C54nc9z4iH4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc4ODI5MzYyLmpwZw==.webp\" /></div></figure><p>The notice adds to growing concerns about the safety ",
-    "pinned": false
-  },
-  {
-    "id": "3a1ee9fb34f5",
-    "title": "Roche affirms sales outlook amid doubts about its future",
-    "url": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-22",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products.&nbsp;</p>",
-    "pinned": false
-  },
-  {
-    "id": "8affbf3de03f",
-    "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-    "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-21",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp\" /></div></figure><p>Hibsago is viewed as a potential &ldquo;functional cure&rdquo; for chroni",
     "pinned": false
   }
 ]
