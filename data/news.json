@@ -1,5 +1,49 @@
 [
   {
+    "id": "a5b3e008657f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity\" hreflang=\"en\">Corxel claims oral obesity drug is in the \u2018right lane\u2019 as biotech plans SPAC route to Nasdaq</a>",
+    "url": "https://www.fiercebiotech.com/biotech/377m-spac-deal-corxel-says-its-oral-obesity-drug-right-lane-or-corxel-takes-oral-obesity",
+    "source": "Fierce Biotech",
+    "date": "2026-10-27",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Corxel Pharmaceuticals may not have always planned to dust off the SPAC route to the public markets, but the obesity-focused biotech is happy with its choice.",
+    "pinned": false
+  },
+  {
+    "id": "c2aa4223fafc",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials\" hreflang=\"en\">BMS joins 3-year partnership to boost participation in cancer trials</a>",
+    "url": "https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials",
+    "source": "Fierce Biotech",
+    "date": "2026-10-27",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials.",
+    "pinned": false
+  },
+  {
+    "id": "c55850dd983e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail\" hreflang=\"en\">Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail",
+    "source": "Fierce Biotech",
+    "date": "2026-10-27",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a \u201cbump\u201d in the Swiss pharma\u2019s wider plans for the drug, despite costing the company an estimated $1.9 billion.",
+    "pinned": false
+  },
+  {
+    "id": "517f496bcee9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3\" hreflang=\"en\">GSK\u2019s B7-H3 ADC drives 67% cancer risk reduction in Hansoh's phase 3 China trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/gsks-b7-h3-adc-drives-67-cancer-risk-reduction-phase-3",
+    "source": "Fierce Biotech",
+    "date": "2026-10-27",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 3 trial has linked GSK\u2019s risvutatug rezetecan to a 67% reduction in the risk of disease progression or death, providing evidence that B7-H3-directed antibody-drug conjugates work in relapsed osteosarcoma.",
+    "pinned": false
+  },
+  {
     "id": "039b369954dc",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements\" hreflang=\"en\">Boehringer, Microsoft team up to explore digital patient twins for clinical trials</a>",
     "url": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
@@ -55,17 +99,6 @@
     "pinned": false
   },
   {
-    "id": "a0dc6d27eb6c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
-    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
-    "source": "Fierce Biotech",
-    "date": "2026-10-27",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
-    "pinned": false
-  },
-  {
     "id": "c32ca8e7eda6",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout\" hreflang=\"en\">ESMO: Genmab posts phase 3 win for Elahere rival, ahead of \u2018very interesting\u2019 data from Merus buyout</a>",
     "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
@@ -74,6 +107,17 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
+    "pinned": false
+  },
+  {
+    "id": "a0dc6d27eb6c",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
+    "source": "Fierce Biotech",
+    "date": "2026-10-27",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
     "pinned": false
   },
   {
@@ -118,50 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor\u2019s phase 3 victory over Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati.",
-    "pinned": false
-  },
-  {
-    "id": "4af00efe4046",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug\" hreflang=\"en\">ESMO: J&amp;J exec says RIPTAC readout is \u2018best data we\u2019ve ever seen\u2019 for a prostate cancer drug</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
-    "source": "Fierce Biotech",
-    "date": "2026-10-27",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson &amp; Johnson has unveiled the first data from its shiny new RIPTAC pipeline it believes could sustain its leading role in prostate cancer.",
-    "pinned": false
-  },
-  {
-    "id": "05324c9903ea",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data\" hreflang=\"en\">\u2018It is what it is\u2019: Merck exec unruffled by \u2018unfortunate\u2019 leak of ESMO cancer vaccine data</a>",
-    "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
-    "source": "Fierce Biotech",
-    "date": "2026-10-27",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Merck &amp; Co. and Moderna always knew they would make headlines in Madrid this week\u2014just not in the way it happened.",
-    "pinned": false
-  },
-  {
-    "id": "201557fb2971",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space\" hreflang=\"en\">ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
-    "source": "Fierce Biotech",
-    "date": "2026-10-27",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Eli Lilly has shared phase 1 data on an antibody-drug conjugate in platinum-sensitive ovarian cancer, shedding light on the company\u2019s chances of competing for a market targeted by rivals including AbbVie and Genmab.",
-    "pinned": false
-  },
-  {
-    "id": "42d9cf176243",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc\" hreflang=\"en\">ESMO: GSK cancer R&amp;D chief says mo-rez data \u2018reinforces our belief\u2019 in ADC as phase 3 push ramps up</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
-    "source": "Fierce Biotech",
-    "date": "2026-10-27",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "GSK\u2019s cancer R&amp;D chief has suggested the latest slice of early-stage data on its B7-H4-directed antibody-drug conjugate (ADC) has \u201creinforce[d] our belief in the asset,\u201d as the therapy races through a clutch of phase 3 studies.",
     "pinned": false
   },
   {
@@ -327,6 +327,39 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "This week on \"The Top Line,\" we cover GSK's pair of FDA approvals, Roche's $15 billion ADC deal and the rise of point-of-care pharma marketing.",
+    "pinned": false
+  },
+  {
+    "id": "c5622f65d47e",
+    "title": "Opinion: Emergency pediatric care is now in permanent crisis mode",
+    "url": "https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cIn 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,\u201d write Jonathan Kohler and Mary King.",
+    "pinned": false
+  },
+  {
+    "id": "cf694b3afadf",
+    "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
+    "url": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cIf we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,\u201d write Karen E. Knudsen and Othman Laraki.",
+    "pinned": false
+  },
+  {
+    "id": "caed926b1e13",
+    "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
+    "url": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.",
     "pinned": false
   },
   {
@@ -525,39 +558,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "New guidance is intended to help girls and women \u2014 and their doctors \u2014 recognize four distinct phases in heart health.",
-    "pinned": false
-  },
-  {
-    "id": "a48066f4a5cb",
-    "title": "STAT+: Moderna CEO on what\u2019s next after success in cancer vaccine",
-    "url": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success of a cancer vaccine, and how that impacts the company's business strategy.",
-    "pinned": false
-  },
-  {
-    "id": "6fb4b261300a",
-    "title": "STAT+: NIH\u2019s new vaccine injury center has broad goals beyond RFK Jr.\u2019s focus on shots",
-    "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
-    "pinned": false
-  },
-  {
-    "id": "40af224c3d65",
-    "title": "Opinion: How bad is healthy supposed to feel?",
-    "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cWe shouldn't confuse illness and the hardships that come with living,\u201d writes family nurse practitioner Kirsten Balin.",
     "pinned": false
   },
   {
