@@ -2,117 +2,117 @@
   {
     "symbol": "MRNA",
     "name": "Moderna, Inc.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "US",
     "type": "stock",
-    "price": 201.28,
+    "price": 198.85,
     "currency": "USD",
-    "change_pct": 0.0
+    "change_pct": -1.2
   },
   {
     "symbol": "REGN",
     "name": "Regeneron Pharmaceuticals",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "US",
     "type": "stock",
-    "price": 802.63,
+    "price": 807.67,
     "currency": "USD",
-    "change_pct": -0.17
+    "change_pct": 0.46
   },
   {
     "symbol": "VRTX",
     "name": "Vertex Pharmaceuticals",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "US",
     "type": "stock",
-    "price": 514.35,
+    "price": 517.49,
     "currency": "USD",
-    "change_pct": -1.83
+    "change_pct": -1.23
   },
   {
     "symbol": "GILD",
     "name": "Gilead Sciences",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "US",
     "type": "stock",
-    "price": 158.39,
+    "price": 158.69,
     "currency": "USD",
-    "change_pct": 1.47
+    "change_pct": 1.67
   },
   {
     "symbol": "LLY",
     "name": "Eli Lilly and Company",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "US",
     "type": "stock",
-    "price": 1280.52,
-    "currency": "USD",
-    "change_pct": 0.12
-  },
-  {
-    "symbol": "PFE",
-    "name": "Pfizer Inc.",
-    "date": "2026-10-26",
-    "live": true,
-    "country": "US",
-    "type": "stock",
-    "price": 29.78,
-    "currency": "USD",
-    "change_pct": -0.81
-  },
-  {
-    "symbol": "JNJ",
-    "name": "Johnson & Johnson",
-    "date": "2026-10-26",
-    "live": true,
-    "country": "US",
-    "type": "stock",
-    "price": 265.46,
-    "currency": "USD",
-    "change_pct": 0.88
-  },
-  {
-    "symbol": "BIIB",
-    "name": "Biogen Inc.",
-    "date": "2026-10-26",
-    "live": true,
-    "country": "US",
-    "type": "stock",
-    "price": 250.68,
+    "price": 1279.14,
     "currency": "USD",
     "change_pct": 0.01
   },
   {
+    "symbol": "PFE",
+    "name": "Pfizer Inc.",
+    "date": "2026-10-27",
+    "live": true,
+    "country": "US",
+    "type": "stock",
+    "price": 29.79,
+    "currency": "USD",
+    "change_pct": -0.77
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "date": "2026-10-27",
+    "live": true,
+    "country": "US",
+    "type": "stock",
+    "price": 266.3,
+    "currency": "USD",
+    "change_pct": 1.19
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen Inc.",
+    "date": "2026-10-27",
+    "live": true,
+    "country": "US",
+    "type": "stock",
+    "price": 252.26,
+    "currency": "USD",
+    "change_pct": 2.54
+  },
+  {
     "symbol": "NVS",
     "name": "Novartis AG",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Europe",
     "type": "stock",
-    "price": 153.62,
+    "price": 153.81,
     "currency": "USD",
-    "change_pct": 1.4
+    "change_pct": 1.52
   },
   {
     "symbol": "AZN",
     "name": "AstraZeneca plc",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Europe",
     "type": "stock",
-    "price": 171.13,
+    "price": 172.06,
     "currency": "USD",
-    "change_pct": -0.21
+    "change_pct": 0.33
   },
   {
     "symbol": "ROG.SW",
     "name": "Roche Holding AG",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": false,
     "country": "Europe",
     "type": "stock",
@@ -123,29 +123,29 @@
   {
     "symbol": "GSK",
     "name": "GSK plc",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Europe",
     "type": "stock",
-    "price": 51.12,
+    "price": 51.1,
     "currency": "USD",
-    "change_pct": 0.73
+    "change_pct": 0.69
   },
   {
     "symbol": "SNY",
     "name": "Sanofi",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Europe",
     "type": "stock",
-    "price": 41.67,
+    "price": 41.79,
     "currency": "USD",
-    "change_pct": 1.03
+    "change_pct": 1.31
   },
   {
     "symbol": "SUNPHARMA.NS",
     "name": "Sun Pharmaceutical Industries",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "India",
     "type": "stock",
@@ -156,7 +156,7 @@
   {
     "symbol": "DRREDDY.NS",
     "name": "Dr. Reddy's Laboratories",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "India",
     "type": "stock",
@@ -167,7 +167,7 @@
   {
     "symbol": "CIPLA.NS",
     "name": "Cipla Ltd.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "India",
     "type": "stock",
@@ -178,100 +178,100 @@
   {
     "symbol": "4523.T",
     "name": "Eisai Co., Ltd.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 5098.0,
+    "price": 5077.0,
     "currency": "JPY",
-    "change_pct": 0.67
+    "change_pct": -0.53
   },
   {
     "symbol": "4502.T",
     "name": "Takeda Pharmaceutical Co.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 6452.0,
+    "price": 6359.0,
     "currency": "JPY",
-    "change_pct": 1.69
+    "change_pct": -1.46
   },
   {
     "symbol": "4519.T",
     "name": "Chugai Pharmaceutical Co.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 6897.0,
+    "price": 6703.0,
     "currency": "JPY",
-    "change_pct": 2.13
+    "change_pct": -2.47
   },
   {
     "symbol": "1093.HK",
     "name": "CSPC Pharmaceutical Group",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 8.23,
+    "price": 8.02,
     "currency": "HKD",
-    "change_pct": -1.38
+    "change_pct": -2.49
   },
   {
     "symbol": "1177.HK",
     "name": "Sino Biopharmaceutical Ltd.",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 4.91,
+    "price": 4.81,
     "currency": "HKD",
-    "change_pct": -1.8
+    "change_pct": -2.04
   },
   {
     "symbol": "2196.HK",
     "name": "Fosun Pharma",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 16.66,
+    "price": 16.35,
     "currency": "HKD",
-    "change_pct": 1.03
+    "change_pct": -1.86
   },
   {
     "symbol": "XBI",
     "name": "SPDR S&P Biotech ETF",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Global",
     "type": "etf",
-    "price": 150.72,
+    "price": 150.47,
     "currency": "USD",
-    "change_pct": 0.56
+    "change_pct": 0.39
   },
   {
     "symbol": "IBB",
     "name": "iShares Biotechnology ETF",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Global",
     "type": "etf",
-    "price": 208.6,
+    "price": 208.69,
     "currency": "USD",
-    "change_pct": 0.41
+    "change_pct": 0.46
   },
   {
     "symbol": "ARKG",
     "name": "ARK Genomic Revolution ETF",
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "live": true,
     "country": "Global",
     "type": "etf",
-    "price": 48.95,
+    "price": 48.72,
     "currency": "USD",
-    "change_pct": 1.45
+    "change_pct": 0.97
   }
 ]
