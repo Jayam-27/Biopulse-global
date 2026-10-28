@@ -1,5 +1,38 @@
 [
   {
+    "id": "893aa22d3c07",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls\" hreflang=\"en\">GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on</a>",
+    "url": "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+    "source": "Fierce Biotech",
+    "date": "2026-10-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
+    "pinned": false
+  },
+  {
+    "id": "96093b80308e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/2026-biotech-graveyard\" hreflang=\"en\">The 2026 Biotech Graveyard</a>",
+    "url": "https://www.fiercebiotech.com/biotech/2026-biotech-graveyard",
+    "source": "Fierce Biotech",
+    "date": "2026-10-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce\u2019s biotech graveyard is an annual tradition in which we remember all the companies we lost over the past year. While we're embracing the spooky spirit of Halloween, we hope the sad stories of drug developers shutting up shop won\u2019t haunt the industry for too long.",
+    "pinned": false
+  },
+  {
+    "id": "a4277478ae72",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes\" hreflang=\"en\">Astellas makes $1.3B bet on Audax\u2019s preclinical push to reverse decades of IL-12 woes</a>",
+    "url": "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes",
+    "source": "Fierce Biotech",
+    "date": "2026-10-28",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Astellas has struck a deal for Audax Biosciences\u2019 IL-12 program, committing up to $285 million in upfront and option fees to secure a chance to license the preclinical immuno-oncology program.",
+    "pinned": false
+  },
+  {
     "id": "9c28629b8548",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy\" hreflang=\"en\">Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy</a>",
     "url": "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy",
@@ -132,36 +165,25 @@
     "pinned": false
   },
   {
-    "id": "02eb10f42a8e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases\" hreflang=\"en\">BioNTech sees \u2018limited\u2019 benefit to ADC after phase 3 reveals modest efficacy, ILD cases</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
-    "source": "Fierce Biotech",
+    "id": "fdc68e545336",
+    "title": "<a href=\"https://www.fiercepharma.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls\" hreflang=\"en\">GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on</a>",
+    "url": "https://www.fiercepharma.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+    "source": "Fierce Pharma",
     "date": "2026-10-28",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "BioNTech has&nbsp;reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+    "category": "Company News",
+    "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
     "pinned": false
   },
   {
-    "id": "a0dc6d27eb6c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause\" hreflang=\"en\">BMS sheds light on patient death in CAR-T trial, wants to get program back on track</a>",
-    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
-    "source": "Fierce Biotech",
+    "id": "75d1dd143229",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/eli-lilly-surges-diabetes-reputation-rankings-close-novo\" hreflang=\"en\">Eli Lilly surges up diabetes reputation rankings to close in on Novo</a>",
+    "url": "https://www.fiercepharma.com/marketing/eli-lilly-surges-diabetes-reputation-rankings-close-novo",
+    "source": "Fierce Pharma",
     "date": "2026-10-28",
     "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
-    "pinned": false
-  },
-  {
-    "id": "c32ca8e7eda6",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout\" hreflang=\"en\">ESMO: Genmab posts phase 3 win for Elahere rival, ahead of \u2018very interesting\u2019 data from Merus buyout</a>",
-    "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
-    "source": "Fierce Biotech",
-    "date": "2026-10-28",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
+    "category": "Company News",
+    "summary": "Eli Lilly has jumped up a ranking of the corporate reputations of diabetes drugmakers, putting it hot on the heels of Novo.",
     "pinned": false
   },
   {
@@ -308,25 +330,58 @@
     "pinned": false
   },
   {
-    "id": "f11941f58e90",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren\" hreflang=\"en\">ESMO: Bristol Myers CMO touts \u20185 out of 5\u2019 positive phase 3 trials for bispecific ADC iza-bren</a>",
-    "url": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
-    "source": "Fierce Pharma",
+    "id": "5760562da5eb",
+    "title": "STAT+: Lilly says \u2018triple-G\u2019 drug beats Novo\u2019s Ozempic in diabetes study",
+    "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-28",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers\u2019 Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New Jersey pharma has yet to match one China study",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Data add to expectations that the drug will be one of Lilly\u2019s greatest growth drivers.",
     "pinned": false
   },
   {
-    "id": "f5655f8be811",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win\" hreflang=\"en\">\u2018Infinite potential\u2019: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win</a>",
-    "url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
-    "source": "Fierce Pharma",
+    "id": "8f239402dbc9",
+    "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+    "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-10-28",
-    "country": "Global",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cIt is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,\u201d writes a pediatrician.",
+    "pinned": false
+  },
+  {
+    "id": "f7a7ef204cf5",
+    "title": "Have you been impacted by Epic\u2019s actions?",
+    "url": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-28",
+    "country": "US",
+    "category": "Company News",
+    "summary": "STAT is looking to learn, from people with direct knowledge, how Epic's actions impact hospitals' technology choices. Share your story with us.",
+    "pinned": false
+  },
+  {
+    "id": "62a8be72a190",
+    "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
+    "url": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-28",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cA few years ago, I froze my eggs \u2014 and the experience was anything but empowering,\u201d writes physician Pooja Yerramilli.",
+    "pinned": false
+  },
+  {
+    "id": "19414085057a",
+    "title": "STAT+: As Epic\u2019s dominance grows, its iron grip is choking innovation in health technology",
+    "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-28",
+    "country": "US",
     "category": "Funding & M&A",
-    "summary": "With ivonescimab\u2019s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star PD-1xVEGF bispecific.",
+    "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation.",
     "pinned": false
   },
   {
@@ -536,61 +591,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.</p>",
-    "pinned": false
-  },
-  {
-    "id": "8ec1e58823b7",
-    "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
-    "url": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "One of the more impressive data sets at this year\u2019s ESMO came from a Roche study of its drug divarasib, which treats lung cancer.",
-    "pinned": false
-  },
-  {
-    "id": "53de0ff780fb",
-    "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
-    "url": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers.",
-    "pinned": false
-  },
-  {
-    "id": "332b327f939e",
-    "title": "STAT+: HHS relaxes security, transparency rules for health record software used by hospitals",
-    "url": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The Trump administration removed several security, privacy and transparency requirements for vendors of EHR software.",
-    "pinned": false
-  },
-  {
-    "id": "9d660352bc30",
-    "title": "STAT+: House lawmaker probes PBMs for \u2018punitive\u2019 audits of independent pharmacies",
-    "url": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits.",
-    "pinned": false
-  },
-  {
-    "id": "4eacac3f70c7",
-    "title": "STAT+: GSK sees its return to cancer start to pay off",
-    "url": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug.",
     "pinned": false
   },
   {

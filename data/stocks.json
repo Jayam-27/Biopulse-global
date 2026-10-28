@@ -8,7 +8,7 @@
     "type": "stock",
     "price": 207.97,
     "currency": "USD",
-    "change_pct": 6.16
+    "change_pct": 0.78
   },
   {
     "symbol": "REGN",
@@ -41,7 +41,7 @@
     "type": "stock",
     "price": 159.08,
     "currency": "USD",
-    "change_pct": -0.03
+    "change_pct": 0.0
   },
   {
     "symbol": "LLY",
@@ -52,7 +52,7 @@
     "type": "stock",
     "price": 1281.91,
     "currency": "USD",
-    "change_pct": -0.08
+    "change_pct": -0.12
   },
   {
     "symbol": "PFE",
@@ -63,7 +63,7 @@
     "type": "stock",
     "price": 29.8,
     "currency": "USD",
-    "change_pct": 0.2
+    "change_pct": 0.05
   },
   {
     "symbol": "JNJ",
@@ -74,7 +74,7 @@
     "type": "stock",
     "price": 268.73,
     "currency": "USD",
-    "change_pct": 0.91
+    "change_pct": 0.0
   },
   {
     "symbol": "BIIB",
@@ -96,7 +96,7 @@
     "type": "stock",
     "price": 156.86,
     "currency": "USD",
-    "change_pct": 1.86
+    "change_pct": 0.24
   },
   {
     "symbol": "AZN",
@@ -107,7 +107,7 @@
     "type": "stock",
     "price": 170.08,
     "currency": "USD",
-    "change_pct": -1.63
+    "change_pct": -0.53
   },
   {
     "symbol": "ROG.SW",
@@ -129,7 +129,7 @@
     "type": "stock",
     "price": 50.94,
     "currency": "USD",
-    "change_pct": -0.31
+    "change_pct": -0.51
   },
   {
     "symbol": "SNY",
@@ -140,7 +140,7 @@
     "type": "stock",
     "price": 41.89,
     "currency": "USD",
-    "change_pct": 0.23
+    "change_pct": -0.02
   },
   {
     "symbol": "SUNPHARMA.NS",
@@ -149,9 +149,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1751.2,
+    "price": 1757.5,
     "currency": "INR",
-    "change_pct": 0.64
+    "change_pct": 0.36
   },
   {
     "symbol": "DRREDDY.NS",
@@ -160,9 +160,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1310.0,
+    "price": 1335.4,
     "currency": "INR",
-    "change_pct": -0.07
+    "change_pct": 1.94
   },
   {
     "symbol": "CIPLA.NS",
@@ -171,9 +171,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1350.0,
+    "price": 1365.6,
     "currency": "INR",
-    "change_pct": -0.37
+    "change_pct": 1.16
   },
   {
     "symbol": "4523.T",
@@ -182,9 +182,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 5063.0,
+    "price": 5069.0,
     "currency": "JPY",
-    "change_pct": -0.43
+    "change_pct": -0.31
   },
   {
     "symbol": "4502.T",
@@ -193,9 +193,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 6324.0,
+    "price": 6307.0,
     "currency": "JPY",
-    "change_pct": -0.92
+    "change_pct": -1.19
   },
   {
     "symbol": "4519.T",
@@ -204,9 +204,9 @@
     "live": true,
     "country": "Japan",
     "type": "stock",
-    "price": 6622.0,
+    "price": 6614.0,
     "currency": "JPY",
-    "change_pct": -0.85
+    "change_pct": -0.97
   },
   {
     "symbol": "1093.HK",
@@ -215,9 +215,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 7.92,
+    "price": 7.97,
     "currency": "HKD",
-    "change_pct": 0.13
+    "change_pct": 0.76
   },
   {
     "symbol": "1177.HK",
@@ -226,9 +226,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 4.82,
+    "price": 4.86,
     "currency": "HKD",
-    "change_pct": 1.16
+    "change_pct": 2.0
   },
   {
     "symbol": "2196.HK",
@@ -237,9 +237,9 @@
     "live": true,
     "country": "China",
     "type": "stock",
-    "price": 16.65,
+    "price": 16.55,
     "currency": "HKD",
-    "change_pct": 1.34
+    "change_pct": 0.67
   },
   {
     "symbol": "XBI",
@@ -250,7 +250,7 @@
     "type": "etf",
     "price": 154.84,
     "currency": "USD",
-    "change_pct": 2.92
+    "change_pct": 0.22
   },
   {
     "symbol": "IBB",
@@ -261,7 +261,7 @@
     "type": "etf",
     "price": 212.2,
     "currency": "USD",
-    "change_pct": 1.43
+    "change_pct": -0.24
   },
   {
     "symbol": "ARKG",
@@ -272,6 +272,6 @@
     "type": "etf",
     "price": 51.65,
     "currency": "USD",
-    "change_pct": 5.37
+    "change_pct": -0.1
   }
 ]
