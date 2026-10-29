@@ -1,5 +1,27 @@
 [
   {
+    "id": "665ffc8f018d",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome\" hreflang=\"en\">Why researchers may have found the biological culprit behind Angelman syndrome</a>",
+    "url": "https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome",
+    "source": "Fierce Biotech",
+    "date": "2026-10-29",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
+    "pinned": false
+  },
+  {
+    "id": "163c0fe9709f",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial\" hreflang=\"en\">Ascletis\u2019 challenger to Lilly\u2019s Foundayo hits goals in phase 2 diabetes trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-10-29",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2 trial of Ascletis\u2019 oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly\u2019s Foundayo.",
+    "pinned": false
+  },
+  {
     "id": "5a3495574796",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3\" hreflang=\"en\">Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3</a>",
     "url": "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3",
@@ -140,28 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Labcorp is acquiring Millennium Health to boost the medtech giant\u2019s toxicology testing capabilities throughout the U.S.",
-    "pinned": false
-  },
-  {
-    "id": "c2aa4223fafc",
-    "title": "<a href=\"https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials\" hreflang=\"en\">BMS joins 3-year partnership to boost participation in cancer trials</a>",
-    "url": "https://www.fiercebiotech.com/cro/bms-partners-healthcare-improvement-organization-expand-access-cancer-clinical-trials",
-    "source": "Fierce Biotech",
-    "date": "2026-10-29",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials.",
-    "pinned": false
-  },
-  {
-    "id": "c55850dd983e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail\" hreflang=\"en\">Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail</a>",
-    "url": "https://www.fiercebiotech.com/biotech/novartis-ceo-keeps-faith-avidity-deal-despite-19b-hit-del-desiran-fail",
-    "source": "Fierce Biotech",
-    "date": "2026-10-29",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Novartis CEO Vas Narasimhan has insisted that the phase 3 fail for del-desiran is just a \u201cbump\u201d in the Swiss pharma\u2019s wider plans for the drug, despite costing the company an estimated $1.9 billion.",
     "pinned": false
   },
   {
@@ -330,6 +330,72 @@
     "pinned": false
   },
   {
+    "id": "6fad439f7442",
+    "title": "Flagship blends three biotech startups to form Etcelera",
+    "url": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.</p>",
+    "pinned": false
+  },
+  {
+    "id": "d4327c4d43f3",
+    "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
+    "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
+    "pinned": false
+  },
+  {
+    "id": "4cc3626a586e",
+    "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
+    "url": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
+    "pinned": false
+  },
+  {
+    "id": "fdfde10707f6",
+    "title": "STAT+: Biopharma industry at odds over impact of Treasury\u2019s new China rule",
+    "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
+    "pinned": false
+  },
+  {
+    "id": "dd5d5589a8a6",
+    "title": "Politicians have failed to tackle health care affordability. It\u2019s now voters\u2019 rallying cry",
+    "url": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "As costs surge, voters are embracing more radical solutions to the crisis.",
+    "pinned": false
+  },
+  {
+    "id": "b32e142dbf7d",
+    "title": "Opinion: Health care needs buyers willing to say no",
+    "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-29",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\"The industry\u2019s major players have little appetite for change,\" writes Anthony T. Lo Sasso.",
+    "pinned": false
+  },
+  {
     "id": "250f439060a2",
     "title": "Lilly\u2019s \u2018triple-G\u2019 drug tops Novo\u2019s Ozempic in diabetes trial",
     "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
@@ -348,7 +414,7 @@
     "date": "2026-10-28",
     "country": "US",
     "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LqhVLnY07ufPGU8REFhiVmXvMx9YmJsAbRsaQagI-HI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5ODc5Mjc3LmpwZw==.webp\" /></div></figure><p>The plan advances recent agency moves to accelerate &",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LqhVLnY07ufPGU8REFhiVmXvMx9YmJsAbRsaQagI-HI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5ODc5Mjc3LmpwZw==.webp\" /></div></figure><p>The plan builds on recent FDA moves to speed &quot;pe",
     "pinned": false
   },
   {
@@ -473,28 +539,6 @@
     "pinned": false
   },
   {
-    "id": "62a8be72a190",
-    "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
-    "url": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cA few years ago, I froze my eggs \u2014 and the experience was anything but empowering,\u201d writes physician Pooja Yerramilli.",
-    "pinned": false
-  },
-  {
-    "id": "19414085057a",
-    "title": "STAT+: As Epic\u2019s dominance grows, its iron grip is choking innovation in health technology",
-    "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-28",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation.",
-    "pinned": false
-  },
-  {
     "id": "5bbbbfc80f95",
     "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
     "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
@@ -528,39 +572,6 @@
     "pinned": false
   },
   {
-    "id": "c0304e09d419",
-    "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
-    "url": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-27",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
-    "pinned": false
-  },
-  {
-    "id": "a5ccac27ecc5",
-    "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
-    "url": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-27",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Recent deaths are setbacks in drug companies\u2019 interest in applying cancer therapy strategies to autoimmune diseases.",
-    "pinned": false
-  },
-  {
-    "id": "adb8d7639b5c",
-    "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
-    "url": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-27",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments.",
-    "pinned": false
-  },
-  {
     "id": "3f952eccb070",
     "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
     "url": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EJrqrrcuFWlU-QnLf8Ud41fk8Eni5F1wUYU7UftQH9A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY1NzI1MDM2LmpwZw==.webp\" /></div></figure><p>At one of the year&rsquo;s premiere meetings for canc",
-    "pinned": false
-  },
-  {
-    "id": "8d27aab8f62e",
-    "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-    "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-26",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>A patient who received Bristol Myers",
     "pinned": false
   }
 ]
