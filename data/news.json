@@ -62,7 +62,7 @@
     "date": "2026-10-30",
     "country": "Global",
     "category": "Company News",
-    "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clearout.",
+    "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clear out.",
     "pinned": false
   },
   {
@@ -162,6 +162,39 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Flagship Pioneering unveiled Etcelera today, a new AI-powered biotech emerging from stealth that aims to predict how potential medicines will act in patients.",
+    "pinned": false
+  },
+  {
+    "id": "31ea1caa5157",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Sun's Ilumya wins FDA expansion; Bayer's FXIa inhibitor gets world-1st nod in China</a>",
+    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+    "source": "Fierce Pharma",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "pinned": false
+  },
+  {
+    "id": "ccbe5db9876a",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/skyrizi-and-rinvoq-dominate-abbvie-q3-investors-question-whats-next\" hreflang=\"en\">As Skyrizi and Rinvoq dominate AbbVie's Q3, analysts ask what's next</a>",
+    "url": "https://www.fiercepharma.com/pharma/skyrizi-and-rinvoq-dominate-abbvie-q3-investors-question-whats-next",
+    "source": "Fierce Pharma",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Analysts were eager to learn more about AbbVie's plans beyond immunology as Rinvoq and Skyrizi headlined the Chicago drugmaker's third-quarter earnings.",
+    "pinned": false
+  },
+  {
+    "id": "12f3086c234c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill\" hreflang=\"en\">The Oral GLP-1 Tracker: Foundayo, Wegovy pill rally toward previous records</a>",
+    "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+    "source": "Fierce Pharma",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
     "pinned": false
   },
   {
@@ -294,39 +327,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA approval bid for its pelabresib.",
-    "pinned": false
-  },
-  {
-    "id": "80fae03f4fe2",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides\" hreflang=\"en\">Kennedy's HHS relaxes enforcement on 6 popular wellness peptides</a>",
-    "url": "https://www.fiercepharma.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services Secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
-    "pinned": false
-  },
-  {
-    "id": "e3c52e8eb017",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/biogens-claims-return-growth-q3-earnings-boost\" hreflang=\"en\">'Numbers speak for themselves': Biogen's Apellis buyout fuels best quarter since 2020</a>",
-    "url": "https://www.fiercepharma.com/pharma/biogens-claims-return-growth-q3-earnings-boost",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Biogen CEO Chris Viehbacher said, \"We're dramatically changing Biogen\" on third quarter earnings call where the biotech announced revenue increase 11% year-over-yera.",
-    "pinned": false
-  },
-  {
-    "id": "779ad6551800",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/after-gsks-q3-approval-spate-hibsago-preps-concentrated-us-hep-b-launch\" hreflang=\"en\">After GSK's Q3 approval spate, Hibsago preps for 'concentrated' US hep B launch</a>",
-    "url": "https://www.fiercepharma.com/pharma/after-gsks-q3-approval-spate-hibsago-preps-concentrated-us-hep-b-launch",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Armed with a trio of recent high-profile approvals, GSK is banking on its specialty medicines to drive its next wave of growth, even as investor enthusiasm cooled Wednesday morning amid reports of restructuring charges and a vaccine sales dip at the British drugmaker.",
     "pinned": false
   },
   {
