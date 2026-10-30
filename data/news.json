@@ -1,5 +1,71 @@
 [
   {
+    "id": "ea6110414e4d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition\" hreflang=\"en\">Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A</a>",
+    "url": "https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Setara Biosciences, a privately held spinout formed following Jazz Pharmaceuticals' acquisition of Actio Biosciences in September, has raised $90 million in series A financing to advance its clinical-stage neuroscience drug candidate and earlier-stage pipeline.",
+    "pinned": false
+  },
+  {
+    "id": "c6bdfea9fdac",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline\" hreflang=\"en\">AstraZeneca cuts early-phase prostate cancer pipeline</a>",
+    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clearout.",
+    "pinned": false
+  },
+  {
+    "id": "157003cfd908",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering\" hreflang=\"en\">Bambusa shoots past IPO targets as Aspen trims offering</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Bambusa Therapeutics has upsized its IPO, selling more shares at the midpoint of its target range to gross $168.9 million for bispecific R&amp;D. But Aspen Neuroscience underperformed expectations, hitting the bottom end of its target range and selling slightly fewer shares than ",
+    "pinned": false
+  },
+  {
+    "id": "0a74fa46f977",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma\" hreflang=\"en\">Roche launches differential diagnosis test for mesothelioma</a>",
+    "url": "https://www.fiercebiotech.com/medtech/roche-launches-differential-diagnosis-test-mesothelioma",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Roche announced the global launch of its VENTANA BAP1 (SP527) test, an automated, ready-to-use immunohistochemistry (IHC) assay.",
+    "pinned": false
+  },
+  {
+    "id": "4d1d4d171e06",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff\" hreflang=\"en\">Sanofi considering \u2018moonshot\u2019 treatments as M&amp;A targets to survive Dupixent patent cliff</a>",
+    "url": "https://www.fiercebiotech.com/biotech/sanofi-considering-moonshot-ma-targets-survive-dupixent-patent-cliff",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Sanofi is considering \u201cmoonshot\u201d treatments among the potential acquisition targets needed for the French pharma to urgently replenish its pipeline, Chief Financial Officer Fran\u00e7ois-Xavier Roger told Fierce.",
+    "pinned": false
+  },
+  {
+    "id": "445d6e8554f7",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot\" hreflang=\"en\">Molecular Partners to lay off up to 44% of workforce in radiotherapy pivot</a>",
+    "url": "https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Molecular Partners plans to lay off up to 44% of its staff as it focuses its declining cash reserves on a radiotherapeutic pipeline led by an early-phase small cell lung cancer drug candidate.",
+    "pinned": false
+  },
+  {
     "id": "ef17373869c7",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar\" hreflang=\"en\">Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations</a>",
     "url": "https://www.fiercebiotech.com/biotech/lilly-scraps-ph-2-alzheimers-disease-drug-it-did-not-meet-high-internal-bar",
@@ -96,72 +162,6 @@
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
     "summary": "A phase 2 trial of Ascletis\u2019 oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly\u2019s Foundayo.",
-    "pinned": false
-  },
-  {
-    "id": "5a3495574796",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3\" hreflang=\"en\">Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3</a>",
-    "url": "https://www.fiercebiotech.com/biotech/genmabs-head-and-neck-cancer-bispecific-cuts-risk-death-half-ph3",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Capping off a busy few days in Spain, Genmab reported results from the first interim analysis of a phase 3 trial showing that adding its bispecific antibody petosemtamab to Merck &amp; Co.'s Keytruda cut the risk of death by 50% compared with Keytruda alone in patients with PD-L1",
-    "pinned": false
-  },
-  {
-    "id": "b5811fec32eb",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time\" hreflang=\"en\">FDA\u2019s rare disease framework aims to \u2018stand the test of time\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fdas-rare-disease-framework-aims-stand-test-time",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that \u201cstands the test of time.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "36194d58a62a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company\" hreflang=\"en\">Biogen CEO tells analysts he\u2019s focused on early-stage R&amp;D as \u2018we were not very good with that\u2019</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&amp;D.",
-    "pinned": false
-  },
-  {
-    "id": "ff196f6d8ccf",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/syntax-bio-programs-stem-cells-pancreatic-beta-cells-just-4-days\" hreflang=\"en\">\u2018The patient need is enormous\u2019: Syntax programs stem cells into pancreatic beta cells in 4 days</a>",
-    "url": "https://www.fiercebiotech.com/research/syntax-bio-programs-stem-cells-pancreatic-beta-cells-just-4-days",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Chicago-based Syntax Bio believes it has cracked the code for turning stem cells into pancreatic beta cells in as little as four days.",
-    "pinned": false
-  },
-  {
-    "id": "ac45c19bd60a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown\" hreflang=\"en\">Lilly\u2019s retatrutide bests Ozempic on blood sugar, weight loss in phase 3 diabetes showdown</a>",
-    "url": "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Eli Lilly\u2019s triple-G drug candidate retatrutide has beaten Novo\u2019s Ozempic in a head-to-head phase 3 trial, driving deeper reductions in blood sugar and body weight across the 80-week study.",
-    "pinned": false
-  },
-  {
-    "id": "893aa22d3c07",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls\" hreflang=\"en\">GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on</a>",
-    "url": "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
     "pinned": false
   },
   {
@@ -330,14 +330,80 @@
     "pinned": false
   },
   {
+    "id": "aa8d9b28e068",
+    "title": "Earnings roundup: Lilly\u2019s unwavering momentum, Novartis\u2019 rebound and GSK\u2019s waiting game",
+    "url": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AXCySMJQ8gWU868YsGVW_uebBL4chqRPQGTVpVtvheY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk3MjUzODY4LmpwZw==.webp\" /></div></figure><p>Lilly&rsquo;s better-than-expected results allayed co",
+    "pinned": false
+  },
+  {
     "id": "9b1ac70643d6",
-    "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson\u2019s",
+    "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson\u2019s",
     "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
     "source": "BioPharma Dive",
     "date": "2026-10-30",
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GGg1HxfgIG19LbD7AgeaGjelOegByXmxh0T8qynEMtw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0ODAyNDQuanBn.webp\" /></div></figure><p>The San Diego biotechnology startup is one of several fir",
+    "pinned": false
+  },
+  {
+    "id": "791830a02522",
+    "title": "Opinion: What a mother\u2019s 1834 letter about measles tells us about MAHA",
+    "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "An 1834 letter about a measles outbreak sheds light on today\u2019s anti-vaccine movement, writes a medical historian.",
+    "pinned": false
+  },
+  {
+    "id": "29ac6d2b30c6",
+    "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+    "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.",
+    "pinned": false
+  },
+  {
+    "id": "3fe23121ad0e",
+    "title": "The health care issues STAT reporters are watching in the midterms",
+    "url": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Policy",
+    "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.",
+    "pinned": false
+  },
+  {
+    "id": "267cc10c14fb",
+    "title": "Opinion: How Congress can fix expert advisory committees",
+    "url": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThis evisceration of scientific advice is untenable,\u201d write C. Joseph Ross Daval and Aaron S. Kesselheim.",
+    "pinned": false
+  },
+  {
+    "id": "7b29124712aa",
+    "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+    "url": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "They visited for what they thought were obvious urgent care issues \u2014 coughs, congestion, flu \u2014 and were shocked to get bills for ER care instead, totaling thousands of dollars.",
     "pinned": false
   },
   {
@@ -495,50 +561,6 @@
     "pinned": false
   },
   {
-    "id": "4cc3626a586e",
-    "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
-    "url": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
-    "pinned": false
-  },
-  {
-    "id": "fdfde10707f6",
-    "title": "STAT+: Biopharma industry at odds over impact of Treasury\u2019s new China rule",
-    "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
-    "pinned": false
-  },
-  {
-    "id": "dd5d5589a8a6",
-    "title": "Politicians have failed to tackle health care affordability. It\u2019s now voters\u2019 rallying cry",
-    "url": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "As costs surge, voters are embracing more radical solutions to the crisis.",
-    "pinned": false
-  },
-  {
-    "id": "b32e142dbf7d",
-    "title": "Opinion: Health care needs buyers willing to say no",
-    "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\"The industry\u2019s major players have little appetite for change,\" writes Anthony T. Lo Sasso.",
-    "pinned": false
-  },
-  {
     "id": "250f439060a2",
     "title": "Lilly\u2019s \u2018triple-G\u2019 drug tops Novo\u2019s Ozempic in diabetes trial",
     "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
@@ -572,17 +594,6 @@
     "pinned": false
   },
   {
-    "id": "66c06207b59c",
-    "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
-    "url": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-28",
-    "country": "US",
-    "category": "Policy",
-    "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
-    "pinned": false
-  },
-  {
     "id": "5bbbbfc80f95",
     "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
     "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/buFy9i4baXoc_Ing8ezl1VLtuBsoS93BQzPiGcoSdiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzMyMDUyNTc5LmpwZw==.webp\" /></div></figure><p>The buyout hands Ferring rights to a technology capab",
-    "pinned": false
-  },
-  {
-    "id": "12dd2d439e97",
-    "title": "Court rejects Novo bid to block Lilly obesity drug ads",
-    "url": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-27",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/cVxusteODEmivYUo1oFpGS2sOXjM22jwDw_oeO8reOE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWTU2SzNYLmpwZw==.webp\" /></div></figure><p>Novo failed to prove that Lilly&rsquo;s campaign &mdash; which featured c",
     "pinned": false
   }
 ]
