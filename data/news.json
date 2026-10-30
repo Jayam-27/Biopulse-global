@@ -1,5 +1,49 @@
 [
   {
+    "id": "172c5a44341a",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials\" hreflang=\"en\">Gilead reveals partial clinical hold on 2 CAR-T cell therapy trials</a>",
+    "url": "https://www.fiercebiotech.com/biotech/gileads-kite-reveals-partial-clinical-hold-2-car-t-cell-therapy-trials",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Gilead Sciences announced on its third-quarter earnings call Oct. 29 that the company has placed a partial clinical hold on two studies for the CAR-T cell therapy KITE-753 in diffuse large B-cell lymphoma (DLBCL).",
+    "pinned": false
+  },
+  {
+    "id": "5085989fa43e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal\" hreflang=\"en\">When drug development gets personal</a>",
+    "url": "https://www.fiercebiotech.com/biotech/when-drug-development-gets-personal",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "When Third Rock Ventures partner Jigar Raythatha was diagnosed with brain cancer, he found himself relying on a drug originally developed by Agios, a biotech his firm backed years before he joined. On \"The Top Line,\" he shares how the experience changed his perspective on drug de",
+    "pinned": false
+  },
+  {
+    "id": "3126e0dec04e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires\" hreflang=\"en\">Chutes &amp; Ladders\u2014Lilly unifies global markets as 36-year vet Patrik Jonsson retires</a>",
+    "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
+    "pinned": false
+  },
+  {
+    "id": "24999878189b",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility\" hreflang=\"en\">Bracco invests $230M in first US diagnostic imaging manufacturing facility</a>",
+    "url": "https://www.fiercebiotech.com/medtech/bracco-invests-230m-first-us-diagnostic-imaging-manufacturing-facility",
+    "source": "Fierce Biotech",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Bracco announced it will invest $230 million to establish its first U.S. manufacturing facility for injectable contrast media in Sanford, North Carolina.",
+    "pinned": false
+  },
+  {
     "id": "ea6110414e4d",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition\" hreflang=\"en\">Jazz's $820M Actio buyout gives rise to Setara, armed with $90M series A</a>",
     "url": "https://www.fiercebiotech.com/biotech/setara-raises-90m-series-carrying-actio-torch-following-jazz-acquisition",
@@ -121,47 +165,47 @@
     "pinned": false
   },
   {
-    "id": "b8a427439ebd",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid\" hreflang=\"en\">Geron\u2019s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid</a>",
-    "url": "https://www.fiercebiotech.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid",
-    "source": "Fierce Biotech",
+    "id": "f743ef531124",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/dupixent-keeps-sales-churning-sanofi-doubles-down-rd-re-work\" hreflang=\"en\">As Dupixent keeps sales churning, Sanofi doubles down on R&amp;D re-work</a>",
+    "url": "https://www.fiercepharma.com/pharma/dupixent-keeps-sales-churning-sanofi-doubles-down-rd-re-work",
+    "source": "Fierce Pharma",
     "date": "2026-10-30",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA approval bid for its pelabresib.",
+    "category": "Funding & M&A",
+    "summary": "Amid a push to win back investor confidence in its R&amp;D trajectory, Sanofi still has significant commercial powder to burn with Dupixent, as illustrated in a third-quarter showing that looked strong by the numbers and lifted the French drugmaker\u2019s share price nearly 4% Friday ",
     "pinned": false
   },
   {
-    "id": "536f08c577ef",
-    "title": "<a href=\"https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data\" hreflang=\"en\">Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data</a>",
-    "url": "https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
-    "source": "Fierce Biotech",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity-treatment outcomes.",
-    "pinned": false
-  },
-  {
-    "id": "665ffc8f018d",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome\" hreflang=\"en\">Why researchers may have found the biological culprit behind Angelman syndrome</a>",
-    "url": "https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome",
-    "source": "Fierce Biotech",
+    "id": "32820b40fa09",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/astrazeneca-launches-15b-restructuring-fuel-pipeline-growth-promises-no-net-reduction-jobs\" hreflang=\"en\">AstraZeneca launches $1.5B savings plan to fuel pipeline growth, says workforce won't shrink</a>",
+    "url": "https://www.fiercepharma.com/pharma/astrazeneca-launches-15b-restructuring-fuel-pipeline-growth-promises-no-net-reduction-jobs",
+    "source": "Fierce Pharma",
     "date": "2026-10-30",
     "country": "Global",
     "category": "Company News",
-    "summary": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
+    "summary": "Facing looming patent cliffs, AstraZeneca has launched a restructuring initiative aimed at saving $1.5 billion annually by 2029. But executives said the overhaul won't result in a net reduction in jobs.",
     "pinned": false
   },
   {
-    "id": "163c0fe9709f",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial\" hreflang=\"en\">Ascletis\u2019 challenger to Lilly\u2019s Foundayo hits goals in phase 2 diabetes trial</a>",
-    "url": "https://www.fiercebiotech.com/biotech/ascletis-challenger-eli-lillys-foundayo-hits-goals-phase-2-diabetes-trial",
-    "source": "Fierce Biotech",
+    "id": "dae348d48773",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/pfizer-eyes-multi-year-repairs-after-flooding-sidelined-india-injectables-plant\" hreflang=\"en\">Pfizer looks to reroute supply after flooding sidelined India injectables plant</a>",
+    "url": "https://www.fiercepharma.com/pharma/pfizer-eyes-multi-year-repairs-after-flooding-sidelined-india-injectables-plant",
+    "source": "Fierce Pharma",
     "date": "2026-10-30",
     "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A phase 2 trial of Ascletis\u2019 oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly\u2019s Foundayo.",
+    "category": "Funding & M&A",
+    "summary": "A Pfizer joint venture with Zydus Cadila in India that manufactures sterile injectables, including chemotherapy drugs for U.S. cancer patients, remains closed after severe flooding in July, with the company estimating that new supplies could begin returning in mid-to-late 2028 un",
+    "pinned": false
+  },
+  {
+    "id": "d0636066446c",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/hunt-enhertu-successor-esmo-data-merck-bms-takeda-and-more\" hreflang=\"en\">Fierce Pharma Asia\u2014The hunt for Enhertu\u2019s successor; ESMO data from Merck, BMS, Takeda and more</a>",
+    "url": "https://www.fiercepharma.com/pharma/hunt-enhertu-successor-esmo-data-merck-bms-takeda-and-more",
+    "source": "Fierce Pharma",
+    "date": "2026-10-30",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Next-generation ADCs, bispecifics, radiopharmaceuticals, TKIs ... Fierce provides a deep dive into the hunt for the next Enhertu in breast cancer. ESMO 2026 data featured Chinese assets backed by Big Pharma. Gilead and Astellas struck $1 billion-plus deals for immunology and immu",
     "pinned": false
   },
   {
@@ -286,47 +330,14 @@
     "pinned": false
   },
   {
-    "id": "0be08e23629c",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/lilly-combines-global-markets-under-new-leadership-role-36-year-veteran-retires\" hreflang=\"en\">Lilly combines global markets under new leadership role as 36-year veteran retires</a>",
-    "url": "https://www.fiercepharma.com/pharma/lilly-combines-global-markets-under-new-leadership-role-36-year-veteran-retires",
-    "source": "Fierce Pharma",
+    "id": "96ab3360ecbc",
+    "title": "This week in charts: ESMO\u2019s winners and losers",
+    "url": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
+    "source": "BioPharma Dive",
     "date": "2026-10-30",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Eli Lilly is consolidating its U.S. and international commercial divisions into a unified department, tapping current U.S. head Ilya Yuffa in a newly created role as president of Lilly Global Markets.",
-    "pinned": false
-  },
-  {
-    "id": "aea27018c90e",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/gsk-vows-not-park-crap-page-41-transparency-push\" hreflang=\"en\">GSK vows not to \u2018park crap on Page 41\u2019 in transparency push</a>",
-    "url": "https://www.fiercepharma.com/marketing/gsk-vows-not-park-crap-page-41-transparency-push",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "GSK CEO Luke Miels has committed to a transparent communication strategy, telling analysts that \u201cwe are not going to park crap on Page 41 of a press release and hope none of you notice it.\u201d<br />",
-    "pinned": false
-  },
-  {
-    "id": "6f6bd1013cba",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/blue-matter-turbocharges-global-reach-comms-agency-cognite-acquistion\" hreflang=\"en\">Blue Matter \u2018turbocharges\u2019 global reach of comms agency Cognite with acquisition</a>",
-    "url": "https://www.fiercepharma.com/marketing/blue-matter-turbocharges-global-reach-comms-agency-cognite-acquistion",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The deal stands to \"turbocharge\" Cognite's global reach and growth opportunities, chief business officer Sean Cush pointed out.",
-    "pinned": false
-  },
-  {
-    "id": "d74da38aef64",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/amgen-hit-fda-warning-letter-misleading-vectibix-promotion\" hreflang=\"en\">Amgen hit with FDA warning letter for \u2018misleading\u2019 Vectibix promotion</a>",
-    "url": "https://www.fiercepharma.com/marketing/amgen-hit-fda-warning-letter-misleading-vectibix-promotion",
-    "source": "Fierce Pharma",
-    "date": "2026-10-30",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Amgen has been handed an FDA warning letter over a video promoting its cancer drug Vectibix, but the company said that the issues stemmed from an \u201cinadvertent\u201d submission and was not made available publicly.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_dT9zKJsCoS0jrFraV8Vdkcut5aCVtKPN0y1PuLlKnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTUwMzE2NTA1LmpwZw==.webp\" /></div></figure><p>The latest installment in BioPharma Dive&rsquo;s visu",
     "pinned": false
   },
   {
@@ -341,6 +352,17 @@
     "pinned": false
   },
   {
+    "id": "f310fbe45207",
+    "title": "With Setara, the team behind Actio opens its second act",
+    "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+    "source": "BioPharma Dive",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<p>The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy program.</p>",
+    "pinned": false
+  },
+  {
     "id": "9b1ac70643d6",
     "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson\u2019s",
     "url": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
@@ -349,6 +371,61 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GGg1HxfgIG19LbD7AgeaGjelOegByXmxh0T8qynEMtw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0ODAyNDQuanBn.webp\" /></div></figure><p>The San Diego biotechnology startup is one of several fir",
+    "pinned": false
+  },
+  {
+    "id": "2e8f8fd6bf27",
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "url": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+    "pinned": false
+  },
+  {
+    "id": "3f0965740689",
+    "title": "How Election Day can affect your heart",
+    "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
+    "pinned": false
+  },
+  {
+    "id": "d884ccf48e9b",
+    "title": "Assessing Merck and Moderna\u2019s mRNA cancer vaccine",
+    "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Company News",
+    "summary": "On this week's \u201cThe Readout LOUD,\u201d we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
+    "pinned": false
+  },
+  {
+    "id": "5394275df4fa",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&#038;D.",
+    "pinned": false
+  },
+  {
+    "id": "7041e80d0671",
+    "title": "The persisting paradox of men\u2019s health",
+    "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-10-30",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "A new series in The Lancet argues for the need to investigate a paradox of men\u2019s health: why men experience worse health outcomes than women, even though they hold undeniable&#8230;",
     "pinned": false
   },
   {
@@ -506,61 +583,6 @@
     "pinned": false
   },
   {
-    "id": "44e6d309bdcd",
-    "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-    "url": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists.",
-    "pinned": false
-  },
-  {
-    "id": "95a93e98a0fd",
-    "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-    "url": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
-    "pinned": false
-  },
-  {
-    "id": "cd02d0b1787b",
-    "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
-    "url": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk.",
-    "pinned": false
-  },
-  {
-    "id": "6e550c2438d5",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Policy",
-    "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
-    "pinned": false
-  },
-  {
-    "id": "d4327c4d43f3",
-    "title": "STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous",
-    "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-29",
-    "country": "US",
-    "category": "Company News",
-    "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.",
-    "pinned": false
-  },
-  {
     "id": "250f439060a2",
     "title": "Lilly\u2019s \u2018triple-G\u2019 drug tops Novo\u2019s Ozempic in diabetes trial",
     "url": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
@@ -580,28 +602,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/LqhVLnY07ufPGU8REFhiVmXvMx9YmJsAbRsaQagI-HI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjg5ODc5Mjc3LmpwZw==.webp\" /></div></figure><p>The plan builds on recent FDA moves to speed &quot;pe",
-    "pinned": false
-  },
-  {
-    "id": "552cd00691db",
-    "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
-    "url": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-28",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Lilly intends to merge its U.S. and ",
-    "pinned": false
-  },
-  {
-    "id": "5bbbbfc80f95",
-    "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
-    "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
-    "source": "BioPharma Dive",
-    "date": "2026-10-27",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/buFy9i4baXoc_Ing8ezl1VLtuBsoS93BQzPiGcoSdiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzMyMDUyNTc5LmpwZw==.webp\" /></div></figure><p>The buyout hands Ferring rights to a technology capab",
     "pinned": false
   }
 ]
