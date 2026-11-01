@@ -19,7 +19,7 @@
     "type": "stock",
     "price": 927.89,
     "currency": "USD",
-    "change_pct": 12.0
+    "change_pct": 11.8
   },
   {
     "symbol": "VRTX",
@@ -30,7 +30,7 @@
     "type": "stock",
     "price": 558.88,
     "currency": "USD",
-    "change_pct": 0.88
+    "change_pct": 1.2
   },
   {
     "symbol": "GILD",
@@ -85,7 +85,7 @@
     "type": "stock",
     "price": 253.62,
     "currency": "USD",
-    "change_pct": -0.69
+    "change_pct": 1.59
   },
   {
     "symbol": "NVS",
