@@ -1,5 +1,16 @@
 [
   {
+    "id": "37ab08fbddfe",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year\" hreflang=\"en\">BioArctic left out in the cold as Novartis walks away from $800M neuro collab</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+    "source": "Fierce Biotech",
+    "date": "2026-11-03",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+    "pinned": false
+  },
+  {
     "id": "1c61d7de81bf",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone\" hreflang=\"en\">FDA grants uniQure\u2019s Huntington\u2019s gene therapy priority review, teeing up \u2018defining milestone\u2019</a>",
     "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Funding & M&A",
     "summary": "Setara Biosciences, a privately held spinout formed following Jazz Pharmaceuticals' acquisition of Actio Biosciences in September, has raised $90 million in series A financing to advance its clinical-stage neuroscience drug candidate and earlier-stage pipeline.",
-    "pinned": false
-  },
-  {
-    "id": "c6bdfea9fdac",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline\" hreflang=\"en\">AstraZeneca cuts early-phase prostate cancer pipeline</a>",
-    "url": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
-    "source": "Fierce Biotech",
-    "date": "2026-11-03",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clear out.",
     "pinned": false
   },
   {
@@ -330,6 +330,50 @@
     "pinned": false
   },
   {
+    "id": "aeb02a9c81fa",
+    "title": "First U.S. bird flu death of the year after cattle exposure",
+    "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It\u2019s the first such death this year in the U.S., and the third&#8230;",
+    "pinned": false
+  },
+  {
+    "id": "35c68d520640",
+    "title": "Opinion: What the 2024 electoral map reveals about America\u2019s mortality divide",
+    "url": "https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Leading drivers of mortality look different according to political geography, experts write.",
+    "pinned": false
+  },
+  {
+    "id": "2b4f0936dc35",
+    "title": "Opinion: How meditation helped me become a better doctor overnight",
+    "url": "https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThe inner work of meditation and self-inquiry can support the outer work of patient care,\u201d writes a physician.",
+    "pinned": false
+  },
+  {
+    "id": "d37ea09a9ea0",
+    "title": "\u2018Three-parent IVF\u2019 was supposed to prevent mitochondrial disease. Studies are raising doubts",
+    "url": "https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-03",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.",
+    "pinned": false
+  },
+  {
     "id": "21d17e7c259e",
     "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
     "url": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
@@ -495,17 +539,6 @@
     "pinned": false
   },
   {
-    "id": "fc7224585a4d",
-    "title": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
-    "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-31",
-    "country": "US",
-    "category": "Policy",
-    "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
-    "pinned": false
-  },
-  {
     "id": "96ab3360ecbc",
     "title": "This week in charts: ESMO\u2019s winners and losers",
     "url": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
@@ -547,39 +580,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/GGg1HxfgIG19LbD7AgeaGjelOegByXmxh0T8qynEMtw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0ODAyNDQuanBn.webp\" /></div></figure><p>The San Diego biotechnology startup is one of several fir",
-    "pinned": false
-  },
-  {
-    "id": "2e8f8fd6bf27",
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "url": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-30",
-    "country": "US",
-    "category": "Company News",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-    "pinned": false
-  },
-  {
-    "id": "3f0965740689",
-    "title": "How Election Day can affect your heart",
-    "url": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-30",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.",
-    "pinned": false
-  },
-  {
-    "id": "d884ccf48e9b",
-    "title": "Assessing Merck and Moderna\u2019s mRNA cancer vaccine",
-    "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-10-30",
-    "country": "US",
-    "category": "Company News",
-    "summary": "On this week's \u201cThe Readout LOUD,\u201d we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
     "pinned": false
   },
   {
