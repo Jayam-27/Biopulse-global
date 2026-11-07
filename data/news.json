@@ -1,5 +1,16 @@
 [
   {
+    "id": "60e1a105563d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs\" hreflang=\"en\">Novartis\u2019 Lp(a) drug shows zero benefit, casting shadow over Amgen and Lilly programs</a>",
+    "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-shows-zero-benefit-casting-shadow-over-amgen-and-lilly-programs",
+    "source": "Fierce Biotech",
+    "date": "2026-11-07",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Novartis has lifted the lid on data from its failed cardiovascular outcomes trial, reporting a total absence of efficacy that could intensify questions about upcoming readouts from Amgen and Eli Lilly.",
+    "pinned": false
+  },
+  {
     "id": "2c08d3e6f9e7",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/chutes-ladders-novos-longtime-cfo-hang-gloves-galderma-exec-steps\" hreflang=\"en\">Chutes &amp; Ladders\u2014Novo's longtime CFO to hang up gloves as Galderma exec steps in</a>",
     "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-novos-longtime-cfo-hang-gloves-galderma-exec-steps",
@@ -151,17 +162,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-    "pinned": false
-  },
-  {
-    "id": "e04720cdbe69",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/t-therapeutics-raises-133m-series-b-big-pharma-backers-tow\" hreflang=\"en\">T-Therapeutics raises $133M series B for bispecific pipeline with Big Pharma backers in tow</a>",
-    "url": "https://www.fiercebiotech.com/biotech/t-therapeutics-raises-133m-series-b-big-pharma-backers-tow",
-    "source": "Fierce Biotech",
-    "date": "2026-11-07",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "T-Therapeutics has pulled in a $133 million series B financing round that will be used to fund the biotech\u2019s lineup of T cell receptor CD3 bispecific drug candidates.",
     "pinned": false
   },
   {
@@ -330,6 +330,39 @@
     "pinned": false
   },
   {
+    "id": "37e18eb5d450",
+    "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+    "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+    "pinned": false
+  },
+  {
+    "id": "18b47eae16a5",
+    "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+    "url": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-07",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.",
+    "pinned": false
+  },
+  {
+    "id": "fb5d046343f9",
+    "title": "STAT+: Despite Novo drug\u2019s failure, cardiologists say they will still pursue anti-inflammatories",
+    "url": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-07",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cThese results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\"",
+    "pinned": false
+  },
+  {
     "id": "7f227d60c0f1",
     "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
     "url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
@@ -495,28 +528,6 @@
     "pinned": false
   },
   {
-    "id": "3dced5ad9393",
-    "title": "Most people haven\u2019t heard of kratom. What is it, and who\u2019s using it?",
-    "url": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-06",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?",
-    "pinned": false
-  },
-  {
-    "id": "a37af49ac931",
-    "title": "Opinion: STAT+: What it\u2019s like to live with cognitively unimpaired Alzheimer\u2019s disease",
-    "url": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-06",
-    "country": "US",
-    "category": "Policy",
-    "summary": "People with cognitively unimpaired Alzheimer\u2019s \u201cmay be asymptomatic, but they do have a disease experience,\u201d writes Jason Karlawish.",
-    "pinned": false
-  },
-  {
     "id": "a21e1f9b8626",
     "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
     "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
@@ -569,17 +580,6 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<p>The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as&nbsp;myeloproliferative neoplasms.</p>",
-    "pinned": false
-  },
-  {
-    "id": "44558e33cb4e",
-    "title": "STAT+: Pharma\u2019s trade group spent heavily on search ads to sway public opinion",
-    "url": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-05",
-    "country": "US",
-    "category": "Company News",
-    "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
     "pinned": false
   },
   {
