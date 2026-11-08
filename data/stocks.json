@@ -149,9 +149,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1860.0,
+    "price": 1915.0,
     "currency": "INR",
-    "change_pct": 1.69
+    "change_pct": 4.7
   },
   {
     "symbol": "DRREDDY.NS",
@@ -160,9 +160,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1373.0,
+    "price": 1370.0,
     "currency": "INR",
-    "change_pct": 0.51
+    "change_pct": 0.29
   },
   {
     "symbol": "CIPLA.NS",
@@ -171,9 +171,9 @@
     "live": true,
     "country": "India",
     "type": "stock",
-    "price": 1411.0,
+    "price": 1405.8,
     "currency": "INR",
-    "change_pct": 0.49
+    "change_pct": 0.12
   },
   {
     "symbol": "4523.T",
