@@ -1,5 +1,38 @@
 [
   {
+    "id": "7ef90733f454",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown\" hreflang=\"en\">Amgen builds Sj\u00f6gren\u2019s case with detailed phase 3 data ahead of Novartis showdown</a>",
+    "url": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
+    "source": "Fierce Biotech",
+    "date": "2026-11-11",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Amgen has shared more data from a phase 3 Sj\u00f6gren\u2019s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis.",
+    "pinned": false
+  },
+  {
+    "id": "8443cb7a4da9",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs\" hreflang=\"en\">Capricor, NextCure reveal recent layoffs as they gear up for approval decision, merger</a>",
+    "url": "https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs",
+    "source": "Fierce Biotech",
+    "date": "2026-11-11",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively.",
+    "pinned": false
+  },
+  {
+    "id": "b6e6836113cf",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead\" hreflang=\"en\">Abbott nabs FDA approval, CE Mark for implantable cardioverter-defibrillator lead</a>",
+    "url": "https://www.fiercebiotech.com/medtech/abbott-nabs-fda-approval-ce-mark-implantable-cardioverter-defibrillator-lead",
+    "source": "Fierce Biotech",
+    "date": "2026-11-11",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Abbott has received both FDA and CE Mark approval for its UltiSynq defibrillation lead tech, which is designed to deliver both conduction system pacing and defibrillation therapy.",
+    "pinned": false
+  },
+  {
     "id": "df7f238757e6",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia\" hreflang=\"en\">Beam\u2019s sickle cell therapy results tee up potential Casgevy, Lyfgenia showdown</a>",
     "url": "https://www.fiercebiotech.com/biotech/beams-sickle-cell-therapy-risto-cels-phase-12-results-position-potential-casgevy-lyfgenia",
@@ -132,36 +165,14 @@
     "pinned": false
   },
   {
-    "id": "3dd298289b13",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study\" hreflang=\"en\">Merck\u2019s MASH hopeful efinopegdutide wins in mid-stage study</a>",
-    "url": "https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study",
-    "source": "Fierce Biotech",
-    "date": "2026-11-11",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Merck &amp; Co. revealed results from a mid-stage clinical trial showing its GLP-1 and glucagon receptor co-agonist efinopegdutide resolved cases of MASH compared with placebo without worsening liver fibrosis.",
-    "pinned": false
-  },
-  {
-    "id": "5e94c9f9c1d2",
-    "title": "<a href=\"https://www.fiercebiotech.com/research/onchilles-believes-it-has-molecule-cancer-has-never-seen\" hreflang=\"en\">\u2018Cancer hasn't seen this molecule before\u2019: Onchilles\u2019 injection shows potential for solid tumors</a>",
-    "url": "https://www.fiercebiotech.com/research/onchilles-believes-it-has-molecule-cancer-has-never-seen",
-    "source": "Fierce Biotech",
+    "id": "6dd73733a7d5",
+    "title": "<a href=\"https://www.fiercepharma.com/manufacturing/aurobindo-unit-eugia-recalls-one-lot-antibiotic-injectables-glass-particles\" hreflang=\"en\">Aurobindo unit Eugia recalls antibiotic lot, citing glass particle concerns</a>",
+    "url": "https://www.fiercepharma.com/manufacturing/aurobindo-unit-eugia-recalls-one-lot-antibiotic-injectables-glass-particles",
+    "source": "Fierce Pharma",
     "date": "2026-11-11",
     "country": "Global",
     "category": "Company News",
-    "summary": "The San Diego-based biotech has shown that when its vaccine-like therapeutic, N17350, is injected directly into the tumor, the candidate is even able to clear cancer lesions that are distant from the injected tumor.",
-    "pinned": false
-  },
-  {
-    "id": "c659b9e2a848",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/delix-drums-100m-its-non-hallucinatory-psychedelic-therapy-depression\" hreflang=\"en\">J&amp;J-backed Delix drums up $100M series C for non-hallucinatory psychedelic for depression</a>",
-    "url": "https://www.fiercebiotech.com/biotech/delix-drums-100m-its-non-hallucinatory-psychedelic-therapy-depression",
-    "source": "Fierce Biotech",
-    "date": "2026-11-11",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Delix Therapeutics has raised $100 million in a series C round backed by the likes of Johnson &amp; Johnson to advance a phase 2-ready non-hallucinatory psychedelic therapy for depression.",
+    "summary": "Eugia, a unit of Aurobindo, issued a voluntary recall for one lot of the antibiotic vancomycin hydrochloride for injection, citing the possible presence of glass particles in the vials.<br />",
     "pinned": false
   },
   {
@@ -286,6 +297,17 @@
     "pinned": false
   },
   {
+    "id": "233c6e7d3173",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/ucb-continues-reign-largest-drug-ad-spender-bimzelx-once-again-tops-ranks\" hreflang=\"en\">UCB continues reign as largest drug ad spender as Bimzelx once again tops the ranks</a>",
+    "url": "https://www.fiercepharma.com/marketing/ucb-continues-reign-largest-drug-ad-spender-bimzelx-once-again-tops-ranks",
+    "source": "Fierce Pharma",
+    "date": "2026-11-11",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "UCB\u2019s immunology drug Bimzelx has topped the pharma drug ad spending charts for the third month in a row.",
+    "pinned": false
+  },
+  {
     "id": "187dbcaf23a4",
     "title": "<a href=\"https://www.fiercepharma.com/pharma/vertex-lays-78-crinetics-staffers-amid-10b-integration\" hreflang=\"en\">Vertex lays off 78 Crinetics staffers amid $10B integration</a>",
     "url": "https://www.fiercepharma.com/pharma/vertex-lays-78-crinetics-staffers-amid-10b-integration",
@@ -308,25 +330,58 @@
     "pinned": false
   },
   {
-    "id": "a717513366a3",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/veradermics-wraps-phase-3-program-men-better-expected-hair-growth-1-year\" hreflang=\"en\">Veradermics wraps phase 3 program in men with 'better-than-expected' hair growth at 1 year</a>",
-    "url": "https://www.fiercepharma.com/pharma/veradermics-wraps-phase-3-program-men-better-expected-hair-growth-1-year",
-    "source": "Fierce Pharma",
+    "id": "c2cd9f3c4fb8",
+    "title": "The U.S. may soon lose measles elimination status",
+    "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-11",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In a new readout of 12-month data, Veradermics' oral minoxidil delivered the best hair growth data of its phase 3 program so far alongside solid one-year safety data.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
     "pinned": false
   },
   {
-    "id": "f46fe386227e",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-opens-safety-probe-novartis-zolgensma-over-potential-tumor-risks\" hreflang=\"en\">FDA opens safety probe into Novartis\u2019 Zolgensma over potential tumor risks</a>",
-    "url": "https://www.fiercepharma.com/pharma/fda-opens-safety-probe-novartis-zolgensma-over-potential-tumor-risks",
-    "source": "Fierce Pharma",
+    "id": "1a8b35d7719d",
+    "title": "STAT+: MDCalc launches a \u2018rumble strip\u2019 for doctors using generative AI tools",
+    "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-11",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In its Nov. 6 communique about its Zolgensma safety probe, the FDA also flagged two recent reports of other gene therapy candidates where AAV vector integration drove tumor formation.",
+    "country": "US",
+    "category": "Company News",
+    "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
+    "pinned": false
+  },
+  {
+    "id": "d1e8a6f64728",
+    "title": "STAT+: Doctors on Kennedy\u2019s influential preventive care panel have major conflicts of interest, filings reveal",
+    "url": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices.",
+    "pinned": false
+  },
+  {
+    "id": "bdf88e846b1c",
+    "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
+    "url": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven\u2019t fully paid or have delayed paying.",
+    "pinned": false
+  },
+  {
+    "id": "c5b4dc363ec9",
+    "title": "Opinion: Low-income parents can\u2019t afford to take chances with nutritious food their picky eaters might reject",
+    "url": "https://www.statnews.com/2026/11/11/picky-eating-kids-low-income-families-snap-wic/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-11",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cChildren's food refusals come at a cost \u2014 one that few cash-strapped families can afford,\u201d experts write.",
     "pinned": false
   },
   {
@@ -481,61 +536,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
-    "pinned": false
-  },
-  {
-    "id": "3cd2730db831",
-    "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
-    "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
-    "pinned": false
-  },
-  {
-    "id": "c1a4bd2add33",
-    "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
-    "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
-    "pinned": false
-  },
-  {
-    "id": "65abd61c7230",
-    "title": "Opinion: AI\u2019s health advice can be accurate and still make us sicker",
-    "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cEven a factually accurate health message can change behavior in ways that make people less healthy,\u201d researchers write.",
-    "pinned": false
-  },
-  {
-    "id": "dc35a84acfa6",
-    "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China \u2014 now",
-    "url": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "BIO CEO: \u201cToday\u2019s biotech race is our generation\u2019s Space Race.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "8d6d8b60106a",
-    "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech\u2019s triglyceride-lowering drug",
-    "url": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-10",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.",
     "pinned": false
   },
   {
