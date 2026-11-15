@@ -1,5 +1,16 @@
 [
   {
+    "id": "93fbc7f9ae64",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc\" hreflang=\"en\">FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class</a>",
+    "url": "https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+    "source": "Fierce Biotech",
+    "date": "2026-11-15",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck &amp; Co.\u2019s Keytruda.",
+    "pinned": false
+  },
+  {
     "id": "e4e6ec5a6c0c",
     "title": "<a href=\"https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business\" hreflang=\"en\">Charles River pays $470M for 2 Frontage bioanalysis labs in Pennsylvania</a>",
     "url": "https://www.fiercebiotech.com/cro/charles-river-shells-out-470m-tigermed-owned-frontage-bioanalysis-business",
@@ -154,14 +165,25 @@
     "pinned": false
   },
   {
-    "id": "3a1285d1d74c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kyverna-abandons-next-gen-car-t-once-touted-follow-miv-cel\" hreflang=\"en\">Kyverna abandons next-gen autoimmune CAR-T once touted as follow-up to miv-cel</a>",
-    "url": "https://www.fiercebiotech.com/biotech/kyverna-abandons-next-gen-car-t-once-touted-follow-miv-cel",
-    "source": "Fierce Biotech",
+    "id": "7caddd570a50",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc\" hreflang=\"en\">FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class</a>",
+    "url": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+    "source": "Fierce Pharma",
     "date": "2026-11-15",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Kyverna is halting work on a next-gen CD19 CAR-T therapy as the biotech seeks FDA approval for what could become the first CAR-T treatment for an autoimmune disease.",
+    "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck &amp; Co.\u2019s Keytruda.",
+    "pinned": false
+  },
+  {
+    "id": "c91d1568bf96",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/genentech-brings-everyday-wins-life-new-patient-focused-hemlibra-push\" hreflang=\"en\">Genentech brings every day wins to life in patient-focused Hemlibra push</a>",
+    "url": "https://www.fiercepharma.com/marketing/genentech-brings-everyday-wins-life-new-patient-focused-hemlibra-push",
+    "source": "Fierce Pharma",
+    "date": "2026-11-15",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "New videos for Genentech\u2019s \u201cLife Doesn\u2019t Wait\u201d campaign showcase real patients and their families as they prove that their rare disease doesn't stop them from everyday life.",
     "pinned": false
   },
   {
@@ -305,28 +327,6 @@
     "country": "Global",
     "category": "Company News",
     "summary": "With a positive classification from the DEA paving the way for Orzeyful\u2019s U.S. launch on Thursday, Takeda is charting new territory in the treatment of narcolepsy type 1 as it de-risks other assets in its budding orexin franchise in parallel.",
-    "pinned": false
-  },
-  {
-    "id": "31ea1caa5157",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Lilly beats Novo to land China's 1st oral GLP-1 weight loss nod</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-    "source": "Fierce Pharma",
-    "date": "2026-11-15",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
-    "pinned": false
-  },
-  {
-    "id": "91592a4276bd",
-    "title": "<a href=\"https://www.fiercepharma.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi\" hreflang=\"en\">BMS reunites R&amp;D divisions under Cristian Massacesi, while Robert Plenge departs</a>",
-    "url": "https://www.fiercepharma.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
-    "source": "Fierce Pharma",
-    "date": "2026-11-15",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
     "pinned": false
   },
   {
