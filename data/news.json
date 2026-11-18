@@ -1,5 +1,126 @@
 [
   {
+    "id": "c2d2df19cc36",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo\" hreflang=\"en\">Less than a year into the job, Everett Cunningham steps down as Quanterix CEO</a>",
+    "url": "https://www.fiercebiotech.com/medtech/less-year-job-everett-cunningham-steps-down-quanterix-ceo",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Quanterix is on the lookout for a new chief executive once again as Everett Cunningham, who only started the top job back in January, hits the exit.",
+    "pinned": false
+  },
+  {
+    "id": "cfb884543f74",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update\" hreflang=\"en\">Biogen\u2019s tau therapy drives bigger benefits in 2-year Alzheimer\u2019s update</a>",
+    "url": "https://www.fiercebiotech.com/biotech/biogens-tau-therapy-drives-bigger-benefits-2-year-alzheimers-update",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Biogen has linked its tau-targeting antisense oligonucleotide to a further slowing of clinical decline after two years, leading analysts to hail the strengthening of evidence supporting late-phase development.",
+    "pinned": false
+  },
+  {
+    "id": "3a16edb8157a",
+    "title": "<a href=\"https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission\" hreflang=\"en\">Clene Nanomedicine uses CRO Veristat\u2019s biostatistics platform for FDA submission</a>",
+    "url": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug.",
+    "pinned": false
+  },
+  {
+    "id": "7a2eb6497a3e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna\" hreflang=\"en\">Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China\u2019s Starna</a>",
+    "url": "https://www.fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China\u2019s Starna Therapeutics.",
+    "pinned": false
+  },
+  {
+    "id": "f561162d763b",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason\" hreflang=\"en\">At Fierce\u2019s London event, Big Pharmas tell biotechs to \u2018be transparent\u2019 to secure deals</a>",
+    "url": "https://www.fiercebiotech.com/biotech/what-makes-big-pharma-deal-be-transparent-dont-spam-us-and-not-using-patent-cliffs-reason",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Every biotech looking for a suitor wants to know: What does it take to charm a Big Pharma into a deal?",
+    "pinned": false
+  },
+  {
+    "id": "bf7b491a14e0",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact\" hreflang=\"en\">Vertex signs $220M deal with Genomics to re-up long-running discovery pact</a>",
+    "url": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
+    "pinned": false
+  },
+  {
+    "id": "58d488ce93f6",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial\" hreflang=\"en\">Priavoid\u2019s Alzheimer\u2019s pill fails to prove efficacy in phase 2 trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/priavoids-alzheimers-pill-fails-prove-efficacy-phase-2-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Priavoid\u2019s pill for Alzheimer's disease has failed to prove its effectiveness  in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
+    "pinned": false
+  },
+  {
+    "id": "0cd0befd227f",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump\" hreflang=\"en\">FDA clears MiniMed Fit tubeless insulin pump</a>",
+    "url": "https://www.fiercebiotech.com/medtech/fda-clears-minimed-fit-tubeless-insulin-pump",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "MiniMed announced has picked up FDA clearance of its tubeless insulin pump, the MiniMed Fit.",
+    "pinned": false
+  },
+  {
+    "id": "223ab8ff8733",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope\" hreflang=\"en\">Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees \u2018signal\u2019 for HOPE</a>",
+    "url": "https://www.fiercebiotech.com/medtech/cognito-phase-3-flops-light-and-sound-alzheimers-trial-sees-signal-hope",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Funding & M&A",
+    "summary": "Cognito Therapeutics said its phase 3 HOPE study of Spectris AD, an investigational, non-invasive, at-home Alzheimer's therapy that uses light and sound stimulation to engage brain activity, failed to meet its primary endpoint.",
+    "pinned": false
+  },
+  {
+    "id": "17fe26c99d65",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data\" hreflang=\"en\">Merck axes $2.7B BTK inhibitor program after seeing phase 3 data</a>",
+    "url": "https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Merck &amp; Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
+    "pinned": false
+  },
+  {
+    "id": "4c0e1583c24a",
+    "title": "<a href=\"https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house\" hreflang=\"en\">Heidi Overton\u2019s FDA nomination pulled by White House</a>",
+    "url": "https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+    "source": "Fierce Biotech",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The White House is pulling Heidi Overton\u2019s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
+    "pinned": false
+  },
+  {
     "id": "8fcb314eedcf",
     "title": "<a href=\"https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss\" hreflang=\"en\">FDA\u2019s complete response letter for Summit\u2019s ivonescimab cites China-heavy data beyond survival miss</a>",
     "url": "https://www.fiercebiotech.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
@@ -44,124 +165,25 @@
     "pinned": false
   },
   {
-    "id": "22da9b80e975",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding\" hreflang=\"en\">Why 2027 could be \u2018Europe\u2019s year to shine\u2019: Panelists debate biotech funding at Fierce\u2019s London event</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-llsw-its-europes-year-shine-all-ingredients-are-here-biotech-funding",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Panelists at Fierce Biotech's London Life Sciences Week event discussed whether Europe can pull its weight in biopharma investment next year against the gravitational pull of the U.S. and China.",
-    "pinned": false
-  },
-  {
-    "id": "15075d2ac0bf",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round\" hreflang=\"en\">Isomorphic Labs raises $5B series C months after $2.1B round</a>",
-    "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Isomorphic Labs has raised a $5 billion series C round, marking the second time in six months that the AI drug development startup has pulled off a multibillion-dollar financing.",
-    "pinned": false
-  },
-  {
-    "id": "4a128aa77ed5",
-    "title": "<a href=\"https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option\" hreflang=\"en\">AriBio\u2019s oral Alzheimer\u2019s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option</a>",
-    "url": "https://www.fiercebiotech.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "AriBio\u2019s erectile dysfunction med-turned Alzheimer\u2019s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
-    "pinned": false
-  },
-  {
-    "id": "eb0bf545437a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study\" hreflang=\"en\">Sellas marks 9-month survival benefit in late-stage leukemia vaccine study</a>",
-    "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Sellas Life Sciences\u2019 cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival.",
-    "pinned": false
-  },
-  {
-    "id": "c560619cc4a0",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy\" hreflang=\"en\">Marrow extracts $120M series B to advance preclinical blood disease therapy</a>",
-    "url": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
-    "pinned": false
-  },
-  {
-    "id": "4e30eeda8c94",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets\" hreflang=\"en\">Lilly signs $5.9B deal with Stipple to unlock oncology targets</a>",
-    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-dots-59b-deal-stipple-unlock-oncology-targets",
-    "source": "Fierce Biotech",
+    "id": "463f48990e56",
+    "title": "<a href=\"https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey\" hreflang=\"en\">Novo expands DTC program Novocare to support Wegovy users through holistic health journey</a>",
+    "url": "https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey",
+    "source": "Fierce Pharma",
     "date": "2026-11-18",
     "country": "Global",
     "category": "Company News",
-    "summary": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells.",
+    "summary": "Members who sign up for Novo's new Novocare can benefit from holistic health services meant to support Wegovy users throughout the entirety of their weight loss journey. <br />",
     "pinned": false
   },
   {
-    "id": "6e0cf7fdc9e3",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential\" hreflang=\"en\">CG preps new, expanded bladder cancer plans with FDA after ph. 3 win</a>",
-    "url": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
-    "source": "Fierce Biotech",
+    "id": "9410aa3f4440",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house\" hreflang=\"en\">Heidi Overton\u2019s FDA nomination pulled by White House</a>",
+    "url": "https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
+    "source": "Fierce Pharma",
     "date": "2026-11-18",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
-    "pinned": false
-  },
-  {
-    "id": "b7d79c188912",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression\" hreflang=\"en\">Helus' chemically modified psychedelic hits key goals in phase 3 depression trial</a>",
-    "url": "https://www.fiercebiotech.com/biotech/helus-touts-ph-3-win-its-chemically-modified-psychedelic-depression",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Helus Pharma's oral chemically modified version of psilocybin hit the key goals of a phase 3 study as an adjunctive treatment in major depressive disorder.",
-    "pinned": false
-  },
-  {
-    "id": "3df5cb5d8f04",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration\" hreflang=\"en\">Biogen inks $411M neurodegeneration pact with protein degrader biotech TrimTech</a>",
-    "url": "https://www.fiercebiotech.com/biotech/biogen-inks-411m-collab-trimtechs-protein-degrader-tech-aimed-neurodegeneration",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Cambridge, U.K.-based TrimTech Therapeutics has linked up with Biogen in a collaboration worth up to $411 million in biobucks to develop protein degraders for neurodegenerative diseases.",
-    "pinned": false
-  },
-  {
-    "id": "5339724283ee",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix\" hreflang=\"en\">Lilly secures another myelofibrosis option via $1.5B deal for JPM-founded Calytrix</a>",
-    "url": "https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Company News",
-    "summary": "Eli Lilly has added another myelofibrosis prospect to its pipeline courtesy of a $1.5 billion deal for Massachusetts biotech Calytrix Bio.",
-    "pinned": false
-  },
-  {
-    "id": "6e30317a4c86",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo\" hreflang=\"en\">J&amp;J pays $2.2B upfront for Ollin to challenge Roche\u2019s Vabysmo with phase 3 bispecific</a>",
-    "url": "https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo",
-    "source": "Fierce Biotech",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Johnson &amp; Johnson has struck a deal to buy Ollin Biosciences for $2.2 billion upfront, establishing itself as a threat to Roche\u2019s blockbuster eye disease drug Vabysmo.",
+    "summary": "The White House is pulling Heidi Overton\u2019s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
     "pinned": false
   },
   {
@@ -308,25 +330,91 @@
     "pinned": false
   },
   {
-    "id": "f979ed6691c6",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/klygefa-approvals-az-expands-myasthenia-gravis-domain-beyond-soliris-ultomiris\" hreflang=\"en\">With Klygefa approvals, AZ expands myasthenia gravis domain beyond Soliris, Ultomiris</a>",
-    "url": "https://www.fiercepharma.com/pharma/klygefa-approvals-az-expands-myasthenia-gravis-domain-beyond-soliris-ultomiris",
-    "source": "Fierce Pharma",
+    "id": "dc71d6ce1653",
+    "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
+    "url": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
+    "source": "BioPharma Dive",
     "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Continuing to harvest a bounty of autumn approvals, AstraZeneca has picked up nods for its C5 inhibitor gefurulimab to treat generalized myasthenia gravis (gMG) on both sides of the Atlantic.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>The FDA had several issues with ivon",
     "pinned": false
   },
   {
-    "id": "95c7f36fd1dc",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/quality-over-quantity-healthcare-messages-not-tuned-patient-needs-survey-finds\" hreflang=\"en\">Quality over quantity: Healthcare messages not tuned into patient needs, survey finds</a>",
-    "url": "https://www.fiercepharma.com/marketing/quality-over-quantity-healthcare-messages-not-tuned-patient-needs-survey-finds",
-    "source": "Fierce Pharma",
+    "id": "495d50011f45",
+    "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
+    "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-18",
-    "country": "Global",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it\u00a0rejected the biotech's closely watched lung cancer drug:",
+    "pinned": false
+  },
+  {
+    "id": "058e5f482126",
+    "title": "STAT+: Pharmalittle: We\u2019re reading about Overton FDA nomination being yanked, a Merck setback, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+    "pinned": false
+  },
+  {
+    "id": "e6792d7d9b1a",
+    "title": "What redesigning medical school might look like",
+    "url": "https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
     "category": "Company News",
-    "summary": "58% of patients out of a 1,500 patient survey reported that healthcare communications don't consistently feel relevant to their needs, behavioral science-focused Lirio found.",
+    "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,\u201d writes M.D./Ph.D. student Alex Serafini.",
+    "pinned": false
+  },
+  {
+    "id": "3d44895b508b",
+    "title": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?",
+    "url": "https://www.statnews.com/2026/11/18/susan-collins-election-loss-impact-science-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Some science advocates worry that Maine GOP Sen. Susan Collins\u2019 defeat could hamper their ability to push back on Trump administration research policies.",
+    "pinned": false
+  },
+  {
+    "id": "dbb8f9e35442",
+    "title": "Opinion: Maybe in-person four-year institutions aren\u2019t the right approach to medical education",
+    "url": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "\u201cWhy do we have hundreds of institutions independently building parallel versions of the same pre-clerkship curriculum?\u201d",
+    "pinned": false
+  },
+  {
+    "id": "2bc1d6cc1b38",
+    "title": "Opinion: STAT+: RFK Jr. has got to go",
+    "url": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "With Democrats riding a blue wave after the midterms, it\u2019s time to impeach health secretary Robert F. Kennedy Jr., writes Paul Knoepfler.",
+    "pinned": false
+  },
+  {
+    "id": "cb8f6cc6ddd5",
+    "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+    "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
     "pinned": false
   },
   {
@@ -451,72 +539,6 @@
     "pinned": false
   },
   {
-    "id": "b711a1ce36b9",
-    "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
-    "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks.\u00a0This entrepreneur thinks he might have one.",
-    "pinned": false
-  },
-  {
-    "id": "10c001b96645",
-    "title": "STAT+: Sellas\u2019 experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-    "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
-    "pinned": false
-  },
-  {
-    "id": "ead9d5362967",
-    "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-    "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
-    "pinned": false
-  },
-  {
-    "id": "5f5d17186731",
-    "title": "Flavored nicotine tablets, the tobacco industry\u2019s latest product, worry public health advocates",
-    "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
-    "pinned": false
-  },
-  {
-    "id": "539ec4f615b4",
-    "title": "Opinion: The problem with \u2018zero tolerance for bad behavior\u2019 signs at hospitals",
-    "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cHospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.\u201d",
-    "pinned": false
-  },
-  {
-    "id": "6e838e2270c6",
-    "title": "Faith-based addiction recovery groups don\u2019t often get federal funding. RFK Jr. wants to change that",
-    "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-    "pinned": false
-  },
-  {
     "id": "a8b2d96606b4",
     "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
     "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -561,25 +583,14 @@
     "pinned": false
   },
   {
-    "id": "3ff224b03fa5",
-    "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
-    "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-    "source": "BioPharma Dive",
-    "date": "2026-11-16",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/u4lSfwtg5UDXhUP22Wv2qtyb_gdeXF3v7ZvdH--a4p0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjg3NTA1OTk1LmpwZw==.webp\" /></div></figure><p>The startup, which also just disclosed an up to $1.2 ",
-    "pinned": false
-  },
-  {
-    "id": "7306218567ee",
-    "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-    "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+    "id": "8707e198711f",
+    "title": "The infrastructure decisions that will enable tomorrow\u2019s biggest breakthroughs",
+    "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
     "source": "BioPharma Dive",
     "date": "2026-11-16",
     "country": "US",
     "category": "Company News",
-    "summary": "<p>Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.</p>",
+    "summary": "<p>Faster drug discovery depends on more than the model. What drug developers need to know about AI.</p>",
     "pinned": false
   },
   {
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<p>As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.</p>",
-    "pinned": false
-  },
-  {
-    "id": "d576e8be8520",
-    "title": "STAT+: New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage",
-    "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-16",
-    "country": "US",
-    "category": "Policy",
-    "summary": "New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage.",
     "pinned": false
   }
 ]
