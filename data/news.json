@@ -73,7 +73,7 @@
     "date": "2026-11-18",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Priavoid\u2019s pill for Alzheimer's disease has failed to prove its effectiveness  in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
+    "summary": "Priavoid\u2019s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
     "pinned": false
   },
   {
@@ -162,6 +162,39 @@
     "country": "Global",
     "category": "Company News",
     "summary": "Beleaguered Kyntra Bio can\u2019t catch a break. Formerly known as FibroGen, the company has endured a series of woes over the last few years, and now the biotech is cutting a clinical antibody-drug conjugate program from its mid-stage lineup.",
+    "pinned": false
+  },
+  {
+    "id": "d8a2d7ed720e",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan\" hreflang=\"en\">BMS' ph. 3 Alzheimer's psychosis teaser builds confidence in Cobenfy expansion plan</a>",
+    "url": "https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan",
+    "source": "Fierce Pharma",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "After delaying the phase 3 readout of its Alzheimer\u2019s psychosis program for Cobenfy earlier this year, Bristol Myers Squibb is offering an early peek that appears to bode well for the high-stakes data drops ahead, even as the fine details remain hazy.",
+    "pinned": false
+  },
+  {
+    "id": "6e39b218199b",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/beren-clinches-long-awaited-fda-nod-niemann-pick-disease\" hreflang=\"en\">Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease</a>",
+    "url": "https://www.fiercepharma.com/pharma/beren-clinches-long-awaited-fda-nod-niemann-pick-disease",
+    "source": "Fierce Pharma",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Beren Therapeutic's Lembaz was cleared by the FDA to treat the neurogenerative disorder Niemann-Pick disease type C in children as small as 15 pounds. It's the first NPC treatment to improve survival and to treat the cholesterol transport dysfunction that drives the disease.",
+    "pinned": false
+  },
+  {
+    "id": "1e4af0ca3891",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-moves-yank-salernos-liquid-cholesterol-med-approval-missing-reports\" hreflang=\"en\">FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports</a>",
+    "url": "https://www.fiercepharma.com/pharma/fda-moves-yank-salernos-liquid-cholesterol-med-approval-missing-reports",
+    "source": "Fierce Pharma",
+    "date": "2026-11-18",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "In a notice posted on the Federal Register Wednesday, the FDA said that it has proposed withdrawing the approval for Salerno\u2019s FloLipid, an oral suspension formulation of the long-approved cholesterol lowering medication simvastatin.",
     "pinned": false
   },
   {
@@ -297,36 +330,36 @@
     "pinned": false
   },
   {
-    "id": "834e8e8e8693",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/leo-pharma-ipo-plans-stalled-market-volatility\" hreflang=\"en\">Leo Pharma IPO plans stalled by market volatility: Bloomberg</a>",
-    "url": "https://www.fiercepharma.com/pharma/leo-pharma-ipo-plans-stalled-market-volatility",
-    "source": "Fierce Pharma",
+    "id": "ac6f7d0da40c",
+    "title": "\u2018Selling and marketing snake oil\u2019: The debate over compounded GLP-1s",
+    "url": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+    "source": "BioPharma Dive",
     "date": "2026-11-18",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "Ownership behind Danish dermatology drugmaker Leo Pharma has opted to delay the company's plans for a 2026 IPO in the wake of ongoing market volatility.",
-    "pinned": false
-  },
-  {
-    "id": "0f839850067a",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/roche-gazyva-adds-3rd-immune-indication-first-fda-nod-primary-membranous-nephropathy\" hreflang=\"en\">Roche\u2019s Gazyva adds 3rd immune indication with first FDA nod for primary membranous nephropathy</a>",
-    "url": "https://www.fiercepharma.com/pharma/roche-gazyva-adds-3rd-immune-indication-first-fda-nod-primary-membranous-nephropathy",
-    "source": "Fierce Pharma",
-    "date": "2026-11-18",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "As Roche\u2019s Gazyva comes under pressure in blood cancer, the anti-CD20 antibody keeps expanding its reach in autoimmune diseases.",
-    "pinned": false
-  },
-  {
-    "id": "3261cdc51561",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/eisai-linus-health-launch-brain-health-digital-resource\" hreflang=\"en\">Eisai, Linus Health launch \u2018brain health\u2019 digital resource</a>",
-    "url": "https://www.fiercepharma.com/marketing/eisai-linus-health-launch-brain-health-digital-resource",
-    "source": "Fierce Pharma",
-    "date": "2026-11-18",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Japanese Big Pharma Eisai is teaming up with Boston-based digital health company Linus Health to create new \u201cBrain Health Reports.\u201d",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/yKCjGDWC51aQYUkjfFkvjMpXPQo6RuxYwFrpquhHAAo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUzOTI3ODE1LmpwZw==.webp\" /></div></figure><p>Proponents of compounding argue&nbsp;it increases acc",
+    "pinned": false
+  },
+  {
+    "id": "015e02b39611",
+    "title": "White House pulls nomination for FDA nominee Overton",
+    "url": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
+    "source": "BioPharma Dive",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/I4OD5X6p--2ITpT-w51kC3Y_ZcoTL-ZImAJ0d0zLv9Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjk2OTM3MzQ1LmpwZw==.webp\" /></div></figure><p>The sudden end of Heidi Overton&rsquo;s candidacy lik",
+    "pinned": false
+  },
+  {
+    "id": "6404b6f482ae",
+    "title": "Pfizer leaps into \u2018in vivo\u2019 CAR-T with latest China deal",
+    "url": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
+    "source": "BioPharma Dive",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/9q1igoj8_9CfAODyGNPT1Irc-9cVp0ISCol79mPBMxg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzM5NzQ1X3d5OVJ1NmcuanBn.webp\" /></div></figure><p>The potentially $2.6 billion collaboration pu",
     "pinned": false
   },
   {
@@ -338,6 +371,72 @@
     "country": "US",
     "category": "Funding & M&A",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>The FDA had several issues with ivon",
+    "pinned": false
+  },
+  {
+    "id": "cb8ca386d2c6",
+    "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+    "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+    "pinned": false
+  },
+  {
+    "id": "46e1869ccd6c",
+    "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+    "url": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
+    "pinned": false
+  },
+  {
+    "id": "b33bd2be79e2",
+    "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
+    "url": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Policy",
+    "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
+    "pinned": false
+  },
+  {
+    "id": "251db50bc838",
+    "title": "STAT+: 7 burning questions about the FDA\u2019s post-Overton future",
+    "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+    "pinned": false
+  },
+  {
+    "id": "a470ceaf633e",
+    "title": "STAT+: The emerging winners and losers in the AI scribe market",
+    "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Company News",
+    "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
+    "pinned": false
+  },
+  {
+    "id": "404305774a73",
+    "title": "STAT+: Cassidy rejects Trump\u2019s pick to lead NSF, saying he failed to \u2018stand up for science\u2019",
+    "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-18",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
     "pinned": false
   },
   {
@@ -473,72 +572,6 @@
     "pinned": false
   },
   {
-    "id": "05c3d40e2b23",
-    "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
-    "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
-    "pinned": false
-  },
-  {
-    "id": "ff212c54ba1f",
-    "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
-    "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Flagship is putting up 100 million pounds to start \u201cAI-native platform companies\" focused on human and planetary health in the U.K.:",
-    "pinned": false
-  },
-  {
-    "id": "1ec86156490c",
-    "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
-    "url": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country\u2019s basic public health standing.",
-    "pinned": false
-  },
-  {
-    "id": "0157ad8b2030",
-    "title": "STAT+: \u2018Medicare for More\u2019 gains traction",
-    "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
-    "pinned": false
-  },
-  {
-    "id": "7f26e9fd0402",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
-    "pinned": false
-  },
-  {
-    "id": "23af68db8e52",
-    "title": "NIH\u2019s infectious disease unit\u00a0has a new head at last",
-    "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-17",
-    "country": "US",
-    "category": "Company News",
-    "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
-    "pinned": false
-  },
-  {
     "id": "a8b2d96606b4",
     "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
     "url": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
@@ -569,39 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/UIqL1OmUDsLl_jtLkdamoZaCE4pUwVypTaRjsOC7bzE/g:nowe:0:0/c:1732:978/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzczMjYxMzY1LmpwZw==.webp\" /></div></figure><p>The deal hands J&amp;J a treatment t",
-    "pinned": false
-  },
-  {
-    "id": "db4c7384c198",
-    "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-    "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
-    "source": "BioPharma Dive",
-    "date": "2026-11-16",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/x5fF_ZCHHBjPFAGFuuKXSVkAgBGYTo2hZBIz9OcQdEo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDkyNDczMjEzLmpwZw==.webp\" /></div></figure><p>Lilly&rsquo;s 15th announced acquisition this year&nb",
-    "pinned": false
-  },
-  {
-    "id": "8707e198711f",
-    "title": "The infrastructure decisions that will enable tomorrow\u2019s biggest breakthroughs",
-    "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-    "source": "BioPharma Dive",
-    "date": "2026-11-16",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>Faster drug discovery depends on more than the model. What drug developers need to know about AI.</p>",
-    "pinned": false
-  },
-  {
-    "id": "73ace697add6",
-    "title": "Your AI pilots aren\u2019t stalling because of the AI \u2013 they\u2019re stalling because of your environment",
-    "url": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-    "source": "BioPharma Dive",
-    "date": "2026-11-16",
-    "country": "US",
-    "category": "Company News",
-    "summary": "<p>As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.</p>",
     "pinned": false
   }
 ]
