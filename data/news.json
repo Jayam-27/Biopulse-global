@@ -1,5 +1,82 @@
 [
   {
+    "id": "abdefc56b7d6",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc\" hreflang=\"en\">Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC</a>",
+    "url": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
+    "pinned": false
+  },
+  {
+    "id": "9c8577dde76d",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m\" hreflang=\"en\">Schr\u00f6dinger signs \u20ac22M biologics collab with sequencing automation outfit Enpicom</a>",
+    "url": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "Computational discovery biotech Schr\u00f6dinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth \u20ac22 million.",
+    "pinned": false
+  },
+  {
+    "id": "b038fe50f359",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting\" hreflang=\"en\">FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting</a>",
+    "url": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results.",
+    "pinned": false
+  },
+  {
+    "id": "3f14121a0a13",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial\" hreflang=\"en\">Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial</a>",
+    "url": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "A phase 2 trial of Desentum\u2019s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
+    "pinned": false
+  },
+  {
+    "id": "9a5d9f66a2d4",
+    "title": "<a href=\"https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice\" hreflang=\"en\">\u2018The potential is there\u2019: BetterLife\u2019s LSD cousin mirrors neuroplasticity in mice without the hallucinations</a>",
+    "url": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "With the boom in researching psychedelics for the treatment of neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
+    "pinned": false
+  },
+  {
+    "id": "539c64969e95",
+    "title": "<a href=\"https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system\" hreflang=\"en\">Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system</a>",
+    "url": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
+    "pinned": false
+  },
+  {
+    "id": "4fe90b59e72e",
+    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance\" hreflang=\"en\">ARM CEO reflects on \u2018wild 12 months\u2019 pushing back on FDA\u2019s shifting gene therapy stance</a>",
+    "url": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+    "source": "Fierce Biotech",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)\u2014which represents over 400 members, including biotechs\u2014was optimistic that cell and gene therapies were high on the government\u2019s agenda.",
+    "pinned": false
+  },
+  {
     "id": "31b534dc33d1",
     "title": "<a href=\"https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial\" hreflang=\"en\">DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial</a>",
     "url": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
@@ -88,80 +165,58 @@
     "pinned": false
   },
   {
-    "id": "a55dbc0fea09",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26\" hreflang=\"en\">Fierce Biotech Fundraising Tracker '26: Ritzey reveals $112.5M; VitriVax scores $87M</a>",
-    "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
-    "source": "Fierce Biotech",
-    "date": "2026-11-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
-    "pinned": false
-  },
-  {
-    "id": "902645308a9e",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy\" hreflang=\"en\">Kymera\u2019s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy</a>",
-    "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
-    "source": "Fierce Biotech",
-    "date": "2026-11-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Kymera Therapeutics\u2019 phase 2b eczema clinical trial has hit its primary endpoint and exceeded analyst expectations, teeing up further development of an oral drug candidate that could challenge Dupixent in a range of indications.",
-    "pinned": false
-  },
-  {
-    "id": "80b54054d2b5",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail\" hreflang=\"en\">Arcus halts phase 3 pancreatic cancer study of CD73 inhibitor that looked destined to fail</a>",
-    "url": "https://www.fiercebiotech.com/biotech/arcus-halts-phase-3-study-cd73-inhibitor-looked-destined-fail",
-    "source": "Fierce Biotech",
-    "date": "2026-11-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Arcus Biosciences has abandoned a phase 3 trial of quemliclustat after the small-molecule CD73 inhibitor looked unlikely to improve survival for pancreatic cancer.",
-    "pinned": false
-  },
-  {
-    "id": "0d0fe8cb2dee",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3\" hreflang=\"en\">Invivyd aims for Q1\u201927 submission after Pemgarda successor shows potential in phase 3</a>",
-    "url": "https://www.fiercebiotech.com/biotech/invivyd-aims-q127-approval-submission-after-pemgarda-successor-shows-potential-phase-3",
-    "source": "Fierce Biotech",
-    "date": "2026-11-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Invivyd is planning to submit an approval application for its follow-up to the FDA-authorized monoclonal antibody Pemgarda in the first quarter of 2027 after hailing \u201chigh, durable antiviral activity\u201d in a phase 3 trial.",
-    "pinned": false
-  },
-  {
-    "id": "c38f0a67d86a",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m\" hreflang=\"en\">Led by founders of J&amp;J-acquired Intra-Cellular, Ritzey debuts with $112M for DYRK1A inhibitors</a>",
-    "url": "https://www.fiercebiotech.com/biotech/led-founders-jj-acquired-intra-cellular-ritzey-debuts-112m",
-    "source": "Fierce Biotech",
-    "date": "2026-11-25",
-    "country": "Global",
-    "category": "Funding & M&A",
-    "summary": "The founder of Intra-Cellular Therapies, which was bought by Johnson &amp; Johnson last year for $14.6 billion, is jumping back into the biotech fray with a new company similarly aimed at signaling pathways in the brain.",
-    "pinned": false
-  },
-  {
-    "id": "17889d68391c",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target\" hreflang=\"en\">Lilly buys preclinical LoQus23 in $725M deal to zero in on Huntington\u2019s target</a>",
-    "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target",
-    "source": "Fierce Biotech",
+    "id": "f333817ec7d1",
+    "title": "<a href=\"https://www.fiercepharma.com/sponsored/if-healthcare-truly-about-patients-they-must-be-our-equal-partners-shaping-it\" hreflang=\"en\">If Healthcare Is Truly About Patients, They Must Be our Equal Partners in Shaping it</a>",
+    "url": "https://www.fiercepharma.com/sponsored/if-healthcare-truly-about-patients-they-must-be-our-equal-partners-shaping-it",
+    "source": "Fierce Pharma",
     "date": "2026-11-25",
     "country": "Global",
     "category": "Company News",
-    "summary": "Eli Lilly has struck a deal to buy preclinical Huntington\u2019s disease biotech LoQus23 Therapeutics for up to $725 million.<br />",
+    "summary": "Patient-centred healthcare is not enough. Patients should be recognised as partners in shaping the decisions, policies and services that affect their care, with their experiences and perspectives meaningfully integrated. We invite all ecosystem partners to work together to incorp",
     "pinned": false
   },
   {
-    "id": "2a867e9caa3f",
-    "title": "<a href=\"https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns\" hreflang=\"en\">Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns</a>",
-    "url": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
-    "source": "Fierce Biotech",
+    "id": "a8090533df1f",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bayer-pulls-kidney-blockbuster-kerendia-german-health-system-amid-pricing-dispute\" hreflang=\"en\">Bayer to pull kidney blockbuster Kerendia in Germany amid reimbursement dispute</a>",
+    "url": "https://www.fiercepharma.com/pharma/bayer-pulls-kidney-blockbuster-kerendia-german-health-system-amid-pricing-dispute",
+    "source": "Fierce Pharma",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Company News",
+    "summary": "After a reimbursement dispute with German health regulators, Bayer is pulling its kidney disease and heart failure blockbuster Kerendia from the market there.",
+    "pinned": false
+  },
+  {
+    "id": "555c9937b736",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/bristol-myers-sotyktu-posts-hit-and-miss-pair-ph-3-lupus-trials\" hreflang=\"en\">Bristol Myers' Sotyktu posts a hit and a miss in pair of ph. 3 lupus trials</a>",
+    "url": "https://www.fiercepharma.com/pharma/bristol-myers-sotyktu-posts-hit-and-miss-pair-ph-3-lupus-trials",
+    "source": "Fierce Pharma",
     "date": "2026-11-25",
     "country": "Global",
     "category": "Clinical Trials & Regulatory",
-    "summary": "Contrasting with the blunt release of the complete response letter that heralded the initial rejection of deramiocel last summer, the FDA appeared mindful of the optics Friday as it sought to explain why it turned down Capricor Therapeutics\u2019 Duchenne muscular dystrophy cell thera",
+    "summary": "Results came across both good and less-so in topline readouts from two phase 3 Sotyktu trials in systemic lupus erythematosus Wednesday, with Bristol Myers Squibb offering a mixed outlook on its TYK2 inhibitor\u2019s expansion prospects heading into the Thanksgiving holiday.",
+    "pinned": false
+  },
+  {
+    "id": "fd65494ef9c5",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/cogent-secures-2nd-line-approval-rare-stomach-cancer-first-20-years\" hreflang=\"en\">Cogent secures 2nd-line approval in rare GI cancer, the first in 20 years</a>",
+    "url": "https://www.fiercepharma.com/pharma/cogent-secures-2nd-line-approval-rare-stomach-cancer-first-20-years",
+    "source": "Fierce Pharma",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Cogent Biosciences\u2019 kinase inhibitor secured FDA approval as a second-line treatment for patients with advanced gastrointestinal stromal tumors who have previously received imatinib. It\u2019s the first new second-line treatment option in two decades.",
+    "pinned": false
+  },
+  {
+    "id": "ecd5a9460578",
+    "title": "<a href=\"https://www.fiercepharma.com/pharma/gsk-eyes-approval-filings-after-asthma-med-exdensur-scores-rare-vascular-disease\" hreflang=\"en\">GSK eyes approval filings after asthma med Exdensur scores in rare vascular disease</a>",
+    "url": "https://www.fiercepharma.com/pharma/gsk-eyes-approval-filings-after-asthma-med-exdensur-scores-rare-vascular-disease",
+    "source": "Fierce Pharma",
+    "date": "2026-11-25",
+    "country": "Global",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Approaching one year since the medicine\u2019s FDA approval, GSK is bolstering the case for its ultra-long-acting biologic Exdensur to help patients beyond its inaugural indication in severe asthma.",
     "pinned": false
   },
   {
@@ -275,58 +330,58 @@
     "pinned": false
   },
   {
-    "id": "365e303179b1",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/breckenridge-recalls-one-lot-beta-blockers-after-suspected-metal-contamination\" hreflang=\"en\">Breckenridge recalls US beta-blocker batch after suspected metal contamination</a>",
-    "url": "https://www.fiercepharma.com/pharma/breckenridge-recalls-one-lot-beta-blockers-after-suspected-metal-contamination",
-    "source": "Fierce Pharma",
+    "id": "e21e257ae626",
+    "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+    "url": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+    "source": "BioPharma Dive",
     "date": "2026-11-25",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "Breckenridge Pharmaceutical is recalling one lot of 60-mg propranolol hydrochloride extended-release capsules, citing the potential for metal contamination.",
+    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>It&rsquo;s the second big change to ",
     "pinned": false
   },
   {
-    "id": "d9919279a595",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/novartis-girds-5b-leqvio-sales-forecast-early-look-cardiovascular-disease-ph-3\" hreflang=\"en\">Novartis girds $5B Leqvio sales forecast with early look at cardiovascular disease ph. 3 data</a>",
-    "url": "https://www.fiercepharma.com/pharma/novartis-girds-5b-leqvio-sales-forecast-early-look-cardiovascular-disease-ph-3",
-    "source": "Fierce Pharma",
+    "id": "5b3722e87e48",
+    "title": "STAT+: We\u2019re reading about BioNTech founders\u2019 oncology startup, a long-acting GSK drug, and more",
+    "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-25",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "After presenting a rosier sales forecast for its cholesterol medicine Leqvio last week, Novartis has offered an early taste of the PCSK9 blockbuster\u2019s potential to reduce cardiovascular risk.",
+    "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
     "pinned": false
   },
   {
-    "id": "5afacb2df934",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fda-delay-sends-savara-stocks-plummeting-analysts-point-agency-bandwidth-issues\" hreflang=\"en\">As FDA delay sent Savara stock tumbling, analysts point to potential agency 'bandwidth issues'</a>",
-    "url": "https://www.fiercepharma.com/pharma/fda-delay-sends-savara-stocks-plummeting-analysts-point-agency-bandwidth-issues",
-    "source": "Fierce Pharma",
+    "id": "97a7a867ea7b",
+    "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+    "url": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "On Friday, the FDA said it would miss a long-anticipated decision target for Savara's rare lung disease candidate. The delay came with little explanation, sending the biotech's shares tumbling ahead of the weekend, even as analysts estimated that the FDA's own capacity issues cou",
-    "pinned": false
-  },
-  {
-    "id": "ae2c2f2af8f1",
-    "title": "<a href=\"https://www.fiercepharma.com/marketing/big-pharmas-ride-gta-vis-promotional-coattails-tribute-global-phenomenon\" hreflang=\"en\">Big pharmas ride GTA VI\u2019s promotional coattails in tribute to global phenomenon</a>",
-    "url": "https://www.fiercepharma.com/marketing/big-pharmas-ride-gta-vis-promotional-coattails-tribute-global-phenomenon",
-    "source": "Fierce Pharma",
-    "date": "2026-11-25",
-    "country": "Global",
+    "country": "US",
     "category": "Company News",
-    "summary": "What does the pharma industry have in common with gaming giant Rockstar Games and its promotional tour for its new major game, Grand Theft Auto VI?",
+    "summary": "This morning, the Army plans to detonate a cache of \u201cdangerously degraded\u201d toxic material in Iowa, with experts warning of dangerous health consequences:",
     "pinned": false
   },
   {
-    "id": "31ea1caa5157",
-    "title": "<a href=\"https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2\" hreflang=\"en\">Regulatory tracker: Novo's Sogroya wins 4th label expansion this year</a>",
-    "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
-    "source": "Fierce Pharma",
+    "id": "05ed79556b1d",
+    "title": "Opinion: Washington and Beijing are building walls around biotechnology. That\u2019s the wrong approach",
+    "url": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+    "source": "STAT News",
     "date": "2026-11-25",
-    "country": "Global",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+    "country": "US",
+    "category": "Funding & M&A",
+    "summary": "\u201cData show that the U.S.-China contest in biotechnology is not one race but several,\u201d writes Michael S. Kinch.",
+    "pinned": false
+  },
+  {
+    "id": "95cea5a7109c",
+    "title": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
+    "url": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-25",
+    "country": "US",
+    "category": "Company News",
+    "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.",
     "pinned": false
   },
   {
@@ -484,17 +539,6 @@
     "pinned": false
   },
   {
-    "id": "1b7820af89f5",
-    "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-    "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
-    "pinned": false
-  },
-  {
     "id": "148974731cd3",
     "title": "Lilly buys Huntington\u2019s drug developer LoQus23 in potentially $725M deal",
     "url": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
@@ -528,39 +572,6 @@
     "pinned": false
   },
   {
-    "id": "babb31044ab4",
-    "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-    "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-23",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "A type of muscular dystrophy that was long ignored has its first drug \u2014 and it could earn BridgeBio a billion dollars a year.",
-    "pinned": false
-  },
-  {
-    "id": "d3d9ea1b8b85",
-    "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
-    "url": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-23",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:",
-    "pinned": false
-  },
-  {
-    "id": "b5f425ec8b0e",
-    "title": "STAT+: Pharmalittle: We\u2019re reading about Capricor\u2019s Duchenne drug, Lilly\u2019s 15th acquisition of 2026, and more",
-    "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-23",
-    "country": "US",
-    "category": "Funding & M&A",
-    "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
-    "pinned": false
-  },
-  {
     "id": "43e4e6bbe3b0",
     "title": "FDA again turns back Capricor Duchenne cell therapy",
     "url": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
@@ -591,17 +602,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ZvWJ62M5j2HRQlmeN3gYUt-49TyO9ioyWYsmQsB22is/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYW5jZXItY2VsbHMtc29saWQtdHVtb3JzLmpwZw==.webp\" /></div></figure><p>Rasonque is already off to one of the best oncolo",
-    "pinned": false
-  },
-  {
-    "id": "62cc11b18b97",
-    "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-    "url": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-    "source": "BioPharma Dive",
-    "date": "2026-11-20",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/idsdMAHsPbXObDUtQW2qRG7uveBUVv6HCTn9NTtlDOI/g:nowe:0:0/c:1207:682/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzOTIxNzkzLmpwZw==.webp\" /></div></figure><p>Wall Street analysts rushed to Celld",
     "pinned": false
   }
 ]
