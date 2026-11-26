@@ -330,6 +330,17 @@
     "pinned": false
   },
   {
+    "id": "caccca95b105",
+    "title": "STAT+: The grueling struggle to find a primary care doctor in the \u2018medical capital\u2019 of America",
+    "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-26",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Boston is supposed to be the medical capital of America. Yet many don\u2019t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+    "pinned": false
+  },
+  {
     "id": "fc4110d57992",
     "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
     "url": "https://www.biopharmadive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875717/",
@@ -536,17 +547,6 @@
     "country": "US",
     "category": "Company News",
     "summary": "\u201cIt\u2019s time to consolidate testing by sequencing genomes once and reevaluating them when needed,\u201d a genetic counselor writes.",
-    "pinned": false
-  },
-  {
-    "id": "1ededa0df980",
-    "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-    "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
     "pinned": false
   },
   {
