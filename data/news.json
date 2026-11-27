@@ -330,6 +330,50 @@
     "pinned": false
   },
   {
+    "id": "3a661da4f0ef",
+    "title": "The stories we\u2019re grateful for this year",
+    "url": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "STAT staffers have put together a list of the stories we\u2019re thankful for this year \u2014 check out our favorites.",
+    "pinned": false
+  },
+  {
+    "id": "9d3c136eca82",
+    "title": "STAT+: Here are some health AI conversation starters for the holidays",
+    "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+    "pinned": false
+  },
+  {
+    "id": "a088a1f649c7",
+    "title": "Pregnancy is the \u2018perfect storm\u2019 for eating disorders, but doctors keep missing them",
+    "url": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-27",
+    "country": "US",
+    "category": "Company News",
+    "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+    "pinned": false
+  },
+  {
+    "id": "2eb53d87cf2c",
+    "title": "Opinion: Montana\u2019s \u2018right to try\u2019 law makes patients responsible for bearing costs \u2014 and risks",
+    "url": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+    "source": "STAT News",
+    "date": "2026-11-27",
+    "country": "US",
+    "category": "Clinical Trials & Regulatory",
+    "summary": "Montana has become the first state to have its own \u2018right to try\u2019 law, but important questions remain, researchers write.",
+    "pinned": false
+  },
+  {
     "id": "99ba11f282c8",
     "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
     "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
@@ -503,50 +547,6 @@
     "country": "US",
     "category": "Clinical Trials & Regulatory",
     "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
-    "pinned": false
-  },
-  {
-    "id": "71f31fbf6410",
-    "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
-    "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
-    "pinned": false
-  },
-  {
-    "id": "c6fd6123a90d",
-    "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
-    "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
-    "pinned": false
-  },
-  {
-    "id": "9b79ddeb0885",
-    "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
-    "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Clinical Trials & Regulatory",
-    "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
-    "pinned": false
-  },
-  {
-    "id": "1267ac5ae652",
-    "title": "Opinion: Why medical students should keep going to class",
-    "url": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
-    "source": "STAT News",
-    "date": "2026-11-24",
-    "country": "US",
-    "category": "Company News",
-    "summary": "\u201cAttending lectures in person has become \u2026 the most powerful way I take care of my mental health,\u201d medical student Brian Zhang writes.",
     "pinned": false
   },
   {
